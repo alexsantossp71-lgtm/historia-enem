@@ -1,0 +1,149 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:../db/custom.db"
+}
+
+// Módulos do curso (ex: Brasil Colonial, Era Vargas, Ditadura Militar)
+model Module {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  icon        String    // Nome do ícone (lucide-react)
+  color       String    // Cor do módulo (ex: "amber", "red", "blue")
+  image       String?   // URL da imagem do módulo
+  order       Int       @default(0)
+  lessons     Lesson[]
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+// Aulas dentro de cada módulo
+model Lesson {
+  id          String     @id @default(cuid())
+  moduleId    String
+  module      Module     @relation(fields: [moduleId], references: [id], onDelete: Cascade)
+  title       String
+  summary     String?    // Resumo da aula
+  content     String     // Conteúdo em HTML
+  image       String?    // URL da imagem da aula
+  duration    Int        // Duração em minutos
+  order       Int        @default(0)
+  progress    Progress[]
+  quiz        Quiz?
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+}
+
+// Progresso do aluno em cada aula
+model Progress {
+  id        String   @id @default(cuid())
+  lessonId  String
+  lesson    Lesson   @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  completed Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Quiz de cada aula
+model Quiz {
+  id        String        @id @default(cuid())
+  lessonId  String        @unique
+  lesson    Lesson        @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  questions QuizQuestion[]
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+}
+
+// Perguntas do quiz
+model QuizQuestion {
+  id        String   @id @default(cuid())
+  quizId    String
+  quiz      Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  question  String
+  options   String   // JSON string com as opções
+  answer    Int      // Índice da resposta correta (0-3)
+  explanation String // Explicação da resposta
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Questões oficiais do ENEM (independentes das aulas)
+model EnemQuestion {
+  id          String   @id @default(cuid())
+  year        Int      // Ano da prova (ex: 2019, 2020)
+  topic       String   // Tema (ex: "Brasil Colonial", "Era Vargas")
+  subtopic    String?  // Subtema (ex: "Escravidão", "Estado Novo")
+  question    String   // Enunciado da questão
+  options     String   // JSON string com as 5 opções (A, B, C, D, E)
+  answer      Int      // Índice da resposta correta (0-4)
+  explanation String   // Explicação detalhada da resposta
+  difficulty  String   @default("medium") // easy, medium, hard
+  reference   String?  // Referência (ex: "ENEM 2019 - Questão 45")
+  order       Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// Resultados do simulado ENEM
+model EnemResult {
+  id            String   @id @default(cuid())
+  totalQuestions Int
+  correctAnswers Int
+  score         Int      // Porcentagem
+  topicsResults String   // JSON com resultados por tema
+  createdAt     DateTime @default(now())
+}
+
+// Flashcards para memorização
+model Flashcard {
+  id        String   @id @default(cuid())
+  lessonId  String
+  front     String   // Pergunta ou termo
+  back      String   // Resposta ou definição
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Eventos para linha do tempo
+model TimelineEvent {
+  id        String   @id @default(cuid())
+  lessonId  String
+  year      String   // Ano ou período (ex: "1500", "1822-1889")
+  event     String   // Descrição do evento
+  order     Int      // Ordem cronológica real
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Pares para jogo de associação
+model MatchPair {
+  id         String   @id @default(cuid())
+  lessonId   String
+  term       String   // Termo ou conceito
+  definition String   // Definição ou descrição
+  order      Int      @default(0)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+// Histórias narrativas para cada aula
+model Story {
+  id          String   @id @default(cuid())
+  lessonId    String   @unique
+  title       String   // Título da história
+  witness     String   // Nome da testemunha (ex: "O Padeiro de Paris")
+  atmosphere  String   // Atmosfera/ambiente da cena
+  content     String   // Texto da história
+  reflection  String   // Pergunta de reflexão
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
