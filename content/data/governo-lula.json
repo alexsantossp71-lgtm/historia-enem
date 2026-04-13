@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "id": "governo-lula",
+    "title": "Governo Lula: Inclusão e Commodities",
+    "period": "2003 - 2010",
+    "tags": [
+      "Lula",
+      "Bolsa Família",
+      "Commodities",
+      "Pré-sal",
+      "BRICS"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "History of Brazil",
+    "visual_depth": "elite"
+  },
+  "intro": "Lula governou o Brasil por dois mandatos, marcados pela saída de milhões de pessoas da extrema pobreza e pelo protagonismo internacional do país.",
+  "theory_content": "Luiz Inácio **Lula** da Silva assumiu a presidência em 2003, acalmando o mercado com a 'Carta ao Povo Brasileiro', na qual prometia manter a estabilidade econômica de FHC. Seu governo aproveitou o **Boom das Commodities** (soja, minério de ferro e petróleo), impulsionado pelo crescimento da China, para financiar programas de transferência de renda. O maior deles foi o **Bolsa Família**, que unificou programas anteriores e condicionou a ajuda ao envio das crianças para a escola e ao pré-natal. \n\nNo campo da educação, foram criados o **ProUni** e o **REUNI**, expandindo o acesso às universidades para as classes C e D. Internacionalmente, Lula diversificou as parcerias com a política externa 'Altiva e Ativa', focando no eixo Sul-Sul e consolidando os **BRICS** (Brasil, Rússia, Índia, China e África do Sul). Em 2007, a Petrobras descobriu as gigantescas reservas de petróleo do **Pré-sal**, prometendo um futuro de riqueza energética. Contudo, o governo enfrentou a grave crise política do **Mensalão** em 2005, revelando um esquema de compra de apoio parlamentar. O ENEM costuma cobrar a redução da desigualdade social, a expansão do consumo interno e o papel do Brasil na nova ordem global multipolar.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o Bolsa Família como política de Estado de combate à fome. O ENEM costuma cobrar o 'Lulismo' como a conciliação entre o capital e o trabalho. Entenda o impacto da China na economia brasileira (Primarização da pauta exportadora). Saiba que o ProUni mudou a cara das faculdades brasileiras, democratizando o ensino superior. Reconheça o Pré-sal como a nova fronteira da soberania nacional.",
+  "sections": [
+    {
+      "title": "1. Bolsa Família: O Fim do Mapa da Fome",
+      "content": "A unificação dos programas sociais sob o nome de Bolsa Família permitiu que famílias de todo o Brasil tivessem uma renda mínima mensal. Mais do que dar o dinheiro, o Estado passou a exigir que os filhos estivessem na escola e vacinados. Isso gerou um boom de consumo no interior e uma melhora drástica nos indicadores de desnutrição infantil. O 'Pai dos Pobres' do século XXI trocou o assistencialismo pela cidadania obrigatória condicionada por lei.",
+      "highlight": "O Bolsa Família foi o passaporte para o consumo de milhões de brasileiros invisíveis.",
+      "image": {
+        "url": "assets/images/lessons/governo-lula/section_0.png",
+        "alt": "1. Bolsa Família: O Fim do Mapa da Fome",
+        "caption": "1. Bolsa Família: O Fim do Mapa da Fome"
+      }
+    },
+    {
+      "title": "2. China e Commodities: O Brasil Agrário de Luxo",
+      "content": "O Brasil de Lula surfou na onda chinesa. Pequim precisava de minério e comida para crescer, e o Brasil tinha de sobra. Isso trouxe bilhões de dólares para o país, gerando superávits comerciais recordes. Porém, essa riqueza gerou um efeito colateral: o país passou a depender demais da exportação de matérias-primas e deixou de investir pesadamente na indústria de alta tecnologia nacional, a chamada 'desindustrialização precoce'.",
+      "highlight": "A riqueza do Brasil de Lula foi escrita em chinês no rastro da soja e do ferro.",
+      "image": {
+        "url": "assets/images/lessons/governo-lula/section_1.png",
+        "alt": "2. China e Commodities: O Brasil Agrário de Luxo",
+        "caption": "2. China e Commodities: O Brasil Agrário de Luxo"
+      }
+    },
+    {
+      "title": "3. Do ProUni ao Pré-sal: O Sonho Grande",
+      "content": "Com o ProUni, o governo trocou isenção de impostos para faculdades privadas por bolsas de estudo para negros e alunos de escola pública. A universidade, antes luxo de poucos, tornou-se realidade para milhões. Ao mesmo tempo, a descoberta do Pré-sal foi vendida como o 'bilhete de loteria' do Brasil, uma reserva profunda de petróleo que garantiria verbas para educação e saúde por décadas, tornando o país um dos grandes produtores de energia do planeta.",
+      "highlight": "Lula vendeu o sonho de que o Brasil finalmente passava a ser a pátria do conhecimento e da energia.",
+      "image": {
+        "url": "assets/images/lessons/governo-lula/section_2.png",
+        "alt": "3. Do ProUni ao Pré-sal: O Sonho Grande",
+        "caption": "3. Do ProUni ao Pré-sal: O Sonho Grande"
+      }
+    },
+    {
+      "title": "4. Política Externa Sul-Sul: O Brasil no G20",
+      "content": "Lula não queria apenas olhar para os EUA e para a Europa. Ele abriu embaixadas na África e no Oriente Médio. O Brasil tornou-se um líder natural dos países em desenvolvimento, liderando a missão de paz da ONU no Haiti e fundando os BRICS para bater de frente com o domínio do G7. O brasileiro passou a sentir orgulho de ser 'respeitado lá fora', mas os críticos diziam que essa política era cara demais e ideológica demais.",
+      "highlight": "O Brasil de Lula queria ser o 'gigante que despertou' no cenário global."
+    },
+    {
+      "title": "5. O Mensalão e o Custo da Governabilidade",
+      "content": "A imagem do 'Governo Ético' do PT sofreu o primeiro grande baque em 2005. O Mensalão revelou que o governo de Lula pagava uma mesada a deputados para votarem em seus projetos. Líderes históricos foram presos e o país viu as entranhas da velha política funcionando dentro da nova. Lula sobreviveu ao escândalo e foi reeleito, mas a mancha da corrupção institucionalizada passaria a ser o tema central da política brasileira nos anos 2010.",
+      "highlight": "O Mensalão provou que o sonho da ética no poder tinha um preço em dinheiro vivo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O programa social conhecido como Bolsa Família, consolidado no governo Lula, diferenciava-se de outros auxílios por exigir 'condicionalidades'. Entre elas, destacam-se:",
+      "options": [
+        "A) A obrigação de todos os beneficiários de saberem falar tupi-guarani.",
+        "B) A frequência escolar obrigatória das crianças e o acompanhamento de saúde (vacinação e pré-natal).",
+        "C) A venda de todas as fazendas da família para o governo federal.",
+        "D) A proibição de comer carne de frango durante as férias escolares.",
+        "E) O cancelamento de todas as viagens de ônibus para o Nordeste."
+      ],
+      "correctIndex": 1,
+      "explanation": "A condicionalidade visava quebrar o ciclo intergeracional de pobreza através da educação e saúde.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A descoberta do Pré-sal em 2007 representou um marco estratégico para o governo brasileiro por qual motivo principal?",
+      "options": [
+        "A) Transformou o Brasil em uma ilha cercada de sal por todos os lados.",
+        "B) Garantiu uma reserva gigantesca de energia e recursos para investimentos em educação e saúde, além de aumentar a soberania nacional.",
+        "C) Proibiu a importação de sal de qualquer outro país da Europa.",
+        "D) Vendeu todas as praias do Rio de Janeiro para investidores da China.",
+        "E) O cancelamento imediato de todos os motores que não usassem fuzil."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Pré-sal foi visto como uma oportunidade de ouro para financiar o desenvolvimento social do país.",
+      "source": "Simulado ENEM / Nova República"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/governo-lula/thumb.png",
+    "alt": "Governo Lula: Inclusão e Commodities",
+    "caption": "Governo Lula: Inclusão e Commodities"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O governo de Luiz Inácio Lula da Silva (2003-2010) foi marcado pela manutenção da estabilidade macroeconômica herdada de FHC, aliada a uma forte política de inclusão social e expansão do mercado interno. Através da unificação de programas sociais no 'Bolsa Família', o governo conseguiu retirar milhões de brasileiros da extrema pobreza e promover a mobilidade social. Esse período coincidiu com o 'boom' das commodities globais, o que permitiu ao Brasil acumular reservas internacionais e quitar antecipadamente a dívida com o FMI.",
+        "Externamente, o governo Lula adotou uma 'política externa ativa e altiva', buscando a integração sul-americana (Mercosul e Unasul) e o fortalecimento de elos com países do Sul Global (BRICS). Internamente, no entanto, o governo enfrentou graves crises políticas, sendo o 'Mensalão' em 2005 o episódio mais crítico, revelando sistemas de corrupção e compra de apoio parlamentar. Apesar disso, a popularidade recorde ao final do mandato deveu-se ao crescimento do consumo, ao aumento real do salário mínimo e à política de cotas e expansão das universidades federais.",
+        "O Enem costuma cobrar as políticas sociais e a mudança no papel geopolítico do Brasil durante a era Lula. É fundamental analisar como o governo conciliou os interesses do agronegócio exportador com programas de agricultura familiar e conservação ambiental. A compreensão desse período é chave para interpretar as transformações na estrutura de classes do Brasil e os desafios de sustentabilidade de um modelo de crescimento baseado prioritariamente no consumo doméstico e na exportação de recursos naturais."
+      ],
+      "source": "FAUSTO, Boris. História do Brasil. São Paulo: EDUSP, 2013."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O programa social conhecido como Bolsa Família, consolidado no governo Lula, diferenciava-se de outros auxílios por exigir 'condicionalidades'. Entre elas, destacam-se:",
+        "back": "A) A obrigação de todos os beneficiários de saberem falar tupi-guarani.. A condicionalidade visava quebrar o ciclo intergeracional de pobreza através da educação e saúde."
+      },
+      {
+        "front": "A descoberta do Pré-sal em 2007 representou um marco estratégico para o governo brasileiro por qual motivo principal?",
+        "back": "A) Transformou o Brasil em uma ilha cercada de sal por todos os lados.. O Pré-sal foi visto como uma oportunidade de ouro para financiar o desenvolvimento social do país."
+      },
+      {
+        "front": "Quem assumiu a presidência em 2003?",
+        "back": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "front": "O que foi o Boom das Commodities?",
+        "back": "Um período de crescimento econômico impulsionado pelo aumento do preço de commodities como soja, minério de ferro e petróleo"
+      },
+      {
+        "front": "Qual foi o maior programa de transferência de renda do governo Lula?",
+        "back": "Bolsa Família"
+      },
+      {
+        "front": "O que é o ProUni?",
+        "back": "Um programa que expande o acesso às universidades para as classes C e D"
+      },
+      {
+        "front": "O que são os BRICS?",
+        "back": "Um bloco de países em desenvolvimento que inclui Brasil, Rússia, Índia, China e África do Sul"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A obrigação de todos os beneficiários de saberem falar tupi-guarani.",
+        "is_true": true,
+        "explanation": "A condicionalidade visava quebrar o ciclo intergeracional de pobreza através da educação e saúde."
+      },
+      {
+        "statement": "A frequência escolar obrigatória das crianças e o acompanhamento de saúde (vacinação e pré-natal).",
+        "is_true": false,
+        "explanation": "Mito! A condicionalidade visava quebrar o ciclo intergeracional de pobreza através da educação e saúde."
+      },
+      {
+        "statement": "Garantiu uma reserva gigantesca de energia e recursos para investimentos em educação e saúde, além de aumentar a soberania nacional.",
+        "is_true": false,
+        "explanation": "Mito! O Pré-sal foi visto como uma oportunidade de ouro para financiar o desenvolvimento social do país."
+      },
+      {
+        "statement": "Transformou o Brasil em uma ilha cercada de sal por todos os lados.",
+        "is_true": true,
+        "explanation": "O Pré-sal foi visto como uma oportunidade de ouro para financiar o desenvolvimento social do país."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Luiz Inácio Lula da Silva",
+        "match": "Metalúrgico e sindicalista eleito presidente em 2002"
+      },
+      {
+        "concept": "Bolsa Família",
+        "match": "Programa de transferência de renda do governo Lula"
+      },
+      {
+        "concept": "PT",
+        "match": "Partido dos Trabalhadores fundado em 1980"
+      },
+      {
+        "concept": "PAC",
+        "match": "Programa de Aceleração do Crescimento de Lula"
+      },
+      {
+        "concept": "Mensalão",
+        "match": "Escândalo de corrupção que atingiu o governo Lula em 2005"
+      },
+      {
+        "concept": "BRICS",
+        "match": "Bloco de economias emergentes liderado pelo Brasil de Lula"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Bolsa Família: O Fim do Mapa da Fome",
+        "order": 1
+      },
+      {
+        "event": "2. China e Commodities: O Brasil Agrário de Luxo",
+        "order": 2
+      },
+      {
+        "event": "3. Do ProUni ao Pré-sal: O Sonho Grande",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INTERNACIONAL",
+      "hint": "O conceito-chave central ou termo associado à aula de Governo Lula: Inclusão e Commodities."
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "id": "modelo-aula-01",
+    "title": "A Colonização Portuguesa no Brasil",
+    "period": "1500 - 1808",
+    "tags": [
+      "Colonização",
+      "Brasil",
+      "História"
+    ],
+    "difficulty": "Fácil",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História"
+  },
+  "intro": "A colonização portuguesa no Brasil (1500‑1808) marcou a formação da sociedade colonial através da divisão de capitanias hereditárias, do estabelecimento do Governo‑Geral, dos ciclos econômicos do pau‑brasil, da cana‑de‑açúcar e do ouro, e da profunda transformação sociocultural dos povos indígenas e africanos.",
+  "theory_content": "A colonização portuguesa iniciou‑se em 1500 com a expedição de Pedro Álvares Cabral. Em 1534, a Coroa dividiu o território em 15 capitanias hereditárias, concessões a donatários que deveriam promover a ocupação e a produção. A maioria falhou por falta de recursos e conflitos com indígenas, o que motivou a criação do Governo‑Geral em 1549, centralizando a administração em Salvador sob Tomé de Sousa. O primeiro ciclo econômico foi o do pau‑brasil (1530‑1550), seguido pelo ciclo do açúcar (1550‑1700), baseado em grandes engenhos e na escravidão africana. No final do século XVII surgiram os ciclos do ouro e do diamante em Minas Gerais, impulsionando a interiorização e a expansão territorial. Cada ciclo trouxe mudanças sociais: a estratificação entre senhores de engenho, pequenos proprietários, escravizados e indígenas; a imposição da religião católica e a catequese jesuítica; e a crescente dependência do tráfico negreiro. Essas transformações moldaram a estrutura econômica, política e cultural que perduraria até a independência.",
+  "support_text": "O Governo‑Geral centralizou a administração, fiscalizou a produção açucareira e organizou a defesa contra invasões holandesas e francesas. As capitanias restantes foram reconfiguradas em freguesias e sesmarões, ampliando o controle da Coroa sobre a terra e a população. Essa organização possibilitou a expansão das plantações de cana‑de‑açúcar e o desenvolvimento das rotas comerciais com a metrópole, ao mesmo tempo em que reforçou o sistema de trabalho escravo, que se tornou a base da economia colonial.",
+  "sections": [
+    {
+      "title": "Capitanias Hereditárias",
+      "content": "O modelo de capitanias hereditárias dividiu o Brasil em faixas de terra concedidas a donatários. A maioria falhou devido à falta de recursos, conflitos indígenas e ausência de apoio da Coroa, o que motivou a criação do Governo‑Geral em 1549.",
+      "highlight": "A falha das capitanias impulsionou a centralização política."
+    },
+    {
+      "title": "Ciclo do Açúcar",
+      "content": "No Nordeste, a produção de açúcar tornou‑se a principal atividade econômica, baseada em grandes engenhos e trabalho escravo, exportando para a Europa.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1599508704512-2f19efd1e35f?auto=format&fit=crop&q=80&w=800",
+        "alt": "Engenho de açúcar colonial",
+        "caption": "Um engenho de açúcar em funcionamento no século XVII."
+      }
+    },
+    {
+      "title": "Indígenas e Resistência",
+      "content": "Os povos indígenas foram submetidos a missões jesuíticas, alianças e conflitos. A catequese buscou a conversão, enquanto muitos grupos resistiram à ocupação, formando quilombos e alianças contra colonizadores."
+    },
+    {
+      "title": "Escravidão Africana",
+      "content": "A partir do século XVI, o tráfico negreiro abasteceu os engenhos de açúcar. Escravos foram forçados a trabalhar nas plantações, nas minas e nas áreas urbanas, formando a base da economia colonial e gerando uma sociedade estratificada."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qual foi a principal causa da criação do Governo Geral em 1549?",
+      "options": [
+        "A) O sucesso das capitanias hereditárias",
+        "B) A necessidade de centralizar a defesa e a administração",
+        "C) A descoberta de ouro nas Minas Gerais",
+        "D) A independência de Portugal"
+      ],
+      "correctIndex": 1,
+      "explanation": "O Governo Geral foi criado para centralizar a defesa contra invasões estrangeiras e melhorar a administração das capitanias falhas.",
+      "source": "https://archive.org/details/historia-geral-e-do-brasil/Hist%C3%B3ria%20Geral%20e%20do%20Brasil%20Volume%201/"
+    },
+    {
+      "question": "Qual foi o principal fator que impulsionou o ciclo do açúcar no Nordeste?",
+      "options": [
+        "A) A abundância de terra fértil",
+        "B) A demanda europeia por açúcar",
+        "C) A introdução de máquinas a vapor",
+        "D) O clima tropical"
+      ],
+      "correctIndex": 1,
+      "explanation": "A alta demanda europeia por açúcar no século XVI‑XVII tornou o cultivo da cana‑açúcar extremamente lucrativo, estimulando a expansão dos engenhos.",
+      "source": "https://archive.org/download/historia-geral-e-do-brasil/Hist%C3%B3ria%20Geral%20e%20do%20Brasil%20Volume%201_djvu.txt"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou à criação do Governo-Geral em 1549?",
+      "options": [
+        "A) Falta de recursos financeiros da Coroa Portuguesa",
+        "B) Conflitos entre donatários e a necessidade de centralizar a administração",
+        "C) Expansão territorial acelerada",
+        "D) Declínio do ciclo do pau-brasil",
+        "E) Pressão dos indígenas para ter mais autonomia"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o impacto da imposição da religião católica e da catequese jesuítica durante o período colonial?",
+      "options": [
+        "A) Aumento da diversidade religiosa no Brasil",
+        "B) Fortalecimento das crenças indígenas",
+        "C) Redução da influência da Igreja Católica",
+        "D) Imposição de uma religião única e uniformização cultural",
+        "E) Separação entre a Igreja e o Estado"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o efeito do ciclo do ouro e do diamante em Minas Gerais sobre a ocupação territorial do Brasil?",
+      "options": [
+        "A) Redução da expansão territorial",
+        "B) Estagnação econômica",
+        "C) Interiorização e expansão territorial",
+        "D) Abandono das capitanias hereditárias",
+        "E) Fim do tráfico negreiro"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Capitanias hereditárias",
+      "back": "Divisões de terra concedidas a donatários que falharam na maioria"
+    },
+    {
+      "front": "Ciclo do açúcar",
+      "back": "Economia baseada na produção de açúcar no Nordeste, sustentada por trabalho escravo"
+    }
+  ],
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A estruturação modular paradigmática dos temas formadores conteudistas educacionais consolida um espelho do padrão formativo inabalável da nova geração docente nascentes. O fomento a interdisciplinaridade, exigência acadêmica severa com referências catalogadas bibliográficas estritas validam a credencial do projeto de letramento de massas garantindo perenidade rigorosa formativa da absorção intelectual avaliada na vida dos jovens alunos.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Qual foi a principal causa da criação do Governo Geral em 1549?",
+        "back": "A) O sucesso das capitanias hereditárias. O Governo Geral foi criado para centralizar a defesa contra invasões estrangeiras e melhorar a administração das capitanias falhas."
+      },
+      {
+        "front": "Qual foi o principal fator que impulsionou o ciclo do açúcar no Nordeste?",
+        "back": "A) A abundância de terra fértil. A alta demanda europeia por açúcar no século XVI‑XVII tornou o cultivo da cana‑açúcar extremamente lucrativo, estimulando a expansão dos engenhos."
+      },
+      {
+        "front": "Quem liderou a expedição que iniciou a colonização portuguesa em 1500?",
+        "back": "Pedro Álvares Cabral"
+      },
+      {
+        "front": "Em que ano a Coroa dividiu o território em capitanias hereditárias?",
+        "back": "1534"
+      },
+      {
+        "front": "Qual foi o primeiro ciclo econômico no Brasil?",
+        "back": "Ciclo do pau-brasil"
+      },
+      {
+        "front": "O que impulsionou a interiorização e a expansão territorial no final do século XVII?",
+        "back": "Ciclos do ouro e do diamante em Minas Gerais"
+      },
+      {
+        "front": "Qual foi o impacto da imposição da religião católica e da catequese jesuítica?",
+        "back": "Mudanças sociais e culturais na estrutura da sociedade colonial"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O sucesso das capitanias hereditárias.",
+        "is_true": true,
+        "explanation": "O Governo Geral foi criado para centralizar a defesa contra invasões estrangeiras e melhorar a administração das capitanias falhas."
+      },
+      {
+        "statement": "A necessidade de centralizar a defesa e a administração.",
+        "is_true": false,
+        "explanation": "Mito! O Governo Geral foi criado para centralizar a defesa contra invasões estrangeiras e melhorar a administração das capitanias falhas."
+      },
+      {
+        "statement": "A abundância de terra fértil.",
+        "is_true": true,
+        "explanation": "A alta demanda europeia por açúcar no século XVI‑XVII tornou o cultivo da cana‑açúcar extremamente lucrativo, estimulando a expansão dos engenhos."
+      },
+      {
+        "statement": "A demanda europeia por açúcar.",
+        "is_true": false,
+        "explanation": "Mito! A alta demanda europeia por açúcar no século XVI‑XVII tornou o cultivo da cana‑açúcar extremamente lucrativo, estimulando a expansão dos engenhos."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) O sucesso das capitanias hereditárias",
+        "match": "Qual foi a principal causa da criação do Gove..."
+      },
+      {
+        "concept": "A) A abundância de terra fértil",
+        "match": "Qual foi o principal fator que impulsionou o ..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Capitanias Hereditárias",
+        "order": 1
+      },
+      {
+        "event": "Ciclo do Açúcar",
+        "order": 2
+      },
+      {
+        "event": "Indígenas e Resistência",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ESTABELECIMENTO",
+      "hint": "O conceito-chave central ou termo associado à aula de A Colonização Portuguesa no Brasil."
+    }
+  }
+}

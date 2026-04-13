@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "id": "populismo-brasil",
+    "title": "Populismo no Brasil: O Carisma no Poder",
+    "period": "1945 - 1964",
+    "tags": [
+      "Populismo",
+      "Vargas",
+      "JK",
+      "Jânio",
+      "Massas",
+      "Liderança"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O populismo foi a marca registrada da política brasileira no século XX. Líderes carismáticos falavam diretamente ao povo, prometendo progresso e proteção em troca de lealdade política.",
+  "theory_content": "O **Populismo** é um fenômeno político que surgiu no Brasil com a urbanização e a industrialização. Com milhões de trabalhadores saindo do campo para as cidades, os velhos coronéis perderam o controle do voto. Surgiram então líderes como Getúlio Vargas, Juscelino Kubitschek, Jânio Quadros e Adhemar de Barros, que usavam o rádio e o carisma pessoal para criar uma relação direta com as massas, 'pulando' intermediários. \n\nAs principais características do populismo brasileiro eram o **paternalismo** (o governante como o 'pai' que dá concessões ao povo), o **nacionalismo** (defesa das riquezas nacionais) e a **conciliação de classes** (o líder dizia governar para ricos e pobres ao mesmo tempo). Vargas foi o mestre desse estilo, criando as leis trabalhistas como um 'presente' estatal. JK trouxe o populismo do otimismo e do consumo ('50 anos em 5'). Jânio Quadros usou o populismo do símbolo (vassoura e bilhetinhos). O populismo entrou em crise quando Jango tentou reformas radicais que assustaram as elites, quebrando a harmonia da 'conciliação'. O ENEM costuma cobrar as formas de manipulação das massas, o papel do rádio e da televisão e os limites desse modelo político diante das crises econômicas.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o populismo não como 'enganação', mas como uma forma de o povo entrar na política pela primeira vez. O ENEM costuma cobrar a figura de Getúlio Vargas como o arquétipo do populista. Entenda a diferença entre o populismo de JK (desenvolvimentista) e o de Jânio Quadros (moralista). Saiba como a propaganda oficial (DIP) ajudou a construir o mito do líder infalível.",
+  "sections": [
+    {
+      "title": "1. A Massa Urbana: O Novo Ator Político",
+      "content": "Até 1930, o Brasil era rural. Com as fábricas, surgiram os operários. Eles não tinham patrões coronéis, então precisavam de um novo tipo de herói. Os líderes populistas entenderam que, para governar, era preciso conquistar o coração de quem vivia nos cortiços e nas favelas, dando-lhes a sensação de pertencimento à nação brasileira por meio do trabalho e do consumo.",
+      "highlight": "O populismo foi a resposta política para a multidão que lotava as cidades.",
+      "image": {
+        "url": "assets/images/lessons/populismo-brasil/section_0.png",
+        "alt": "1. A Massa Urbana: O Novo Ator Político",
+        "caption": "1. A Massa Urbana: O Novo Ator Político"
+      }
+    },
+    {
+      "title": "2. O Rádio: O Microfone do 'Pai'",
+      "content": "Sem o rádio, o populismo não existiria. Vargas entrava na casa de todos com o 'Trabalhadores do Brasil!'. A tecnologia permitiu que a voz do líder chegasse aos lugares mais distantes, criando o mito de que o presidente conhecia o sofrimento de cada brasileiro. O rádio transformou o político em uma celebridade, em um membro íntimo da família brasileira.",
+      "highlight": "O rádio foi o palco onde os mitos populistas foram construídos.",
+      "image": {
+        "url": "assets/images/lessons/populismo-brasil/section_1.png",
+        "alt": "2. O Rádio: O Microfone do 'Pai'",
+        "caption": "2. O Rádio: O Microfone do 'Pai'"
+      }
+    },
+    {
+      "title": "3. Paternalismo e CLT: O Estado Protetor",
+      "content": "No populismo, os direitos não são conquistados pela luta de classes, mas 'dados' pelo Estado bondoso. Vargas criou a carteira de trabalho para que o operário se sentisse um 'filho' do governo. Isso impedia que os sindicatos se tornassem revolucionários socialistas. O Estado era o mediador que acalmava o rico e protegia o pobre, mantendo a ordem capitalista intacta.",
+      "highlight": "O paternalismo foi a estratégia para evitar a revolução operária no Brasil.",
+      "image": {
+        "url": "assets/images/lessons/populismo-brasil/section_2.png",
+        "alt": "3. Paternalismo e CLT: O Estado Protetor",
+        "caption": "3. Paternalismo e CLT: O Estado Protetor"
+      }
+    },
+    {
+      "title": "4. Adhemar de Barros: 'Rouba mas Faz'",
+      "content": "A face mais pragmática do populismo foi o 'Adhemarismo' em São Paulo. Ele prometia obras faraônicas e hospitais, ignorando as acusações de corrupção. O povo aceitava o desvio de verba desde que as pontes e escolas fossem construídas. Esse estilo 'pragmático' de populismo sobrevive até hoje na política brasileira, onde a eficiência da obra justifica qualquer crime ético.",
+      "highlight": "O 'rouba mas faz' é o lema do populismo que prioriza o concreto sobre a ética."
+    },
+    {
+      "title": "5. O Fim da Harmonia: A Crise do Modelo",
+      "content": "O populismo funcionava bem enquanto o país crescia e havia dinheiro para distribuir. Quando a inflação subiu nos anos 60 e Jango começou a falar em tirar terras dos ricos para dar aos pobres (Reformas de Base), a elite rompeu com o modelo. O populismo de conciliação morreu quando os interesses de patrão e empregado ficaram irreconciliáveis. O golpe de 64 foi o enterro dessa política de carisma e massas.",
+      "highlight": "O populismo faliu quando o líder não conseguiu mais agradar a todos ao mesmo tempo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A política populista no Brasil, especialmente durante o governo de Getúlio Vargas, caracterizava-se por qual tipo de relação entre o líder e as massas?",
+      "options": [
+        "A) Uma relação fria e distante, baseada apenas na escrita técnica de leis na Lua.",
+        "B) Uma relação carismática e paternalista, onde o governante era visto como o protetor e provedor dos direitos do povo.",
+        "C) A proibição de que o povo fizesse festas nas ruas de São Paulo.",
+        "D) A entrega das chaves da presidência para os sindicatos comunistas da Europa.",
+        "E) O fim de todas as transmissões de rádio no território nacional."
+      ],
+      "correctIndex": 1,
+      "explanation": "O populismo constrói o mito do governante como um benfeitor pessoal de cada cidadão.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O lema 'Rouba mas Faz', atribuído a políticos como Adhemar de Barros, sintetiza qual característica comum a certos regimes populistas?",
+      "options": [
+        "A) A honestidade total e absoluta de todos os funcionários públicos.",
+        "B) A priorização das obras públicas monumentais e visíveis em detrimento do rigor ético e da prestação de contas.",
+        "C) O fim de todas as indústrias de carro no estado de São Paulo.",
+        "D) A vontade de que o povo voltasse a viver no campo sem energia elétrica.",
+        "E) O cancelamento de todas as eleições municipais por 50 anos."
+      ],
+      "correctIndex": 1,
+      "explanation": "No populismo pragmático, o resultado visível para a massa justifica os meios utilizados para alcançá-lo.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o principal fator que contribuiu para o surgimento do populismo no Brasil?",
+      "options": [
+        "A) Aumento do poder dos coronéis rurais",
+        "B) Urbanização e industrialização do país",
+        "C) Implementação de políticas de esquerda",
+        "D) Redução da influência do rádio e da televisão",
+        "E) Aumento da dependência econômica de outros países"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual das seguintes características é uma das principais do populismo brasileiro?",
+      "options": [
+        "A) Oposição ao nacionalismo",
+        "B) Defesa dos interesses apenas da classe trabalhadora",
+        "C) Paternalismo, com o governante como 'pai' do povo",
+        "D) Implementação de políticas de austeridade",
+        "E) Redução do papel do Estado na economia"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da tentativa de reformas radicais de Jango?",
+      "options": [
+        "A) Aumento da popularidade do governo",
+        "B) Fortalecimento da conciliação de classes",
+        "C) Quebra da harmonia da conciliação e crise do populismo",
+        "D) Implementação de políticas de direita",
+        "E) Redução da influência do rádio e da televisão"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/populismo-brasil/thumb.png",
+    "alt": "Populismo no Brasil: O Carisma no Poder",
+    "caption": "Populismo no Brasil: O Carisma no Poder"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O conceito de 'populismo' no Brasil refere-se prioritariamente ao período entre 1945 e 1964, quando líderes políticos estabeleceram uma relação direta com as massas urbanas, ignorando as mediações institucionais tradicionais. Segundo Francisco Weffort, o populismo brasileiro surgiu do vazio de poder após 1930, onde o Estado atuava como 'árbitro' entre a burguesia industrial e a classe operária emergente. Figuras como Getúlio Vargas e Adhemar de Barros personificaram essa liderança carismática que concedia direitos reais aos trabalhadores em troca de lealdade política.",
+        "Essa fase foi caracterizada pelo nacional-desenvolvimentismo e pela valorização da soberania nacional. O populismo não era apenas um estilo de governo, mas um pacto social onde o trabalhador era reconhecido como cidadão desde que não desafiasse as estruturas básicas do capitalismo industrial. No entanto, o populismo entrou em crise na década de 1960, quando a radicalização política das massas (Reformas de Base) e a oposição das elites econômicas levaram ao colapso do sistema e ao subsequente golpe militar de 1964.",
+        "Para o Enem, é crucial distinguir o 'populismo' como uma categoria analítica da ciência política e não como um simples xingamento. É preciso compreender que esse modelo garantiu, pela primeira vez no Brasil, a inclusão das massas no jogo político formal, embora de forma controlada. O estudo deste tema permite analisar como a industrialização e a urbanização mudaram a cara da política nacional, criando uma linguagem baseada no trabalhismo e no nacionalismo que ressoa até os dias atuais."
+      ],
+      "source": "WEFFORT, Francisco. O Populismo na Política Brasileira. Rio de Janeiro: Paz e Terra, 2003."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A política populista no Brasil, especialmente durante o governo de Getúlio Vargas, caracterizava-se por qual tipo de relação entre o líder e as massas?",
+        "back": "A) Uma relação fria e distante, baseada apenas na escrita técnica de leis na Lua.. O populismo constrói o mito do governante como um benfeitor pessoal de cada cidadão."
+      },
+      {
+        "front": "O lema 'Rouba mas Faz', atribuído a políticos como Adhemar de Barros, sintetiza qual característica comum a certos regimes populistas?",
+        "back": "A) A honestidade total e absoluta de todos os funcionários públicos.. No populismo pragmático, o resultado visível para a massa justifica os meios utilizados para alcançá-lo."
+      },
+      {
+        "front": "O que é o Populismo?",
+        "back": "Um fenômeno político que surgiu no Brasil com a urbanização e a industrialização."
+      },
+      {
+        "front": "Quem são exemplos de líderes populistas?",
+        "back": "Getúlio Vargas, Juscelino Kubitschek, Jânio Quadros e Adhemar de Barros."
+      },
+      {
+        "front": "Quais são as principais características do populismo brasileiro?",
+        "back": "Paternalismo, nacionalismo e conciliação de classes."
+      },
+      {
+        "front": "O que foi o populismo do otimismo e do consumo?",
+        "back": "Um estilo de populismo liderado por JK, com o lema '50 anos em 5'."
+      },
+      {
+        "front": "Por que o populismo entrou em crise?",
+        "back": "Quando Jango tentou reformas radicais que assustaram as elites, quebrando a harmonia da conciliação."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Uma relação fria e distante, baseada apenas na escrita técnica de leis na Lua..",
+        "is_true": true,
+        "explanation": "O populismo constrói o mito do governante como um benfeitor pessoal de cada cidadão."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Uma relação carismática e paternalista, onde o governante era visto como o protetor e provedor dos direitos do povo..",
+        "is_true": false,
+        "explanation": "Falso! O populismo constrói o mito do governante como um benfeitor pessoal de cada cidadão."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A honestidade total e absoluta de todos os funcionários públicos..",
+        "is_true": true,
+        "explanation": "No populismo pragmático, o resultado visível para a massa justifica os meios utilizados para alcançá-lo."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A priorização das obras públicas monumentais e visíveis em detrimento do rigor ético e da prestação de contas..",
+        "is_true": false,
+        "explanation": "Falso! No populismo pragmático, o resultado visível para a massa justifica os meios utilizados para alcançá-lo."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Populismo",
+        "match": "Estilo político com apelo direto às massas populares"
+      },
+      {
+        "concept": "Getúlio Vargas",
+        "match": "O pai dos pobres, maior representante do populismo brasileiro"
+      },
+      {
+        "concept": "Trabalhismo",
+        "match": "Ideologia populista baseada nos direitos dos trabalhadores"
+      },
+      {
+        "concept": "Demagogia",
+        "match": "Manipulação das massas por apelos emocionais e promessas"
+      },
+      {
+        "concept": "Paternalismo",
+        "match": "Relação de Estado como pai protetor dos trabalhadores"
+      },
+      {
+        "concept": "João Goulart",
+        "match": "Herdeiro do populismo trabalhista varguista"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Massa Urbana: O Novo Ator Político",
+        "order": 1
+      },
+      {
+        "event": "2. O Rádio: O Microfone do 'Pai'",
+        "order": 2
+      },
+      {
+        "event": "3. Paternalismo e CLT: O Estado Protetor",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CARISMÁTICOS",
+      "hint": "O conceito-chave central ou termo associado à aula de Populismo no Brasil: O Carisma no Poder."
+    }
+  }
+}

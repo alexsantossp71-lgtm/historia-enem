@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "id": "revolucao-francesa",
+    "title": "Revolução Francesa: O Fim do Antigo Regime",
+    "period": "1789 - 1799",
+    "tags": [
+      "Iluminismo",
+      "Jacobinos",
+      "Bastilha",
+      "Direitos do Homem",
+      "Napoleão"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-francesa/section_0.png",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução Francesa sepultou o absolutismo e o feudalismo na Europa. Sob o lema 'Liberdade, Igualdade e Fraternidade', ela deu início a uma nova era de direitos civis e participação política cidadã.",
+  "theory_content": "A França de 1789 era um barril de pólvora pronto para explodir. A sociedade vivia no **Ancien Régime (Antigo Regime)**, dividida em três estratos fixos: o 1º Estado (Clero) e o 2º Estado (Nobreza) possuíam todos os privilégios e não pagavam impostos; o 3º Estado (98% da população, entre camponeses e burgueses) sustentava todo o luxo da corte de Luís XVI e passava fome devido a colheitas ruins e dívidas de guerra. \n\nA revolução começou com a convocação dos **Estados Gerais**. Quando o 3º Estado percebeu que o sistema de votos era injusto, separou-se e proclamou a Assembleia Nacional. O ato simbólico definitivo foi a **Queda da Bastilha (14 de Julho de 1789)**, uma prisão que representava o poder absoluto do rei. A partir daí, a revolução passou por fases distintas: 1) Monarquia Constitucional (com a Declaração dos Direitos do Homem e do Cidadão); 2) República e Convenção Nacional (momento radical liderado pelos **Jacobinos** de Robespierre, conhecido como o 'Terror', onde milhares foram à guilhotina, incluindo o rei); 3) Diretório (reação conservadora dos Girondinos para frear os excessos populares). \n\nO legado da revolução foi imensurável: ela derrubou a ideia de que o rei era escolhido por Deus, separou o Estado da Igreja e instituiu a burguesia como a nova classe dominante. Contudo, o excesso de caos e corrupção do Diretório abriu espaço para o golpe de '18 de Brumário', levando **Napoleão Bonaparte** ao poder. O ENEM costuma cobrar as influências iluministas (Montesquieu, Voltaire, Rousseau) na criação da ideia de cidadania e como essas ideias atravessaram o Atlântico para influenciar a América Latina.",
+  "sections": [
+    {
+      "title": "1. O Terceiro Estado e o Juramento da Sala de Jogo",
+      "content": "Frustrados pelo sistema de voto onde cada estado tinha um voto (o que sempre dava 2 a 1 para o clero e nobreza), os representantes do 3º Estado trancaram-se em uma sala de jogo de péla e juraram que só sairiam dali com uma constituição escrita para a França. Foi o nascimento da democracia legislativa no país, desafiando a divindade do Rei.",
+      "highlight": "A revolução começou com a caneta dos advogados antes de usar a força do povo.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-francesa/section_0.png",
+        "alt": "Ilustração de 1. O Terceiro Estado e o Juramento da Sala de Jogo",
+        "caption": "Interpretacao artistica: 1. O Terceiro Estado e o Juramento da Sala de Jogo"
+      }
+    },
+    {
+      "title": "2. Declaração dos Direitos do Homem e do Cidadão",
+      "content": "Publicada em 1789, inspirada nos EUA e no Iluminismo, declarava que todos os homens nascem e permanecem livres e iguais em direitos. Ela garantia a liberdade de expressão, de religião e o direito à propriedade privada. Foi a certidão de óbito do feudalismo na Europa e a base de todas as constituições ocidentais modernas.",
+      "highlight": "Pela primeira vez na história europeia, o súdito tornou-se cidadão.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-francesa/section_1.png",
+        "alt": "Ilustração de 2. Declaração dos Direitos do Homem e do Cidadão",
+        "caption": "Interpretacao artistica: 2. Declaração dos Direitos do Homem e do Cidadão"
+      }
+    },
+    {
+      "title": "3. O Período do Terror (1793-1794)",
+      "content": "Liderada por Maximilien Robespierre e Saint-Just, a fase jacobina buscava salvar a revolução de inimigos internos e externos (outras monarquias europeias que invadiram a França). Criaram o Comitê de Salvação Pública, o ensino laico gratuito e a abolição da escravidão nas colônias. Porém, o radicalismo levou ao medo generalizado e ao próprio Robespierre ser executado na guilhotina.",
+      "highlight": "O 'Terror' foi uma tentativa violenta de criar uma república da virtude popular.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-francesa/section_2.png",
+        "alt": "Ilustração de 3. O Período do Terror (1793-1794)",
+        "caption": "Interpretacao artistica: 3. O Período do Terror (1793-1794)"
+      }
+    },
+    {
+      "title": "4. O Papel dos Sans-culottes",
+      "content": "Os sans-culottes ('sem calções' de nobre) eram os artesãos, operários e pequenos comerciantes de Paris que formavam o braço armado da revolução nas ruas. Eram eles que faziam as barricadas e protegiam a convenção. Sem a força física e o desespero de fome desse grupo, a burguesia nunca teria conseguido derrubar Luís XVI.",
+      "highlight": "Sem os sans-culottes nas ruas, a Revolução Francesa não teria passado de um debate de intelectuais.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-francesa/section_3.png",
+        "alt": "Ilustração de 4. O Papel dos Sans-culottes",
+        "caption": "Interpretacao artistica: 4. O Papel dos Sans-culottes"
+      }
+    },
+    {
+      "title": "5. A Era Napoleônica e o Código Civil",
+      "content": "Napoleão encerrou os excessos revolucionários mas consolidou suas conquistas burguesas no 'Código Napoleônico'. Ele expandiu os ideais de liberdade religiosa e igualdade jurídica por toda a Europa via guerras, destruindo os velhos privilégios aristocráticos por onde passava. Foi através de suas invasões que a família real portuguesa fugiu para o Brasil em 1808.",
+      "highlight": "Napoleão foi o general que espalhou a semente da revolução francesa pelo mundo inteiro."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Durante a Revolução Francesa, o grupo dos Jacobinos representava a ala mais radical. Qual figura histórica líder desse grupo é associada ao período do 'Terror'?",
+      "options": [
+        "A) Luís XVI, que queria recuperar seu poder absoluto.",
+        "B) Robespierre, que liderou o Comitê de Salvação Pública.",
+        "C) Napoleão Bonaparte, que acabara de inventar a guilhotina.",
+        "D) Maria Antonieta, a rainha consorte da Áustria.",
+        "E) Nicolau Copérnico, que descobriu que a terra girava em torno do sol."
+      ],
+      "correctIndex": 1,
+      "explanation": "Robespierre foi o cérebro político por trás do radicalismo jacobino e da repressão sangrenta aos opositores.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "A Queda da Bastilha, em 14 de julho de 1789, tornou-se o principal símbolo da Revolução Francesa por que:",
+      "options": [
+        "A) Era onde o rei guardava todos os mapas para invadir o Brasil.",
+        "B) Representava o poder absoluto do rei, servindo de prisão para os opositores do regime.",
+        "C) Era a maior padaria de Paris e o povo estava com fome.",
+        "D) Ali funcionava o primeiro banco central da história francesa.",
+        "E) Foi onde Napoleão se coroou Imperador da França no topo de uma torre."
+      ],
+      "correctIndex": 1,
+      "explanation": "A tomada da Bastilha pelo povo de Paris demonstrou que a monarquia absoluta não era mais intocável.",
+      "source": "PISM / ENEM Simulado"
+    }
+  ],
+  "thumbnail": "assets/images/lessons/revolucao-francesa/thumb.png",
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Revolução Francesa de 1789 foi o evento que marcou o início da Idade Contemporânea, ao destruir definitivamente as estruturas milenares do feudalismo e do absolutismo na Europa. Como analisa Eric Hobsbawm, ela foi a 'revolução da sua época', fornecendo o vocabulário, as ideologias e os modelos de organização política para o mundo inteiro ao longo do século XIX. A tomada da Bastilha simbolizou a queda do poder arbitrário e o início de uma era onde a 'nação' passou a ser a única fonte legítima de poder.",
+        "As fases da revolução — da Monarquia Constitucional à República Jacobina (o Terror) e o subsequente Diretório — demonstram a violenta disputa entre diferentes setores da burguesia e as massas populares (sans-culottes). Enquanto os girondinos buscavam reformas moderadas, os jacobinos, liderados por Robespierre, radicalizaram o processo através da execução do rei e da implementação de reformas sociais profundas. A instabilidade desse período abriu caminho para a ascensão de Napoleão Bonaparte, que consolidaria as conquistas burguesas sob uma ditadura militar expansionista.",
+        "O legado da Revolução Francesa é sintetizado no lema 'Liberdade, Igualdade e Fraternidade'. No entanto, para o Enem, é crucial perceber as contradições do movimento: a liberdade proclamada era prioritariamente econômica, a igualdade era jurídica (e não social) e a 'fraternidade' muitas vezes era limitada pelos interesses nacionais. Mesmo assim, ao estabelecer o fim dos privilégios por nascimento e a soberania da lei, a revolução mudou permanentemente a relação entre Estado e indivíduo, transformando súditos em cidadãos."
+      ],
+      "source": "HOBSBAWM, Eric. A Era das Revoluções (1789-1848). Rio de Janeiro: Paz e Terra, 2012."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Durante a Revolução Francesa, o grupo dos Jacobinos representava a ala mais radical. Qual figura histórica líder desse grupo é associada ao período do 'Terror'?",
+        "back": "A) Luís XVI, que queria recuperar seu poder absoluto.. Robespierre foi o cérebro político por trás do radicalismo jacobino e da repressão sangrenta aos opositores."
+      },
+      {
+        "front": "A Queda da Bastilha, em 14 de julho de 1789, tornou-se o principal símbolo da Revolução Francesa por que:",
+        "back": "A) Era onde o rei guardava todos os mapas para invadir o Brasil.. A tomada da Bastilha pelo povo de Paris demonstrou que a monarquia absoluta não era mais intocável."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Luís XVI, que queria recuperar seu poder absoluto..",
+        "is_true": true,
+        "explanation": "Robespierre foi o cérebro político por trás do radicalismo jacobino e da repressão sangrenta aos opositores."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Robespierre, que liderou o Comitê de Salvação Pública..",
+        "is_true": false,
+        "explanation": "Falso! Robespierre foi o cérebro político por trás do radicalismo jacobino e da repressão sangrenta aos opositores."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Era onde o rei guardava todos os mapas para invadir o Brasil..",
+        "is_true": true,
+        "explanation": "A tomada da Bastilha pelo povo de Paris demonstrou que a monarquia absoluta não era mais intocável."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Representava o poder absoluto do rei, servindo de prisão para os opositores do regime..",
+        "is_true": false,
+        "explanation": "Falso! A tomada da Bastilha pelo povo de Paris demonstrou que a monarquia absoluta não era mais intocável."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Ancien Régime",
+        "match": "Antigo sistema político-social da França absolutista"
+      },
+      {
+        "concept": "Bastilha",
+        "match": "Prisão cuja queda simbolizou o início da revolução"
+      },
+      {
+        "concept": "Jacobinos",
+        "match": "Facção radical liderada por Robespierre"
+      },
+      {
+        "concept": "Guilhotina",
+        "match": "Instrumento de execução durante o período do Terror"
+      },
+      {
+        "concept": "Declaração dos Direitos",
+        "match": "Documento de 1789 que proclamou liberdade e igualdade"
+      },
+      {
+        "concept": "Napoleão Bonaparte",
+        "match": "General que consolidou as conquistas da revolução"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Terceiro Estado e o Juramento da Sala de Jogo",
+        "order": 1
+      },
+      {
+        "event": "2. Declaração dos Direitos do Homem e do Cidadão",
+        "order": 2
+      },
+      {
+        "event": "3. O Período do Terror (1793-1794)",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "FRATERNIDADE",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução Francesa: O Fim do Antigo Regime."
+    }
+  }
+}

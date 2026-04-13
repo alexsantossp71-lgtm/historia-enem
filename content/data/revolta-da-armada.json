@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "id": "revolta-da-armada",
+    "title": "Revolta da Armada: O Duelo de Marechais",
+    "period": "1891 - 1894",
+    "tags": [
+      "Armada",
+      "Floriano Peixoto",
+      "Custódio de Melo",
+      "Marinha",
+      "Exército"
+    ],
+    "difficulty": "Médio",
+    "relevance": 3,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "A República recém-nascida quase morreu em um duelo naval. A Marinha apontou seus canhões para o Rio de Janeiro, exigindo a saída do Marechal Floriano Peixoto, o 'Marechal de Ferro'.",
+  "theory_content": "A **Revolta da Armada** foi um conflito entre a Marinha e o Exército brasileiro logo após a Proclamação da República. A primeira fase ocorreu em 1891, forçando a renúncia de Deodoro da Fonseca. A segunda e mais violenta fase começou em 1893, liderada pelo almirante Custódio de Melo contra o vice-presidente **Floriano Peixoto**, que assumira o poder de forma autoritária. Os marinheiros, muitos ainda monarquistas, sentiam-se desprezados pelo privilégio dado ao Exército no novo regime. \n\nDurante meses, navios de guerra na Baía de Guanabara bombardearam posições do Exército no Rio e em Niterói, causando terror na população civil. Floriano Peixoto, no entanto, não se rendeu. Ele comprou navios nos Estados Unidos e na Europa (a 'Frota de Papel') e organizou a resistência terrestre com 'Batalhões Patrióticos' de civis. O conflito terminou em 1894 com a derrota dos rebeldes da Armada, muitos dos quais fugiram para se juntar à Revolução Federalista no Sul. A vitória de Floriano consolidou o papel do Exército como o fiador da República Brasileira e lhe rendeu o título de 'Consolidador da República'. O ENEM costuma cobrar a instabilidade das instituições republicanas nos primeiros anos e as disputas de poder entre as armas terrestres e navais.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a figura de Floriano Peixoto como o 'Marechal de Ferro' (autoritário e nacionalista). O ENEM costuma cobrar a Revolta da Armada como símbolo da divisão entre os republicanos históricos e os neomonarquistas da Marinha. Entenda que a República Brasileira foi fundada sobre uma base militar instável e violenta. Saiba que essa revolta foi a precursora da crise que levaria à ascensão das oligarquias civis cafeeiras em 1894.",
+  "sections": [
+    {
+      "title": "1. O Marechal de Ferro contra a Armada",
+      "content": "Floriano Peixoto não era de conversa. Ele assumiu a presidência após o golpe de Deodoro e recusou-se a convocar novas eleições, como mandava a lei. Quando a Marinha, liderada por Custódio de Melo, ameaçou bombardear o Rio se ele não saísse, Floriano respondeu com a frase famosa: 'Se o almirante atirar, eu atiro nele'. O Rio de Janeiro virou uma zona de guerra entre a espada da terra e o canhão do mar.",
+      "highlight": "Floriano usou a força para calar quem usava a força para protestar.",
+      "image": {
+        "url": "assets/images/lessons/revolta-da-armada/section_0.png",
+        "alt": "1. O Marechal de Ferro contra a Armada",
+        "caption": "1. O Marechal de Ferro contra a Armada"
+      }
+    },
+    {
+      "title": "2. Canhões sobre o Rio: O Terror Civil",
+      "content": "Milhares de moradores fugiram para os morros ou para o interior de Minas. Das fortalezas de Santa Cruz e de São João, o Exército trocava tiros com os couraçados 'Aquidabã' e 'Riachuelo'. Navios estrangeiros (ingleses e americanos) observavam a destruição da capital brasileira. Era a prova de que a Proclamação da República de 1889 não havia trazido a paz prometida, mas sim a ambição armada pelo poder central.",
+      "highlight": "A Baía de Guanabara foi o palco da primeira grande guerra civil republicana.",
+      "image": {
+        "url": "assets/images/lessons/revolta-da-armada/section_1.png",
+        "alt": "2. Canhões sobre o Rio: O Terror Civil",
+        "caption": "2. Canhões sobre o Rio: O Terror Civil"
+      }
+    },
+    {
+      "title": "3. A 'Frota de Papel' dos EUA",
+      "content": "Como a Marinha estava em revolta, Floriano não tinha navios. Ele usou o dinheiro do café para comprar sucata militar nos EUA e contratar mercenários estrangeiros para tripulá-los. Essa 'Frota de Papel' chegou ao Rio e, mesmo sendo inferior aos navios da Armada, serviu para quebrar o bloqueio naval. Os americanos ajudaram Floriano para garantir que o comércio de café com os EUA não parasse.",
+      "highlight": "O poder do dinheiro cafeeiro comprou os barcos que salvaram a ditadura de Floriano.",
+      "image": {
+        "url": "assets/images/lessons/revolta-da-armada/section_2.png",
+        "alt": "3. A 'Frota de Papel' dos EUA",
+        "caption": "3. A 'Frota de Papel' dos EUA"
+      }
+    },
+    {
+      "title": "4. A Rendição e as Execuções",
+      "content": "Sem apoio popular e com falta de carvão, os rebeldes da Armada renderam-se ou fugiram para o Sul em 1894. Floriano Peixoto foi impiedoso: muitos oficiais que se entregaram foram fuzilados sombriamente. A morte dos opositores serviu para mostrar que o Exército não aceitaria mais nenhum desaforo marítimo. O almirante Custódio de Melo, derrotado, foi para o exílio em Paris, mas a Marinha levaria décadas para recuperar seu prestígio.",
+      "highlight": "Floriano consolidou a República com a mão de ferro e o silêncio dos fuzis."
+    },
+    {
+      "title": "5. O Legado: O Exército como Guardião",
+      "content": "A derrota da Armada inaugurou o domínio de 100 anos do Exército Brasileiro como 'Poder Moderador' de fato da República. Dali em diante, a Marinha passou a ser uma arma secundária na política nacional. No entanto, o custo foi alto: o autoritarismo de Floriano serviu de inspiração para os futuros golpes militares do século XX, alimentando a ideia de que os generais são os únicos heróis capazes de salvar o Brasil de si mesmo.",
+      "highlight": "O 'Salvacionismo' militar brasileiro nasceu na poeira dos canhões da Armada."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Revolta da Armada (1893-1894) no Rio de Janeiro foi motivada principalmente por qual fator político?",
+      "options": [
+        "A) A vontade dos marinheiros de que todos os navios fossem pintados de verde e amarelo.",
+        "B) A oposição da Marinha ao autoritarismo de Floriano Peixoto e a exigência de novas eleições presidenciais.",
+        "C) O fim da exportação de peixe seco para a Rússia.",
+        "D) A proibição de usar uniformes brancos durante as festas de Natal.",
+        "E) O cancelamento de todos os contratos de compra de café pelos Estados Unidos."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Marinha sentia-se excluída do poder pela hegemonia que o Exército exercia na recém-criada República.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O governo de Floriano Peixoto (1891-1894) ficou conhecido como o 'Marechal de Ferro' por qual razão?",
+      "options": [
+        "A) Ele era proprietário de todas as minas de ferro de Minas Gerais.",
+        "B) Pela sua postura rígida e autoritária no combate às revoltas civis e militares que ameaçavam o novo regime republicano.",
+        "C) Pela sua vontade de construir trens de ferro que dessem a volta em todo o Brasil.",
+        "D) Por ter proibido a fabricação de qualquer objeto que não fosse de madeira e pau-brasil.",
+        "E) Por ter declarado guerra contra a Inglaterra em nome da proteção do minério de ferro nacional."
+      ],
+      "correctIndex": 1,
+      "explanation": "Floriano não hesitou em usar a força extrema para consolidar a República sob o comando do Exército.",
+      "source": "Simulado ENEM / República Espada"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolta-da-armada/thumb.png",
+    "alt": "Revolta da Armada: O Duelo de Marechais",
+    "caption": "Revolta da Armada: O Duelo de Marechais"
+  },
+  "support_texts": [
+    {
+      "source": "SILVA, Hélio. A República da Espada. Rio de Janeiro: Civilização Brasileira, 1978.",
+      "paragraphs": [
+        "As duas Revoltas da Armada (1891 e 1893-1894) encarnaram o conflito agudo sobre a consolidação e a natureza autoritária da nascente ditadura militar florianista. A Marinha, de composição mais aristocrática e monarquista, colidiu frontalmente contra o Exército (de bases positivistas e republicanas), que controlava inconteste o governo federal.",
+        "Sob o comando dos Almirantes Custódio José de Mello e Saldanha da Gama, encouraçados brasileiros bombardearam o Rio de Janeiro com a intenção de forçar a renúncia do marechal Floriano Peixoto ('O Marechal de Ferro'). O levante estendeu-se até atrelar com os maragatos na sangrenta Revolução Federalista no Sul.",
+        "No contexto do Enem, as revoltas navais submetem o aluno à reflexão sobre as fraturas intraclasses e a turbulência formidável vivida no alvorecer republicano. Evidencia que a transição monarquia-república não teve uma consolidação apaziguadora, mas impulsionou disputas fratricidas pela hegemonia do Estado Brasileiro."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Revolta da Armada (1893-1894) no Rio de Janeiro foi motivada principalmente por qual fator político?",
+        "back": "A) A vontade dos marinheiros de que todos os navios fossem pintados de verde e amarelo.. A Marinha sentia-se excluída do poder pela hegemonia que o Exército exercia na recém-criada República."
+      },
+      {
+        "front": "O governo de Floriano Peixoto (1891-1894) ficou conhecido como o 'Marechal de Ferro' por qual razão?",
+        "back": "A) Ele era proprietário de todas as minas de ferro de Minas Gerais.. Floriano não hesitou em usar a força extrema para consolidar a República sob o comando do Exército."
+      },
+      {
+        "front": "O que foi a Revolta da Armada?",
+        "back": "Um conflito entre a Marinha e o Exército brasileiro após a Proclamação da República."
+      },
+      {
+        "front": "Quem liderou a segunda fase da Revolta da Armada?",
+        "back": "O almirante Custódio de Melo."
+      },
+      {
+        "front": "Contra quem a Revolta da Armada foi liderada?",
+        "back": "O vice-presidente Floriano Peixoto."
+      },
+      {
+        "front": "Como terminou o conflito da Revolta da Armada?",
+        "back": "Com a derrota dos rebeldes da Armada em 1894."
+      },
+      {
+        "front": "Qual foi o resultado da vitória de Floriano Peixoto?",
+        "back": "Consolidou o papel do Exército como fiador da República Brasileira e lhe rendeu o título de 'Consolidador da República'."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A vontade dos marinheiros de que todos os navios fossem pintados de verde e amarelo..",
+        "is_true": true,
+        "explanation": "A Marinha sentia-se excluída do poder pela hegemonia que o Exército exercia na recém-criada República."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A oposição da Marinha ao autoritarismo de Floriano Peixoto e a exigência de novas eleições presidenciais..",
+        "is_true": false,
+        "explanation": "Falso! A Marinha sentia-se excluída do poder pela hegemonia que o Exército exercia na recém-criada República."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Ele era proprietário de todas as minas de ferro de Minas Gerais..",
+        "is_true": true,
+        "explanation": "Floriano não hesitou em usar a força extrema para consolidar a República sob o comando do Exército."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Pela sua postura rígida e autoritária no combate às revoltas civis e militares que ameaçavam o novo regime republicano..",
+        "is_true": false,
+        "explanation": "Falso! Floriano não hesitou em usar a força extrema para consolidar a República sob o comando do Exército."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Revolta da Armada (1893)",
+        "match": "Marinheiros e oficiais contra o governo de Floriano Peixoto"
+      },
+      {
+        "concept": "Floriano Peixoto",
+        "match": "O Marechal de Ferro, 2º presidente do Brasil"
+      },
+      {
+        "concept": "Almirante Custódio de Melo",
+        "match": "Líder naval da revolta contra Floriano"
+      },
+      {
+        "concept": "Revolução Federalista",
+        "match": "Revolta simultânea no sul do Brasil"
+      },
+      {
+        "concept": "Degolas",
+        "match": "Execuções sumárias praticadas durante a Revolução Federalista"
+      },
+      {
+        "concept": "República da Espada",
+        "match": "Período presidido por militares (1889-1894)"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Marechal de Ferro contra a Armada",
+        "order": 1
+      },
+      {
+        "event": "2. Canhões sobre o Rio: O Terror Civil",
+        "order": 2
+      },
+      {
+        "event": "3. A 'Frota de Papel' dos EUA",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "REPÚBLICA",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolta da Armada: O Duelo de Marechais."
+    }
+  }
+}

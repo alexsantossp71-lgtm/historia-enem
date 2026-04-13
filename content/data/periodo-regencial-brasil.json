@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "periodo-regencial-brasil",
+    "title": "Período Regencial: A República Disfarçada",
+    "period": "1831 - 1840",
+    "tags": [
+      "Regência",
+      "Ato Adicional",
+      "Feijó",
+      "Maioridade",
+      "Federalismo"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "Entre a saída de D. Pedro I e a subida de D. Pedro II, o Brasil viveu uma década de caos. Sem um rei, o país quase se partiu em mil pedaços sob o comando de regentes.",
+  "theory_content": "O **Período Regencial** começou em 1831 com a abdicação de D. Pedro I. Como seu filho tinha apenas 5 anos, o Brasil foi governado por regentes eleitos pelo Parlamento. Politicamente, o país dividia-se em três grupos: os **Liberais Exaltados** (que queriam o fim da monarquia e o federalismo), os **Liberais Moderados** (que queriam a monarquia, mas sem o autoritarismo de Pedro I) e os **Restauradores** (que queriam a volta de Pedro I). Em 1834, os liberais aprovaram o **Ato Adicional**, que criou as Assembleias Provinciais, dando autonomia às províncias - foi a experiência mais 'republicana' do Império. \n\nA descentralização, porém, resultou em explosões de violência em todo o território (Farroupilha, Cabanagem, Sabinada, Balaiada). O medo da fragmentação do Brasil fez com que os conservadores retomassem o poder em 1837, aprovando a **Lei de Interpretação do Ato Adicional**, que centralizava novamente o poder no Rio de Janeiro. Finalmente, em 1840, com apenas 14 anos, D. Pedro II foi declarado emancipado no **Golpe da Maioridade**, uma manobra dos liberais para acalmar o país e restaurar a autoridade central. O ENEM costuma cobrar as disputas entre centralização e descentralização do poder e o impacto das revoltas regenciais na unidade territorial do Brasil.",
+  "sections": [
+    {
+      "title": "1. O Brasil Órfão: A Regência Trina",
+      "content": "Com a partida de Pedro I, o povo saiu às ruas gritando : 'O Brasil é nosso!'. Os primeiros regentes tentaram acalmar o país com a criação da Guarda Nacional (polícia dos fazendeiros). Foi o momento em que o 'Coronel' (fazendeiro com patente militar comprada) assumiu o controle da ordem local, substituindo o exército oficial que era mal visto por ser leal ao antigo imperador português.",
+      "highlight": "A Regência foi o berço do poder local dos fazendeiros no Brasil.",
+      "image": {
+        "url": "assets/images/lessons/periodo-regencial-brasil/section_0.png",
+        "alt": "1. O Brasil Órfão: A Regência Trina",
+        "caption": "1. O Brasil Órfão: A Regência Trina"
+      }
+    },
+    {
+      "title": "2. Ato Adicional de 1834: A Experiência Federalista",
+      "content": "Os liberais queriam que o Brasil fosse como os EUA: cada província com sua própria lei e polícia. O Ato Adicional extinguiu o Conselho de Estado e criou as assembleias locais. Foi um momento de liberdade administrativa, mas sem recursos nem preparo técnico, as províncias ficaram à mercê dos desmandos das elites locais, acelerando os conflitos armados pelo interior do país.",
+      "highlight": "O Ato Adicional foi o sonho federalista que virou o pesadelo das revoltas.",
+      "image": {
+        "url": "assets/images/lessons/periodo-regencial-brasil/section_1.png",
+        "alt": "2. Ato Adicional de 1834: A Experiência Federalista",
+        "caption": "2. Ato Adicional de 1834: A Experiência Federalista"
+      }
+    },
+    {
+      "title": "3. Padre Feijó: O Regente Solitário",
+      "content": "Diogo Antônio Feijó foi o primeiro regente único do Brasil. Um padre de temperamento difícil que tentou manter a ordem em meio à eclosão da Cabanagem e da Farroupilha. Sem apoio do Congresso e cansado de brigar com os conservadores, Feijó renunciou, provando que o Brasil não aceitaria ser governado por um homem comum sem o carisma da coroa real.",
+      "highlight": "Feijó tentou ser o rei que a sua batina não permitia ser.",
+      "image": {
+        "url": "assets/images/lessons/periodo-regencial-brasil/section_2.png",
+        "alt": "3. Padre Feijó: O Regente Solitário",
+        "caption": "3. Padre Feijó: O Regente Solitário"
+      }
+    },
+    {
+      "title": "4. O 'Regresso' Conservador (1837)",
+      "content": "A ala conservadora (os Chimangos) retomou o volante em 1837. Eles diziam que o Brasil estava 'se esvaindo em sangue' por culpa do Ato Adicional. Eles criaram leis para tirar o poder das províncias e devolver ao Rio de Janeiro. Esse movimento de 'Regresso' foi a base da estabilidade autoritária que D. Pedro II herdaria anos depois, matando a experiência democrática regencial.",
+      "highlight": "O Regresso foi o freio de mão puxado contra a liberdade provincial."
+    },
+    {
+      "title": "5. O Golpe da Maioridade: O Rei de 14 anos",
+      "content": "Os liberais, querendo voltar ao poder, convenceram D. Pedro II a aceitar a coroa antes do tempo. Em 1840, com um 'quero já', o imperador adolescente subiu ao trono sob as bênçãos do Parlamento. O objetivo era dar ao povo um símbolo sagrado de unidade. Assim terminava a regência e começava o Segundo Reinado, o mais longo e estável período da monarquia brasileira.",
+      "highlight": "A maioridade foi a gambiarra política que salvou o Império da fragmentação."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Ato Adicional de 1834, aprovado durante o Período Regencial brasileiro, é considerado um marco na nossa história política por qual motivo?",
+      "options": [
+        "A) Por ter transformado o Brasil em uma colônia da Marinha Francesa.",
+        "B) Por promover a descentralização do poder, criando as Assembleias Legislativas Provinciais e dando autonomia administrativa aos governos locais.",
+        "C) Por proibir o uso de cavalos em todas as fazendas de café.",
+        "D) Por obrigar o imperador D. Pedro II a morar na floresta amazônica.",
+        "E) Por decretar o fim imediato de todos os impostos sobre o café e o açúcar."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Ato Adicional foi a tentativa liberal de dar voz política às elites das províncias fora do Rio de Janeiro.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual foi a principal consequência social das 'Revoltas Regenciais' (Farroupilha, Cabanagem, Sabinada, etc.) que ocorreram entre 1831 e 1845?",
+      "options": [
+        "A) A doação gratuita de terras para todos os indígenas do Nordeste.",
+        "B) O fortalecimento do medo das elites em relação à fragmentação territorial do Brasil e à desordem social, levando ao Golpe da Maioridade.",
+        "C) O fim de todas as igrejas católicas e a proibição da religião no Brasil.",
+        "D) A venda das províncias do Sul para o governo da Argentina.",
+        "E) O cancelamento de todas as dívidas externas com a Inglaterra."
+      ],
+      "correctIndex": 1,
+      "explanation": "A instabilidade gerada pelas revoltas unificou as elites em torno da necessidade de um poder central forte.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou os conservadores a retomarem o poder em 1837?",
+      "options": [
+        "A) A necessidade de expansão territorial do Brasil",
+        "B) O medo da fragmentação do Brasil devido às explosões de violência em todo o território",
+        "C) A busca por uma monarquia mais autoritária",
+        "D) A implementação do federalismo no país",
+        "E) A criação de um novo sistema econômico"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da aprovação do Ato Adicional em 1834?",
+      "options": [
+        "A) A centralização do poder no Rio de Janeiro",
+        "B) A criação de um sistema de governo parlamentar",
+        "C) A descentralização do poder e a criação das Assembleias Provinciais",
+        "D) A abolição da monarquia e a instauração de uma república",
+        "E) A expansão territorial do Brasil"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o objetivo dos liberais ao declararem D. Pedro II emancipado em 1840?",
+      "options": [
+        "A) Restaurar a monarquia absoluta",
+        "B) Implementar o federalismo no país",
+        "C) Acabar com as revoltas regenciais e restaurar a autoridade central",
+        "D) Criar um novo sistema econômico",
+        "E) Expandir o território brasileiro"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/periodo-regencial-brasil/thumb.png",
+    "alt": "Período Regencial: A República Disfarçada",
+    "caption": "Período Regencial: A República Disfarçada"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Período Regencial (1831-1840) foi o momento de maior turbulência e experimentação política no Brasil do século XIX, frequentemente descrito como uma 'República de fato' em pleno regime monárquico. Com a abdicação de D. Pedro I em favor de seu filho de apenas cinco anos, o poder foi exercido por regentes eleitos. Foi uma época de intensos debates entre restauradores (caramurus), moderados (chimangos) e exaltados (farroupilhas), onde se discutia desde o grau de autonomia das províncias até a própria continuidade da monarquia.",
+        "As reformas liberais, como o Ato Adicional de 1834, deram maior poder às Assembleias Provinciais, mas acabaram por alimentar o sentimento separatista e republicano em várias regiões do país. O resultado foi uma explosão de revoltas como a Cabanagem, a Sabinada e a Revolução Farroupilha. Diante do risco iminente de fragmentação do território nacional, as elites conservadoras reagiram com o 'Regresso', centralizando novamente o poder e antecipando a maioridade de D. Pedro II aos 14 anos como única forma de garantir a unidade e a ordem social.",
+        "Estudar a regência para o Enem é fundamental para entender a gênese do sistema partidário brasileiro e a consolidação do Estado Nacional. Foi neste período que se definiram os contornos de um exército nacional e a criação da Guarda Nacional, braço armado dos fazendeiros (coronéis) que seria vital para o controle das massas nas décadas seguintes. A regência foi a prova de fogo que decidiu se o Brasil permaneceria como um país único ou se fragmentaria em diversas repúblicas, como ocorreu com os vizinhos hispanos."
+      ],
+      "source": "BASILE, Marcello. O Laboratório da Nação: O Período Regencial. Rio de Janeiro: Jorge Zahar, 2001."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Ato Adicional de 1834, aprovado durante o Período Regencial brasileiro, é considerado um marco na nossa história política por qual motivo?",
+        "back": "A) Por ter transformado o Brasil em uma colônia da Marinha Francesa.. O Ato Adicional foi a tentativa liberal de dar voz política às elites das províncias fora do Rio de Janeiro."
+      },
+      {
+        "front": "Qual foi a principal consequência social das 'Revoltas Regenciais' (Farroupilha, Cabanagem, Sabinada, etc.) que ocorreram entre 1831 e 1845?",
+        "back": "A) A doação gratuita de terras para todos os indígenas do Nordeste.. A instabilidade gerada pelas revoltas unificou as elites em torno da necessidade de um poder central forte."
+      },
+      {
+        "front": "Quando começou o Período Regencial?",
+        "back": "1831"
+      },
+      {
+        "front": "Quais eram os três grupos políticos do Período Regencial?",
+        "back": "Liberais Exaltados, Liberais Moderados e Restauradores"
+      },
+      {
+        "front": "O que foi o Ato Adicional?",
+        "back": "Criação das Assembleias Provinciais, dando autonomia às províncias"
+      },
+      {
+        "front": "Qual foi o resultado da descentralização?",
+        "back": "Explosões de violência em todo o território"
+      },
+      {
+        "front": "O que foi o Golpe da Maioridade?",
+        "back": "Declarar D. Pedro II emancipado, aos 14 anos, para restaurar a autoridade central"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A doação gratuita de terras para todos os indígenas do Nordeste.",
+        "is_true": true,
+        "explanation": "A instabilidade gerada pelas revoltas unificou as elites em torno da necessidade de um poder central forte."
+      },
+      {
+        "statement": "Por ter transformado o Brasil em uma colônia da Marinha Francesa.",
+        "is_true": true,
+        "explanation": "O Ato Adicional foi a tentativa liberal de dar voz política às elites das províncias fora do Rio de Janeiro."
+      },
+      {
+        "statement": "Por promover a descentralização do poder, criando as Assembleias Legislativas Provinciais e dando autonomia administrativa aos governos locais.",
+        "is_true": false,
+        "explanation": "Falso! O Ato Adicional foi a tentativa liberal de dar voz política às elites das províncias fora do Rio de Janeiro."
+      },
+      {
+        "statement": "O fortalecimento do medo das elites em relação à fragmentação territorial do Brasil e à desordem social, levando ao Golpe da Maioridade.",
+        "is_true": false,
+        "explanation": "Falso! A instabilidade gerada pelas revoltas unificou as elites em torno da necessidade de um poder central forte."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Regência Trina",
+        "match": "Governo de três regentes após a abdicação de D. Pedro I"
+      },
+      {
+        "concept": "Ato Adicional de 1834",
+        "match": "Reforma que criou a regência una e descentralizou o poder"
+      },
+      {
+        "concept": "Cabanagem",
+        "match": "Revolta popular no Pará com índios e mestiços"
+      },
+      {
+        "concept": "Balaiada",
+        "match": "Revolta popular no Maranhão (1838-1841)"
+      },
+      {
+        "concept": "Sabinada",
+        "match": "Revolta separatista na Bahia (1837-1838)"
+      },
+      {
+        "concept": "Farroupilha",
+        "match": "Guerra separatista no Rio Grande do Sul (1835-1845)"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Brasil Órfão: A Regência Trina",
+        "order": 1
+      },
+      {
+        "event": "2. Ato Adicional de 1834: A Experiência Federalista",
+        "order": 2
+      },
+      {
+        "event": "3. Padre Feijó: O Regente Solitário",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "DISFARÇADA",
+      "hint": "O conceito-chave central ou termo associado à aula de Período Regencial: A República Disfarçada."
+    }
+  }
+}

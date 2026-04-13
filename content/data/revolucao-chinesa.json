@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "id": "revolucao-chinesa",
+    "title": "Revolução Chinesa: Do Império à Superpotência",
+    "period": "1911 - Presente",
+    "tags": [
+      "Mao Tsé-Tung",
+      "Comunismo",
+      "Deng Xiaoping",
+      "Grande Salto Adiante",
+      "Guerra Civil"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral e Geopolítica",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução Chinesa foi o maior movimento camponês da história. Ela transformou o gigante asiático em uma potência que hoje desafia a hegemonia dos Estados Unidos no mundo.",
+  "theory_content": "A China entrou no século XX como o 'homem doente da Ásia', retalhada pelo imperialismo europeu e japonês. Em 1911, a monarquia caiu e nasceu a República (Kuomintang). No entanto, o país mergulhou em uma guerra civil entre os Nacionalistas de Chiang Kai-shek e os **Comunistas de Mao Tsé-Tung**. Diferente da Rússia (que focou no operário urbano), Mao baseou sua revolução no **Camponês**. Após a épica **Longa Marcha (1934)**, onde percorreram 10 mil km fugindo dos nacionalistas, os comunistas ganharam apoio popular lutando contra a invasão japonesa na 2ª Guerra Mundial. \n\nEm **1949**, Mao proclamou a República Popular da China, forçando os nacionalistas a fugirem para Taiwan. O novo governo tentou modernizar o país com o **Grande Salto Adiante (1958)**, um projeto de industrialização acelerada que causou uma das maiores fomes da história (milhões de mortes). Nos anos 1960, Mao lançou a **Revolução Cultural**, perseguindo intelectuais e oponentes para purificar os ideais revolucionários. Após a morte de Mao em 1976, **Deng Xiaoping** assumiu e iniciou as 'Quatro Modernizações', abrindo a economia para o capitalismo através das **Zonas Econômicas Especiais (ZEEs)**, mas mantendo a ditadura rígida do Partido Comunista (exemplo disso foi o Massacre da Praça da Paz Celestial em 1989). Hoje, a China vive o modelo de 'Um País, Dois Sistemas' — capitalismo no mercado, socialismo na política. O ENEM costuma cobrar essa transição econômica e a importância da China no cenário geopolítico atual.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o papel de Mao Tsé-Tung como líder messiânico. O ENEM costuma cobrar a transição da China agrária para a industrial. Entenda a diferença entre a Era Mao (ideologia e isolamento) e a Era Deng (pragmatismo e globalização). Saiba a importância das Zonas Econômicas Especiais (ZEEs) na exportação chinesa. Fique atento à questão de Taiwan, que é uma herança direta da guerra civil de 1949.",
+  "sections": [
+    {
+      "title": "1. A Queda do Dragão e a República (1911)",
+      "content": "A China era governada por imperadores há milênios. Sun Yat-sen liderou o levante que derrubou a dinastia Qing, mas a República era fraca e o país foi dominado por 'Senhores da Guerra' e potências estrangeiras. O Partido Comunista Chinês (PCC) surgiu como uma resposta nacionalista e social para expulsar os europeus e reorganizar a vida camponesa, que era quase medieval.",
+      "highlight": "A revolução chinesa começou como um grito de independência contra o imperialismo.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-chinesa/section_0.png",
+        "alt": "1. A Queda do Dragão e a República (1911)",
+        "caption": "1. A Queda do Dragão e a República (1911)"
+      }
+    },
+    {
+      "title": "2. A Longa Marcha e a Guerra Civil",
+      "content": "Cercados pelos exércitos nacionalistas, os comunistas de Mao fizeram uma retirada estratégica de 368 dias pelas montanhas e pântanos da China. Dos 100 mil que partiram, apenas 8 mil chegaram ao final. Essa jornada transformou Mao no líder supremo e provou que o exército comunista tinha a disciplina necessária para vencer. A guerra foi pausada para expulsar os japoneses, mas retomada após 1945.",
+      "highlight": "A Longa Marcha foi o mito fundador do exército vermelho chinês.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-chinesa/section_1.png",
+        "alt": "2. A Longa Marcha e a Guerra Civil",
+        "caption": "2. A Longa Marcha e a Guerra Civil"
+      }
+    },
+    {
+      "title": "3. Grande Salto Adiante e a Grande Fome",
+      "content": "Mao queria passar a Inglaterra na produção de aço em 15 anos. Ele forçou milhões de camponeses a criarem siderúrgicas de fundo de quintal e a coletivizarem a terra. Os números de colheita eram falsificados pela propaganda, mas a realidade foi um caos administrativo que destruiu a agricultura, levando a um colapso alimentar que matou entre 20 e 40 milhões de pessoas.",
+      "highlight": "O voluntarismo de Mao chocou-se com a realidade econômica de forma trágica.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-chinesa/section_2.png",
+        "alt": "3. Grande Salto Adiante e a Grande Fome",
+        "caption": "3. Grande Salto Adiante e a Grande Fome"
+      }
+    },
+    {
+      "title": "4. Revolução Cultural: O Livro Vermelho",
+      "content": "Mao convocou os jovens ('Guardas Vermelhos') para destruir os 'Quatro Velhos': velhos hábitos, velhas ideias, velha cultura e velhos costumes. Professores foram humilhados e museus destruídos. Mao usou o caos para limpar o Partido de seus rivais. Foi um período de obscurantismo onde a ideologia de Mao tornou-se uma religião estatal obrigatória na China.",
+      "highlight": "A revolução cultural foi o auge do culto à personalidade de Mao Tsé-Tung."
+    },
+    {
+      "title": "5. Deng Xiaoping e o Milagre Chinês",
+      "content": "Com Mao morto, Deng Xiaoping abandonou a ideologia pura. 'Ser rico é glorioso', dizia ele. Ele permitiu o lucro privado na agricultura e abriu cidades costeiras para fábricas estrangeiras (Nike, Apple, etc.). O resultado foi o maior crescimento econômico da história da humanidade, retirando 800 milhões de pessoas da miséria em 40 anos, sem abrir mão do controle total do Partido Comunista.",
+      "highlight": "A China de hoje é o produto do casamento entre o mercado de capitais e o punho de ferro estatal."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A abertura econômica da China na década de 1970, liderada por Deng Xiaoping, criou regiões específicas para atrair empresas estrangeiras e capital capitalista. Qual é o nome dessas regiões?",
+      "options": [
+        "A) Colônias Britânicas de Férias.",
+        "B) Zonas Econômicas Especiais (ZEEs).",
+        "C) Fazendas Coletivas de Aço.",
+        "D) Províncias do Dragão da Sorte.",
+        "E) Distritos Militares Isolados."
+      ],
+      "correctIndex": 1,
+      "explanation": "As ZEEs foram o motor do crescimento chinês, unindo mão de obra barata e capital global.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Diferente da revolução russa de 1917, qual foi o principal grupo social que serviu de base para a revolução comunista chinesa liderada por Mao Tsé-Tung?",
+      "options": [
+        "A) Os nobres feudais da corte imperial.",
+        "B) O proletariado urbano de Pequim e Xangai.",
+        "C) A grande burguesia comercial marítima.",
+        "D) Os camponeses, devido ao caráter agrário da China na época.",
+        "E) Os monges budistas do Tibete."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mao adaptou o marxismo à realidade chinesa, focando na massa rural oprimida.",
+      "source": "Simulado ENEM / Ásia Contemporânea"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-chinesa/thumb.png",
+    "alt": "Revolução Chinesa: Do Império à Superpotência",
+    "caption": "Revolução Chinesa: Do Império à Superpotência"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O transcorrer histórico que culminou na colossal 'Revolução Chinesa' sob a égide inconteste do Partido Comunista Chinês foi indissociável da fragilidade civilizatória e das agressões bélicas internacionais infligidas pela Era dos Tratados Desiguais. Com a caducidade letárgica das antigas monarquias da dinastia absolutista Qing, a liderança republicano-burguesa vacilante do Kuomintang e principalmente sob a perniciosa pilhagem das bestiais invasões do Exército Imperial Japonês nascente em 1930, propiciaram-se como terrenos propícios de humilhação ao ideário do patriotismo proletariado agrariano extremado ideologizado.",
+        "Um paradigma nevrálgico dessa gigantesca insurreição asiática fora protagonizado singularmente pela teoria autoral de Mao Zedong que reformulou a via da concepção ortodoxa. Mao diagnosticou radicalmente na massiva revolta camponesa do feudalismo a real mola principal – em oposição explícita do trabalhador siderúrgico capitalista do proletário urbano soviético e europeu clássico referenciado pelas teorizações industriais esquerdistas. A heróica Grande Marcha dos combatentes maoístas refugiou as raízes militares partidárias em bases fortificadas, alicerçando a adesão absoluta popular interiorizada.",
+        "Do ano decisivamente triunfante de constituição definitiva vermelha pelo líder supremo a partir 1949, passando pela funesta crise agropastoril e hiperinflacionária de famintas letalidades chamada O 'Grande Salto Adiante' pela planificação até às expurgatórias de aniquilações puristas violentas da infame enrubescida e anti-dissidente 'Revolução Cultural Proletária' nos idos dos anos 60 constituem o alicerce interpretativo do candidato. Uma colossal estrutura planificadora estatal que logrou e unificou e, simultaneamente, triturou direitos de forma contundente ao estabelecer fundacionalmente as raízes de aço da pátria sínica atual."
+      ],
+      "source": "MEISNER, Maurice. Mao's China and After: A History of the People's Republic. Free Press, 1999."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A abertura econômica da China na década de 1970, liderada por Deng Xiaoping, criou regiões específicas para atrair empresas estrangeiras e capital capitalista. Qual é o nome dessas regiões?",
+        "back": "A) Colônias Britânicas de Férias.. As ZEEs foram o motor do crescimento chinês, unindo mão de obra barata e capital global."
+      },
+      {
+        "front": "Diferente da revolução russa de 1917, qual foi o principal grupo social que serviu de base para a revolução comunista chinesa liderada por Mao Tsé-Tung?",
+        "back": "A) Os nobres feudais da corte imperial.. Mao adaptou o marxismo à realidade chinesa, focando na massa rural oprimida."
+      },
+      {
+        "front": "Quem liderou a revolução comunista na China?",
+        "back": "Mao Tsé-Tung"
+      },
+      {
+        "front": "Qual foi o evento que marcou a criação da República Popular da China?",
+        "back": "Proclamação em 1949"
+      },
+      {
+        "front": "O que foi o Grande Salto Adiante?",
+        "back": "Projeto de industrialização acelerada em 1958"
+      },
+      {
+        "front": "Quem assumiu após a morte de Mao e iniciou as Quatro Modernizações?",
+        "back": "Deng Xiaoping"
+      },
+      {
+        "front": "Qual é o modelo econômico e político atual da China?",
+        "back": "Um País, Dois Sistemas"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Colônias Britânicas de Férias..",
+        "is_true": true,
+        "explanation": "As ZEEs foram o motor do crescimento chinês, unindo mão de obra barata e capital global."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Zonas Econômicas Especiais (ZEEs)..",
+        "is_true": false,
+        "explanation": "Falso! As ZEEs foram o motor do crescimento chinês, unindo mão de obra barata e capital global."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Os nobres feudais da corte imperial..",
+        "is_true": true,
+        "explanation": "Mao adaptou o marxismo à realidade chinesa, focando na massa rural oprimida."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) O proletariado urbano de Pequim e Xangai..",
+        "is_true": false,
+        "explanation": "Falso! Mao adaptou o marxismo à realidade chinesa, focando na massa rural oprimida."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Mao Tsé-tung",
+        "match": "Líder comunista que fundou a República Popular da China"
+      },
+      {
+        "concept": "Longa Marcha",
+        "match": "Retirada estratégica do exército comunista chinês"
+      },
+      {
+        "concept": "Kuomintang",
+        "match": "Partido nacionalista derrotado pelos comunistas"
+      },
+      {
+        "concept": "Grande Salto Adiante",
+        "match": "Plano de industrialização forçada que causou fome"
+      },
+      {
+        "concept": "Revolução Cultural",
+        "match": "Campanha de Mao para eliminar opositores (1966-76)"
+      },
+      {
+        "concept": "Taiwan",
+        "match": "Ilha para onde fugiram os nacionalistas derrotados"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Queda do Dragão e a República (1911)",
+        "order": 1
+      },
+      {
+        "event": "2. A Longa Marcha e a Guerra Civil",
+        "order": 2
+      },
+      {
+        "event": "3. Grande Salto Adiante e a Grande Fome",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "SUPERPOTÊNCIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução Chinesa: Do Império à Superpotência."
+    }
+  }
+}

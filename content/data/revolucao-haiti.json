@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "revolucao-haiti",
+    "title": "Revolução do Haiti: O Grito da Liberdade Negra",
+    "period": "1791 - 1804",
+    "tags": [
+      "Haiti",
+      "Toussaint Louverture",
+      "Escravidão",
+      "Haitianismo",
+      "Independência"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Na ilha mais rica do Caribe, os escravos levaram os ideais da Revolução Francesa a sério demais para os brancos. Eles venceram Napoleão e criaram a primeira república negra do mundo.",
+  "theory_content": "A **Revolução do Haiti** (1791-1804) foi o movimento de independência da colônia francesa de Saint-Domingue, a maior produtora de açúcar do mundo na época. Inspirados pelo lema 'Liberdade, Igualdade e Fraternidade' da Revolução Francesa, os negros escravizados rebelaram-se contra os plantadores brancos. Sob a liderança de **Toussaint Louverture**, um gênio militar negro, o exército de escravos derrotou as tropas da França, Espanha e Inglaterra. \n\nA revolução radicalizou-se após a tentativa de Napoleão Bonaparte de restabelecer a escravidão, o que levou **Jean-Jacques Dessalines** a proclamar a independência em 1804, rebatizando o país com o nome indígena de 'Haiti'. O impacto no Brasil foi sísmico: o termo **Haitianismo** passou a designar o pavor das elites brasileiras de que uma revolta de escravos destruísse a ordem colonial lusa. O ENEM costuma cobrar a contradição iluminista francesa (igualdade apenas para brancos), a resistência negra como motor da história e o isolamento diplomático e econômico imposto ao Haiti após a vitória.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude Toussaint Louverture como o 'Napoleão Negro'. O ENEM costuma cobrar o 'Haitianismo' como justificativa para o autoritarismo de Dom Pedro I e da elite regencial no Brasil. Entenda que o Haiti pagou uma 'taxa de independência' para a França que quebrou o país até o século XX. Saiba que esta foi a única revolução que combinou abolição da escravidão com independência nacional.",
+  "sections": [
+    {
+      "title": "1. Saint-Domingue: A Máquina de Morder Carne Humana",
+      "content": "Antes da revolta, o Haiti era a joia da coroa francesa. Produzia 40% do açúcar e 60% do café consumidos no mundo. Mas essa riqueza era sustentada por uma taxa de mortalidade de escravos tão alta que a França precisava importar 40 mil novos africanos por ano para repor os que morriam de exaustão e tortura. A ilha era um vulcão de ódio negro prestes a explodir contra um punhado de brancos luxuosos.",
+      "highlight": "O açúcar francês era adoçado com o sangue de meio milhão de africanos.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-haiti/section_0.png",
+        "alt": "1. Saint-Domingue: A Máquina de Morder Carne Humana",
+        "caption": "1. Saint-Domingue: A Máquina de Morder Carne Humana"
+      }
+    },
+    {
+      "title": "2. Toussaint Louverture: O Jacobino Negro",
+      "content": "Toussaint era um ex-escravo alfabetizado que lia os clássicos do iluminismo. Ele organizou os rebeldes em um exército profissional de guerrilha. Ele jogou as potências europeias umas contra as outras, garantindo a abolição da escravidão em 1794. Toussaint acreditava que negros e brancos poderiam conviver em uma ilha próspera, mas seu sonho foi interrompido pela traição de Napoleão, que o prendeu e o enviou para morrer de frio em uma prisão nos Alpes franceses.",
+      "highlight": "Toussaint provou que um negro livre podia ser mais culto e estratégico que qualquer general europeu.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-haiti/section_1.png",
+        "alt": "2. Toussaint Louverture: O Jacobino Negro",
+        "caption": "2. Toussaint Louverture: O Jacobino Negro"
+      }
+    },
+    {
+      "title": "3. Dessalines e a Independência ou Morte",
+      "content": "Com a prisão de Toussaint e a volta do racismo napoleônico, o general Dessalines não teve piedade. Ele liderou a guerra total contra os brancos sob o lema 'Vingar os nossos irmãos'. No dia 1º de janeiro de 1804, nasceu o Haiti. A bandeira foi criada rasgando a parte branca da bandeira da França (tricolor), simbolizando a expulsão definitiva dos brancos. O Haiti tornava-se o farol da liberdade para todos os negros das Américas.",
+      "highlight": "O Haiti foi o primeiro país a dizer que a cor da pele não definia a cidadania.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-haiti/section_2.png",
+        "alt": "3. Dessalines e a Independência ou Morte",
+        "caption": "3. Dessalines e a Independência ou Morte"
+      }
+    },
+    {
+      "title": "4. Haitianismo no Brasil: O Pesadelo da Elite",
+      "content": "D. Pedro I e os grandes fazendeiros de café do Rio de Janeiro não dormiam tranquilos. Eles olhavam para o Haiti e viam o que poderia acontecer no Brasil, onde a maioria da população também era negra e escravizada. O 'Haitianismo' foi usado para proibir cultos africanos, capoeira e qualquer reunião de negros, além de ser o principal argumento para manter a Monarquia forte como garantia de ordem social contra o 'caos' republicano haitiano.",
+      "highlight": "O medo do Haiti foi a cola que manteve o Brasil Unido e Monárquico por 67 anos."
+    },
+    {
+      "title": "5. A Conta Chega: O Preço do Reconhecimento",
+      "content": "O mundo puniu o Haiti por ter vencido. As potências europeias e os EUA criaram um embargo comercial total. Para não ser invadido de novo, o Haiti foi obrigado a pagar 150 milhões de francos em ouro para a França como 'indenização' pelos escravos que se libertaram sozinho. O país passou 120 anos pagando essa dívida cruel, o que explica por que a nação mais revolucionária do mundo tornou-se uma das mais pobres hoje.",
+      "highlight": "O Haiti comprou sua liberdade pagando o seu próprio peso em ouro para quem o escravizava."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Revolução do Haiti (1791-1804) diferenciou-se de todos os outros processos de independência nas Américas por qual característica única?",
+      "options": [
+        "A) Ter sido liderada por chefes indígenas que queriam a volta do Império Azteca.",
+        "B) Ter sido a única revolução liderada por escravos que resultou na abolição imediata da escravidão e na criação de uma república negra independente.",
+        "C) Proibir o uso de qualquer tipo de café em todas as manhãs de domingo na ilha.",
+        "D) Venda imediata de todo o açúcar nacional para o governo da China em troca de guarda-chuvas.",
+        "E) O cancelamento de todas as aulas de história em universidades francesas."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Haiti uniu independência política com revolução social radical ao fim da escravidão.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O termo 'Haitianismo' no Brasil do século XIX referia-se a que fenômeno social e político?",
+      "options": [
+        "A) À vontade da elite brasileira de se mudar para morar nas praias do Haiti.",
+        "B) Ao profundo temor das elites brancas escravocratas de que ocorresse no Brasil uma revolta de escravos similar à do Haiti, levando à destruição da ordem estabelecida.",
+        "C) À decisão de transformar todas as fazendas de café em plantações de cana-de-açúcar haitiana.",
+        "D) Venda de todos os escravos do Brasil para investidores da Europa em troca de relógios.",
+        "E) O cancelamento de todas as viagens de navio entre o Brasil e o Haiti por ordem do Imperador."
+      ],
+      "correctIndex": 1,
+      "explanation": "O medo da contaminação das ideias revolucionárias negras pautou a política de repressão no Brasil imperial.",
+      "source": "Simulado ENEM / Independência do Brasil"
+    },
+    {
+      "question": "Qual foi o principal fator que inspirou os negros escravizados a se rebelarem contra os plantadores brancos durante a Revolução do Haiti?",
+      "options": [
+        "A) A promessa de terras e riquezas por parte dos plantadores",
+        "B) O lema 'Liberdade, Igualdade e Fraternidade' da Revolução Francesa",
+        "C) A influência da Igreja Católica na colônia",
+        "D) A chegada de imigrantes europeus na ilha",
+        "E) A descoberta de novas rotas comerciais"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quem foi o líder militar que comandou o exército de escravos durante a Revolução do Haiti e derrotou as tropas da França, Espanha e Inglaterra?",
+      "options": [
+        "A) Jean-Jacques Dessalines",
+        "B) Toussaint Louverture",
+        "C) Napoleão Bonaparte",
+        "D) Simón Bolívar",
+        "E) Pedro I do Brasil"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da tentativa de Napoleão Bonaparte de restabelecer a escravidão na colônia de Saint-Domingue?",
+      "options": [
+        "A) A escravidão foi restabelecida e a revolução foi derrotada",
+        "B) A revolução radicalizou-se e a independência foi proclamada",
+        "C) A colônia foi dividida entre a França e a Espanha",
+        "D) A escravidão foi abolida, mas a colônia permaneceu sob controle francês",
+        "E) A colônia foi anexada pelo Reino Unido"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-haiti/thumb.png",
+    "alt": "Revolução do Haiti: O Grito da Liberdade Negra",
+    "caption": "Revolução do Haiti: O Grito da Liberdade Negra"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Revolução do Haiti (1791-1804) foi a única revolta de escravos na história que resultou na fundação de um Estado independente e na abolição imediata da escravidão. Segundo C.L.R. James, os 'Jacobinos Negros' de Saint-Domingue levaram os ideais de liberdade da Revolução Francesa às suas últimas consequências, desafiando a hipocrisia das potências europeias que defendiam a igualdade apenas para brancos. Sob a liderança de Toussaint L’Ouverture, o exército de escravos derrotou as maiores potências militares da época.",
+        "O impacto da independência haitiana nas Américas foi sísmico, gerando o fenômeno do 'Haitianismo' — o pavor das elites brancas de que o exemplo da revolta negra se espalhasse pelo continente. No Brasil, esse medo pautou a repressão a quilombos e a manutenção do regime monárquico como garantia de ordem. O isolamento diplomático e a pesada indenização imposta pela França para reconhecer a independência condenaram o Haiti a um ciclo de pobreza econômica que contrastava com sua glória revolucionária.",
+        "O estudo da Revolução do Haiti é crucial para o Enem por desconstruir o mito da passividade escrava. Ela demonstra que o motor da descolonização americana não foi apenas o interesse das elites criollas, mas também a agência radical das populações negras. A análise dessa revolução permite compreender as contradições do Iluminismo e os limites da cidadania nas sociedades coloniais escravistas do século XIX."
+      ],
+      "source": "JAMES, C. L. R. Os Jacobinos Negros: Toussaint L'Ouverture e a Revolução de São Domingos. Rio de Janeiro: Boitempo, 2010."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Revolução do Haiti (1791-1804) diferenciou-se de todos os outros processos de independência nas Américas por qual característica única?",
+        "back": "A) Ter sido liderada por chefes indígenas que queriam a volta do Império Azteca.. O Haiti uniu independência política com revolução social radical ao fim da escravidão."
+      },
+      {
+        "front": "O termo 'Haitianismo' no Brasil do século XIX referia-se a que fenômeno social e político?",
+        "back": "A) À vontade da elite brasileira de se mudar para morar nas praias do Haiti.. O medo da contaminação das ideias revolucionárias negras pautou a política de repressão no Brasil imperial."
+      },
+      {
+        "front": "O que foi a Revolução do Haiti?",
+        "back": "Um movimento de independência da colônia francesa de Saint-Domingue."
+      },
+      {
+        "front": "Quem liderou o exército de escravos na Revolução do Haiti?",
+        "back": "Toussaint Louverture."
+      },
+      {
+        "front": "Quem proclamou a independência do Haiti em 1804?",
+        "back": "Jean-Jacques Dessalines."
+      },
+      {
+        "front": "Qual foi o impacto da Revolução do Haiti no Brasil?",
+        "back": "Pavor das elites brasileiras de uma revolta de escravos, conhecido como Haitianismo."
+      },
+      {
+        "front": "Qual foi o lema que inspirou a Revolução do Haiti?",
+        "back": "Liberdade, Igualdade e Fraternidade."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Ter sido liderada por chefes indígenas que queriam a volta do Império Azteca..",
+        "is_true": true,
+        "explanation": "O Haiti uniu independência política com revolução social radical ao fim da escravidão."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Ter sido a única revolução liderada por escravos que resultou na abolição imediata da escravidão e na criação de uma república negra independente..",
+        "is_true": false,
+        "explanation": "Falso! O Haiti uniu independência política com revolução social radical ao fim da escravidão."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) À vontade da elite brasileira de se mudar para morar nas praias do Haiti..",
+        "is_true": true,
+        "explanation": "O medo da contaminação das ideias revolucionárias negras pautou a política de repressão no Brasil imperial."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Ao profundo temor das elites brancas escravocratas de que ocorresse no Brasil uma revolta de escravos similar à do Haiti, levando à destruição da ordem estabelecida..",
+        "is_true": false,
+        "explanation": "Falso! O medo da contaminação das ideias revolucionárias negras pautou a política de repressão no Brasil imperial."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Toussaint Louverture",
+        "match": "Líder da revolução haitiana, ex-escravo"
+      },
+      {
+        "concept": "Haiti",
+        "match": "Primeira república negra independente do mundo"
+      },
+      {
+        "concept": "Saint-Domingue",
+        "match": "Nome colonial do Haiti sob domínio francês"
+      },
+      {
+        "concept": "Jean-Jacques Dessalines",
+        "match": "Proclamou a independência do Haiti em 1804"
+      },
+      {
+        "concept": "Vodu",
+        "match": "Religião afro-caribenha que unificou os haitianos"
+      },
+      {
+        "concept": "Código Negro",
+        "match": "Lei francesa que regulamentava a escravidão nas colônias"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Saint-Domingue: A Máquina de Morder Carne Humana",
+        "order": 1
+      },
+      {
+        "event": "2. Toussaint Louverture: O Jacobino Negro",
+        "order": 2
+      },
+      {
+        "event": "3. Dessalines e a Independência ou Morte",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "REVOLUÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução do Haiti: O Grito da Liberdade Negra."
+    }
+  }
+}

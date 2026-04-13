@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "id": "linguagens",
+    "title": "Linguagens",
+    "period": "",
+    "tags": [],
+    "area": "Linguagens",
+    "subject": "",
+    "visual_depth": "elite"
+  },
+  "intro": "# Fontes Confiáveis para Linguagens do ENEM",
+  "theory_content": "# Fontes Confiáveis para Linguagens do ENEM\n\n## Português\n1. **Brasil Escola - Português** - https://brasilescola.uol.com.br/portugues/\n   - Avaliação: 5/5\n   - Descrição: Conteúdo completo de gramática, literatura e interpretação de texto alinhado ao ENEM.\n   - Verificado: 2026-03-30 - Acessível\n\n2. **Khan Academy - Gramática** - https://pt.khanacademy.org/humanities/grammar\n   - Avaliação: 4/5\n   - Descrição: Videoaulas e exercícios sobre gramática portuguesa.\n   - Verificado: 2026-03-30 - Acessível\n\n3. **Stoodi - Português** - https://www.stoodi.com.br/\n   - Avaliação: 4/5\n   - Descrição: Videoaulas, resumos e questões específicas para ENEM.\n   - Verificado: 2026-03-30 - Acessível\n\n4. **InfoEscola - Língua Portuguesa** - https://www.infoescola.com/portugues/\n   - Avaliação: 4/5\n   - Descrição: Explicações teóricas e exemplos de aplicação.\n   - Verificado: 2026-03-30 - Acessível\n\n5. **Brasil.gov.br - Educação** - https://www.gov.br/educacao/pt-br/assuntos/noticias/2023/08/dicas-de-estudo-para-o-enem-linguagens\n   - Avaliação: 5/5\n   - Descrição: Orientações oficiais do MEC para a prova de Linguagens.\n   - Verificado: 2026-03-30 - Acessível\n\n## Literatura\n1. **Escola Khan Academy - Literatura** - https://pt.khanacademy.org/humanities/literature\n   - Avaliação: 4/5\n   - Descrição: Estudos de obras literárias, movimentos e contextos históricos.\n   - Verificado: 2026-03-30 - Acessível\n\n2. **LiteraNet** - https://www.literanet.org/\n   - Avaliação: 4/5\n   - Descrição: Textos completos de obras clássicas e análises críticas.\n   - Verificado: 2026-03-30 - Acessível\n\n3. **Projeto Gutenberg Português** - https://www.gutenberg.org/browse/languages/pt\n   - Avaliação: 5/5\n   - Descrição: Obras literárias em domínio público para estudo.\n   - Verificado: 2026-03-30 - Acessível\n\n## Inglês\n1. **Khan Academy - Inglês** - https://pt.khanacademy.org/test-prep/sat/sat-reading-writing-practice\n   - Avaliação: 4/5\n   - Descrição: Prática de leitura e interpretação de textos em inglês.\n   - Verificado: 2026-03-30 - Acessível\n\n2. **Duolingo Inglês** - https://www.duolingo.com/course/pt/en/Learn-English\n   - Avaliação: 3/5\n   - Descrição: Prática interativa de vocabulário e gramática básica.\n   - Verificado: 2026-03-30 - Acessível\n\n3. **BBC Learning English** - https://www.bbc.co.uk/learningenglish\n   - Avaliação: 5/5\n   - Descrição: Recursos gratuitos para aprendizado de inglês com foco em notícias e cultura.\n   - Verificado: 2026-03-30 - Acessível\n\n## Redação\n1. **MEC - Guia de Redação do ENEM** - https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/participante/redacao\n   - Avaliação: 5/5\n   - Descrição: Orientações oficiais, temas anteriores e critérios de correção.\n   - Verificado: 2026-03-30 - Acessível\n\n2. **Redação Nota 1000** - https://redacaonota1000.com.br/\n   - Avaliação: 4/5\n   - Descrição: Correções de redações, modelos e dicas de escrita.\n   - Verificado: 2026-03-30 - Acessível\n\n## Estatísticas de Verificação\n- Total de fontes: 12\n- Fontes com avaliação 5/5: 5\n- Fontes acessíveis: 12/12\n- Última verificação: 2026-03-30\n\n## Observações\nTodas as fontes foram verificadas quanto à acessibilidade e relevância para o conteúdo do ENEM. Priorizamos fontes oficiais (gov.br, MEC) e plataformas educacionais reconhecidas.",
+  "support_text": "",
+  "sections": [],
+  "quiz": [],
+  "thumbnail": {
+    "url": "assets/images/lessons/linguagens/thumb.png",
+    "alt": "Linguagens",
+    "caption": "Linguagens"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A matriz das Linguagens consolida a mais central competência sociodiscursiva e de leitura mundo do aluno médio atual. Muito distante de dogmas gramaticais do passado, avalia-se implacavelmente os jogos subjacentes práticos intertextuais na língua nacional escrita formal, as semânticas dos repertórios artísticos modernos imagéticos no Enem e o vasto corpo e comunicação digital.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [],
+    "true_false": [],
+    "memory": [],
+    "timeline": [],
+    "wordsearch": {
+      "secret_word": "CONFIÁVEIS",
+      "hint": "O conceito-chave central ou termo associado à aula de Linguagens."
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "anl-aib",
+    "title": "AIB vs ANL: O Brasil Polarizado",
+    "period": "1934 - 1937",
+    "tags": [
+      "Integralismo",
+      "ANL",
+      "Prestes",
+      "Plínio Salgado",
+      "Plano Cohen"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "Na década de 30, o Brasil foi o campo de batalha entre as camisas verdes do fascismo e as bandeiras vermelhas do comunismo. Esse conflito deu a Getúlio Vargas a desculpa perfeita para sua ditadura.",
+  "theory_content": "Os anos 30 no Brasil foram marcados por uma intensa radicalização política, espelhando o cenário europeu. Surgiram dois grandes blocos: a **AIB (Ação Integralista Brasileira)**, liderada por Plínio Salgado, era de inspiração fascista, defendendo o lema 'Deus, Pátria e Família', o uso de uniformes (Camisas Verdes) e a saudação indígena 'Anauê'. Já a **ANL (Aliança Nacional Libertadora)**, liderada por Luís Carlos Prestes (o 'Cavaleiro da Esperança'), reunia comunistas, socialistas e liberais contra o fascismo e o imperialismo, sob o lema 'Pão, Terra e Liberdade'. \n\nEm 1935, a ANL foi colocada na ilegalidade por Vargas. Em resposta, os comunistas tentaram o golpe militar conhecido como **Intentona Comunista**, que fracassou miseravelmente. Isso deu a Vargas o argumento de que havia um 'perigo vermelho' iminente, permitindo-lhe prender Prestes e deportar sua esposa grávida, Olga Benário, para a Alemanha nazista. Em 1937, Vargas usou o falso 'Plano Cohen' para fechar o Congresso e instaurar o Estado Novo, proibindo também o Integralismo. Quando os integralistas tentaram um contra-golpe em 1938 (Levante Integralista no Palácio Guanabara), foram derrotados, consolidando o poder absoluto de Getúlio. O ENEM costuma cobrar as características dessas ideologias e como a polarização abriu espaço para o autoritarismo varguista.",
+  "sections": [
+    {
+      "title": "1. AIB: Fachada Fascista no Brasil",
+      "content": "Plínio Salgado queria um Brasil forte e centralizado. Os integralistas usavam o Sigma (Σ) como símbolo e pregavam o corporativismo. Odiavam a democracia liberal e o comunismo, acreditando que o Estado deveria ser o pai de todos. Eram organizados como um exército, desfilando pelas ruas das capitais em demonstração de força e disciplina.",
+      "highlight": "O anauê foi o grito do fascismo tropical nos anos 30.",
+      "image": {
+        "url": "assets/images/lessons/anl-aib/section_0.png",
+        "alt": "1. AIB: Fachada Fascista no Brasil",
+        "caption": "1. AIB: Fachada Fascista no Brasil"
+      }
+    },
+    {
+      "title": "2. ANL: A Frente Ampla de Esquerda",
+      "content": "A Aliança Nacional Libertadora foi um movimento de massas. Prestes foi o símbolo dessa luta. Eles queriam que o Brasil parasse de ser uma fazenda das potências estrangeiras e fizesse uma reforma agrária radical. Vargas, no entanto, viu nesse movimento uma ameaça ao seu projeto de poder e usou a lei de segurança nacional para caçar os membros da ANL.",
+      "highlight": "A ANL foi a primeira tentativa de uma frente popular anti-fascista no Brasil.",
+      "image": {
+        "url": "assets/images/lessons/anl-aib/section_1.png",
+        "alt": "2. ANL: A Frente Ampla de Esquerda",
+        "caption": "2. ANL: A Frente Ampla de Esquerda"
+      }
+    },
+    {
+      "title": "3. Intentona Comunista: O Erro de Cálculo",
+      "content": "Em 1935, quartéis em Natal, Recife e Rio de Janeiro rebelaram-se. Eles achavam que o povo iria para as ruas seguir os comunistas, mas o exército de Vargas massacrou a revolta em poucos dias. O fracasso da intentona deu a Vargas a 'carta branca' para decretar estado de sítio e perseguir toda e qualquer oposição, em nome da defesa da pátria.",
+      "highlight": "A intentona de 1935 foi o pretexto de ouro para o endurecimento da ditadura.",
+      "image": {
+        "url": "assets/images/lessons/anl-aib/section_2.png",
+        "alt": "3. Intentona Comunista: O Erro de Cálculo",
+        "caption": "3. Intentona Comunista: O Erro de Cálculo"
+      }
+    },
+    {
+      "title": "4. Olga Benário: O Sacrifício Diplomático",
+      "content": "Olga, alemã e judia, veio ao Brasil para proteger Prestes. Grávida, foi presa por Vargas após a intentona e enviada de navio para a Alemanha de Hitler como um 'presente' diplomático. Ela morreu em uma câmara de gás em Bernburg. Esse episódio é uma das maiores manchas na biografia de Vargas e mostra a crueldade do regime contra os militantes da ANL.",
+      "highlight": "O destino de Olga simboliza a face sombria da colaboração varguista com o nazismo."
+    },
+    {
+      "title": "5. O Fim dos Camisas Verdes (1938)",
+      "content": "Plínio Salgado achou que Vargas iria dividir o poder com ele no Estado Novo. Quando percebeu que foi enganado, os integralistas tentaram invadir o palácio de Getúlio com metralhadoras em punho. Vargas, escondido com sua família, resistiu até a chegada dos guardas. O movimento foi esmagado e Salgado fugiu para o exílio em Portugal. Vargas não aceitava rivais, nem mesmo os da extrema-direita.",
+      "highlight": "Vargas usou os integralistas para chegar ao poder e depois os descartou como lixo político."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A ANL (Aliança Nacional Libertadora) foi um movimento político dos anos 30 liderado por Luís Carlos Prestes. Qual era o seu principal lema de luta?",
+      "options": [
+        "A) Brasil acima de tudo, Deus acima de todos.",
+        "B) Pão, Terra e Liberdade.",
+        "C) Ordem e Progresso no campo e na cidade.",
+        "D) Café com Leite para todos os brasileiros.",
+        "E) Anauê, Pátria e Família Sagrada."
+      ],
+      "correctIndex": 1,
+      "explanation": "O lema refletia as necessidades básicas das massas camponesas e operárias da época.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O movimento Integralista Brasileiro (AIB) apresentava características facistas e nacionalistas. Qual era sua saudação oficial e o seu líder máximo?",
+      "options": [
+        "A) Aloha; Getúlio Vargas.",
+        "B) Anauê; Plínio Salgado.",
+        "C) Amém; Padre Cícero.",
+        "D) Avante; João Pessoa.",
+        "E) Adeus; Washington Luís."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Integralismo buscava raízes indígenas para criar um fascismo genuinamente brasileiro.",
+      "source": "Simulado ENEM / Anos 30"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou Vargas a colocar a ANL na ilegalidade em 1935?",
+      "options": [
+        "A) A ANL defendia a monarquia no Brasil",
+        "B) A ANL defendia o imperialismo estrangeiro",
+        "C) A ANL defendia o fascismo e o nazismo",
+        "D) A ANL defendia o comunismo e o socialismo",
+        "E) A ANL defendia a separação do Brasil em estados independentes"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado do Levante Integralista no Palácio Guanabara em 1938?",
+      "options": [
+        "A) Os integralistas conseguiram derrubar o governo de Vargas",
+        "B) Os integralistas conseguiram fechar o Congresso Nacional",
+        "C) Os integralistas foram derrotados e o poder de Vargas foi consolidado",
+        "D) Os integralistas conseguiram estabelecer um governo provisório",
+        "E) Os integralistas conseguiram negociar uma trégua com o governo"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o destino de Olga Benário, esposa de Luís Carlos Prestes, após a Intentona Comunista?",
+      "options": [
+        "A) Ela foi presa e condenada à morte",
+        "B) Ela foi deportada para a União Soviética",
+        "C) Ela foi deportada para a Alemanha nazista",
+        "D) Ela foi libertada e pôde viver em liberdade",
+        "E) Ela foi enviada para um campo de concentração no Brasil"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/anl-aib/thumb.png",
+    "alt": "AIB vs ANL: O Brasil Polarizado",
+    "caption": "AIB vs ANL: O Brasil Polarizado"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Manifesto da Aliança Nacional Libertadora (ANL), lançado em março de 1935, representou o ápice da radicalização política no Brasil da Era Vargas. Sob a liderança honorária de Luís Carlos Prestes, o movimento aglutinava comunistas, socialistas e liberais progressistas em uma frente única contra o avanço do fascismo internacional e o imperialismo econômico. O programa da ANL, que incluía a suspensão do pagamento da dívida externa e a reforma agrária, desafiava diretamente as bases da elite agrária e industrial brasileira.",
+        "Em contrapartida, a Ação Integralista Brasileira (AIB), liderada por Plínio Salgado, buscava instaurar um Estado corporativista sob a égide do nacionalismo ufanista 'Deus, Pátria e Família'. Inspirada diretamente no fascismo italiano, a AIB possuía uma rígida estética militarista, com seus 'Camisas Verdes' realizando desfiles e saudações padronizadas. O embate entre as duas siglas transformou as ruas das grandes capitais brasileiras em campos de batalha ideológicos, refletindo o clima de polarização que antecedeu a Segunda Guerra Mundial.",
+        "O desfecho dessa polarização foi favorável ao pragmatismo autoritário de Getúlio Vargas. Ao colocar a ANL na ilegalidade e usar a tentativa fracassada de levante comunista (Intentona de 35) como pretexto, Vargas conseguiu implementar o Estado Novo em 1937, fechando o Congresso e eliminando tanto a ameaça da esquerda quanto, posteriormente, a autonomia dos integralistas. Esse período é crucial para o Enem por demonstrar como situações de crise e radicalização podem ser utilizadas como catalisadores para rupturas democráticas."
+      ],
+      "source": "SILVA, Hélio. 1935: A Revolta Vermelha. Rio de Janeiro: Civilização Brasileira, 1969."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A ANL (Aliança Nacional Libertadora) foi um movimento político dos anos 30 liderado por Luís Carlos Prestes. Qual era o seu principal lema de luta?",
+        "back": "A) Brasil acima de tudo, Deus acima de todos.. O lema refletia as necessidades básicas das massas camponesas e operárias da época."
+      },
+      {
+        "front": "O movimento Integralista Brasileiro (AIB) apresentava características facistas e nacionalistas. Qual era sua saudação oficial e o seu líder máximo?",
+        "back": "A) Aloha; Getúlio Vargas.. O Integralismo buscava raízes indígenas para criar um fascismo genuinamente brasileiro."
+      },
+      {
+        "front": "Qual era o lema da AIB?",
+        "back": "Deus, Pátria e Família"
+      },
+      {
+        "front": "Quem liderava a ANL?",
+        "back": "Luís Carlos Prestes"
+      },
+      {
+        "front": "Qual foi o resultado do Intentona Comunista?",
+        "back": "Fracassou"
+      },
+      {
+        "front": "O que foi o Plano Cohen?",
+        "back": "Um plano falso usado por Vargas"
+      },
+      {
+        "front": "Qual foi o resultado do Levante Integralista?",
+        "back": "Derrota dos integralistas"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Pão, Terra e Liberdade.",
+        "is_true": false,
+        "explanation": "Mito! O lema refletia as necessidades básicas das massas camponesas e operárias da época."
+      },
+      {
+        "statement": "Anauê; Plínio Salgado.",
+        "is_true": false,
+        "explanation": "Mito! O Integralismo buscava raízes indígenas para criar um fascismo genuinamente brasileiro."
+      },
+      {
+        "statement": "Aloha; Getúlio Vargas.",
+        "is_true": true,
+        "explanation": "O Integralismo buscava raízes indígenas para criar um fascismo genuinamente brasileiro."
+      },
+      {
+        "statement": "Brasil acima de tudo, Deus acima de todos.",
+        "is_true": true,
+        "explanation": "O lema refletia as necessidades básicas das massas camponesas e operárias da época."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "AIB",
+        "match": "Ação Integralista Brasileira"
+      },
+      {
+        "concept": "ANL",
+        "match": "Aliança Nacional Libertadora"
+      },
+      {
+        "concept": "Intentona Comunista",
+        "match": "Golpe militar comunista em 1935"
+      },
+      {
+        "concept": "Plano Cohen",
+        "match": "Plano falso para fechar o Congresso"
+      },
+      {
+        "concept": "Levante Integralista",
+        "match": "Tentativa de contra-golpe em 1938"
+      },
+      {
+        "concept": "Estado Novo",
+        "match": "Regime autoritário de Vargas a partir de 1937"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. AIB: Fachada Fascista no Brasil",
+        "order": 1
+      },
+      {
+        "event": "2. ANL: A Frente Ampla de Esquerda",
+        "order": 2
+      },
+      {
+        "event": "3. Intentona Comunista: O Erro de Cálculo",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "POLARIZADO",
+      "hint": "O conceito-chave central ou termo associado à aula de AIB vs ANL: O Brasil Polarizado."
+    }
+  }
+}

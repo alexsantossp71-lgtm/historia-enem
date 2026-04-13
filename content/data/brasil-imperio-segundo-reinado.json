@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "brasil-imperio-segundo-reinado",
+    "title": "Segundo Reinado: O Apogeu do Império",
+    "period": "1840 - 1889",
+    "tags": [
+      "D. Pedro II",
+      "Café",
+      "Imigração",
+      "Abolição",
+      "Guerra do Paraguai"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "History of Brazil",
+    "visual_depth": "elite"
+  },
+  "intro": "D. Pedro II governou o Brasil por quase meio século. Sob seu cetro, o país viveu a era de ouro do café, mas também o fim da escravidão e o nascimento da República.",
+  "theory_content": "O **Segundo Reinado** começou com o Golpe da Maioridade em 1840 e terminou com a Proclamação da República em 1889. Foi o período de maior estabilidade política da monarquia, graças ao sistema de **Parlamentarismo às Avessas**, onde o Imperador decidia quem seria o primeiro-ministro, mantendo o controle total do poder (Poder Moderador). Na economia, o **Café** tornou-se o novo motor nacional, primeiro no Vale do Paraíba e depois no Oeste Paulista, financiando a modernização e a vinda de milhões de imigrantes europeus. \n\nA questão da escravidão foi o grande dilema do reinado. De um lado, a pressão da Inglaterra pelo fim do tráfico negreiro (Lei Eusébio de Queirós); do outro, a elite cafeeira escravocrata. Através de leis graduais (Ventre Livre e Sexagenários), D. Pedro II tentou uma transição lenta, que culminou na **Lei Áurea** em 1888. No entanto, a libertação dos negros sem indenização aos fazendeiros (o 'golpe do bolso') gerou o 'Republicano de Última Hora', que se uniu aos militares (insatisfeitos após a Guerra do Paraguai) e à Igreja (Questionamento da autoridade imperial) para derrubar o trono em 15 de novembro de 1889. O ENEM costuma cobrar a transição do trabalho escravo para o livre, o papel do café na infraestrutura (ferrovias) e o desgaste inevitável da monarquia diante da modernidade republicana.",
+  "sections": [
+    {
+      "title": "1. Café: O Ouro Negro Brasileiro",
+      "content": "O café foi o salvador da lavoura nacional. No Vale do Paraíba, o cultivo era arcaico e destruía a terra. Já no Oeste Paulista (terra roxa), os fazendeiros eram modernos e dinâmicos, investindo em ferrovias e trazendo imigrantes italianos. O lucro do café criou os 'Barões do Café' e permitiu que o Brasil tivesse seus primeiros bondes, teatros monumentais no Rio e a iluminação a gás nas ruas capitais.",
+      "highlight": "O Império brasileiro foi construído sobre sacas de café e trilhos de ferro.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_0.png",
+        "alt": "1. Café: O Ouro Negro Brasileiro",
+        "caption": "1. Café: O Ouro Negro Brasileiro"
+      }
+    },
+    {
+      "title": "2. Das Correntes aos Navios de Imigrantes",
+      "content": "A Inglaterra, 'policial dos mares', obrigou o Brasil a parar de comprar africanos. D. Pedro II e a elite agrária iniciaram então a substituição da mão de obra. Primeiro veio o sistema de parceria (que faliu por dívidas dos imigrantes), depois o colonato subsidiado pelo governo. Milhões de europeus (italianos, alemães e poloneses) chegaram para trabalhar no café, mudando a cultura e a demografia do Sul e Sudeste para sempre.",
+      "highlight": "A imigração foi a solução da elite branca para o fim inevitável da escravidão.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_1.png",
+        "alt": "2. Das Correntes aos Navios de Imigrantes",
+        "caption": "2. Das Correntes aos Navios de Imigrantes"
+      }
+    },
+    {
+      "title": "3. A Guerra do Paraguai: A Glória Amarga",
+      "content": "O maior conflito da América do Sul destruiu o Paraguai e endividou o Brasil. Mas, para a política interna, o resultado foi a criação de um Exército orgulhoso e politizado. Os oficiais voltaram da guerra perguntando: 'Por que o Imperador manda tanto?'. O republicanismo nasceu dentro dos quartéis brasileiros pós-1870, tornando os militares os futuros carrascos do trono de Pedro II.",
+      "highlight": "O exército de D. Pedro II nasceu no Paraguai e morreu derrubando o próprio criador.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_2.png",
+        "alt": "3. A Guerra do Paraguai: A Glória Amarga",
+        "caption": "3. A Guerra do Paraguai: A Glória Amarga"
+      }
+    },
+    {
+      "title": "4. As Três Crises do Trono",
+      "content": "Três pilares sustentavam a Monarquia: a Igreja, os Militares e os Fazendeiros. Na Crise Religiosa, o Papa brigou com o Imperador sobre a Maçonaria. Na Crise Militar, os generais queriam mais verba e voz na política. E na Crise Abolicionista, com a Lei Áurea, os fazendeiros retiraram o apoio à monarquia porque não foram indenizados pelos escravos libertos. Sem esses três pilares, o trono caiu por terra no dia 15 de novembro.",
+      "highlight": "O Império foi como uma mesa de três pernas: quando todas quebraram, a queda foi instantânea."
+    },
+    {
+      "title": "5. O Pós-Abolição e o Fim melancólico",
+      "content": "A Princesa Isabel assinou a lei sob aplausos das massas negras, mas o Estado brasileiro não deu um palmo de terra ou um centavo de auxílio aos ex-escravizados. A República que nasceu no ano seguinte não melhorou em nada a vida do negro. Pelo contrário, D. Pedro II foi embora para o exílio em Paris, levando um punhado de terra brasileira no bolso, enquanto o país mergulhava na ditadura da espada de Deodoro.",
+      "highlight": "A República no Brasil nasceu de costas para o povo e de braços dados com o golpe."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O sistema político do Segundo Reinado brasileiro funcionava sob o chamado 'Parlamentarismo às Avessas'. O que essa expressão significava na prática?",
+      "options": [
+        "A) Que o povo votava de costas para as urnas de madeira.",
+        "B) Que o Imperador, através do Poder Moderador, tinha o direito de nomear o primeiro-ministro e dissolver o parlamento a qualquer momento.",
+        "C) Que o Brasil era governado pelo rei da Inglaterra durante as férias de Pedro II.",
+        "D) Que todos os deputados brasileiros eram obrigados a morar o ano inteiro no interior da Bahia.",
+        "E) O cancelamento de todas as leis brasileiras pela rainha da Espanha."
+      ],
+      "correctIndex": 1,
+      "explanation": "No Brasil, o executivo imperial controlava o legislativo, ao contrário do modelo inglês.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A Lei Áurea de 1888 foi a etapa final do processo de abolição da escravidão no Brasil. Qual foi a principal consequência política imediata dessa lei para a monarquia?",
+      "options": [
+        "A) A doação de todas as fazendas de café para os negros recém-libertos.",
+        "B) A perda do apoio da elite agrária escravocrata (os 'Republicanos de Última Hora'), o que facilitou o golpe republicano em 1889.",
+        "C) O aumento colossal de impostos para todos os imigrantes japoneses em Santos.",
+        "D) A declaração de guerra imediata contra os Estados Unidos e o México.",
+        "E) A proibição de vender açúcar e café em todas as padarias do Rio de Janeiro."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sem indenização, os fazendeiros abandonaram D. Pedro II e abraçaram a causa republicana para se vingarem.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o principal fator que contribuiu para a estabilidade política durante o Segundo Reinado?",
+      "options": [
+        "A) Sistema de Parlamentarismo às Avessas",
+        "B) Fim do tráfico negreiro",
+        "C) Expansão do café no Vale do Paraíba",
+        "D) Guerra do Paraguai",
+        "E) Proclamação da República"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a lei que visou uma transição lenta para o fim da escravidão no Brasil?",
+      "options": [
+        "A) Lei Eusébio de Queirós",
+        "B) Lei Áurea",
+        "C) Lei do Ventre Livre e Sexagenários",
+        "D) Lei do Golpe do Bolso",
+        "E) Lei da Abolição"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o evento que marcou o fim do Segundo Reinado e a Proclamação da República no Brasil?",
+      "options": [
+        "A) Golpe da Maioridade",
+        "B) Guerra do Paraguai",
+        "C) Lei Áurea",
+        "D) 15 de novembro de 1889",
+        "E) Expansão do café no Oeste Paulista"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-imperio-segundo-reinado/thumb.png",
+    "alt": "Segundo Reinado: O Apogeu do Império",
+    "caption": "Segundo Reinado: O Apogeu do Império"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Segundo Reinado (1840-1889) sob D. Pedro II representou o período de maior estabilidade política da história imperial, sustentado pela expansão da cafeicultura no Vale do Paraíba e, posteriormente, no Oeste Paulista. O café tornou-se o 'ouro negro' que financiou a modernização de infraestrutura, como ferrovias e portos, e permitiu o surgimento de uma elite parlamentar sofisticada. D. Pedro II, através do parlamentarismo 'às avessas', exercia o Poder Moderador para equilibrar Liberais e Conservadores, mantendo a ordem monárquica de forma quase inabalável.",
+        "A Guerra do Paraguai (1864-1870) foi o grande divisor de águas do regime. Embora o Brasil tenha saído vitorioso como parte da Tríplice Aliança, o custo humano e financeiro foi avassalador. O Exército Brasileiro, que até então possuía pouco prestígio, retornou do conflito modernizado, politizado e abertamente crítico à manutenção da escravidão. A questão militar, aliada à questão religiosa e à desilusão da elite agrária com a abolição sem indenização, formou o tripé que derrubaria o trono em 1889.",
+        "A abolição definitiva em 1888 foi o golpe fatal na monarquia. Os chamados 'Republicanos de Última Hora' (fazendeiros escravistas revoltados com a Lei Áurea) uniram-se aos militares de inclinação positivista para proclamar a República. Para o Enem, o Segundo Reinado deve ser visto como um período de transição: do Brasil agrário-escravista para um país que ensaiava sua industrialização (Era Mauá) e sua integração definitiva ao sistema capitalista mundial, mas que não conseguiu reformar seu sistema político para evitar o golpe militar."
+      ],
+      "source": "CARVALHO, José Murilo de. A Construção da Ordem / Teatro de Sombras. Rio de Janeiro: Civilização Brasileira, 2003."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O sistema político do Segundo Reinado brasileiro funcionava sob o chamado 'Parlamentarismo às Avessas'. O que essa expressão significava na prática?",
+        "back": "A) Que o povo votava de costas para as urnas de madeira.. No Brasil, o executivo imperial controlava o legislativo, ao contrário do modelo inglês."
+      },
+      {
+        "front": "A Lei Áurea de 1888 foi a etapa final do processo de abolição da escravidão no Brasil. Qual foi a principal consequência política imediata dessa lei para a monarquia?",
+        "back": "A) A doação de todas as fazendas de café para os negros recém-libertos.. Sem indenização, os fazendeiros abandonaram D. Pedro II e abraçaram a causa republicana para se vingarem."
+      },
+      {
+        "front": "Quando começou o Segundo Reinado?",
+        "back": "1840, com o Golpe da Maioridade."
+      },
+      {
+        "front": "Qual foi o sistema político adotado durante o Segundo Reinado?",
+        "back": "Parlamentarismo às Avessas."
+      },
+      {
+        "front": "Qual produto se tornou o novo motor nacional durante o Segundo Reinado?",
+        "back": "Café."
+      },
+      {
+        "front": "Qual foi a lei que culminou na abolição da escravatura no Brasil?",
+        "back": "Lei Áurea, em 1888."
+      },
+      {
+        "front": "Quando ocorreu a Proclamação da República?",
+        "back": "15 de novembro de 1889."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A perda do apoio da elite agrária escravocrata (os 'Republicanos de Última Hora'), o que facilitou o golpe republicano em 1889.",
+        "is_true": false,
+        "explanation": "Mito! Sem indenização, os fazendeiros abandonaram D. Pedro II e abraçaram a causa republicana para se vingarem."
+      },
+      {
+        "statement": "A doação de todas as fazendas de café para os negros recém-libertos.",
+        "is_true": true,
+        "explanation": "Sem indenização, os fazendeiros abandonaram D. Pedro II e abraçaram a causa republicana para se vingarem."
+      },
+      {
+        "statement": "Que o Imperador, através do Poder Moderador, tinha o direito de nomear o primeiro-ministro e dissolver o parlamento a qualquer momento.",
+        "is_true": false,
+        "explanation": "Mito! No Brasil, o executivo imperial controlava o legislativo, ao contrário do modelo inglês."
+      },
+      {
+        "statement": "Que o povo votava de costas para as urnas de madeira.",
+        "is_true": true,
+        "explanation": "No Brasil, o executivo imperial controlava o legislativo, ao contrário do modelo inglês."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "D. Pedro II",
+        "match": "Imperador do Brasil de 1841 a 1889, o mais longevo"
+      },
+      {
+        "concept": "Lei do Ventre Livre (1871)",
+        "match": "Lei que libertou os filhos de escravos nascidos no Brasil"
+      },
+      {
+        "concept": "Partido Liberal x Conservador",
+        "match": "Dois partidos do Segundo Reinado com poucas diferenças"
+      },
+      {
+        "concept": "Parlamentarismo às avessas",
+        "match": "Era o Imperador quem nomeava os gabinetes ministeriais"
+      },
+      {
+        "concept": "Abolição da escravidão",
+        "match": "1888 - Lei Áurea assinada por D. Leopoldina e Princesa Isabel"
+      },
+      {
+        "concept": "Proclamação da República",
+        "match": "15 de novembro de 1889, golpe militar que encerrou o Império"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Café: O Ouro Negro Brasileiro",
+        "order": 1
+      },
+      {
+        "event": "2. Das Correntes aos Navios de Imigrantes",
+        "order": 2
+      },
+      {
+        "event": "3. A Guerra do Paraguai: A Glória Amarga",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ESCRAVIDÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Segundo Reinado: O Apogeu do Império."
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "id": "segunda-guerra",
+    "title": "Segunda Guerra Mundial: O Conflito Total (1939-1945)",
+    "period": "Século XX",
+    "tags": [
+      "Nazismo",
+      "Fascismo",
+      "Holocausto",
+      "ONU",
+      "FEB"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A Segunda Guerra Mundial foi o maior conflito da história da humanidade. Envolvendo quase todos os países do mundo, ela redefiniu as fronteiras, a tecnologia e a própria ética global através do Holocausto e da Era Atômica.",
+  "theory_content": "As raízes da Segunda Guerra Mundial estão no final da Primeira (1918) e na humilhação alemã pelo **Tratado de Versalhes**. A crise de 1929 e a Grande Depressão foram o combustível perfeito para a ascensão de regimes totalitários na Europa: o Fascismo na Itália (Mussolini) e o Nazismo na Alemanha (Hitler). Estes regimes baseavam-se no nacionalismo extremado, no militarismo e no expansionismo territorial (Lebensraum - Espaço Vital). \n\nO conflito estourou em 1º de Setembro de 1939, quando a Alemanha invadiu a Polônia, utilizando a tática da **Blitzkrieg** (Guerra Relâmpago). Inicialmente, o Eixo (Alemanha, Itália e Japão) dominou a Europa e o Pacífico. Contudo, o ano de 1941 mudou o rumo da guerra com a invasão alemã da URSS (Operação Barbarossa) e o ataque japonês a **Pearl Harbor**, forçando a entrada dos EUA e da União Soviética ao lado dos Aliados (Inglaterra e França Livre). \n\nA derrota nazista começou na **Batalha de Stalingrado**, onde o Exército Vermelho soviético impôs a primeira grande derrota moral e militar a Hitler. Simultaneamente, o Holocausto (a solução final nazista) levava ao extermínio de 6 milhões de judeus, ciganos e opositores em campos de concentração, um crime contra a humanidade que forçaria o nascimento da Declaração Universal dos Direitos Humanos em 1948. A guerra terminou em 1945 com a rendição alemã no Dia V e as bombas atômicas em **Hiroshima e Nagasaki**, inaugurando a Guerra Fria e a hegemonia de EUA e URSS.",
+  "sections": [
+    {
+      "title": "1. O Totalitarismo e o Espaço Vital",
+      "content": "Hitler e Mussolini não apenas governavam; eles controlavam a mente da massa através da propaganda e da educação militarista. O nazismo introduziu o conceito de 'Pureza Racial' (Ariana) e culpava os judeus e comunistas pela crise econômica alemã. O pacto de não agressão (Ribbentrop-Molotov) com Stalin foi apenas uma jogada estratégica antes do ataque real de 1939.",
+      "highlight": "O totalitarismo transformou o Estado em uma ferramenta de extermínio e dominação absoluta.",
+      "image": {
+        "url": "assets/images/lessons/segunda-guerra/section_0.png",
+        "alt": "1. O Totalitarismo e o Espaço Vital",
+        "caption": "1. O Totalitarismo e o Espaço Vital"
+      }
+    },
+    {
+      "title": "2. Blitzkrieg e o Domínio do Eixo",
+      "content": "A Alemanha conquistou a França em semanas, humilhando os franceses no mesmo vagão de trem da I Guerra. O Japão, por sua vez, buscava criar a 'Esfera de Coprosperidade da Grande Ásia Oriental', invadindo a China e o Sudeste Asiático. A guerra tornou-se total: toda a economia e toda a população das nações em combate foram convocadas para o esforço bélico.",
+      "highlight": "Na guerra total, a separação entre soldados e civis deixou de existir na prática.",
+      "image": {
+        "url": "assets/images/lessons/segunda-guerra/section_1.png",
+        "alt": "2. Blitzkrieg e o Domínio do Eixo",
+        "caption": "2. Blitzkrieg e o Domínio do Eixo"
+      }
+    },
+    {
+      "title": "3. O Dia D e a Virada dos Aliados",
+      "content": "Em 6 de Junho de 1944 (Dia D), as tropas britânicas, americanas e do Commonwealth desembarcaram na Normandia, abrindo uma frente ocidental de ataque à Alemanha. Pelo leste, os soviéticos avançavam como uma furiosa locomotiva em direção a Berlim. O Eixo começou a colapsar em todas as frentes, com a queda de Mussolini na Itália e o cerco final ao Bunker de Hitler.",
+      "highlight": "O desembarque na Normandia foi a maior operação anfíbia de todos os tempos.",
+      "image": {
+        "url": "assets/images/lessons/segunda-guerra/section_2.png",
+        "alt": "3. O Dia D e a Virada dos Aliados",
+        "caption": "3. O Dia D e a Virada dos Aliados"
+      }
+    },
+    {
+      "title": "4. O Brasil na Guerra: A Cobra Fumou",
+      "content": "Inicialmente neutro, o Brasil de Vargas aliou-se aos EUA em 1942. A FEB (Força Expedicionária Brasileira) enviou 25 mil homens para lutar na Itália, vencendo batalhas importantes como **Monte Castello** e **Fornovo**. A participação do Brasil foi crucial para garantir o controle do Atlântico Sul e para acelerar o processo de industrialização nacional através de acordos com o governo Roosevelt (Acordos de Washington).",
+      "highlight": "O Brasil foi o único país latino-americano a enviar tropas de combate para a Europa."
+    },
+    {
+      "title": "5. O Holocausto e o Pós-Guerra",
+      "content": "A libertação dos campos de concentração como Auschwitz revelou o horror do antissemitismo nazista. O mundo reagiu criando os Tribunais de Nuremberg para julgar criminosos de guerra e fundou a Organização das Nações Unidas (ONU) para tentar impedir um terceiro conflito global. No entanto, a divisão do mundo entre o capitalismo americano e o socialismo soviético já estava posta para a Guerra Fria.",
+      "highlight": "O Holocausto forçou a humanidade a redefinir o conceito de crime contra a dignidade humana."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Conferência de Berlim de 1945 e a criação da ONU logo após a guerra visavam:",
+      "options": [
+        "A) Garantir que a Alemanha governasse toda a Europa Oriental.",
+        "B) Instituir um governo mundial liderado pelo Japão e pela Itália.",
+        "C) Estabelecer um novo equilíbrio de poder e mecanismos diplomáticos para evitar novas guerras mundiais.",
+        "D) Proibir o uso de qualquer tipo de energia elétrica no mundo.",
+        "E) Declarar que todos os países do mundo deveriam ser socialistas."
+      ],
+      "correctIndex": 2,
+      "explanation": "A ONU nasceu dos escombros da guerra com o objetivo primordial de manutenção da paz internacional.",
+      "source": "Enem 2012"
+    },
+    {
+      "question": "O governo de Getúlio Vargas utilizou a entrada do Brasil na guerra para:",
+      "options": [
+        "A) Pedir a anexação da Argentina ao território brasileiro.",
+        "B) Obter financiamento e tecnologia dos EUA para a criação da CSN (Companhia Siderúrgica Nacional).",
+        "C) Fugir para a Europa e abandonar a presidência.",
+        "D) Propor uma aliança comercial secreta com Hitler contra os EUA.",
+        "E) Acabar com o futebol profissional no país."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vargas negociou a participação militar brasileira em troca de infraestrutura industrial de base.",
+      "source": "Simulado Mackenzie/ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/segunda-guerra/thumb.png",
+    "alt": "Segunda Guerra Mundial: O Conflito Total (1939-1945)",
+    "caption": "Segunda Guerra Mundial: O Conflito Total (1939-1945)"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Segunda Guerra Mundial (1939-1945) foi o conflito mais abrangente e destrutivo da história, representando o auge da 'era das catástrofes'. Diferente da Primeira Grande Guerra, este foi um conflito ideológico absoluto entre o Eixo (fascismo/nazismo) e os Aliados (democracias liberais e comunismo soviético). Como observa Eric Hobsbawm, a guerra foi uma luta pela sobrevivência da própria civilização ocidental tal como a conhecemos, onde o avanço tecnológico permitiu uma escala de morte industrializada jamais vista.",
+        "O Holocausto e o uso da bomba atômica em Hiroshima e Nagasaki marcaram o fim da inocência tecnológica e científica do homem moderno. Pela primeira vez, a humanidade adquiriu a capacidade de autoaniquilação total. O conflito alterou permanentemente a ordem mundial: a Europa deixou de ser o centro político do planeta, cedendo lugar à bipolaridade entre Estados Unidos e União Soviética, dando início imediato à Guerra Fria e definindo os rumos da geopolítica por quase meio século.",
+        "O legado institucional da guerra incluiu a criação da Organização das Nações Unidas (ONU) e a Declaração Universal dos Direitos Humanos, tentativas de criar mecanismos de paz que evitassem um novo colapso global. Para o Enem, o estudo desse período deve focar não apenas nas batalhas, mas na mobilização total das populações civis e no papel das indústrias de guerra. Além disso, a participação do Brasil (FEB) na Itália é um tema recorrente, sendo um fator de crise para a ditadura varguista que se via lutando pela democracia fora enquanto a negava domesticamente."
+      ],
+      "source": "HOBSBAWM, Eric. A Era dos Extremos: O Breve Século XX (1914-1991). São Paulo: Companhia das Letras, 1995."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Conferência de Berlim de 1945 e a criação da ONU logo após a guerra visavam:",
+        "back": "A) Garantir que a Alemanha governasse toda a Europa Oriental.. A ONU nasceu dos escombros da guerra com o objetivo primordial de manutenção da paz internacional."
+      },
+      {
+        "front": "O governo de Getúlio Vargas utilizou a entrada do Brasil na guerra para:",
+        "back": "A) Pedir a anexação da Argentina ao território brasileiro.. Vargas negociou a participação militar brasileira em troca de infraestrutura industrial de base."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Garantir que a Alemanha governasse toda a Europa Oriental..",
+        "is_true": true,
+        "explanation": "A ONU nasceu dos escombros da guerra com o objetivo primordial de manutenção da paz internacional."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Instituir um governo mundial liderado pelo Japão e pela Itália..",
+        "is_true": false,
+        "explanation": "Falso! A ONU nasceu dos escombros da guerra com o objetivo primordial de manutenção da paz internacional."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Pedir a anexação da Argentina ao território brasileiro..",
+        "is_true": true,
+        "explanation": "Vargas negociou a participação militar brasileira em troca de infraestrutura industrial de base."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Obter financiamento e tecnologia dos EUA para a criação da CSN (Companhia Siderúrgica Nacional)..",
+        "is_true": false,
+        "explanation": "Falso! Vargas negociou a participação militar brasileira em troca de infraestrutura industrial de base."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Blitzkrieg",
+        "match": "Guerra relâmpago: ataque rápido com tanques e aviões"
+      },
+      {
+        "concept": "Holocausto",
+        "match": "Genocídio de 6 milhões de judeus pelos nazistas"
+      },
+      {
+        "concept": "Dia D",
+        "match": "Desembarque aliado na Normandia, 6 de junho de 1944"
+      },
+      {
+        "concept": "Hiroshima e Nagasaki",
+        "match": "Cidades japonesas destruídas por bombas atômicas em 1945"
+      },
+      {
+        "concept": "Churchill",
+        "match": "Primeiro-ministro britânico durante a Segunda Guerra"
+      },
+      {
+        "concept": "ONU",
+        "match": "Organização das Nações Unidas criada após a guerra"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Totalitarismo e o Espaço Vital",
+        "order": 1
+      },
+      {
+        "event": "2. Blitzkrieg e o Domínio do Eixo",
+        "order": 2
+      },
+      {
+        "event": "3. O Dia D e a Virada dos Aliados",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "HUMANIDADE",
+      "hint": "O conceito-chave central ou termo associado à aula de Segunda Guerra Mundial: O Conflito Total (1939-1945)."
+    }
+  }
+}

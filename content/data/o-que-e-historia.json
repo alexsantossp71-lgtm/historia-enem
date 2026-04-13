@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "id": "o-que-e-historia",
+    "title": "O que é História? Fontes e Tempo",
+    "period": "Introdução",
+    "tags": [
+      "Historiografia",
+      "Fontes Históricas",
+      "Tempo",
+      "Annales",
+      "Escolas Históricas"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "thumbnail": "assets/images/lessons/o-que-e-historia/section_0.png",
+    "visual_depth": "elite"
+  },
+  "intro": "História não é decorar datas. É a ciência que estuda as mudanças e permanências das sociedades humanas ao longo do tempo.",
+  "theory_content": "A **História** é a ciência que investiga as ações humanas no tempo. Ao contrário do que se pensa, o historiador não 'sabe a verdade absoluta' do passado; ele interpreta vestígios, chamados de **Fontes Históricas**. Essas fontes podem ser **Materiais** (prédios, moedas, vasos), **Escritas** (diários, jornais, leis), **Orais** (entrevistas, lendas) ou **Visuais** (pinturas, fotos, filmes). \n\nA forma como escrevemos a história mudou com o tempo. No século XIX, o **Positivismo** focava apenas em grandes heróis (reis, generais) e documentos oficiais. No século XX, a **Escola dos Annales** revolucionou a ciência ao incluir a 'História das Mentalidades' e o cotidiano das pessoas comuns (mulheres, crianças, trabalhadores). O **Marxismo** trouxe a análise das lutas de classes e das relações econômicas como motor da história. O ENEM costuma cobrar a análise crítica das fontes, o conceito de 'Patrimônio Histórico' e a compreensão de que a História é uma ferramenta de poder para construir identidades nacionais.",
+  "sections": [
+    {
+      "title": "1. O Historiador: O Detetive do Passado",
+      "content": "Marc Bloch, um grande historiador francês, comparava o seu ofício ao de um ogro da lenda: onde ele sente 'carne humana', ele sabe que ali está o seu campo de trabalho. O historiador não julga o passado com a moral de hoje (isso se chama Anacronismo), mas tenta entender por que as pessoas agiam daquela forma na época delas. Ele interroga as fontes para descobrir o que elas escondem e o que elas revelam deliberadamente sobre quem mandou escrevê-las.",
+      "highlight": "História é a ciência dos homens no tempo: nada humano é estranho ao historiador.",
+      "image": {
+        "url": "assets/images/lessons/o-que-e-historia/section_0.png",
+        "alt": "Ilustração de 1. O Historiador: O Detetive do Passado",
+        "caption": "Interpretacao artistica: 1. O Historiador: O Detetive do Passado"
+      }
+    },
+    {
+      "title": "2. Fontes Históricas: A Prova do Crime",
+      "content": "Antigamente, só valia o que estava escrito no papel oficial. Hoje, uma marchinha de carnaval, um meme da internet ou um resto de cerâmica indígena são fontes tão importantes quanto a Constituição. Se não há fonte, não há história; há ficção. O historiador cruza as informações: ele compara o que o diário do soldado diz com o que o jornal da época noticiava para chegar o mais perto possível da realidade dos fatos.",
+      "highlight": "Tudo o que o homem diz ou escreve, tudo o que fabrica, tudo o que toca, pode e deve fornecer informações sobre ele.",
+      "image": {
+        "url": "assets/images/lessons/o-que-e-historia/section_1.png",
+        "alt": "Ilustração de 2. Fontes Históricas: A Prova do Crime",
+        "caption": "Interpretacao artistica: 2. Fontes Históricas: A Prova do Crime"
+      }
+    },
+    {
+      "title": "3. O Tempo: Relógio vs Sociedade",
+      "content": "Existe o tempo do relógio (cronológico), mas para a História o que importa é o **Tempo Histórico**. Às vezes, um século passa e quase nada muda no comportamento de um povo (permanência); outras vezes, em dez dias (como na Revolução Francesa ou Russa), o mundo vira de cabeça para baixo (ruptura). O historiador organiza esses tempos em Longa Duração (estruturas como o clima ou a religião) e Curta Duração (eventos curtos como uma eleição ou uma batalha).",
+      "highlight": "O tempo histórico não corre à mesma velocidade para todos os povos ao mesmo tempo.",
+      "image": {
+        "url": "assets/images/lessons/o-que-e-historia/section_2.png",
+        "alt": "Ilustração de 3. O Tempo: Relógio vs Sociedade",
+        "caption": "Interpretacao artistica: 3. O Tempo: Relógio vs Sociedade"
+      }
+    },
+    {
+      "title": "4. Escolas de Pensamento: Quem Conta a História?",
+      "content": "Se você ler um livro positivista, verá apenas nomes de reis. Se ler um livro marxista, verá revoltas de operários. A História depende do ponto de vista do historiador. A Escola dos Annales ensinou que devemos olhar para a 'Nova História': a história dos cheiros, do medo, da infância e da morte. Essa mudança de foco permitiu que grupos antes 'esquecidos' (negros, mulheres, indígenas) ganhassem voz e fossem reconhecidos como sujeitos da história brasileira.",
+      "highlight": "Quem controla o passado controla o futuro; quem controla o presente controla o passado."
+    },
+    {
+      "title": "5. Patrimônio e Memória: O Direito de Lembrar",
+      "content": "Preservar um prédio antigo ou uma dança tradicional não é apenas 'cultura', é garantir que a nossa identidade não se apague. Quando um museu queima, perdemos um pedaço de nós mesmos. A Memória é seletiva (escolhemos o que lembrar), mas a História é uma ciência crítica que nos ajuda a entender por que certas memórias são impostas pelo Estado e outras são perseguidas. Estudar história é um ato de resistência contra o esquecimento forçado.",
+      "highlight": "Um povo sem memória é um povo que não sabe de onde veio e, portanto, não sabe para onde vai."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O conceito de 'Anacronismo' em História refere-se a qual erro metodológico cometido pelo pesquisador?",
+      "options": [
+        "A) A doação imediata de todos os relógios do museu para o governo da China.",
+        "B) Projetar valores, ideias e sentimentos do presente sobre o passado, julgando ações de pessoas de outros tempos com a moral de hoje.",
+        "C) Proibir o uso de qualquer tipo de cronômetro durante as aulas de química.",
+        "D) Vender todos os livros de história para investidores dos Estados Unidos.",
+        "E) O cancelamento de todas as aulas de história por ordem do Papa do século XII."
+      ],
+      "correctIndex": 1,
+      "explanation": "O anacronismo é um erro grave, pois retira as ações humanas de seu contexto original.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A Escola dos Annales, fundada no século XX, revolucionou a historiografia ao defender que:",
+      "options": [
+        "A) Apenas os generais e reis deveriam ter suas fotos publicadas em jornais.",
+        "B) A história deveria abranger todos os aspectos da vida humana, incluindo o cotidiano, as mentalidades e as pessoas comuns, e não apenas eventos políticos e militares.",
+        "C) Proibir o uso de arquivos de papel em todas as bibliotecas da França.",
+        "D) Vender todas as moedas romanas para arrecadar dinheiro do Banco Mundial.",
+        "E) O cancelamento de todas as viagens de estudo para a Europa por ordem dos prefeitos."
+      ],
+      "correctIndex": 1,
+      "explanation": "Essa escola ampliou o objeto de estudo da história para a totalidade da experiência social.",
+      "source": "Simulado ENEM / Teoria da História"
+    },
+    {
+      "question": "Qual é o papel do historiador na investigação das ações humanas no tempo?",
+      "options": [
+        "A) Descobrir a verdade absoluta do passado",
+        "B) Interpretar vestígios e fontes históricas",
+        "C) Focar apenas em grandes heróis e documentos oficiais",
+        "D) Analisar apenas as lutas de classes e relações econômicas",
+        "E) Construir identidades nacionais sem considerar o contexto histórico"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é a característica principal da abordagem da Escola dos Annales na escrita da história?",
+      "options": [
+        "A) Foco em grandes heróis e documentos oficiais",
+        "B) Análise das lutas de classes e relações econômicas",
+        "C) Inclusão da 'História das Mentalidades' e do cotidiano das pessoas comuns",
+        "D) Uso exclusivo de fontes materiais",
+        "E) Desconsideração do contexto histórico"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o conceito que se refere à ideia de que a História é uma ferramenta de poder para construir identidades nacionais?",
+      "options": [
+        "A) Patrimônio Histórico",
+        "B) Fontes Históricas",
+        "C) Positivismo",
+        "D) Escola dos Annales",
+        "E) Construção de identidades nacionais"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": "assets/images/lessons/o-que-e-historia/thumb.png",
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A História não é apenas o estudo do passado, mas, como definiu Marc Bloch, a 'ciência dos homens no tempo'. Diferente de uma simples crônica de eventos, a historiografia moderna busca compreender as estruturas sociais, as mentalidades e as transformações culturais que moldam a experiência humana. O historiador atua como um 'juiz de instrução' que interroga os vestígios do passado — documentos, imagens, tradições orais e cultura material — para reconstruir processos que dão sentido ao presente.",
+        "A Escola dos Annales, no século XX, revolucionou a disciplina ao propor a 'longa duração' e a interdisciplinaridade, integrando a geografia, a economia e a psicologia à análise histórica. Essa mudança de paradigma permitiu que sujeitos antes invisíveis, como mulheres, trabalhadores e populações escravizadas, passassem a ser protagonistas da narrativa histórica. A História deixa de ser a biografia dos 'grandes homens' para se tornar a análise das tensões e sínteses de sociedades inteiras.",
+        "Para o Enem, é fundamental compreender que o conhecimento histórico é uma construção datada e passível de revisão. O aluno deve ser capaz de identificar diferentes usos do passado e como a memória é disputada por diversos grupos sociais para legitimar projetos políticos no presente. O domínio da crítica documental e a percepção de que o tempo histórico é múltiplo e heterogêneo são competências centrais para interpretar as questões de Ciências Humanas com rigor e profundidade."
+      ],
+      "source": "BLOCH, Marc. Apologia da História ou o Ofício do Historiador. Rio de Janeiro: Jorge Zahar, 2001."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O conceito de 'Anacronismo' em História refere-se a qual erro metodológico cometido pelo pesquisador?",
+        "back": "A) A doação imediata de todos os relógios do museu para o governo da China.. O anacronismo é um erro grave, pois retira as ações humanas de seu contexto original."
+      },
+      {
+        "front": "A Escola dos Annales, fundada no século XX, revolucionou a historiografia ao defender que:",
+        "back": "A) Apenas os generais e reis deveriam ter suas fotos publicadas em jornais.. Essa escola ampliou o objeto de estudo da história para a totalidade da experiência social."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Projetar valores, ideias e sentimentos do presente sobre o passado, julgando ações de pessoas de outros tempos com a moral de hoje.",
+        "is_true": false,
+        "explanation": "Mito! O anacronismo é um erro grave, pois retira as ações humanas de seu contexto original."
+      },
+      {
+        "statement": "Apenas os generais e reis deveriam ter suas fotos publicadas em jornais.",
+        "is_true": true,
+        "explanation": "Essa escola ampliou o objeto de estudo da história para a totalidade da experiência social."
+      },
+      {
+        "statement": "A história deveria abranger todos os aspectos da vida humana, incluindo o cotidiano, as mentalidades e as pessoas comuns, e não apenas eventos políticos e militares.",
+        "is_true": false,
+        "explanation": "Mito! Essa escola ampliou o objeto de estudo da história para a totalidade da experiência social."
+      },
+      {
+        "statement": "A doação imediata de todos os relógios do museu para o governo da China.",
+        "is_true": true,
+        "explanation": "O anacronismo é um erro grave, pois retira as ações humanas de seu contexto original."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Historiografia",
+        "match": "Estudo das formas de escrever a História"
+      },
+      {
+        "concept": "Documento histórico",
+        "match": "Qualquer vestígio que permite estudar o passado"
+      },
+      {
+        "concept": "Anacronismo",
+        "match": "Erro de julgar o passado com valores do presente"
+      },
+      {
+        "concept": "Tempo histórico",
+        "match": "Duração dos processos e mudanças sociais"
+      },
+      {
+        "concept": "Fonte primária",
+        "match": "Documento produzido na época estudada"
+      },
+      {
+        "concept": "Memória coletiva",
+        "match": "Conjunto de lembranças compartilhadas por um grupo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Historiador: O Detetive do Passado",
+        "order": 1
+      },
+      {
+        "event": "2. Fontes Históricas: A Prova do Crime",
+        "order": 2
+      },
+      {
+        "event": "3. O Tempo: Relógio vs Sociedade",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "PERMANÊNCIAS",
+      "hint": "O conceito-chave central ou termo associado à aula de O que é História? Fontes e Tempo."
+    }
+  }
+}

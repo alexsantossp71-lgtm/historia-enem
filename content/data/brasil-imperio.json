@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "id": "brasil-imperio",
+    "title": "Brasil Império: Unidade e Contradição (1822-1889)",
+    "period": "Século XIX",
+    "tags": [
+      "Independência",
+      "Poder Moderador",
+      "Segundo Reinado",
+      "Guerra do Paraguai",
+      "Abolicionismo"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "O Brasil Imperial foi a única monarquia duradoura das Américas. Sob a liderança de D. Pedro I e D. Pedro II, o país buscou construir uma identidade nacional enquanto equilibrava a manutenção da escravidão com a modernização cafeeira.",
+  "theory_content": "A fundação do Império Brasileiro (1822) foi um processo de independência 'pelo alto', liderado pelo próprio herdeiro do trono português para evitar a fragmentação territorial sofrida pela América Espanhola. O **Primeiro Reinado (1822-1831)** foi marcado pela tensão entre o autoritarismo de D. Pedro I e o desejo das elites de limitar o poder monárquico. Isso culminou na dissolução da Constituinte de 1823 e na outorga da Constituição de 1824, que criou o **Poder Moderador** — um 'quarto poder' exclusivo do imperador que o tornava o árbitro absoluto da nação, podendo anular qualquer decisão do Legislativo ou Judiciário. A insatisfação com esse absolutismo gerou a Confederação do Equador e, após a derrota na Guerra da Cisplatina e a crise sucessória em Portugal, Pedro I abdicou em 1831. \n\nO **Período Regencial (1831-1840)** foi o momento de maior risco para a integridade do Brasil. Sem a imagem centralizadora do Imperador (Pedro II ainda era criança), o país explodiu em revoltas separatistas e sociais: a Farroupilha (elite gaúcha), a Cabanagem (pobres do Pará), a Sabinada (classe média baiana) e a Balaiada (camponeses do Maranhão). Para pacificar a nação, as elites anteciparam a maioridade de Pedro II com o 'Golpe da Maioridade', iniciando o **Segundo Reinado (1840-1889)**. \n\nNo Segundo Reinado, o Brasil viveu uma estabilidade duradoura baseada no 'Parlamentarismo às Avessas' (onde o Imperador escolhia o Primeiro-Ministro) e no auge da economia do café no Vale do Paraíba e no Oeste Paulista. No entanto, três questões minaram as bases da monarquia: a **Questão Religiosa** (atrito com o Papa e a Maçonaria), a **Questão Militar** (o fortalecimento político do Exército após a Guerra do Paraguai) e a **Questão Abolicionista**. A Lei Áurea (1888), assinada pela Princesa Isabel, foi o golpe final: ao libertar os escravos sem indenizar os fazendeiros, a monarquia perdeu sua última base de apoio, resultando no golpe republicano de 1889 patrocinado pelos 'Republicanos de última hora'.",
+  "support_text": "ANÁLISE DE ALTA PERFORMANCE PARA O ENEM: O Poder Moderador é o tema 'medalha de ouro'. Entenda que ele era a chave da 'falsa legalidade' do império. No Segundo Reinado, atente para o papel das leis abolicionistas graduais (Eusébio de Queirós, Ventre Livre e Sexagenários); elas não foram bondade imperial, mas uma estratégia para adiar a abolição e 'inglesar' a economia. Foque também no Barão de Mauá, o precursor frustrado da industrialização brasileira no século XIX.",
+  "sections": [
+    {
+      "title": "1. Constituição de 1824: O Absolutismo Disfarçado",
+      "content": "A primeira constituição brasileira foi um documento de contrastes. Enquanto mantinha a religião católica como oficial e o voto censitário (por renda), criava o Poder Moderador. O imperador era 'inviolável e sagrado', acima das leis civis. Isso permitiu a Pedro I mandar e desmandar, gerando fúria nas províncias do Nordeste, que se sentiam asfixiadas pelo centralismo do Rio de Janeiro.",
+      "highlight": "O Poder Moderador foi a ferramenta que manteve o Brasil unido, mas sob o preço do autoritarismo.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio/section_0.png",
+        "alt": "1. Constituição de 1824: O Absolutismo Disfarçado",
+        "caption": "1. Constituição de 1824: O Absolutismo Disfarçado"
+      }
+    },
+    {
+      "title": "2. Período Regencial: O Brasil no Limite",
+      "content": "Com a abdicação de D. Pedro I, as regências tentaram governar o Brasil. O 'Ato Adicional de 1834' deu autonomia às províncias, mas isso apenas acelerou as revoltas. Farroupilha e Cabanagem mostravam que o Brasil poderia se tornar cinco ou seis países menores. A criação da Guarda Nacional, controlada pelos fazendeiros (coronéis), foi a resposta das elites para manter a ordem escravocrata enquanto o imperador não podia governar.",
+      "highlight": "O medo da desfragmentação territorial foi o que uniu as elites em torno de D. Pedro II.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio/section_1.png",
+        "alt": "2. Período Regencial: O Brasil no Limite",
+        "caption": "2. Período Regencial: O Brasil no Limite"
+      }
+    },
+    {
+      "title": "3. Segundo Reinado: Café e Estabilidade Political",
+      "content": "Pedro II reinou por 49 anos. Ele usou o parlamentarismo às avessas para alternar Liberais e Conservadores no poder, sem que houvesse mudança real na estrutura social. Enquanto isso, o café 'marchava' do Vale do Paraíba para o Oeste Paulista, trazendo as primeiras ferrovias e a transição para a mão de obra imigrante europeia, após a pressão britânica pelo fim do tráfico de escravos (Lei Bill Aberdeen/Eusébio de Queirós).",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio/section_2.png",
+        "alt": "3. Segundo Reinado: Café e Estabilidade Political",
+        "caption": "3. Segundo Reinado: Café e Estabilidade Political"
+      }
+    },
+    {
+      "title": "4. Guerra do Paraguai: O Início do Fim",
+      "content": "O maior conflito da América do Sul (1864-1870) exauriu as finanças do império. O Exército Brasileiro voltou da guerra vitorioso, profissionalizado e repleto de ideais republicanos e positivistas. Ao ver soldados negros lutando bravamente, o Exército passou a questionar a escravidão e o papel passivo da Coroa. O militarismo brasileiro moderno nasce nos campos de batalha do Paraguai e é ele que derrubaria Pedro II.",
+      "highlight": "A vitória no Paraguai foi o maior erro político da monarquia em termos de autodevouring."
+    },
+    {
+      "title": "5. A Questão Abolicionista e a Lei Áurea",
+      "content": "O abolicionismo foi um movimento intelectual, popular e de pressão externa. Joaquim Nabuco e André Rebouças lideraram a campanha. Cada lei (1850, 1871, 1885) era um degrau para o fim inevitável. Quando a Princesa Isabel assinou a Lei Áurea em 13 de maio de 1888, ela resolveu uma questão humanitária mas destruiu a aliança política da monarquia: os cafeicultores do Vale do Paraíba, que apoiavam o trono, tornaram-se republicanos por vingança pela perda de sua 'propriedade'.",
+      "image": {
+        "url": "/assets/img/historia/abolicionismo_brasil_ruas.png",
+        "alt": "Massa nas ruas celebrando a abolição",
+        "caption": "A festa nas ruas escondeu o abandono dos libertos no dia 14 de maio, sem terras ou reparação histórica."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Poder Moderador, instituído pela Constituição de 1824, permitia ao Imperador do Brasil:",
+      "options": [
+        "A) Escolher a religião oficial do país a cada quatro anos.",
+        "B) Intervir livremente nos poderes Legislativo, Executivo e Judiciário, nomeando e demitindo ministros.",
+        "C) Garantir que o voto fosse secreto, universal e extensivo às mulheres.",
+        "D) Acabar com o império e transformar o Brasil em colônia da Argentina.",
+        "E) Proibir as exportações de café para os Estados Unidos."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Poder Moderador dava ao Imperador a supremacia política, tornando a democracia da época meramente formal.",
+      "source": "FUVEST/ENEM"
+    },
+    {
+      "question": "Diferente da maioria dos países hispano-americanos, o Brasil manteve sua integridade territorial após a independência. Isso é atribuído principalmente a:",
+      "options": [
+        "A) Uma grande vitória militar sobre um exército vindo da Europa em 1830.",
+        "B) A adoção de um regime republicano federalista radical.",
+        "C) A manutenção da figura do Imperador como um símbolo de unidade e autoridade legítima para as elites.",
+        "D) O fato de o Brasil ser um país muito pequeno e fácil de governar.",
+        "E) Nenhuma província brasileira desejava se separar na época."
+      ],
+      "correctIndex": 2,
+      "explanation": "A monarquia serviu de anteparo contra a fragmentação, unindo as elites em torno de um único líder soberano.",
+      "source": "Simulado Traditicio ENEM"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou D. Pedro I a outorgar a Constituição de 1824?",
+      "options": [
+        "A) Para garantir a liberdade de expressão e reunião",
+        "B) Para criar um sistema de governo mais democrático",
+        "C) Para consolidar o poder monárquico e criar o Poder Moderador",
+        "D) Para resolver a crise econômica do país",
+        "E) Para acabar com a escravidão no Brasil"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o evento que marcou o início do Segundo Reinado no Brasil?",
+      "options": [
+        "A) A Guerra do Paraguai",
+        "B) A Lei Áurea",
+        "C) O Golpe da Maioridade",
+        "D) A Confederação do Equador",
+        "E) A Revolta dos Malês"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a principal consequência da Lei Áurea para a monarquia brasileira?",
+      "options": [
+        "A) Aumento do apoio popular à monarquia",
+        "B) Fortalecimento do poder do Imperador",
+        "C) Perda da última base de apoio da monarquia",
+        "D) Fim da Questão Religiosa",
+        "E) Início da Guerra do Paraguai"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-imperio/thumb.png",
+    "alt": "Brasil Império: Unidade e Contradição (1822-1889)",
+    "caption": "Brasil Império: Unidade e Contradição (1822-1889)"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Segundo Reinado (1840-1889) representou o período de maior estabilidade política do Brasil no século XIX, sob a liderança de D. Pedro II. Após o conturbado período regencial, o 'Golpe da Maioridade' buscou restabelecer a autoridade monárquica e a unidade territorial. O sistema parlamentarista 'às avessas', onde o Imperador detinha o Poder Moderador e escolhia o Primeiro-Ministro, permitiu o revezamento entre liberais e conservadores, mantendo a elite agrária vinculada ao trono e o regime de escravidão africana.",
+        "Economicamente, o café tornou-se o principal motor da riqueza nacional, promovendo uma modernização desigual e a penetração do capital inglês no país através de ferrovias e portos. No entanto, a base social do Império começou a ruir na década de 1870, com o surgimento do movimento republicano, a questão religiosa e, principalmente, a questão militar após a Guerra do Paraguai. A abolição da escravidão em 1888, sem indenização aos proprietários de terras, foi o 'suicídio político' da monarquia, isolando o Imperador de sua base tradicional de apoio.",
+        "Compreender o Segundo Reinado para o Enem exige analisar as contradições entre uma estrutura política aparentemente refinada e uma base socioeconômica baseada na exploração humana. O estudo deste período permite discutir a construção da identidade brasileira, a resistência escrava por meio do abolicionismo e a transição do trabalho compulsório para o trabalho livre imigrante. O Império caiu não por uma revolução popular, mas por um golpe de elite que buscou uma nova forma de manter o poder sob a fachada republicana."
+      ],
+      "source": "FAUSTO, Boris. História do Brasil. São Paulo: EDUSP, 2013."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Poder Moderador, instituído pela Constituição de 1824, permitia ao Imperador do Brasil:",
+        "back": "A) Escolher a religião oficial do país a cada quatro anos.. O Poder Moderador dava ao Imperador a supremacia política, tornando a democracia da época meramente formal."
+      },
+      {
+        "front": "Diferente da maioria dos países hispano-americanos, o Brasil manteve sua integridade territorial após a independência. Isso é atribuído principalmente a:",
+        "back": "A) Uma grande vitória militar sobre um exército vindo da Europa em 1830.. A monarquia serviu de anteparo contra a fragmentação, unindo as elites em torno de um único líder soberano."
+      },
+      {
+        "front": "Quem liderou o processo de independência do Brasil?",
+        "back": "D. Pedro I"
+      },
+      {
+        "front": "Qual foi o resultado da tensão entre D. Pedro I e as elites?",
+        "back": "Dissolução da Constituinte de 1823 e outorga da Constituição de 1824"
+      },
+      {
+        "front": "O que foi o Poder Moderador?",
+        "back": "Um 'quarto poder' exclusivo do imperador que o tornava o árbitro absoluto da nação"
+      },
+      {
+        "front": "Por que D. Pedro I abdicou em 1831?",
+        "back": "Insatisfação com o absolutismo, derrota na Guerra da Cisplatina e crise sucessória em Portugal"
+      },
+      {
+        "front": "Qual foi o evento que selou o fim da monarquia no Brasil?",
+        "back": "Lei Áurea, que libertou os escravos sem indenizar os fazendeiros"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Uma grande vitória militar sobre um exército vindo da Europa em 1830.",
+        "is_true": true,
+        "explanation": "A monarquia serviu de anteparo contra a fragmentação, unindo as elites em torno de um único líder soberano."
+      },
+      {
+        "statement": "Intervir livremente nos poderes Legislativo, Executivo e Judiciário, nomeando e demitindo ministros.",
+        "is_true": false,
+        "explanation": "Mito! O Poder Moderador dava ao Imperador a supremacia política, tornando a democracia da época meramente formal."
+      },
+      {
+        "statement": "Escolher a religião oficial do país a cada quatro anos.",
+        "is_true": true,
+        "explanation": "O Poder Moderador dava ao Imperador a supremacia política, tornando a democracia da época meramente formal."
+      },
+      {
+        "statement": "A adoção de um regime republicano federalista radical.",
+        "is_true": false,
+        "explanation": "Mito! A monarquia serviu de anteparo contra a fragmentação, unindo as elites em torno de um único líder soberano."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Constituição de 1824",
+        "match": "Primeira constituição brasileira, outorgada por D. Pedro I"
+      },
+      {
+        "concept": "Poder Moderador",
+        "match": "Quarto poder criado por D. Pedro I acima dos outros"
+      },
+      {
+        "concept": "Abdicação de D. Pedro I",
+        "match": "1831: D. Pedro I renuncia ao trono em favor do filho"
+      },
+      {
+        "concept": "Senado vitalício",
+        "match": "Câmara alta do Império composta por nobres nomeados"
+      },
+      {
+        "concept": "Unitarismo x Federalismo",
+        "match": "Debate político central do Primeiro Reinado"
+      },
+      {
+        "concept": "Câmara dos Deputados",
+        "match": "Casa legislativa eleita no Império do Brasil"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Constituição de 1824: O Absolutismo Disfarçado",
+        "order": 1
+      },
+      {
+        "event": "2. Período Regencial: O Brasil no Limite",
+        "order": 2
+      },
+      {
+        "event": "3. Segundo Reinado: Café e Estabilidade Political",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MODERNIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Brasil Império: Unidade e Contradição (1822-1889)."
+    }
+  }
+}

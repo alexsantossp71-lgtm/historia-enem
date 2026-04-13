@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "id": "matematica-geometria-triangulos",
+    "title": "Geometria: Triângulos e Semelhança",
+    "period": "",
+    "tags": [
+      "Matemática",
+      "Geometria",
+      "Triângulos",
+      "Semelhança",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Matemática",
+    "subject": "Geometria",
+    "visual_depth": "elite"
+  },
+  "intro": "Os triângulos são figuras fundamentais na geometria euclidiana, e suas propriedades de semelhança são essenciais para resolver problemas de medição indireta e escalas.",
+  "theory_content": "Dois triângulos são semelhantes quando têm ângulos correspondentes iguais e lados proporcionais. Os critérios de semelhança são: 1) AA (Ângulo-Ângulo): se dois ângulos de um triângulo são respectivamente iguais a dois ângulos de outro, eles são semelhantes. 2) LAL (Lado-Ângulo-Lado): se dois lados são proporcionais e o ângulo entre eles é igual. 3) LL (Lado-Lado): se os três lados são proporcionais. Em triângulos retângulos, o teorema de Catetos (ou Teorema de Pitágoras) afirma que a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa: a² + b² = c². Aplicações incluem cálculo de alturas de prédios usando sombras, escalas em mapas, e resolução de problemas de trigonometria básica.",
+  "support_text": "No ENEM, questões de semelhança de triângulos frequentemente aparecem em contextos de interpretação de figuras, como calcular a altura de um poste usando sua sombra e a de uma pessoa conhecida, ou determinar distâncias inacessíveis usando escalas de mapas. Dominar os critérios de semelhança e o teorema de Pitágoras é essencial para a prova de Matemática.",
+  "sections": [
+    {
+      "title": "Critérios de Semelhança",
+      "content": "AA: Dois ângulos iguais garantem semelhança. LAL: Dois lados proporcionais e o ângulo entre eles igual. LL: Três lados proporcionais. Em triângulos retângulos, se um ângulo agudo é igual, os triângulos são semelhantes.",
+      "image": {
+        "url": "assets/images/lessons/matematica-geometria-triangulos/section_0.png",
+        "alt": "Critérios de Semelhança",
+        "caption": "Critérios de Semelhança"
+      },
+      "highlight": "A razão de semelhança é o fator de escala entre os lados correspondentes."
+    },
+    {
+      "title": "Teorema de Pitágoras e Aplicações",
+      "content": "Em um triângulo retângulo de catetos a, b e hipotenusa c: a² + b² = c². Este teorema permite calcular um lado desconhecido quando os outros dois são conhecidos. Aplicações incluem: distância entre dois pontos no plano, altura de um triângulo isósceles, e resolução de problemas de escadas encostadas em paredes.",
+      "highlight": "O teorema de Pitágoras só é válido para triângulos retângulos.",
+      "image": {
+        "url": "assets/images/lessons/matematica-geometria-triangulos/section_1.png",
+        "alt": "Teorema de Pitágoras e Aplicações",
+        "caption": "Teorema de Pitágoras e Aplicações"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Um triângulo retângulo tem catetos de 6 cm e 8 cm. Qual é o comprimento da hipotenusa?",
+      "options": [
+        "A) 10 cm",
+        "B) 14 cm",
+        "C) 48 cm",
+        "D) 48 cm²",
+        "E) 48 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Dois triângulos são considerados semelhantes se têm ângulos correspondentes iguais e lados proporcionais. Qual é o critério de semelhança que exige que dois ângulos de um triângulo sejam iguais a dois ângulos de outro triângulo?",
+      "options": [
+        "A) LAL (Lado-Ângulo-Lado)",
+        "B) LL (Lado-Lado)",
+        "C) AA (Ângulo-Ângulo)",
+        "D) Teorema de Catetos",
+        "E) Teorema de Pitágoras"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um engenheiro precisa calcular a altura de um prédio usando a sombra projetada por ele. Qual é o conceito geométrico que pode ser aplicado para resolver esse problema?",
+      "options": [
+        "A) Teorema de Tales",
+        "B) Teorema de Pitágoras",
+        "C) Triângulos semelhantes",
+        "D) Trigonometria básica",
+        "E) Escalas em mapas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Dois triângulos retângulos têm catetos proporcionais. Qual é o teorema que relaciona os catetos e a hipotenusa desses triângulos?",
+      "options": [
+        "A) Teorema de Catetos",
+        "B) Teorema de Pitágoras",
+        "C) Teorema de Tales",
+        "D) Lei dos Senos",
+        "E) Lei dos Cossenos"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um cartógrafo precisa criar uma escala para um mapa. Qual é o conceito que ele deve aplicar para garantir que as distâncias sejam proporcionais?",
+      "options": [
+        "A) Triângulos semelhantes",
+        "B) Triângulos congruentes",
+        "C) Escalas em mapas",
+        "D) Teorema de Pitágoras",
+        "E) Trigonometria básica"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Qual é o critério AA de semelhança?",
+      "back": "Dois ângulos de um triângulo são respectivamente iguais a dois ângulos de outro triângulo."
+    },
+    {
+      "front": "Em um triângulo retângulo, se os catetos medem 3 cm e 4 cm, quanto mede a hipotenusa?",
+      "back": "5 cm"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/matematica-geometria-triangulos/thumb.png",
+    "alt": "Geometria: Triângulos e Semelhança",
+    "caption": "Geometria: Triângulos e Semelhança"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "Fundação ancestral consolidada no rigor da herança euclidiana grega os axiomas formadores fundamentais e trigonometrias consagradas nos variados Triángulos regem arquiteturas do urbanismo humano contemporâneo aos satélites em geoestacionamentos. O exame cobra incólumes resoluções de Pitágoras a Lei dos Senos formatando o raciocínio rígido essencial visual de mensuração de área não tridimensional alcançável direta.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Um triângulo retângulo tem catetos de 6 cm e 8 cm. Qual é o comprimento da hipotenusa?",
+        "back": "A) 10 cm. Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
+      },
+      {
+        "front": "Quais são os critérios de semelhança entre dois triângulos?",
+        "back": "AA, LAL e LL"
+      },
+      {
+        "front": "O que significa AA em semelhança de triângulos?",
+        "back": "Ângulo-Ângulo"
+      },
+      {
+        "front": "Qual é o teorema que relaciona os lados de um triângulo retângulo?",
+        "back": "Teorema de Pitágoras"
+      },
+      {
+        "front": "Qual é a fórmula do Teorema de Pitágoras?",
+        "back": "a² + b² = c²"
+      },
+      {
+        "front": "Para que serve o Teorema de Pitágoras?",
+        "back": "Cálculo de alturas, escalas em mapas e trigonometria básica"
+      },
+      {
+        "front": "O que é necessário para que dois triângulos sejam semelhantes?",
+        "back": "Ângulos correspondentes iguais e lados proporcionais"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "14 cm.",
+        "is_true": false,
+        "explanation": "Mito! Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
+      },
+      {
+        "statement": "10 cm.",
+        "is_true": true,
+        "explanation": "Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) 10 cm",
+        "match": "Um triângulo retângulo tem catetos de 6 cm e ..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Critérios de Semelhança",
+        "order": 1
+      },
+      {
+        "event": "Teorema de Pitágoras e Aplicações",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "FUNDAMENTAIS",
+      "hint": "O conceito-chave central ou termo associado à aula de Geometria: Triângulos e Semelhança."
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "id": "roma-antiga",
+    "title": "Roma Antiga: República e Império",
+    "period": "753 a.C. - 476 d.C.",
+    "tags": [
+      "Senado",
+      "Patrícios",
+      "Plebeus",
+      "Pax Romana",
+      "Direito Romano"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Roma não foi apenas um exército invencível. Ela foi o berço do Direito, das estradas que conectaram o mundo e das instituições políticas que inspiram as repúblicas modernas até hoje.",
+  "theory_content": "A história de Roma é tradicionalmente dividida em três períodos: Monarquia, República e Império. \n\nO período da **República (509 a.C. - 27 a.C.)** é o mais importante para o ENEM. Foi nele que Roma desenvolveu o **Senado** e as magistraturas, mas também viveu intensas lutas sociais entre **Patrícios** (aristocracia de terra) e **Plebeus** (povo comum). Através de greves e revoltas, os plebeus conquistaram direitos fundamentais como a Lei das XII Tábuas (leis escritas), a criação dos Tribunos da Plebe (com poder de veto) e o fim da escravidão por dívida. Paralelamente, Roma expandiu-se pelo Mediterrâneo nas **Guerras Púnicas** contra Cartago, tornando-se o 'Mare Nostrum'. \n\nA transição para o **Império (27 a.C. - 476 d.C.)** ocorreu com Otávio Augusto, após o caos das guerras civis de Júlio César. O império trouxe a era da **Pax Romana**, um período de estabilidade e grandes construções. Para controlar a massa urbana descontente, foi criada a política do **Pão e Circo (Panem et Circenses)**: distribuição de trigo e espetáculos gratuitos de gladiadores. O legado de Roma inclui o **Direito Romano** (base das leis europeias), as línguas latinas (Português, Espanhol, Francês) e a difusão do Cristianismo, que passou de religião perseguida em catacumbas a religião oficial do Estado com Teodósio em 380 d.C. A queda final de Roma em 476 d.C., sob as invasões bárbaras, marcou o fim da Antiguidade e o início da Idade Média.",
+  "sections": [
+    {
+      "title": "1. Conflitos de Classe: Patrícios vs. Plebeus",
+      "content": "A base social romana era desigual. Os patrícios detinham as melhores terras e as cadeiras do Senado. Os plebeus, que eram a maioria dos soldados, revoltaram-se diversas vezes, ameaçando sair de Roma e formar sua própria cidade. Disso nasceram os 'Tribunos da Plebe', homens de origem plebeia que podiam vetar decisões do Senado que prejudicassem o povo. Foi o início da luta democrática em Roma.",
+      "highlight": "Os direitos republicanos de Roma foram arrancados pelo povo através da resistência organizada.",
+      "image": {
+        "url": "assets/images/lessons/roma-antiga/section_0.png",
+        "alt": "1. Conflitos de Classe: Patrícios vs. Plebeus",
+        "caption": "1. Conflitos de Classe: Patrícios vs. Plebeus"
+      }
+    },
+    {
+      "title": "2. Guerras Púnicas e o 'Mare Nostrum'",
+      "content": "Roma enfrentou sua maior rival, Cartago (no norte da África), pelo controle do comércio marítimo. Após três guerras exaustivas (na última, o general Aníbal atravessou os Alpes com elefantes), Roma destruiu Cartago e espalhou sal em suas terras. Isso transformou Roma na maior potência escravista do mundo antigo, inundando a cidade com riquezas e mão de obra gratuita capturada nas guerras.",
+      "highlight": "A vitória sobre Cartago deu a Roma o domínio absoluto de todo o Mar Mediterrâneo.",
+      "image": {
+        "url": "assets/images/lessons/roma-antiga/section_1.png",
+        "alt": "2. Guerras Púnicas e o 'Mare Nostrum'",
+        "caption": "2. Guerras Púnicas e o 'Mare Nostrum'"
+      }
+    },
+    {
+      "title": "3. Panem et Circenses: Controle Social",
+      "content": "A expansão de Roma expulsou o pequeno agricultor do campo (latifúndios escravistas), criando uma massa de desempregados em Roma. Para evitar revoluções violentas, os imperadores criaram o Pão e Circo. Estádios monumentais como o Coliseu serviam para distrair o povo de sua miséria enquanto o Imperador distribuía comida. Era o controle das mentes pelo entretenimento violento.",
+      "highlight": "O 'Pão e Circo' foi a primeira grande estratégia de política social populista da história ocidental.",
+      "image": {
+        "url": "assets/images/lessons/roma-antiga/section_2.png",
+        "alt": "3. Panem et Circenses: Controle Social",
+        "caption": "3. Panem et Circenses: Controle Social"
+      }
+    },
+    {
+      "title": "4. O Direito Romano: A Ordem pela Lei",
+      "content": "O maior legado de Roma não foi militar, mas jurídico. Os romanos criaram noções como 'Presunção de Inocência', 'Divisão de Poderes' e o direito à herança. O 'Corpus Juris Civilis' de Justiniano serviu como base para o código civil de Napoleão e, consequentemente, para o código civil brasileiro. Rome nos deu a gramática da justiça.",
+      "highlight": "Sem as leis romanas, o mundo ocidental não teria segurança jurídica."
+    },
+    {
+      "title": "5. Cristianismo: Da Cruz ao Trono",
+      "content": "O cristianismo surgiu nas periferias do Império e pregava a igualdade e o amor, o que subvertia a ordem escravista romana. Nero e outros imperadores perseguiram e crucificaram cristãos. Porém, a fé cresceu tanto que o Imperador Constantino a legalizou (Édito de Milão) e Teodósio a tornou oficial. Roma caiu como império, mas sobreviveu como Igreja Católica nos séculos seguintes.",
+      "highlight": "A Igreja Católica foi o 'Império Romano da Alma' que sobreviveu à queda política de Roma."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A política de 'Pão e Circo' (Panem et Circenses), aplicada durante o Império Romano, tinha como objetivo primordial:",
+      "options": [
+        "A) Transformar todos os cidadãos em grandes poetas e filósofos.",
+        "B) Distrair a plebe empobrecida e desocupada das cidades, evitando revoltas sociais e políticas contra o Imperador.",
+        "C) Financiar a construção de foguetes para colonizar a Lua.",
+        "D) Acabar com o uso de armas e declarar Roma um estado pacifista budista.",
+        "E) Proibir o consumo de vinho em todo o território italiano."
+      ],
+      "correctIndex": 1,
+      "explanation": "O entretenimento e a comida gratuita eram ferramentas de alienação política para manter a ordem social.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O fim da escravidão por dívidas e a criação da Lei das XII Tábuas em Roma foram conquistas de qual classe social?",
+      "options": [
+        "A) Da nobreza patrícia, interessada em doar dinheiro para os pobres.",
+        "B) Dos escravos vindos de Cartago após as Guerras Púnicas.",
+        "C) Da plebe, através de intensas lutas e pressões contra a aristocracia patrícia.",
+        "D) Do Império Chinês que acabara de invadir Roma.",
+        "E) Apenas dos gladiadores que venceram no Coliseu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Os plebeus lutaram durante séculos para limitar o poder dos patrícios e garantir leis escritas e igualitárias.",
+      "source": "Simulado ENEM CLÁSSICO"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/roma-antiga/thumb.png",
+    "alt": "Roma Antiga: República e Império",
+    "caption": "Roma Antiga: República e Império"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A transição de Roma de uma pequena cidade-estado para um império mediterrâneo foi sustentada por uma infraestrutura militar e jurídica sem precedentes. O Direito Romano, sistematizado para organizar as complexas relações de propriedade e cidadania em vastos territórios, permanece como o alicerce fundamental dos sistemas jurídicos ocidentais modernos. A capacidade de Roma em integrar povos conquistados através da concessão progressiva da cidadania foi o que permitiu a sobrevivência do império por séculos de forma integrada.",
+        "A economia romana no período imperial era dependente de um ciclo contínuo de conquistas que fornecia mão de obra escrava e tributos. Esse modelo, no entanto, continha a semente de sua própria destruição: à medida que as fronteiras se estabilizavam e as conquistas cessavam, o suprimento de escravos diminuía, gerando inflação e a ruralização da economia. O Colono, predecessor do servo medieval, surgiu justamente quando os grandes latifúndios buscaram novas formas de produtividade diante da crise do sistema escravista clássico.",
+        "O cristianismo percorreu uma trajetória extraordinária dentro de Roma, passando de seita perseguida (vista como ameaça à divindade do Imperador) para religião oficial com o Édito de Tessalônica em 380 d.C. Essa aliança entre a Igreja e o Estado Romano preservou elementos da cultura clássica durante as invasões germânicas, garantindo que a língua latina e as estruturas administrativas romanas servissem de base para a construção da Europa Medieval, mesmo após a queda formal do Império do Ocidente em 476 d.C."
+      ],
+      "source": "GIBBON, Edward. Declínio e Queda do Império Romano. São Paulo: Companhia das Letras, 2005."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A política de 'Pão e Circo' (Panem et Circenses), aplicada durante o Império Romano, tinha como objetivo primordial:",
+        "back": "A) Transformar todos os cidadãos em grandes poetas e filósofos.. O entretenimento e a comida gratuita eram ferramentas de alienação política para manter a ordem social."
+      },
+      {
+        "front": "O fim da escravidão por dívidas e a criação da Lei das XII Tábuas em Roma foram conquistas de qual classe social?",
+        "back": "A) Da nobreza patrícia, interessada em doar dinheiro para os pobres.. Os plebeus lutaram durante séculos para limitar o poder dos patrícios e garantir leis escritas e igualitárias."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Transformar todos os cidadãos em grandes poetas e filósofos..",
+        "is_true": true,
+        "explanation": "O entretenimento e a comida gratuita eram ferramentas de alienação política para manter a ordem social."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Distrair a plebe empobrecida e desocupada das cidades, evitando revoltas sociais e políticas contra o Imperador..",
+        "is_true": false,
+        "explanation": "Falso! O entretenimento e a comida gratuita eram ferramentas de alienação política para manter a ordem social."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Da nobreza patrícia, interessada em doar dinheiro para os pobres..",
+        "is_true": true,
+        "explanation": "Os plebeus lutaram durante séculos para limitar o poder dos patrícios e garantir leis escritas e igualitárias."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Dos escravos vindos de Cartago após as Guerras Púnicas..",
+        "is_true": false,
+        "explanation": "Falso! Os plebeus lutaram durante séculos para limitar o poder dos patrícios e garantir leis escritas e igualitárias."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "República romana",
+        "match": "Sistema com Senado, cônsules e tribunos da plebe"
+      },
+      {
+        "concept": "Pax Romana",
+        "match": "Período de relativa paz no auge do Império Romano"
+      },
+      {
+        "concept": "Escravo",
+        "match": "Base da produção econômica romana"
+      },
+      {
+        "concept": "Cidadania romana",
+        "match": "Direito concedido a habitantes livres do Império"
+      },
+      {
+        "concept": "Júlio César",
+        "match": "Ditador romano assassinado nos Idos de Março"
+      },
+      {
+        "concept": "Queda de Roma",
+        "match": "476 d.C., fim do Império Romano do Ocidente"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Conflitos de Classe: Patrícios vs. Plebeus",
+        "order": 1
+      },
+      {
+        "event": "2. Guerras Púnicas e o 'Mare Nostrum'",
+        "order": 2
+      },
+      {
+        "event": "3. Panem et Circenses: Controle Social",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INSTITUIÇÕES",
+      "hint": "O conceito-chave central ou termo associado à aula de Roma Antiga: República e Império."
+    }
+  }
+}

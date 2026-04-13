@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "guerras-bandeirantes",
+    "title": "Bandeirantismo: Expansão e Conflitos no Interior",
+    "period": "Séculos XVI e XVII",
+    "tags": [
+      "Bandeiras",
+      "Entradas",
+      "Expansão Territorial",
+      "Mamelucos",
+      "Tratado de Tordesilhas"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "As bandeiras foram as expedições que rasgaram o Tratado de Tordesilhas e deram ao Brasil suas dimensões continentais. Mas por trás da 'bravura', escondem-se o apresamento indígena e o extermínio de quilombos.",
+  "theory_content": "O bandeirantismo foi um fenômeno centrado na Vila de Piratininga (São Paulo). Diferente do litoral nordestino, rico e açucareiro, São Paulo era uma região pobre e isolada. Para sobreviver, seus habitantes — em sua maioria **mamelucos** (filhos de portugueses com indígenas) — organizaram expedições chamadas **Bandeiras** (privadas) e **Entradas** (oficiais) rumo ao sertão. \n\nA historiografia clássica paulista criou o mito do bandeirante como um herói desbravador de botas e gibão de couro. No entanto, a realidade era muito mais brutal. O principal objetivo inicial foi o **Bandeirantismo de Apresamento**: a captura de indígenas para o trabalho escravo nas lavouras de trigo paulistas ou para venda no litoral. Isso levou ao ataque sistemático às Missões Jesuíticas no sul (como as de Guairá), onde os índios já estavam reunidos e 'domesticados', facilitando o sequestro em massa. O segundo grande ciclo foi o **Bandeirantismo de Contrato**, onde os bandeirantes eram contratados por senhores de engenho para destruir quilombos (como o de Palmares) ou capturar escravizados fugidos. \n\nO terceiro ciclo, as **Bandeiras de Prospecção**, resultou na descoberta do ouro em Minas Gerais, Mato Grosso e Goiás no final do século XVII. O maior impacto dessas expedições não foi apenas econômico, mas geopolítico. Ao ignorar a linha imaginária do **Tratado de Tordesilhas**, os bandeirantes expandiram as fronteiras do Brasil para o oeste, garantindo a posse de territórios que formalmente pertenciam à Espanha. Isso foi ratificado mais tarde pelo **Tratado de Madri (1750)**, baseado no princípio de *Uti Possidetis* ('quem possui a terra de fato, é o seu dono'). O ENEM costuma cobrar a revisão crítica dessa figura histórica e o impacto devastador que as bandeiras tiveram sobre as nações indígenas do interior.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a diferença entre 'Entradas' (partiam do litoral, obedeciam ao Rei) e 'Bandeiras' (partiam de SP, eram iniciativa privada). Foque na desconstrução da imagem do bandeirante: eles falavam mais Tupi do que Português, andavam descalços e eram caçadores de gente. Analise as consequências geográficas da expansão: o Brasil ganhou sua forma atual graças aos passos desses expedicionários.",
+  "sections": [
+    {
+      "title": "1. O Cenário de São Paulo e o Isolamento",
+      "content": "São Paulo de Piratininga ficava no alto da serra, longe dos portos. Sem o açúcar, o paulista teve que se voltar para o interior em busca de riquezas. Essa pobreza gerou uma sociedade mestiça e guerreira, que dependia da escravidão indígena para sobreviver. O bandeirante era, antes de tudo, um sertanejo que conhecia os segredos das matas tão bem quanto os nativos.",
+      "highlight": "O isolamento geográfico de SP deu origem ao movimento bandeirantista.",
+      "image": {
+        "url": "assets/images/lessons/guerras-bandeirantes/section_0.png",
+        "alt": "1. O Cenário de São Paulo e o Isolamento",
+        "caption": "1. O Cenário de São Paulo e o Isolamento"
+      }
+    },
+    {
+      "title": "2. Apresamento: O Ataque às Missões Jesuíticas",
+      "content": "Os jesuítas reuniam milhares de indígenas em povoados organizados (Reduções). Para os bandeirantes, as missões eram 'depósitos' de mão de obra pronta. Expedições como a de Raposo Tavares destruíram quase todas as missões do Sul, forçando os jesuítas e indígenas a fugirem para o que hoje é o Uruguai e a Argentina. Foi uma das épocas mais sangrentas do período colonial.",
+      "highlight": "A captura do indígena foi o primeiro motor econômico das bandeiras.",
+      "image": {
+        "url": "assets/images/lessons/guerras-bandeirantes/section_1.png",
+        "alt": "2. Apresamento: O Ataque às Missões Jesuíticas",
+        "caption": "2. Apresamento: O Ataque às Missões Jesuíticas"
+      }
+    },
+    {
+      "title": "3. O Sertanismo de Contrato e Palmares",
+      "content": "Quando não estavam caçando ouro ou índios, os bandeirantes eram mercenários. Grandes proprietários de terras pagavam para que eles 'limpassem' áreas de conflitos indígenas ou que destruíssem comunidades de escravos fugidos. Domingos Jorge Velho, o destruidor de Palmares, é o exemplo clássico dessa figura: um homem impiedoso que servia aos interesses da aristocracia latifundiária.",
+      "highlight": "O bandeirante foi o braço armado da repressão colonial contra negros e índios.",
+      "image": {
+        "url": "assets/images/lessons/guerras-bandeirantes/section_2.png",
+        "alt": "3. O Sertanismo de Contrato e Palmares",
+        "caption": "3. O Sertanismo de Contrato e Palmares"
+      }
+    },
+    {
+      "title": "4. Prospecção e o Nascimento da Mineração",
+      "content": "A busca pelos 'Metais Preciosos' foi o sonho constante. Após décadas de expedições infrutíferas, no final do setecentos, Fernão Dias Paes e outros encontraram ouro e esmeraldas (ou turmalinas). Isso causou uma 'corrida do ouro' que mudou o centro do Brasil, levando milhares de pessoas para o interior e forçando a Coroa a criar estradas e vilas para coletar impostos.",
+      "highlight": "A descoberta de ouro em Minas Gerais foi o resultado de décadas de fustigamento bandeirante no interior."
+    },
+    {
+      "title": "5. Geopolítica: Uti Possidetis e Tratado de Madri",
+      "content": "Graças aos bandeirantes, o Brasil tem hoje 8 milhões de km². A diplomacia portuguesa, liderada por Alexandre de Gusmão, usou as marcas deixadas pelos bandeirantes (roças, povoados e igrejas) para provar à Espanha que aquelas terras já eram lusas. O Tratado de Madri oficializou essa expansão, enterrando para sempre o Tratado de Tordesilhas e definindo o contorno do mapa brasileiro que conhecemos.",
+      "highlight": "O Brasil ultrapassou as fronteiras coloniais através da ocupação prática do território."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A historiografia clássica paulista do início do século XX costuma retratar o bandeirante como um herói. Do ponto de vista dos povos indígenas e das comunidades quilombolas, essa imagem é contestada por que:",
+      "options": [
+        "A) O bandeirante era considerado um defensor da natureza e da preservação ambiental.",
+        "B) As bandeiras tinham como principal atividade o genocídio indígena (apresamento) e o esmagamento de focos de resistência de escravizados fugidos.",
+        "C) Os bandeirantes lutavam apenas para levar a democracia para o interior.",
+        "D) Eles eram padres jesuítas que queriam catequizar o mundo inteiro sem usar a força.",
+        "E) Os bandeirantes eram apenas fotógrafos que queriam registrar a beleza da mata."
+      ],
+      "requiredIndex": 1,
+      "explanation": "A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização.",
+      "source": "Enem 2015 Oficial"
+    },
+    {
+      "question": "O princípio de 'Uti Possidetis', aplicado no Tratado de Madri (1750), serviu para:",
+      "options": [
+        "A) Proibir que o Brasil tivesse qualquer território além do Rio de Janeiro.",
+        "B) Garantir a posse das terras para quem as ocupasse de fato, legalizando a expansão bandeirante além de Tordesilhas.",
+        "C) Devolver o Brasil integralmente para a Espanha por decisão do Papa.",
+        "D) Estabelecer que apenas os indígenas poderiam ser donos de terras no Brasil colonial.",
+        "E) Declarar que o café seria o único produto plantado em solo brasileiro."
+      ],
+      "correctIndex": 1,
+      "explanation": "Uti Possidetis significa 'quem possui a posse tem o direito', o que beneficiou Portugal na definição das fronteiras brasileiras.",
+      "source": "Simulado ENEM GEOPOLÍTICA"
+    },
+    {
+      "question": "Qual foi o principal objetivo inicial do bandeirantismo?",
+      "options": [
+        "A) Descobrir ouro e expandir as fronteiras do Brasil",
+        "B) Estabelecer missões jesuíticas no sul do país",
+        "C) Capturar indígenas para o trabalho escravo nas lavouras de trigo paulistas ou para venda no litoral",
+        "D) Destruir quilombos e capturar escravizados fugidos",
+        "E) Estabelecer relações diplomáticas com as nações indígenas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o tratado que ratificou a posse de territórios conquistados pelos bandeirantes, baseado no princípio de Uti Possidetis?",
+      "options": [
+        "A) Tratado de Tordesilhas",
+        "B) Tratado de Madri (1750)",
+        "C) Tratado de Lisboa",
+        "D) Tratado de São Paulo",
+        "E) Tratado de Guairá"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o impacto das bandeiras de prospecção no final do século XVII?",
+      "options": [
+        "A) A descoberta de prata em Minas Gerais",
+        "B) A expansão das fronteiras do Brasil para o norte",
+        "C) A descoberta do ouro em Minas Gerais, Mato Grosso e Goiás e a expansão das fronteiras do Brasil para o oeste",
+        "D) A destruição de quilombos no nordeste",
+        "E) A estabelecimento de relações diplomáticas com as nações indígenas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/guerras-bandeirantes/thumb.png",
+    "alt": "Bandeirantismo: Expansão e Conflitos no Interior",
+    "caption": "Bandeirantismo: Expansão e Conflitos no Interior"
+  },
+  "support_texts": [
+    {
+      "source": "MONTEIRO, John Manuel. Negros da Terra: Índios e Bandeirantes nas origens de São Paulo. Cia das Letras, 1994.",
+      "paragraphs": [
+        "O fenômeno do bandeirantismo paulista, fundamental para a expansão das fronteiras territoriais para além da Linha de Tordesilhas, teve um motor profundamente violento. Ao contrário da imagem do bandeirante como explorador heroico e desbravador romântico (construída pela elite paulista no século XX), John Monteiro ressalta que as expedições eram essencialmente empresas de apresamento escravista.",
+        "A escravização dos 'negros da terra' (indígenas) supriu a escassez de mão de obra nas lavouras da capitania de São Vicente (que não possuía capital para importar escravizados africanos). Os ataques sistemáticos às reduções jesuíticas espanholas no sul revelam a ferocidade militar e a busca implacável por trabalho forçado.",
+        "O candidato do Enem deve ser capaz de desconstruir o mito do bandeirante heroico, compreendendo-o como agente da expansão territorial lusitana que, paralelamente à descoberta posterior do ouro, foi responsável pelo extermínio e desterro de incontáveis etnias indígenas formadoras do Brasil."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A historiografia clássica paulista do início do século XX costuma retratar o bandeirante como um herói. Do ponto de vista dos povos indígenas e das comunidades quilombolas, essa imagem é contestada por que:",
+        "back": "A) O bandeirante era considerado um defensor da natureza e da preservação ambiental.. A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização."
+      },
+      {
+        "front": "O princípio de 'Uti Possidetis', aplicado no Tratado de Madri (1750), serviu para:",
+        "back": "A) Proibir que o Brasil tivesse qualquer território além do Rio de Janeiro.. Uti Possidetis significa 'quem possui a posse tem o direito', o que beneficiou Portugal na definição das fronteiras brasileiras."
+      },
+      {
+        "front": "O que era o bandeirantismo?",
+        "back": "Um fenômeno centrado na Vila de Piratininga (São Paulo) que envolvia expedições chamadas Bandeiras e Entradas rumo ao sertão."
+      },
+      {
+        "front": "Quem eram os mamelucos?",
+        "back": "Filhos de portugueses com indígenas que habitavam a região de São Paulo."
+      },
+      {
+        "front": "Qual era o objetivo do Bandeirantismo de Apresamento?",
+        "back": "A captura de indígenas para o trabalho escravo nas lavouras de trigo paulistas ou para venda no litoral."
+      },
+      {
+        "front": "O que foi o Tratado de Tordesilhas?",
+        "back": "Uma linha imaginária que dividia as terras entre Portugal e Espanha, ignorada pelos bandeirantes em suas expedições."
+      },
+      {
+        "front": "Qual foi o impacto das Bandeiras de Prospecção?",
+        "back": "A descoberta do ouro em Minas Gerais, Mato Grosso e Goiás e a expansão das fronteiras do Brasil para o oeste."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Garantir a posse das terras para quem as ocupasse de fato, legalizando a expansão bandeirante além de Tordesilhas.",
+        "is_true": false,
+        "explanation": "Mito! Uti Possidetis significa 'quem possui a posse tem o direito', o que beneficiou Portugal na definição das fronteiras brasileiras."
+      },
+      {
+        "statement": "Proibir que o Brasil tivesse qualquer território além do Rio de Janeiro.",
+        "is_true": true,
+        "explanation": "Uti Possidetis significa 'quem possui a posse tem o direito', o que beneficiou Portugal na definição das fronteiras brasileiras."
+      },
+      {
+        "statement": "As bandeiras tinham como principal atividade o genocídio indígena (apresamento) e o esmagamento de focos de resistência de escravizados fugidos.",
+        "is_true": false,
+        "explanation": "Mito! A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização."
+      },
+      {
+        "statement": "O bandeirante era considerado um defensor da natureza e da preservação ambiental.",
+        "is_true": true,
+        "explanation": "A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Bandeiras",
+        "match": "Expedições de exploração do interior do Brasil"
+      },
+      {
+        "concept": "Paulistas",
+        "match": "Bandeirantes partiam principalmente de São Paulo"
+      },
+      {
+        "concept": "Quilombo dos Palmares",
+        "match": "Maior comunidade quilombola do Brasil (Zumbi)"
+      },
+      {
+        "concept": "Zumbi dos Palmares",
+        "match": "Líder do Quilombo dos Palmares, símbolo da resistência negra"
+      },
+      {
+        "concept": "Guaranis",
+        "match": "Índios das reduções jesuíticas combatidas pelos bandeirantes"
+      },
+      {
+        "concept": "Missões jesuíticas",
+        "match": "Aldeias sob proteção da Igreja no sul da América"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Cenário de São Paulo e o Isolamento",
+        "order": 1
+      },
+      {
+        "event": "2. Apresamento: O Ataque às Missões Jesuíticas",
+        "order": 2
+      },
+      {
+        "event": "3. O Sertanismo de Contrato e Palmares",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONTINENTAIS",
+      "hint": "O conceito-chave central ou termo associado à aula de Bandeirantismo: Expansão e Conflitos no Interior."
+    }
+  }
+}

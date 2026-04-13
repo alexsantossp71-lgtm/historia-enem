@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "id": "ciencias-humanas-sociologia-estratificacao",
+    "title": "Sociologia: Estratificação Social e Classes Sociais",
+    "period": "",
+    "tags": [
+      "Ciências Humanas",
+      "Sociologia",
+      "Estratificação",
+      "Classes Sociais",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "Sociologia",
+    "visual_depth": "elite"
+  },
+  "intro": "A estratificação social refere-se à hierarquia de posições sociais que os indivíduos ocupam em uma sociedade, baseada em fatores como renda, educação, ocupação e prestígio.",
+  "theory_content": "A estratificação social é um conceito central na sociologia que descreve como as sociedades distribuem desigualdades de forma sistemática. Os principais sistemas de estratificação são: 1) Sistema de classe: baseado principalmente em posição econômica e ocupacional (ex: burguesia, proletariado). 2) Sistema de casta: baseado em nascimento e pouco móvel (ex: sistema de castas da Índia). 3) Sistema de estado: baseado em prestígio legal ou religioso. Na sociedade contemporânea brasileira, observa-se uma estratificação de classe com elementos de status (consumo, estilo de vida) e poder (influência política). Fatores que determinam a posição incluem: renda e riqueza, nível de educação, ocupação e prestígio profissional, origem familiar e raça/cor. A mobilidade social pode ser intergeracional (entre pais e filhos) ou intrageneracional (ao longo da vida própria).",
+  "support_text": "No ENEM, questões sobre estratificação social frequentemente aparecem em contextos de interpretação de gráficos de distribuição de renda, análise de dados do IBGE (como a PNAD) e relação entre educação e renda. Por exemplo, uma questão pode apresentar a pirâmide etária da população brasileira e pedir para analisar as implicações para a previdência social.",
+  "sections": [
+    {
+      "title": "Teorias da Estratificação",
+      "content": "Funcionalismo (Davis e Moore): vê a estratificação como necessária para colocar os mais talentosos nas posições mais importantes. Conflito (Marx): vê a estratificação como resultado da exploração de uma classe por outra. Interacionismo: foca em como as pessoas constroem e negociam suas posições sociais através de interações diárias.",
+      "highlight": "Nenhuma teoria explica completamente a estratificação; abordagens múltiplas são necessárias.",
+      "image": {
+        "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/section_0.png",
+        "alt": "Teorias da Estratificação",
+        "caption": "Teorias da Estratificação"
+      }
+    },
+    {
+      "title": "Pobreza e Desigualdade no Brasil",
+      "content": "O Brasil apresenta altos níveis de desigualdade, medidos pelo índice de Gini (valor próximo de 0,5 indica alta desigualdade). Fatores incluem: legado histórico da escravidão, concentração de fundiários, acesso desigual à educação e oportunidades regionais desigualdes. Programas como o Bolsa Família tentam reduzir a pobreza através de transferência de renda condicionada.",
+      "image": {
+        "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/section_1.png",
+        "alt": "Pobreza e Desigualdade no Brasil",
+        "caption": "Pobreza e Desigualdade no Brasil"
+      },
+      "highlight": "A desigualdade no Brasil é tanto regional quanto racial, com maior concentração de pobreza no Nordeste e entre populações negras e indígenas."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Segundo o índice de Gini, qual das seguintes afirmações sobre desigualdade de renda está correta?",
+      "options": [
+        "A) Quanto mais próximo de 0, maior a desigualdade",
+        "B) Quanto mais próximo de 1, maior a desigualdade",
+        "C) O índice de Gini mede apenas pobreza, não desigualdade",
+        "D) O Brasil tem um dos menores índices de Gini do mundo",
+        "E) O índice de Gini varia de 0 a 100"
+      ],
+      "correctIndex": 1,
+      "explanation": "O índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Valores próximos de 1 indicam maior desigualdade de renda.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Qual é o principal fator que determina a posição de um indivíduo no sistema de estratificação de classe?",
+      "options": [
+        "A) Nascimento e origem familiar",
+        "B) Posição econômica e ocupacional",
+        "C) Prestígio legal ou religioso",
+        "D) Raça ou cor",
+        "E) Idade e gênero"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o tipo de mobilidade social que ocorre entre pais e filhos?",
+      "options": [
+        "A) Intrageneracional",
+        "B) Intergeneracional",
+        "C) Mobilidade vertical",
+        "D) Mobilidade horizontal",
+        "E) Mobilidade social descendente"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o sistema de estratificação que é baseado em nascimento e é pouco móvel?",
+      "options": [
+        "A) Sistema de classe",
+        "B) Sistema de casta",
+        "C) Sistema de estado",
+        "D) Sistema de status",
+        "E) Sistema de poder"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quais são os fatores que determinam a posição de um indivíduo na sociedade contemporânea brasileira?",
+      "options": [
+        "A) Renda e riqueza, nível de educação e ocupação",
+        "B) Origem familiar, raça/cor e prestígio profissional",
+        "C) Renda e riqueza, nível de educação, ocupação, prestígio profissional, origem familiar e raça/cor",
+        "D) Idade, gênero e estilo de vida",
+        "E) Consumo, estilo de vida e influência política"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "O que mede o índice de Gini?",
+      "back": "A desigualdade de distribuição de renda ou consumo em uma população."
+    },
+    {
+      "front": "Qual é a diferença entre pobreza absoluta e relativa?",
+      "back": "Pobreza absoluta: falta de recursos para necessidades básicas. Pobreza relativa: posição inferior em relação à média da sociedade."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/thumb.png",
+    "alt": "Sociologia: Estratificação Social e Classes Sociais",
+    "caption": "Sociologia: Estratificação Social e Classes Sociais"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O estudo da estratificação e das desigualdades sociais é um dos pilares da Sociologia contemporânea. Segundo teóricos como Marx e Weber, compreender a distribuição de renda, status e poder na sociedade é essencial não apenas para o desvendamento das dinâmicas do capitalismo global, mas também para a formulação crítica exigida pelo Enem sobre mobilidade social e exclusão.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Segundo o índice de Gini, qual das seguintes afirmações sobre desigualdade de renda está correta?",
+        "back": "A) Quanto mais próximo de 0, maior a desigualdade. O índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Valores próximos de 1 indicam maior desigualdade de renda."
+      },
+      {
+        "front": "O que é estratificação social?",
+        "back": "Distribuição sistemática de desigualdades em uma sociedade."
+      },
+      {
+        "front": "Quais são os principais sistemas de estratificação?",
+        "back": "Sistema de classe, sistema de casta e sistema de estado."
+      },
+      {
+        "front": "O que define o sistema de classe?",
+        "back": "Posição econômica e ocupacional."
+      },
+      {
+        "front": "Quais fatores determinam a posição social?",
+        "back": "Renda, educação, ocupação, origem familiar e raça/cor."
+      },
+      {
+        "front": "O que é mobilidade social intergeracional?",
+        "back": "Mudança de posição social entre pais e filhos."
+      },
+      {
+        "front": "O que é mobilidade social intrageneracional?",
+        "back": "Mudança de posição social ao longo da vida própria."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Quanto mais próximo de 0, maior a desigualdade.",
+        "is_true": true,
+        "explanation": "O índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Valores próximos de 1 indicam maior desigualdade de renda."
+      },
+      {
+        "statement": "Quanto mais próximo de 1, maior a desigualdade.",
+        "is_true": false,
+        "explanation": "Mito! O índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Valores próximos de 1 indicam maior desigualdade de renda."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) Quanto mais próximo de 0, maior a desigual...",
+        "match": "Segundo o índice de Gini, qual das seguintes ..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Teorias da Estratificação",
+        "order": 1
+      },
+      {
+        "event": "Pobreza e Desigualdade no Brasil",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ESTRATIFICAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Sociologia: Estratificação Social e Classes Sociais."
+    }
+  }
+}

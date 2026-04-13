@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{TITLE}} - História ENEM</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+    <!-- Scripts & Styles -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/themes.css">
+</head>
+<body class="bg-dots {{THEME_CLASS}}">
+
+    <!-- Minimalist Navbar -->
+    <nav class="sticky top-0 bg-white/80 backdrop-blur-md border-b border-gray-100 mb-0 z-50">
+        <div class="container flex justify-between items-center text-indigo-950 py-4">
+            <a href="../index.html" class="flex items-center gap-2 group">
+                <div class="w-8 h-8 rounded-lg bg-emerald-600 flex items-center justify-center text-white font-bold text-lg shadow-lg group-hover:rotate-12 transition-all">H</div>
+                <span class="font-bold text-xl tracking-tighter outfit">História<span class="text-emerald-600">ENEM</span></span>
+            </a>
+            <div class="flex gap-10 text-xs font-bold uppercase tracking-widest text-indigo-900/60">
+                <a href="../index.html" class="nav-link">Início</a>
+                <a href="Indice_aulas.html" class="nav-link">Aulas</a>
+            </div>
+            <button class="text-xs font-bold text-indigo-900/60 transition-colors uppercase tracking-widest">Entrar</button>
+        </div>
+    </nav>
+
+    <!-- Header Section -->
+    <header class="relative h-[60vh] overflow-hidden mb-20">
+        <img src="../{{HERO_IMAGE}}" alt="{{TITLE}}" class="w-full h-full object-cover">
+        <div class="absolute inset-0 bg-gradient-to-t from-indigo-950 via-indigo-950/40 to-transparent"></div>
+        <div class="absolute bottom-0 left-0 w-full pb-20">
+            <div class="container">
+                <div class="flex items-center gap-3 mb-6 animate-fade-in">
+                    <span class="bg-theme-main text-white px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-widest shadow-lg">{{PERIOD}}</span>
+                    <span class="text-white/60 text-xs font-bold uppercase tracking-tighter">{{CATEGORY}}</span>
+                </div>
+                <h1 class="text-4xl md:text-6xl font-black text-white outfit animate-fade-in" style="animation-delay: 0.1s">{{TITLE}}</h1>
+            </div>
+        </div>
+    </header>
+
+    <main class="container pb-40">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-16">
+            <!-- Theory Content -->
+            <div class="lg:col-span-8">
+                <!-- Quote/Intro Block -->
+                <div class="border-l-4 border-theme-main pl-8 mb-16 animate-fade-in" style="animation-delay: 0.2s">
+                    <p class="text-2xl font-semibold text-indigo-900 italic leading-relaxed">"{{INTRO}}"</p>
+                </div>
+
+                <!-- Theory Text -->
+                <div class="prose prose-indigo max-w-none mb-20 animate-fade-in" style="animation-delay: 0.3s">
+                    <p class="text-lg text-gray-600 leading-relaxed whitespace-pre-line">{{THEORY_CONTENT}}</p>
+                </div>
+
+                <!-- Section Highlights -->
+                {{SECTIONS_HTML}}
+
+                <!-- Textos de Apoio -->
+                {{SUPPORT_TEXTS_HTML}}
+
+
+                <!-- Games / Gamification -->
+                <div id="games" class="mt-20 mb-20 animate-fade-in" style="animation-delay: 0.6s">
+                    <h3 class="text-3xl font-black text-indigo-950 outfit mb-8 flex items-center gap-3">
+                        <i class="fas fa-gamepad text-theme-main"></i> Mini Games
+                    </h3>
+                    {{GAMES_HTML}}
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <aside class="lg:col-span-4 self-start sticky top-32">
+                <div class="glass-card mb-8">
+                    <h4 class="text-sm font-black text-gray-400 uppercase tracking-widest mb-6 border-b border-gray-50 pb-4">Nesta Aula</h4>
+                    <ul class="space-y-4">
+                        {{TOPICS_NAV}}
+                    </ul>
+                </div>
+
+                <!-- Premium Help Card -->
+                <div class="bg-indigo-950 p-8 rounded-[2rem] text-white shadow-2xl relative overflow-hidden group">
+                    <div class="absolute -top-10 -right-10 w-32 h-32 bg-theme-main/20 rounded-full group-hover:scale-150 transition-transform duration-1000"></div>
+                    <div class="relative z-10">
+                        <h4 class="text-xl font-bold outfit mb-2">Quer fixar mais?</h4>
+                        <p class="text-xs text-white/60 mb-6 leading-relaxed">Acesse os jogos interativos de Flashcards e Linha do Tempo desta lição e acelere seu aprendizado.</p>
+                        <button onclick="document.getElementById('games').scrollIntoView({behavior:'smooth'})" class="w-full bg-white text-indigo-950 py-3 rounded-xl text-xs font-black uppercase tracking-widest hover:bg-theme-main hover:text-white transition-all">Jogar Agora</button>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <!-- Floating Next Button -->
+    <a href="{{NEXT_URL}}" class="fixed bottom-10 right-10 z-[100] emerald-btn theme-button group py-4 px-10 shadow-2xl hover:scale-105 transition-all {{HIDE_NEXT}}">
+        <div class="flex flex-col items-end mr-4">
+            <span class="text-[9px] uppercase font-black tracking-widest text-white/60 mb-0.5">Próxima Aula</span>
+            <span class="text-xs font-bold leading-tight line-clamp-1 max-w-[150px]">{{NEXT_TITLE}}</span>
+        </div>
+        <i class="fas fa-arrow-right text-lg group-hover:translate-x-1 transition-transform"></i>
+    </a>
+
+    <footer class="py-12 border-t border-gray-100 bg-white">
+        <div class="container text-center">
+            <p class="text-gray-400 text-[10px] font-bold uppercase tracking-widest italic">HistóriaENEM 2026 - Aulas de Elite</p>
+        </div>
+    </footer>
+    <!-- Global Modals Injection -->
+    {{MODALS_HTML}}
+
+</body>
+</html>

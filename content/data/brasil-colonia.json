@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "id": "brasil-colonia",
+    "title": "Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)",
+    "period": "Séculos XVI ao XIX",
+    "tags": [
+      "Pacto Colonial",
+      "Plantation",
+      "Escravidão",
+      "Ciclo do Ouro",
+      "Historiografia"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A colonização do Brasil não foi um evento isolado, mas parte da expansão ultramarina europeia e da montagem do Antigo Sistema Colonial. Estude aqui as complexas relações entre Metrópole e Colônia, a lógica do mercantilismo e as formas de resistência escrava.",
+  "theory_content": "A fundação do Brasil como colônia (1530-1808) insere-se no contexto do Mercantilismo, sistema econômico que buscava o acúmulo de metais preciosos e a balança comercial favorável. O Brasil foi concebido como uma 'colônia de exploração', regida pelo Exclusivo Metropolitano (Pacto Colonial), onde a produção visava exclusivamente o abastecimento do mercado europeu. \n\nA base dessa economia era a **Plantation**: o latifúndio monocultor agroexportador, sustentado pelo trabalho compulsório. No início, houve a tentativa de escravização indígena (guerra justa), mas a Igreja e a Coroa, por motivos distintos (catequese e impostos sobre o tráfico negreiro), acabaram por priorizar o tráfico transatlântico de africanos, que se tornou a atividade comercial mais lucrativa do império português. \n\nNo âmbito administrativo, a descentralização inicial das Capitanias Hereditárias (1534) revelou-se ineficaz para gerir um território continental, levando à criação do Governo Geral em 1548. Com ele, surgiram os cargos de Ouvidor-mor (justiça), Provedor-mor (fazenda) e Capitão-mor (defesa). Nas vilas, o poder real era exercido pelos 'Homens Bons' através das Câmaras Municipais, perpetuando o poder da aristocracia rural brasileira, o que gerava frequentes tensões com os 'Mascates' (comerciantes portugueses). \n\nA transição do século XVII para o XVIII marca o deslocamento do eixo econômico do Nordeste açucareiro para o Centro-Sul minerador. A descoberta de metais preciosos trouxe uma nova dinâmica social: a urbanização, o surgimento de uma pequena classe média de profissionais liberais e artesãos, e o arrocho fiscal da Coroa (o Quinto e a temida Derrama). Esse novo cenário urbano e intelectual, influenciado pelas Luzes (Iluminismo), foi o terreno fértil para as revoltas emancipacionistas que começariam a questionar a lógica colonial no final do setecentos.",
+  "sections": [
+    {
+      "title": "1. O Sistema de Capitanias e a Centralização Administrativa",
+      "content": "A divisão em Capitanias Hereditárias foi a primeira tentativa de Portugal de terceirizar os custos da colonização para a nobreza. Contudo, a falta de recursos, a distância da metrópole e a resistência indígena feroz (como nas Confederações dos Tamoios) levaram o sistema ao colapso, restando apenas Pernambuco e São Vicente como centros de lucro. Em 1548, Tomé de Souza chega como primeiro Governador Geral, trazendo os jesuítas. O Estado colonial passa a ter um centro (Salvador) e a organizar a defesa do território contra invasões francesas e holandesas.",
+      "highlight": "O Governo Geral unificou a administração e permitiu a defesa sistemática do território contra potências rivais.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia/section_0.png",
+        "alt": "1. O Sistema de Capitanias e a Centralização Administrativa",
+        "caption": "1. O Sistema de Capitanias e a Centralização Administrativa"
+      }
+    },
+    {
+      "title": "2. Economia Açucareira: A Fábrica no Campo",
+      "content": "O engenho era o coração da colônia. Era mais que uma fazenda; era um complexo industrial, social e político. A produção dependia do capital holandês para financiamento e refino, e do braço africano para o trabalho bruto. A estrutura social era piramidal e rígida: no topo, o Senhor de Engenho; abaixo, os homens livres pobres; e na base, os escravizados malnutridos e explorados. Gilberto Freyre e outros historiadores debatem o conceito de 'Sociedade Patriarcal', onde o poder emanava da Casa-Grande, controlando inclusive o espaço público através das ordens religiosas.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia/section_1.png",
+        "alt": "2. Economia Açucareira: A Fábrica no Campo",
+        "caption": "2. Economia Açucareira: A Fábrica no Campo"
+      }
+    },
+    {
+      "title": "3. O Ciclo do Ouro e a Reforma de Pombal",
+      "content": "A extração do ouro no século XVIII transformou o Brasil. Pela primeira vez, houve um mercado interno significativo de gado, alimentos e tecidos para abastecer as Minas Gerais. A Coroa Portuguesa, sob a gestão do Marquês de Pombal, intensificou a fiscalização, criando as Casas de Fundição para evitar o contrabando de 'ouro em pó'. Pombal também expulsou os jesuítas, buscando secularizar a educação e otimizar a arrecadação. Esse período viu o nascimento do Barroco Mineiro, uma expressão artística de opulência e religiosidade financiada pela riqueza mineradora, personificada por Aleijadinho.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia/section_2.png",
+        "alt": "3. O Ciclo do Ouro e a Reforma de Pombal",
+        "caption": "3. O Ciclo do Ouro e a Reforma de Pombal"
+      },
+      "highlight": "A descoberta do ouro permitiu a interiorização da colônia e a integração de diferentes regiões econômicas."
+    },
+    {
+      "title": "4. Escravidão, Corpos e Almas",
+      "content": "O tráfico negreiro não foi apenas uma necessidade laboral, foi o motor do Império Português. Milhões de africanos de diferentes etnias (Bantos, Iorubás) foram trazidos à força. Na colônia, a reificação do ser humano era o padrão, mas as brechas jurídicas (como a alforria) e as festandanças religiosas permitiam a sobrevivência de tradições. A resistência não era apenas o Quilombo; era o sincretismo religioso, o aborto como protesto, a quebra de ferramentas e o lento caminhar no trabalho. O Quilombo de Palmares, o 'Estado dentro do Estado', durou quase um século, desafiando a lógica de que o escravizado era desmunido de organização política.",
+      "highlight": "A escravidão foi a instituição mais duradoura e traumática da história brasileira, moldando a desigualdade atual."
+    },
+    {
+      "title": "5. Revoltas Emancipacionistas: O Grito da Independência",
+      "content": "No final do século XVIII, o descontentamento com o Pacto Colonial explodiu. Inspirada pela independência dos EUA, a Inconfidência Mineira (1789) foi um movimento de elite contra a tributação (Derrama). Já a Conjuração Baiana (1798), influenciada pela Revolução Francesa e pela Independência do Haiti, teve caráter popular, pedindo a abolição da escravidão e igualdade racial. Ambos os movimentos foram duramente reprimidos, mas expuseram que o domínio português era uma contagem regressiva.",
+      "highlight": "As revoltas coloniais demonstram que as ideias iluministas atingiram tanto a elite quanto as camadas populares."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Pacto Colonial, pilar do Mercantilismo, determinava que a produção das colônias deveria:",
+      "options": [
+        "A) Ser comercializada livremente com todas as nações amigas.",
+        "B) Destinar-se apenas ao consumo interno para garantir a soberania alimentar.",
+        "C) Complementar a economia da metrópole, sendo vendida exclusivamente para ela.",
+        "D) Ser transformada integralmente em manufaturas dentro da própria colônia.",
+        "E) Seguir as ordens do Papa, visando apenas a caridade religiosa."
+      ],
+      "correctIndex": 2,
+      "explanation": "O Pacto Colonial (ou Exclusivo Metropolitano) proibia as colônias de comercializarem com outros países, forçando-as a vender barato e comprar caro da metrópole.",
+      "source": "ENEM Oficial"
+    },
+    {
+      "question": "A historiografia clássica de Gilberto Freyre em 'Casa-Grande e Senzala' é frequentemente debatida hoje por ser acusada de:",
+      "options": [
+        "A) Superestimar o poder da Igreja sobre os senhores de engenho.",
+        "B) Ignorar completamente a existência do açúcar no Brasil.",
+        "C) Criar uma visão amenizada da escravidão através do conceito de 'democracia racial'.",
+        "D) Focar apenas na mineração, esquecendo o nordeste brasileiro.",
+        "E) Afirmar que o Brasil nunca foi uma colônia de Portugal."
+      ],
+      "correctIndex": 2,
+      "explanation": "Freyre é criticado por sugerir que as relações no Brasil Colonial eram menos violentas do que em outros países, negligenciando a crueldade inerente ao sistema escravocrata.",
+      "source": "Simulado Elite ENEM"
+    },
+    {
+      "question": "Qual era o objetivo principal do sistema econômico do Mercantilismo, que influenciou a fundação do Brasil como colônia?",
+      "options": [
+        "A) Promover a industrialização e o desenvolvimento interno",
+        "B) Buscar o acúmulo de metais preciosos e a balança comercial favorável",
+        "C) Estabelecer relações comerciais justas com as colônias",
+        "D) Reduzir a dependência de produtos importados",
+        "E) Fomentar a agricultura de subsistência"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a consequência da descentralização inicial das Capitanias Hereditárias no Brasil?",
+      "options": [
+        "A) Criação de um sistema de governo eficaz e centralizado",
+        "B) Desenvolvimento de uma economia diversificada e próspera",
+        "C) Ineficácia na gestão do território continental, levando à criação do Governo Geral",
+        "D) Fortalecimento do poder dos 'Homens Bons' nas Câmaras Municipais",
+        "E) Redução da influência da Igreja na colonização"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o impacto da descoberta de metais preciosos no Brasil no final do século XVII e início do século XVIII?",
+      "options": [
+        "A) Redução da importância da agricultura e da pecuária",
+        "B) Deslocamento do eixo econômico do Nordeste açucareiro para o Centro-Sul minerador",
+        "C) Fortalecimento do poder dos 'Mascates' nas vilas",
+        "D) Redução da influência da Coroa portuguesa na colonização",
+        "E) Estagnação da urbanização e do desenvolvimento social"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-colonia/thumb.png",
+    "alt": "Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)",
+    "caption": "Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)"
+  },
+  "support_texts": [
+    {
+      "source": "PRADO JÚNIOR, Caio. Formação do Brasil Contemporâneo. São Paulo: Brasiliense, 2011.",
+      "paragraphs": [
+        "A formação do Brasil colonial estruturou-se sob a lógica do Sistema Colonial Mercantilista, que concebia a colônia estritamente como um apêndice comercial destinado a enriquecer a metrópole. Caio Prado Júnior argumenta que o Brasil não nasceu de um projeto civilizatório, mas de um empreendimento de exploração voltado para o mercado externo europeu.",
+        "O tripé plantation (latifúndio, monocultura e escravidão) definiu a estrutura social, econômica e demográfica do território. A necessidade de garantir o lucro contínuo consolidou a escravidão transatlântica como a instituição basilar da sociedade, engendrando um modelo de estratificação social profundamente desigual e excludente.",
+        "Em provas como o Enem, enfatiza-se como o pacto colonial restringia a acumulação de riquezas internamente. A exclusividade de comércio e a ausência de indústrias locais criaram uma dependência estrutural que, de muitas formas, sobreviveu à própria independência política, reverberando nas vulnerabilidades econômicas contemporâneas."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Pacto Colonial, pilar do Mercantilismo, determinava que a produção das colônias deveria:",
+        "back": "A) Ser comercializada livremente com todas as nações amigas.. O Pacto Colonial (ou Exclusivo Metropolitano) proibia as colônias de comercializarem com outros países, forçando-as a vender barato e comprar caro da metrópole."
+      },
+      {
+        "front": "A historiografia clássica de Gilberto Freyre em 'Casa-Grande e Senzala' é frequentemente debatida hoje por ser acusada de:",
+        "back": "A) Superestimar o poder da Igreja sobre os senhores de engenho.. Freyre é criticado por sugerir que as relações no Brasil Colonial eram menos violentas do que em outros países, negligenciando a crueldade inerente ao sistema escravocrata."
+      },
+      {
+        "front": "Qual sistema econômico estava em vigor durante a fundação do Brasil como colônia?",
+        "back": "Mercantilismo"
+      },
+      {
+        "front": "Qual era o objetivo principal da produção no Brasil durante o período colonial?",
+        "back": "Abastecer o mercado europeu"
+      },
+      {
+        "front": "O que era o Exclusivo Metropolitano?",
+        "back": "Pacto Colonial que regia a colônia"
+      },
+      {
+        "front": "Qual foi a principal fonte de mão-de-obra no Brasil durante o período colonial?",
+        "back": "Tráfico transatlântico de africanos"
+      },
+      {
+        "front": "Qual foi o resultado da descoberta de metais preciosos no Brasil no século XVIII?",
+        "back": "Deslocamento do eixo econômico do Nordeste para o Centro-Sul e urbanização"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Ignorar completamente a existência do açúcar no Brasil.",
+        "is_true": false,
+        "explanation": "Mito! Freyre é criticado por sugerir que as relações no Brasil Colonial eram menos violentas do que em outros países, negligenciando a crueldade inerente ao sistema escravocrata."
+      },
+      {
+        "statement": "Ser comercializada livremente com todas as nações amigas.",
+        "is_true": true,
+        "explanation": "O Pacto Colonial (ou Exclusivo Metropolitano) proibia as colônias de comercializarem com outros países, forçando-as a vender barato e comprar caro da metrópole."
+      },
+      {
+        "statement": "Destinar-se apenas ao consumo interno para garantir a soberania alimentar.",
+        "is_true": false,
+        "explanation": "Mito! O Pacto Colonial (ou Exclusivo Metropolitano) proibia as colônias de comercializarem com outros países, forçando-as a vender barato e comprar caro da metrópole."
+      },
+      {
+        "statement": "Superestimar o poder da Igreja sobre os senhores de engenho.",
+        "is_true": true,
+        "explanation": "Freyre é criticado por sugerir que as relações no Brasil Colonial eram menos violentas do que em outros países, negligenciando a crueldade inerente ao sistema escravocrata."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Capitanias hereditárias",
+        "match": "Sistema de colonização por donatários (1532)"
+      },
+      {
+        "concept": "Governo-geral",
+        "match": "Administração centralizada criada em 1549"
+      },
+      {
+        "concept": "Jesuitismo",
+        "match": "Catequese indígena pelos jesuítas no Brasil"
+      },
+      {
+        "concept": "Escravidão africana",
+        "match": "Base do trabalho colonial no Brasil"
+      },
+      {
+        "concept": "Sesmarias",
+        "match": "Grandes doações de terra na colônia portuguesa"
+      },
+      {
+        "concept": "Câmaras municipais",
+        "match": "Primeira forma de autogoverno nas cidades coloniais"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Sistema de Capitanias e a Centralização Administrativa",
+        "order": 1
+      },
+      {
+        "event": "2. Economia Açucareira: A Fábrica no Campo",
+        "order": 2
+      },
+      {
+        "event": "3. O Ciclo do Ouro e a Reforma de Pombal",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MERCANTILISMO",
+      "hint": "O conceito-chave central ou termo associado à aula de Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)."
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "id": "independencia-eua",
+    "title": "Independência dos EUA: A Revolução da Liberdade",
+    "period": "1776 - 1787",
+    "tags": [
+      "EUA",
+      "Jefferson",
+      "Iluminismo",
+      "Constituição",
+      "Bill of Rights"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Pela primeira vez na história, as ideias de liberdade e igualdade saíram dos livros e viraram um país. A Revolução Americana foi o tiro de partida da modernidade.",
+  "theory_content": "A **Independência dos Estados Unidos** (1776) foi motivada pelo conflito entre os colonos das Treze Colônias e a Inglaterra, que tentava aumentar os impostos após a onerosa Guerra dos Sete Anos contra a França. Sob o lema 'Nenhum imposto sem representação', os colonos rebelaram-se contra as **Leis Intoleráveis**, o que culminou na **Festa do Chá de Boston**. Liderados por figuras como **Thomas Jefferson** (autor da Declaração de Independência) e **George Washington** (comandante militar), os colonos derrotaram a maior potência do mundo com o apoio da França e da Espanha. \n\nA vitória resultou na criação da **Constituição de 1787**, que institucionalizou pela primeira vez a separação dos três poderes (Executivo, Legislativo e Judiciário) proposta por Montesquieu e a garantia de direitos individuais (Bill of Rights). O ENEM costuma cobrar a influência da independência americana na Inconfidência Mineira no Brasil, a contradição entre o discurso de liberdade e a manutenção da escravidão nos EUA, e o papel do iluminismo como base filosófica da jovem república americana.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a Declaração de 1776 como o documento de cidadania universal (Direito à Vida, Liberdade e Busca da Felicidade). O ENEM costuma cobrar a 'Doutrina Monroe' (América para os americanos) como consequência direta desta autonomia. Entenda a 'Festa do Chá de Boston' como um ato histórico de desobediência civil comercial. Saiba que a Independência dos EUA foi o primeiro grande dominó a cair, derrubando o sistema colonial em todo o mundo.",
+  "sections": [
+    {
+      "title": "1. A Guerra dos Sete Anos: O Custo do Ouro",
+      "content": "A Inglaterra venceu a França em 1763, mas ficou com os cofres vazios. A solução dos ingleses foi simples: fazer os colonos americanos pagarem a conta. Eles criaram a Lei do Selo para taxar jornais, a Lei do Açúcar para encarecer o melaço e a Lei do Chá para garantir o monopólio da Companhia das Índias Orientais. Os colonos, que antes viviam em relativa autonomia ('Negligência Salutar'), sentiram o peso do autoritarismo e decidiram que não pagariam um centavo a um Rei que não os deixava ter deputados no parlamento.",
+      "highlight": "A independência dos EUA começou no bolso antes de chegar ao coração e à mente.",
+      "image": {
+        "url": "assets/images/lessons/independencia-eua/section_0.png",
+        "alt": "1. A Guerra dos Sete Anos: O Custo do Ouro",
+        "caption": "1. A Guerra dos Sete Anos: O Custo do Ouro"
+      }
+    },
+    {
+      "title": "2. Boston Tea Party: O Chá no Mar",
+      "content": "Em 1773, colonos disfarçados de indígenas invadiram navios ingleses no porto de Boston e jogaram toneladas de chá na água. Foi um prejuízo milionário e uma humilhação pública para a Coroa Inglesa. A reação do Rei George III foi brutas: as Leis Intoleráveis, que fechavam o porto de Boston e ocupavam a cidade com soldados. Em vez de se renderem, as Treze Colônias se uniram em um Congresso na Filadélfia, decidindo que a paz só viria agora com a espada.",
+      "highlight": "O porto de Boston virou o xícara de chá da liberdade americana.",
+      "image": {
+        "url": "assets/images/lessons/independencia-eua/section_1.png",
+        "alt": "2. Boston Tea Party: O Chá no Mar",
+        "caption": "2. Boston Tea Party: O Chá no Mar"
+      }
+    },
+    {
+      "title": "3. Thomas Jefferson e o Grito de 1776",
+      "content": "Jefferson era um homem de letras e ideais iluministas. Ele escreveu a Declaração de Independência com palavras que reverberam até hoje: 'Consideramos estas verdades como evidentes por si mesmas, que todos os homens são criados iguais'. Pela primeira vez, um rei foi chamado de tirano por escrito e oficialmente destituído do poder por um povo que clamava pelo seu direito de autogoverno. Esse texto inspirou inconfidentes no Brasil como Tiradentes, que sonhavam com uma república similar em Minas Gerais.",
+      "highlight": "A caneta de Jefferson foi mais poderosa que mil canhões contra o império britânico."
+    },
+    {
+      "title": "4. A Constituição de 1787: O Equilíbrio de Poder",
+      "content": "Os americanos não queriam um novo rei. Eles criaram o sistema de **Checks and Balances** (Freios e Contrapesos): o Presidente não manda mais que o Juiz, que não manda mais que o Deputado. Essa engenharia política evitou o retorno da ditadura e garantiu que o poder nunca ficasse em uma mão só. Mas nem tudo era perfeito: a constituição ignorou os direitos das mulheres, dos negros (a escravidão continuou) e dos indígenas, uma ferida que os EUA levariam séculos para começar a tratar.",
+      "highlight": "Os EUA criaram a primeira república moderna, mas mantiveram a escravidão por conveniência."
+    },
+    {
+      "title": "5. Impacto Global: A Faísca que Incendiou a Europa",
+      "content": "O ENEM valoriza a conexão histórica. A Revolução Americana foi a 'Célula Mater' das revoltas burguesas. Sem ela, a França talvez não tivesse tido coragem de tomar a Bastilha em 1789. O sucesso de um país de agricultores coloniais contra o exército mais forte do mundo deu esperança para todos os revolucionários da América Latina. O Brasil Imperial olhava com medo para a liberdade dos vizinhos do norte, temendo que o vírus da democracia republicana cruzasse o Equador.",
+      "highlight": "Os EUA foram o laboratório onde a liberdade provou que podia ser real."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A principal motivação econômica que levou as Treze Colônias Americanas a buscarem a independência da Inglaterra no século XVIII foi:",
+      "options": [
+        "A) A doação gratuita de todo o chá de Boston para os orfanatos de Londres.",
+        "B) O aumento abusivo de impostos imposto pela Coroa Britânica após a Guerra dos Sete Anos, sem que os colonos tivessem representação política no parlamento.",
+        "C) A proibição de comer pães de sal em todas as manhãs de domingo na Pensilvânia.",
+        "D) Venda imediata de todo o petróleo americano para o governo da China em troca de guarda-chuvas.",
+        "E) O cancelamento de todos os contratos de compra de café por ordem dos generais ingleses."
+      ],
+      "correctIndex": 1,
+      "explanation": "A opressão fiscal sem representação política ('No taxation without representation') foi o motor da revolta.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O sistema político de 'Checks and Balances' (Freios e Contrapesos), instituído pela Constituição dos EUA de 1787, serve para:",
+      "options": [
+        "A) Impedir que o povo saiba quanto o governo gasta com festas e jantares.",
+        "B) Garantir a separação e o equilíbrio entre os poderes Executivo, Legislativo e Judiciário, evitando que um poder se torne tirânico sobre os demais.",
+        "C) Proibir o uso de qualquer tipo de luz elétrica após as dez horas da noite.",
+        "D) Venda de todas as fazendas do sul para investidores da Europa.",
+        "E) O cancelamento de todas as aulas de história em universidades federais."
+      ],
+      "correctIndex": 1,
+      "explanation": "Esse mecanismo é a base da estabilidade democrática americana e inspirou democracias em todo o mundo.",
+      "source": "Simulado ENEM / História Geral"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou os colonos das Treze Colônias a se rebelarem contra a Inglaterra?",
+      "options": [
+        "A) A expansão territorial da Inglaterra",
+        "B) A imposição de impostos sem representação",
+        "C) A proibição do comércio com a França",
+        "D) A escravidão nos EUA",
+        "E) A Guerra dos Sete Anos"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quem foi o autor da Declaração de Independência dos Estados Unidos?",
+      "options": [
+        "A) George Washington",
+        "B) Thomas Jefferson",
+        "C) Benjamin Franklin",
+        "D) John Adams",
+        "E) Patrick Henry"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da vitória dos colonos na Guerra de Independência dos EUA?",
+      "options": [
+        "A) A criação de uma monarquia constitucional",
+        "B) A institucionalização da separação dos três poderes",
+        "C) A abolição da escravidão nos EUA",
+        "D) A anexação do território canadense",
+        "E) A formação de uma confederação de estados"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/independencia-eua/thumb.png",
+    "alt": "Independência dos EUA: A Revolução da Liberdade",
+    "caption": "Independência dos EUA: A Revolução da Liberdade"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Independência dos Estados Unidos (1776) foi a primeira das grandes revoluções liberais e o marco inicial da descolonização nas Américas. Motivada pelo aumento dos impostos britânicos após a Guerra dos Sete Anos (como as Leis do Selo e do Chá) e pela ausência de representação colonial no Parlamento inglês ('No taxation without representation'), o movimento uniu as Treze Colônias contra o imperialismo britânico. A Declaração de Independência, redigida por Thomas Jefferson, cristalizou os ideais iluministas de direitos inalienáveis à vida, liberdade e busca pela felicidade.",
+        "A estrutura da nova nação foi baseada em um modelo republicano e federalista, garantindo autonomia aos estados membros, mas centralizando questões de defesa e diplomacia. Contudo, a República Americana nasceu com uma profunda contradição: mantinha o regime de escravidão africana enquanto proclamava a igualdade de todos os homens. Esta tensão não resolvida entre os interesses do Norte industrializado e do Sul escravista levaria, décadas depois, à sangrenta Guerra de Secessão.",
+        "Para o Enem, a Revolução Americana deve ser analisada sob a ótica da ruptura com o sistema colonial mercantilista. Ela estabeleceu o primeiro regime democrático moderno, influenciando diretamente a Revolução Francesa e os movimentos de independência na América Latina. O estudo deste tema permite discutir como as ideias iluministas mudaram de um plano teórico europeu para uma prática institucional no Novo Mundo, inaugurando a era das repúblicas constitucionais."
+      ],
+      "source": "KARNAL, Leandro. História dos Estados Unidos: das Origens ao Século XXI. São Paulo: Contexto, 2007."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A principal motivação econômica que levou as Treze Colônias Americanas a buscarem a independência da Inglaterra no século XVIII foi:",
+        "back": "A) A doação gratuita de todo o chá de Boston para os orfanatos de Londres.. A opressão fiscal sem representação política ('No taxation without representation') foi o motor da revolta."
+      },
+      {
+        "front": "O sistema político de 'Checks and Balances' (Freios e Contrapesos), instituído pela Constituição dos EUA de 1787, serve para:",
+        "back": "A) Impedir que o povo saiba quanto o governo gasta com festas e jantares.. Esse mecanismo é a base da estabilidade democrática americana e inspirou democracias em todo o mundo."
+      },
+      {
+        "front": "Qual foi o lema dos colonos americanos?",
+        "back": "Nenhum imposto sem representação"
+      },
+      {
+        "front": "Quem liderou a redação da Declaração de Independência?",
+        "back": "Thomas Jefferson"
+      },
+      {
+        "front": "Qual foi o evento que culminou a rebelião contra as Leis Intoleráveis?",
+        "back": "Festa do Chá de Boston"
+      },
+      {
+        "front": "Quem foi o comandante militar dos colonos americanos?",
+        "back": "George Washington"
+      },
+      {
+        "front": "Qual foi o resultado da vitória dos colonos americanos em 1787?",
+        "back": "Criação da Constituição dos EUA"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Garantir a separação e o equilíbrio entre os poderes Executivo, Legislativo e Judiciário, evitando que um poder se torne tirânico sobre os demais.",
+        "is_true": false,
+        "explanation": "Mito! Esse mecanismo é a base da estabilidade democrática americana e inspirou democracias em todo o mundo."
+      },
+      {
+        "statement": "O aumento abusivo de impostos imposto pela Coroa Britânica após a Guerra dos Sete Anos, sem que os colonos tivessem representação política no parlamento.",
+        "is_true": false,
+        "explanation": "Mito! A opressão fiscal sem representação política ('No taxation without representation') foi o motor da revolta."
+      },
+      {
+        "statement": "A doação gratuita de todo o chá de Boston para os orfanatos de Londres.",
+        "is_true": true,
+        "explanation": "A opressão fiscal sem representação política ('No taxation without representation') foi o motor da revolta."
+      },
+      {
+        "statement": "Impedir que o povo saiba quanto o governo gasta com festas e jantares.",
+        "is_true": true,
+        "explanation": "Esse mecanismo é a base da estabilidade democrática americana e inspirou democracias em todo o mundo."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Declaração de Independência",
+        "match": "Documento de 1776 que fundou os EUA"
+      },
+      {
+        "concept": "Thomas Jefferson",
+        "match": "Principal autor da Declaração de Independência"
+      },
+      {
+        "concept": "Boston Tea Party",
+        "match": "Protesto colonial contra os impostos britânicos"
+      },
+      {
+        "concept": "George Washington",
+        "match": "Comandante das forças coloniais e 1º presidente"
+      },
+      {
+        "concept": "Representação tributária",
+        "match": "Princípio iluminista que motivou a independência"
+      },
+      {
+        "concept": "Constituição de 1787",
+        "match": "Primeira constituição escrita da história moderna"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Guerra dos Sete Anos: O Custo do Ouro",
+        "order": 1
+      },
+      {
+        "event": "2. Boston Tea Party: O Chá no Mar",
+        "order": 2
+      },
+      {
+        "event": "3. Thomas Jefferson e o Grito de 1776",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INDEPENDÊNCIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Independência dos EUA: A Revolução da Liberdade."
+    }
+  }
+}

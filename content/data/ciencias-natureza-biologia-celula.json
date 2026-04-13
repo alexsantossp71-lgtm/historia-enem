@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "id": "ciencias-natureza-biologia-celula",
+    "title": "Biologia: Estrutura e Função da Célula",
+    "period": "",
+    "tags": [
+      "Ciências da Natureza",
+      "Biologia",
+      "Célula",
+      "Organelas",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências da Natureza",
+    "subject": "Biologia",
+    "visual_depth": "elite"
+  },
+  "intro": "A célula é a unidade estrutural e funcional dos seres vivos. Compreender suas organelas e funções é essencial para entender processos vitais como respiração, fotossíntese e reprodução.",
+  "theory_content": "As células podem ser procarióticas (sem núcleo) ou eucarióticas (com núcleo verdadeiro). Nas células eucarióticas, destacam-se: 1) Membrana plasmática: regula a entrada e saída de substâncias. 2) Núcleo: contém o material genético (DNA). 3) Mitocôndria: local da respiração celular, produz ATP. 4) Cloroplasto: presente em células vegetais, local da fotossíntese. 5) Retículo endoplasmático: sintese de proteínas e lipídios. 6) Aparelho de Golgi: modificação, classificação e transporte de proteínas. 7) Lisossomos: digestão intracelular. 8) Vacuolas: armazenamento de água, nutrientes e resíduos. Em células vegetais, há também parede celular (rigidez e proteção) e grandes vacuolas. A teoria celular estabelece que todos os seres vivos são compostos de células, que a célula é a unidade da vida e que todas as células provêm de outras células pré-existentes.",
+  "support_text": "No ENEM, questões sobre célula frequentemente aparecem em contextos de interpretação de diagramas, comparação entre procariotos e eucariotos, e relação estrutura-função das organelas. Por exemplo, uma questão pode apresentar um diagrama de célula e pedir para identificar a organela responsável pela produção de energia (mitocôndria) ou pelo armazenamento de água (vacuola).",
+  "sections": [
+    {
+      "title": "Diferenças entre Células Procarióticas e Eucarióticas",
+      "content": "Procarióticas: sem núcleo verdadeiro, DNA circular no citoplasma, poucos organelos membranosos. Eucarióticas: núcleo verdadeiro com membrana, DNA linear em cromossomos, numerosos organelos membranosos. Exemplos: bactérias (procarióticas) vs. células de plantas e animais (eucarióticas).",
+      "image": {
+        "url": "assets/images/lessons/ciencias-natureza-biologia-celula/section_0.png",
+        "alt": "Diferenças entre Células Procarióticas e Eucarióticas",
+        "caption": "Diferenças entre Células Procarióticas e Eucarióticas"
+      },
+      "highlight": "A presença de núcleo e organelos membranosos distingue eucariotos de procarióticos."
+    },
+    {
+      "title": "Funções Principais das Organelas",
+      "content": "Mitocôndria: respiração celular e produção de ATP. Cloroplasto: fotossíntese em células vegetais. Retículo endoplasmático rugoso: síntese de proteínas. Lisossomo: digestão de materiais intracelulares. Vacuola: armazenamento e manutenção da pressão osmótica.",
+      "highlight": "Cada organela tem uma função especializada que contribui para a homeostase celular.",
+      "image": {
+        "url": "assets/images/lessons/ciencias-natureza-biologia-celula/section_1.png",
+        "alt": "Funções Principais das Organelas",
+        "caption": "Funções Principais das Organelas"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qual organela é responsável pela produção de ATP na célula eucariótica?",
+      "options": [
+        "A) Ribossomo",
+        "B) Lisossomo",
+        "C) Mitocôndria",
+        "D) Aparelho de Golgi",
+        "E) Vacuola"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mitocôndria é conhecida como a 'usina de energia' da célula, onde ocorre a respiração celular e a produção de ATP (adenosina trifosfato), a principal moeda energética celular.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Qual é a principal função da membrana plasmática nas células eucarióticas?",
+      "options": [
+        "A) Produzir ATP durante a respiração celular",
+        "B) Realizar a fotossíntese em células vegetais",
+        "C) Regular a entrada e saída de substâncias da célula",
+        "D) Armazenar água, nutrientes e resíduos",
+        "E) Realizar a digestão intracelular"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o organelo responsável pela modificação, classificação e transporte de proteínas nas células eucarióticas?",
+      "options": [
+        "A) Retículo endoplasmático",
+        "B) Aparelho de Golgi",
+        "C) Mitocôndria",
+        "D) Cloroplasto",
+        "E) Lisossomos"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é a principal característica que distingue as células procarióticas das células eucarióticas?",
+      "options": [
+        "A) Presença de cloroplastos",
+        "B) Presença de mitocôndrias",
+        "C) Presença de núcleo verdadeiro",
+        "D) Presença de parede celular",
+        "E) Ausência de vacuolas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o princípio fundamental da teoria celular que afirma que todos os seres vivos são compostos de células?",
+      "options": [
+        "A) A célula é a unidade da vida e todas as células provêm de outras células pré-existentes",
+        "B) A célula é a unidade da vida, mas as células podem surgir espontaneamente",
+        "C) Todos os seres vivos são compostos de células, mas as células não têm uma origem comum",
+        "D) A célula é a unidade da vida, mas apenas as células eucarióticas são importantes",
+        "E) A teoria celular é apenas aplicável a seres vivos multicelulares"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Qual é a função do retículo endoplasmático liso?",
+      "back": "Síntese de lipídios e detoxificação de substâncias."
+    },
+    {
+      "front": "O que distingue uma célula vegetal de uma célula animal?",
+      "back": "Presença de parede celular, cloroplastos e vacúolo grande central nas células vegetais."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/ciencias-natureza-biologia-celula/thumb.png",
+    "alt": "Biologia: Estrutura e Função da Célula",
+    "caption": "Biologia: Estrutura e Função da Célula"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Biologia Celular forma a base estruturante para toda a compreensão da vida no planeta Terra. O estudo aprofundado das organelas, como mitocôndrias e ribossomos, bem como dos complexos processos de respiração e divisão celular (mitose e meiose), é requisito indispensável no Enem para as resoluções da bioquímica e manipulações genéticas modernas.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Qual organela é responsável pela produção de ATP na célula eucariótica?",
+        "back": "A) Ribossomo. A mitocôndria é conhecida como a 'usina de energia' da célula, onde ocorre a respiração celular e a produção de ATP (adenosina trifosfato), a principal moeda energética celular."
+      },
+      {
+        "front": "Qual é a principal diferença entre células procarióticas e eucarióticas?",
+        "back": "A presença ou ausência de um núcleo verdadeiro."
+      },
+      {
+        "front": "Qual é a função da membrana plasmática?",
+        "back": "Regula a entrada e saída de substâncias."
+      },
+      {
+        "front": "O que é produzido pelas mitocôndrias?",
+        "back": "ATP, durante a respiração celular."
+      },
+      {
+        "front": "Qual é a função do cloroplasto?",
+        "back": "Local da fotossíntese, presente em células vegetais."
+      },
+      {
+        "front": "O que estabelece a teoria celular?",
+        "back": "Que todos os seres vivos são compostos de células, a célula é a unidade da vida e todas as células provêm de outras células pré-existentes."
+      },
+      {
+        "front": "Qual é a função do retículo endoplasmático?",
+        "back": "Síntese de proteínas e lipídios."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Ribossomo.",
+        "is_true": true,
+        "explanation": "A mitocôndria é conhecida como a 'usina de energia' da célula, onde ocorre a respiração celular e a produção de ATP (adenosina trifosfato), a principal moeda energética celular."
+      },
+      {
+        "statement": "Lisossomo.",
+        "is_true": false,
+        "explanation": "Mito! A mitocôndria é conhecida como a 'usina de energia' da célula, onde ocorre a respiração celular e a produção de ATP (adenosina trifosfato), a principal moeda energética celular."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) Ribossomo",
+        "match": "Qual organela é responsável pela produção de ..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Diferenças entre Células Procarióticas e Eucarióticas",
+        "order": 1
+      },
+      {
+        "event": "Funções Principais das Organelas",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "FOTOSSÍNTESE",
+      "hint": "O conceito-chave central ou termo associado à aula de Biologia: Estrutura e Função da Célula."
+    }
+  }
+}

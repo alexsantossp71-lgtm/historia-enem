@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "brasil-colonia-ciclo-ouro",
+    "title": "Ciclo do Ouro: A Riqueza das Gerais",
+    "period": "1700 - 1800",
+    "tags": [
+      "Ouro",
+      "Barroco",
+      "Derrama",
+      "Aleijadinho",
+      "Minas Gerais"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O ouro das Gerais mudou o destino do Brasil. Ele tirou o país do litoral, criou cidades magníficas e financiou o luxo da corte em Portugal, deixando para nós a beleza do Barroco.",
+  "theory_content": "No final do século XVII, esgotado o lucro fácil do açúcar, os bandeirantes paulistas descobriram ouro nos riachos de Minas Gerais. O século XVIII foi marcado pela **Febre do Ouro**, que atraiu milhares de imigrantes portugueses e de outras regiões da colônia. O governo português, sedento por impostos para reconstruir Lisboa, impôs um controle ferrenho: criou a **Intendência das Minas**, as **Casas de Fundição** (onde o ouro era transformado em barras com o selo real) e cobrava o **Quinto** (20% de tudo para o Rei). Quando a meta de 100 arrobas anuais não era atingida, o governo decretava a **Derrama**, a cobrança forçada de impostos atrasados confiscando bens dos moradores. \n\nDiferente do açúcar rústico, o ouro criou uma **sociedade urbana**, com artesãos, advogados, padres e artistas. Surgiu uma cultura rica e religiosa que se expressou no **Barroco Mineiro**, tendo em **Aleijadinho** seu maior gênio. Em 1763, o eixo econômico deslocou-se definitivamente do Nordeste para o Centro-Sul, fazendo com que a capital se movesse de Salvador para o **Rio de Janeiro** para facilitar o escoamento do ouro e a defesa do porto. O ENEM costuma cobrar a fiscalização tributária portuguesa, a mobilidade social na mineração (diferente da rigidez do açúcar) e a importância do Barroco como arte colonial genuína.",
+  "sections": [
+    {
+      "title": "1. Casas de Fundição: O Selo do Rei",
+      "content": "Para evitar o contrabando (como o famoso 'Santo do Pau Oco'), Portugal proibiu a circulação de ouro em pó. Todo o metal deveria passar pelas Casas de Fundição, onde o governo já retirava os seus 20% (o Quinto) e fundia o ouro em barras numeradas. Quem fosse pego com ouro em pó era deportado ou preso. Era a fiscalização mais rígida do mundo colonial da época, transformando o minerador em um eterno devedor da coroa.",
+      "highlight": "O selo real no ouro era o símbolo da mão de ferro de Portugal no Brasil.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_0.png",
+        "alt": "1. Casas de Fundição: O Selo do Rei",
+        "caption": "1. Casas de Fundição: O Selo do Rei"
+      }
+    },
+    {
+      "title": "2. Sociedade Urbana e Mobilidade",
+      "content": "Diferente das fazendas de açúcar, onde só havia o senhor e o escravo, nas minas surgiu a classe média. Havia mascates, sapateiros, médicos e uma multidão de negros e mulatos alforriados que conseguiam comprar sua liberdade com o ouro encontrado. Surgiram as 'Irmandades Leigas', que construíam suas próprias igrejas suntuosas, competindo entre si para ver quem tinha o altar mais folheado a ouro da cidade.",
+      "highlight": "Minas Gerais foi o primeiro lugar do Brasil onde o pobre sonhou em ser rico.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_1.png",
+        "alt": "2. Sociedade Urbana e Mobilidade",
+        "caption": "2. Sociedade Urbana e Mobilidade"
+      }
+    },
+    {
+      "title": "3. O Barroco Mineiro: Ouro e Alma",
+      "content": "A arte barroca em Minas era o exagero, a curva e o drama. Antônio Francisco Lisboa, o Aleijadinho, superou a dor física para esculpir os 12 profetas em pedra-sabão em Congonhas. A arte no ouro não era apenas decoração; era a forma como uma sociedade rica e tensa tentava falar com Deus, misturando temas bíblicos com a realidade brasileira. O Barroco no Brasil foi a nossa primeira grande contribuição para a cultura mundial.",
+      "highlight": "Aleijadinho transformou a pedra bruta na oração mais bela do Brasil Colonial.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_2.png",
+        "alt": "3. O Barroco Mineiro: Ouro e Alma",
+        "caption": "3. O Barroco Mineiro: Ouro e Alma"
+      }
+    },
+    {
+      "title": "4. O Rio de Janeiro: O Porto do Ouro",
+      "content": "Até 1763, o Brasil olhava para o Nordeste. Com o ouro, o olhar mudou para o Sul. O Rio de Janeiro virou a porta de entrada de escravos e a porta de saída das riquezas das Gerais. A cidade cresceu de forma explosiva, tornando-se o centro administrativo da colônia. Sem o ouro, o Rio de Janeiro talvez nunca tivesse sido a capital do país, e a integração do território brasileiro teria sido muito mais difícil.",
+      "highlight": "O ouro pavimentou o caminho que levou a capital de Salvador para o Rio."
+    },
+    {
+      "title": "5. O Fim da Farra: Osgotamento e Derrama",
+      "content": "Por volta de 1750, o ouro começou a escassear. Portugal não aceitava que a riqueza estivesse acabando e acusava os mineradores de contrabando. A invenção da 'Derrama' criou um ódio mortal dos mineiros contra a coroa. Dessa revolta tributária nasceu a Inconfidência Mineira, provando que o ouro poderia financiar templos e arte, mas também financiou o sonho da independência do Brasil.",
+      "highlight": "O brilho do ouro iluminou o caminho para a liberdade mineira."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O sistema de tributação colonial sobre o ouro, conhecido como 'Quinto', consistia em qual prática obrigatória?",
+      "options": [
+        "A) A doação de cinco escravos para o rei de Portugal a cada Natal.",
+        "B) O pagamento de 20% (um quinto) de todo o ouro extraído diretamente para as cofres da Coroa Portuguesa.",
+        "C) O fechamento de todas as minas que tivessem apenas cinco trabalhadores.",
+        "D) A proibição de comer carne de porco em cinco estados brasileiros.",
+        "E) O cancelamento de todos os contratos de compra de ouro pela China."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Quinto era o principal imposto cobrado pela Intendência das Minas para financiar o Reino.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A mudança da capital do Brasil de Salvador para o Rio de Janeiro, em 1763, deveu-se principalmente a qual fator?",
+      "options": [
+        "A) A vontade do rei de Portugal de ver as praias de Copacabana no verão.",
+        "B) A necessidade de aproximar o centro administrativo e fiscal da região mineradora (Minas Gerais) e facilitar o escoamento do ouro.",
+        "C) O medo de que os piratas franceses roubassem todas as laranjas da Bahia.",
+        "D) A decisão de transformar o Rio de Janeiro no principal centro de plantio de café do mundo.",
+        "E) O apoio dos indígenas que preferiam o clima do Rio ao de Salvador."
+      ],
+      "correctIndex": 1,
+      "explanation": "A centralização administrativa no Rio de Janeiro permitia um controle maior sobre as riquezas minerais e a defesa do porto.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou o governo português a criar a Intendência das Minas e as Casas de Fundição?",
+      "options": [
+        "A) Para estimular a produção de açúcar na região",
+        "B) Para controlar a exploração de ouro e garantir a cobrança de impostos",
+        "C) Para promover a cultura e a arte na região",
+        "D) Para proteger a região de ataques de piratas",
+        "E) Para estimular a imigração de outros países"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o impacto da mineração de ouro na sociedade colonial brasileira?",
+      "options": [
+        "A) Levou a uma sociedade rural e agrária",
+        "B) Criou uma sociedade urbana com artesãos, advogados, padres e artistas",
+        "C) Resultou em uma sociedade escravocrata e feudal",
+        "D) Levou a uma sociedade igualitária e sem classes",
+        "E) Não teve impacto significativo na sociedade colonial"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da Derrama, medida implementada pelo governo português quando a meta de 100 arrobas anuais de ouro não era atingida?",
+      "options": [
+        "A) Aumento da produção de ouro e do comércio na região",
+        "B) Diminuição da cobrança de impostos e da fiscalização",
+        "C) Confisco de bens dos moradores para pagamento de impostos atrasados",
+        "D) Expulsão dos imigrantes portugueses da região",
+        "E) Criação de uma nova moeda para substituir o ouro"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/thumb.png",
+    "alt": "Ciclo do Ouro: A Riqueza das Gerais",
+    "caption": "Ciclo do Ouro: A Riqueza das Gerais"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A descoberta do ouro em Minas Gerais, no final do século XVII, provocou um deslocamento do eixo econômico e demográfico da colônia do Nordeste para o Centro-Sul. Diferente do açúcar, a mineração estimulou o desenvolvimento de um mercado interno vibrante e a formação de uma classe média urbana composta por artesãos, burocratas e profissionais liberais. A vida urbana nas cidades mineiras, como Vila Rica e Sabará, permitiu um florescimento cultural e artístico único, simbolizado pelo Barroco Mineiro de Aleijadinho e Mestre Ataíde.",
+        "O controle da Coroa Portuguesa sobre a mineração foi extremamente rigoroso, marcado pela criação das Casas de Fundição e a cobrança de impostos como o Quinto e a Derrama. Esse cenário de opressão fiscal e controle administrativo gerou as condições ideais para as revoltas emancipacionistas, como a Inconfidência Mineira. A elite intelectual das Minas, influenciada pelos ideais iluministas, passou a questionar os laços coloniais, embora o movimento fosse limitado por seus próprios interesses de classe e a manutenção da escravidão.",
+        "Sociedade do Ouro era marcada por uma mobilidade social ligeiramente maior que a do açúcar, embora ainda baseada no trabalho escravizado urbano e de 'faina'. O conceito de 'Inconfidência' deve ser estudado para o Enem como um marco da transição do sentimento colonial para o desejo de autonomia política. Além disso, a mineração permitiu que o Brasil se tornasse uma peça fundamental na geopolítica europeia, financiando direta ou indiretamente o desenvolvimento de Portugal e o pagamento de suas dívidas com a Inglaterra."
+      ],
+      "source": "SOUZA, Laura de Mello e. Desclassificados do Ouro: A Pobreza Mineira no Século XVIII. Rio de Janeiro: Graal, 1982."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O sistema de tributação colonial sobre o ouro, conhecido como 'Quinto', consistia em qual prática obrigatória?",
+        "back": "A) A doação de cinco escravos para o rei de Portugal a cada Natal.. O Quinto era o principal imposto cobrado pela Intendência das Minas para financiar o Reino."
+      },
+      {
+        "front": "A mudança da capital do Brasil de Salvador para o Rio de Janeiro, em 1763, deveu-se principalmente a qual fator?",
+        "back": "A) A vontade do rei de Portugal de ver as praias de Copacabana no verão.. A centralização administrativa no Rio de Janeiro permitia um controle maior sobre as riquezas minerais e a defesa do porto."
+      },
+      {
+        "front": "O que atraiu milhares de imigrantes para Minas Gerais no século XVIII?",
+        "back": "A Febre do Ouro."
+      },
+      {
+        "front": "Qual era o imposto cobrado pelo governo português sobre o ouro?",
+        "back": "O Quinto, 20% de tudo para o Rei."
+      },
+      {
+        "front": "O que era a Derrama?",
+        "back": "A cobrança forçada de impostos atrasados confiscando bens dos moradores."
+      },
+      {
+        "front": "Quem foi o maior gênio do Barroco Mineiro?",
+        "back": "Aleijadinho."
+      },
+      {
+        "front": "Para onde se deslocou o eixo econômico em 1763?",
+        "back": "Do Nordeste para o Centro-Sul, com a capital mudando de Salvador para o Rio de Janeiro."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A necessidade de aproximar o centro administrativo e fiscal da região mineradora (Minas Gerais) e facilitar o escoamento do ouro.",
+        "is_true": false,
+        "explanation": "Mito! A centralização administrativa no Rio de Janeiro permitia um controle maior sobre as riquezas minerais e a defesa do porto."
+      },
+      {
+        "statement": "A vontade do rei de Portugal de ver as praias de Copacabana no verão.",
+        "is_true": true,
+        "explanation": "A centralização administrativa no Rio de Janeiro permitia um controle maior sobre as riquezas minerais e a defesa do porto."
+      },
+      {
+        "statement": "A doação de cinco escravos para o rei de Portugal a cada Natal.",
+        "is_true": true,
+        "explanation": "O Quinto era o principal imposto cobrado pela Intendência das Minas para financiar o Reino."
+      },
+      {
+        "statement": "O pagamento de 20% (um quinto) de todo o ouro extraído diretamente para as cofres da Coroa Portuguesa.",
+        "is_true": false,
+        "explanation": "Mito! O Quinto era o principal imposto cobrado pela Intendência das Minas para financiar o Reino."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Minas Gerais",
+        "match": "Estado onde foi descoberto ouro em 1695"
+      },
+      {
+        "concept": "Derrama",
+        "match": "Cobrança forçada do quinto da Coroa portuguesa"
+      },
+      {
+        "concept": "Quinto",
+        "match": "Imposto de 20% sobre o ouro extraído para Portugal"
+      },
+      {
+        "concept": "Vila Rica",
+        "match": "Centro minerador, atual Ouro Preto (MG)"
+      },
+      {
+        "concept": "Quilombo",
+        "match": "Comunidade de escravos fugidos"
+      },
+      {
+        "concept": "Inconfidência Mineira",
+        "match": "Revolta de 1789 contra o domínio português"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Casas de Fundição: O Selo do Rei",
+        "order": 1
+      },
+      {
+        "event": "2. Sociedade Urbana e Mobilidade",
+        "order": 2
+      },
+      {
+        "event": "3. O Barroco Mineiro: Ouro e Alma",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MAGNÍFICAS",
+      "hint": "O conceito-chave central ou termo associado à aula de Ciclo do Ouro: A Riqueza das Gerais."
+    }
+  }
+}

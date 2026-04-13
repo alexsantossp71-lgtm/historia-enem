@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "crise-1929",
+    "title": "A Crise de 1929: O Colapso do Liberalismo",
+    "period": "1929 - 1939",
+    "tags": [
+      "Wall Street",
+      "New Deal",
+      "Keynesianismo",
+      "Grande Depressão",
+      "Roosevelt"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História e Economia",
+    "visual_depth": "elite"
+  },
+  "intro": "A Crise de 29 foi o maior terremoto econômico do capitalismo. Ela provou que o mercado não se autorregula sozinho e forçou o surgimento do Bem-Estar Social como resposta à fome e ao desemprego em massa.",
+  "theory_content": "Os anos 20 nos Estados Unidos foram chamados de 'Roaring Twenties' (Anos Loucos). Após a I Guerra, os EUA tornaram-se os credores do mundo e viviam o auge do **American Way of Life** (Estilo de Vida Americano), baseado no consumo desenfreado de carros, rádios e eletrodomésticos. Porém, sob o brilho do neon, havia um problema grave: a **Superprodução**. A Europa começou a se recuperar e parou de comprar produtos americanos, enquanto o salário dos trabalhadores nos EUA não subia na mesma velocidade da produção das fábricas. \n\nEm Outubro de 1929, a bolha estourou na chamada 'Quinta-Feira Negra'. A Bolsa de Valores de Nova York (Wall Street) quebrou, e milhões de investidores perderam tudo em horas. Bancos fecharam, fábricas pararam e o desemprego atingiu 25% da população americana. No Brasil, a crise foi sentida imediatamente: os EUA pararam de comprar nosso café, o que quebrou os 'Barões do Café' de São Paulo e abriu caminho para a **Revolução de 1930** liderada por Getúlio Vargas. \n\nA solução veio em 1933 com a eleição de Franklin D. Roosevelt e seu plano **New Deal (Novo Acordo)**. Baseado nas ideias do economista John Maynard Keynes (**Keynesianismo**), o plano defendia que o Estado deveria intervir na economia para gerar empregos através de obras públicas (pontes, barragens), controlar a produção agrícola e garantir seguros-desemprego. O New Deal salvou o capitalismo de si mesmo, mas a depressão só terminaria de fato com a economia de guerra da Segunda Guerra Mundial em 1939. O ENEM costuma cobrar a transição do Liberalismo Clássico (Estado Mínimo) para o Intervencionismo Estatal (Estado de Bem-Estar Social).",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Guarde os conceitos: Superprodução (causa), Especulação Financeira (causa) e New Deal (solução). Saiba explicar como uma crise nos EUA se tornou global devido à interdependência financeira e comercial do mundo capitalista. Entenda o impacto no Brasil: a queda do preço do café foi o fim da Política do Café com Leite.",
+  "sections": [
+    {
+      "title": "1. O American Way of Life e a Ilusão do Crédito",
+      "content": "Nos anos 20, todos acreditavam que o crescimento seria infinito. O crédito era fácil e as pessoas compravam ações na bolsa de valores até com dinheiro emprestado. A publicidade convencia o cidadão médio de que ele precisava de um carro novo todo ano para ser feliz. Essa fachada de sucesso escondia a fragilidade de um sistema que produzia muito mais do que o povo conseguia comprar.",
+      "highlight": "O consumo de massa foi a força e, simultaneamente, a fraqueza da economia de 1920.",
+      "image": {
+        "url": "assets/images/lessons/crise-1929/section_0.png",
+        "alt": "1. O American Way of Life e a Ilusão do Crédito",
+        "caption": "1. O American Way of Life e a Ilusão do Crédito"
+      }
+    },
+    {
+      "title": "2. O Crack da Bolsa: O Dia em que o Céu Caiu",
+      "content": "Quando os investidores perceberam que os lucros das empresas estavam caindo, todos tentaram vender suas ações ao mesmo tempo. Como não havia compradores, os preços despencaram. Milhares de pessoas que eram ricas no café da manhã estavam na fila da sopa na hora do jantar. O suicídio de empresários e o desespero nas ruas tornaram-se cenas comuns nas cidades americanas.",
+      "highlight": "Em 1929, o valor do dinheiro desapareceu junto com a confiança no mercado.",
+      "image": {
+        "url": "assets/images/lessons/crise-1929/section_1.png",
+        "alt": "2. O Crack da Bolsa: O Dia em que o Céu Caiu",
+        "caption": "2. O Crack da Bolsa: O Dia em que o Céu Caiu"
+      }
+    },
+    {
+      "title": "3. A Grande Depressão Global",
+      "content": "Como os EUA pararam de emprestar dinheiro e de importar produtos, a crise espalhou-se como um vírus. Na Alemanha, a inflação e a fome atingiram níveis absurdos, o que destruiu a fé na democracia e permitiu que Hitler usasse o discurso de 'salvação nacional' para ganhar popularidade. A crise econômica de 1929 foi a 'mãe' política da Segunda Guerra Mundial.",
+      "highlight": "A fome e o desemprego de 29 foram o terreno fértil para as ditaduras totalitárias na Europa.",
+      "image": {
+        "url": "assets/images/lessons/crise-1929/section_2.png",
+        "alt": "3. A Grande Depressão Global",
+        "caption": "3. A Grande Depressão Global"
+      }
+    },
+    {
+      "title": "4. O New Deal: O Estado como Locomotiva",
+      "content": "Roosevelt entendeu que sem o Estado investindo, a economia não voltaria a girar. Ele criou a TVA (Tennessee Valley Authority) para levar energia ao campo e construir barragens, contratando milhões de desempregados. Ele também instituiu o salário mínimo e a previdência social. O governo passou a cobrar mais impostos dos ricos para financiar o sustento dos pobres, salvando a paz social nos EUA.",
+      "highlight": "O New Deal foi o nascimento do Welfare State (Estado de Bem-Estar Social) moderno."
+    },
+    {
+      "title": "5. Consequências no Brasil: O Fim do Café",
+      "content": "O Brasil era o maior produtor de café do mundo e dependia 70% das compras americanas. Com a crise, as sacas de café apodreceram nos portos. O governo brasileiro chegou a queimar montanhas de café para tentar manter o preço, mas foi em vão. A burguesia cafeeira ruiu, e Getúlio Vargas aproveitou o vácuo de poder para tomar o governo em 1930, encerrando a hegemonia de SP e MG.",
+      "highlight": "A quebra da bolsa em Nova York derrubou a República Velha no Brasil."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A crise econômica de 1929 teve início nos Estados Unidos e espalhou-se pelo mundo. Qual foi a principal tese econômica adotada para solucionar a Grande Depressão através do New Deal?",
+      "options": [
+        "A) O Liberalismo Total, com a retirada completa do Estado de qualquer atividade econômica.",
+        "B) O Keynesianismo, que defendia a intervenção do Estado na economia para estimular o consumo e gerar empregos.",
+        "C) O Socialismo de Estado, com a estatização de todas as padarias e hotéis do país.",
+        "D) A volta ao sistema de troca direta por conchas e peles de animais.",
+        "E) A proibição de qualquer tipo de comércio com outros países europeus."
+      ],
+      "correctIndex": 1,
+      "explanation": "Keynes propôs que o Estado gastasse dinheiro para aquecer a economia em momentos de recessão.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "O impacto da Crise de 1929 no Brasil foi determinante para uma mudança política profunda. Esse impacto manifestou-se através de:",
+      "options": [
+        "A) Uma invasão militar americana no Rio de Janeiro para roubar o nosso ouro.",
+        "B) A quebra da economia cafeeira, que levou à perda de poder das oligarquias de São Paulo e à Revolução de 1930.",
+        "C) O aumento do preço do café para níveis nunca vistos na história da humanidade.",
+        "D) O fechamento imediato de todas as escolas brasileiras por ordem federal.",
+        "E) A transformação do Real na moeda oficial dos Estados Unidos."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sem mercado para o café, a 'Política do Café com Leite' perdeu sua sustentação econômica.",
+      "source": "Simulado ENEM / História do Brasil"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/crise-1929/thumb.png",
+    "alt": "A Crise de 1929: O Colapso do Liberalismo",
+    "caption": "A Crise de 1929: O Colapso do Liberalismo"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Crise de 1929, ou a Grande Depressão, representou o colapso do liberalismo econômico clássico que havia dominado o século XIX. Iniciada com a quebra da Bolsa de Valores de Nova York em decorrência da superprodução e do subconsumo, a crise rapidamente se espalhou pelo mundo globalizado, revelando a fragilidade das economias dependentes do mercado financeiro americano. Países exportadores de matérias-primas, como o Brasil (café), foram duramente atingidos, vendo suas economias colapsarem em poucos meses.",
+        "A resposta à crise veio através do 'New Deal' de Franklin D. Roosevelt e das teorias de John Maynard Keynes, que propunham um Estado mais interventor na economia para garantir o pleno emprego e o consumo. O 'Welfare State' surgiu como uma alternativa para salvar o próprio capitalismo de suas crises cíclicas. Na Europa, o desespero econômico alimentou a ascensão de regimes nazi-fascistas, que prometiam ordem e emprego através do nacionalismo militarista e autoritário.",
+        "No Brasil, a Crise de 1929 foi o golpe de misericórdia na República Velha. A queda brusca no preço do café enfraqueceu as oligarquias paulistas, abrindo caminho para a Revolução de 1930. Para o Enem, a compreensão de 1929 é fundamental para analisar a transição para o modelo de 'Substituição de Importações' e o nascimento de um Estado brasileiro mais forte e coordenador da economia, rompendo com o *laissez-faire* da elite agrária anterior."
+      ],
+      "source": "GALBRAITH, John Kenneth. A Crise de 1929. Rio de Janeiro: José Olympio, 2011."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A crise econômica de 1929 teve início nos Estados Unidos e espalhou-se pelo mundo. Qual foi a principal tese econômica adotada para solucionar a Grande Depressão através do New Deal?",
+        "back": "A) O Liberalismo Total, com a retirada completa do Estado de qualquer atividade econômica.. Keynes propôs que o Estado gastasse dinheiro para aquecer a economia em momentos de recessão."
+      },
+      {
+        "front": "O impacto da Crise de 1929 no Brasil foi determinante para uma mudança política profunda. Esse impacto manifestou-se através de:",
+        "back": "A) Uma invasão militar americana no Rio de Janeiro para roubar o nosso ouro.. Sem mercado para o café, a 'Política do Café com Leite' perdeu sua sustentação econômica."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O Liberalismo Total, com a retirada completa do Estado de qualquer atividade econômica.",
+        "is_true": true,
+        "explanation": "Keynes propôs que o Estado gastasse dinheiro para aquecer a economia em momentos de recessão."
+      },
+      {
+        "statement": "Uma invasão militar americana no Rio de Janeiro para roubar o nosso ouro.",
+        "is_true": true,
+        "explanation": "Sem mercado para o café, a 'Política do Café com Leite' perdeu sua sustentação econômica."
+      },
+      {
+        "statement": "O Keynesianismo, que defendia a intervenção do Estado na economia para estimular o consumo e gerar empregos.",
+        "is_true": false,
+        "explanation": "Mito! Keynes propôs que o Estado gastasse dinheiro para aquecer a economia em momentos de recessão."
+      },
+      {
+        "statement": "A quebra da economia cafeeira, que levou à perda de poder das oligarquias de São Paulo e à Revolução de 1930.",
+        "is_true": false,
+        "explanation": "Mito! Sem mercado para o café, a 'Política do Café com Leite' perdeu sua sustentação econômica."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Quinta-Feira Negra",
+        "match": "29 de outubro de 1929: crash da Bolsa de NY"
+      },
+      {
+        "concept": "New Deal",
+        "match": "Política de Roosevelt para recuperar os EUA da crise"
+      },
+      {
+        "concept": "Keynesianismo",
+        "match": "Teoria econômica de intervenção do Estado na economia"
+      },
+      {
+        "concept": "Deflação",
+        "match": "Queda de preços que agrava a recessão econômica"
+      },
+      {
+        "concept": "Desemprego em massa",
+        "match": "Principal consequência social da Grande Depressão"
+      },
+      {
+        "concept": "Protecionismo",
+        "match": "Resposta dos países com tarifas para proteger a indústria nacional"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O American Way of Life e a Ilusão do Crédito",
+        "order": 1
+      },
+      {
+        "event": "2. O Crack da Bolsa: O Dia em que o Céu Caiu",
+        "order": 2
+      },
+      {
+        "event": "3. A Grande Depressão Global",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CAPITALISMO",
+      "hint": "O conceito-chave central ou termo associado à aula de A Crise de 1929: O Colapso do Liberalismo."
+    }
+  }
+}

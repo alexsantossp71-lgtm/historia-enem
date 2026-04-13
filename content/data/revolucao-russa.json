@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "revolucao-russa",
+    "title": "Revolução Russa: O Nascimento da URSS",
+    "period": "1917 - 1924",
+    "tags": [
+      "Socialismo",
+      "Lênin",
+      "Stalin",
+      "Bolcheviques",
+      "Guerra Civil"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução Russa foi o maior terremoto geopolítico do século XX. Ela provou que era possível derrubar uma monarquia absoluta e tentar construir um mundo sem classes sociais.",
+  "theory_content": "No início do século XX, a Rússia era o 'gigante de pés de barro': uma monarquia absoluta (Czarismo) onde 80% da população vivia na miséria agrária. A derrota na Guerra Russo-Japonesa (1905) e o massacre do **Domingo Sangrento** foram os primeiros avisos de que o regime de Nicolau II estava no fim. A entrada desastrosa na **Primeira Guerra Mundial** (1914) foi o golpe de misericórdia, gerando fome e milhões de mortes. Em fevereiro de 1917, o Czar abdicou e os Mencheviques (moderados) assumiram o poder. \n\nNo entanto, a revolução radical ocorreu em **outubro de 1917**, liderada pelos **Bolcheviques** de Vladimir Lênin. Com o lema 'Todo poder aos Soviets' e 'Paz, Terra e Pão', os bolcheviques tomaram o Palácio de Inverno e iniciaram a estatização da economia e a reforma agrária. Seguiu-se uma sangrenta **Guerra Civil (1918-1921)** entre o Exército Vermelho (comunistas) e o Exército Branco (monarquistas e capitalistas apoiados pelo Ocidente). Lênin venceu e consolidou a **URSS (União Soviética)**, introduzindo a NEP (Nova Política Econômica) para recuperar o país. Após sua morte em 1924, Joseph Stalin assumiu o poder, transformando a revolução em uma ditadura totalitária baseada em planos quinquenais e grandes expurgos políticos. O ENEM costuma cobrar a transição da Rússia feudal para a potência industrial soviética e o papel dos Soviets (conselhos de trabalhadores).",
+  "sections": [
+    {
+      "title": "1. O Domingo Sangrento e o Prelúdio de 1905",
+      "content": "Povo faminto em frente ao Palácio de Inverno pedindo apenas pão e democracia. A resposta do Czar foi o fuzilamento. Esse dia quebrou o mito de que o Czar era o 'pai' da nação. Nasceram aí os Soviets — comitês de operários e soldados — que seriam a base da revolução dozes anos depois. O regime tentou se salvar criando a Duma (parlamento), mas era tarde demais para o reformismo liberal.",
+      "highlight": "O sangue de 1905 foi a tinta que escreveu o destino de 1917.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-russa/section_0.png",
+        "alt": "1. O Domingo Sangrento e o Prelúdio de 1905",
+        "caption": "1. O Domingo Sangrento e o Prelúdio de 1905"
+      }
+    },
+    {
+      "title": "2. Mencheviques vs. Bolcheviques: A Cisão",
+      "content": "Os Mencheviques (minoria) acreditavam que a Rússia precisava passar por um capitalismo industrial antes de ser socialista. Queriam reformas graduais. Já os **Bolcheviques** (maioria) queriam a revolução imediata liderada por um partido de profissionais. Para Lênin, o tempo das palavras acabou quando os soldados russos começaram a morrer na lama das trincheiras da Grande Guerra.",
+      "highlight": "A revolução bolchevique foi a vitória do radicalismo organizado sobre a indecisão liberal.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-russa/section_1.png",
+        "alt": "2. Mencheviques vs. Bolcheviques: A Cisão",
+        "caption": "2. Mencheviques vs. Bolcheviques: A Cisão"
+      }
+    },
+    {
+      "title": "3. Paz, Terra e Pão: O Marketing Revolucionário",
+      "content": "Lênin entendeu o que o povo queria. A Rússia foi o primeiro país a sair da 1ª Guerra (Tratado de Brest-Litovsk), entregando territórios para ganhar tempo. A reforma agrária deu terras aos mujiques (camponeses) e as fábricas foram entregues aos operários. Esse tripé garantiu o apoio das massas contra a resistência dos antigos nobres e generais brancos.",
+      "highlight": "Paz, Terra e Pão foi a promessa mais poderosa já feita a uma nação desesperada.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-russa/section_2.png",
+        "alt": "3. Paz, Terra e Pão: O Marketing Revolucionário",
+        "caption": "3. Paz, Terra e Pão: O Marketing Revolucionário"
+      }
+    },
+    {
+      "title": "4. Guerra Civil e o Comunismo de Guerra",
+      "content": "A Rússia virou um inferno. Para alimentar as cidades durante a guerra, o governo confiscava a produção dos camponeses à força (Comunismo de Guerra). Leon Trotsky organizou o Exército Vermelho com um punho de ferro, derrotando os invasores estrangeiros e os contra-revolucionários. A vitória custou milhões de vidas e gerou o endurecimento da repressão política soviética.",
+      "highlight": "A revolução nasceu da fome e foi batizada no sangue de uma guerra civil total."
+    },
+    {
+      "title": "5. De Lênin a Stalin: O Desvio Totalitário",
+      "content": "Lênin tentou abrir um pouco a economia com a NEP ('um passo atrás para dar dois à frente'), permitindo pequenas empresas privadas. Mas com sua morte, Stalin derrotou Trotsky e impôs a Coletivização Forçada. A URSS cresceu industrialmente a um ritmo alucinante, mas ao custo de campos de trabalho forçado (Gulags) e da morte de toda a oposição interna. O sonho socialista tornava-se um pesadelo burocrático.",
+      "highlight": "Stalin transformou a esperança dos soviets na disciplina do medo absoluto."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O lema 'Todo poder aos Soviets', defendido pelos bolcheviques em 1917, referia-se a quais instâncias de organização?",
+      "options": [
+        "A) Grupos de aristocratas que queriam o retorno do Czar.",
+        "B) Conselhos de trabalhadores, soldados e camponeses que representavam a base da sociedade russa.",
+        "C) Comitês de empresários americanos que financiavam a guerra.",
+        "D) Escolas de balé clássico de Moscou.",
+        "E) Partidos políticos conservadores da Igreja Ortodoxa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Os Soviets eram a expressão da democracia popular que os bolcheviques prometeram fortalecer.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "A Nova Política Econômica (NEP), adotada por Lênin em 1921, foi uma medida de emergência que consistia em:",
+      "options": [
+        "A) Proibir qualquer tipo de comércio no território russo.",
+        "B) Permitir elementos de livre iniciativa privada e pequena propriedade para recuperar a economia após a Guerra Civil.",
+        "C) Entregar todas as fábricas russas para os Estados Unidos.",
+        "D) Declarar guerra total contra a Alemanha e a França ao mesmo tempo.",
+        "E) Acabar com o socialismo e restaurar a monarquia dos Romanov."
+      ],
+      "correctIndex": 1,
+      "explanation": "A NEP visava dar fôlego ao país destruído pela guerra civil através de uma abertura controlada ao pequeno capitalismo.",
+      "source": "Simulado ENEM / Século XX"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-russa/thumb.png",
+    "alt": "Revolução Russa: O Nascimento da URSS",
+    "caption": "Revolução Russa: O Nascimento da URSS"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Revolução Russa de 1917 representou a primeira tentativa histórica bem-sucedida de implementar o regime socialista em escala nacional, rompendo com o modelo de democracia liberal burguesa. Em um país ainda majoritariamente agrário e sob a autocracia czarista, os bolcheviques liderados por Lênin e Trotsky conseguiram canalizar o desespero das massas (intensificado pela Primeira Guerra Mundial) sob o lema 'Pão, Paz e Terra'. A tomada do Palácio de Inverno não foi apenas um golpe de Estado, mas o início de uma reconfiguração radical das relações de propriedade e poder.",
+        "O governo soviético enfrentou anos de guerra civil e isolamento internacional, levando à implementação do Comunismo de Guerra e, posteriormente, da Nova Política Econômica (NEP), que tentava conciliar elements de mercado para salvar a economia. Com a morte de Lênin e a ascensão de Stalin, a União Soviética transformou-se em uma potência industrial e militar através de planos quinquenais forçados e da coletivização agrícola, mas ao custo de um autoritarismo extremo e da eliminação sistemática de opositores no partido e na sociedade.",
+        "O impacto da Revolução Russa no século XX foi profundo: ela inspirou movimentos anticoloniais, revoluções socialistas na China e no Sudeste Asiático, e forçou as democracias ocidentais a adotarem o Estado de Bem-Estar Social (Welfare State) como uma forma de conter o avanço do ideal comunista entre os trabalhadores. Para o Enem, é vital compreender a revolução sob a perspectiva da polarização mundial e dos seus reflexos no Brasil, como a formação do PCB e o surgimento da Aliança Nacional Libertadora nos anos 30."
+      ],
+      "source": "FIGES, Orlando. A Tragédia de um Povo: A Revolução Russa (1891-1924). Rio de Janeiro: Record, 1999."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O lema 'Todo poder aos Soviets', defendido pelos bolcheviques em 1917, referia-se a quais instâncias de organização?",
+        "back": "A) Grupos de aristocratas que queriam o retorno do Czar.. Os Soviets eram a expressão da democracia popular que os bolcheviques prometeram fortalecer."
+      },
+      {
+        "front": "A Nova Política Econômica (NEP), adotada por Lênin em 1921, foi uma medida de emergência que consistia em:",
+        "back": "A) Proibir qualquer tipo de comércio no território russo.. A NEP visava dar fôlego ao país destruído pela guerra civil através de uma abertura controlada ao pequeno capitalismo."
+      },
+      {
+        "front": "Qual era a condição da Rússia no início do século XX?",
+        "back": "Uma monarquia absoluta com 80% da população vivendo na miséria agrária."
+      },
+      {
+        "front": "Quem liderou a revolução radical em outubro de 1917?",
+        "back": "Vladimir Lênin e os Bolcheviques."
+      },
+      {
+        "front": "Qual foi o resultado da Guerra Civil de 1918-1921?",
+        "back": "O Exército Vermelho (comunistas) venceu."
+      },
+      {
+        "front": "Quem assumiu o poder após a morte de Lênin em 1924?",
+        "back": "Joseph Stalin."
+      },
+      {
+        "front": "O que foi introduzido por Lênin para recuperar a economia soviética?",
+        "back": "A Nova Política Econômica (NEP)."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Grupos de aristocratas que queriam o retorno do Czar..",
+        "is_true": true,
+        "explanation": "Os Soviets eram a expressão da democracia popular que os bolcheviques prometeram fortalecer."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Conselhos de trabalhadores, soldados e camponeses que representavam a base da sociedade russa..",
+        "is_true": false,
+        "explanation": "Falso! Os Soviets eram a expressão da democracia popular que os bolcheviques prometeram fortalecer."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Proibir qualquer tipo de comércio no território russo..",
+        "is_true": true,
+        "explanation": "A NEP visava dar fôlego ao país destruído pela guerra civil através de uma abertura controlada ao pequeno capitalismo."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Permitir elementos de livre iniciativa privada e pequena propriedade para recuperar a economia após a Guerra Civil..",
+        "is_true": false,
+        "explanation": "Falso! A NEP visava dar fôlego ao país destruído pela guerra civil através de uma abertura controlada ao pequeno capitalismo."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Bolcheviques",
+        "match": "Partido de Lênin que liderou a revolução de outubro"
+      },
+      {
+        "concept": "Sovietes",
+        "match": "Conselhos de trabalhadores e soldados russos"
+      },
+      {
+        "concept": "Lênin",
+        "match": "Líder que adaptou o marxismo à realidade russa"
+      },
+      {
+        "concept": "Tsar",
+        "match": "Imperador russo derrubado pela revolução"
+      },
+      {
+        "concept": "NEP",
+        "match": "Nova Política Econômica que permitiu comércio privado"
+      },
+      {
+        "concept": "URSS",
+        "match": "União das Repúblicas Socialistas Soviéticas fundada em 1922"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Domingo Sangrento e o Prelúdio de 1905",
+        "order": 1
+      },
+      {
+        "event": "2. Mencheviques vs. Bolcheviques: A Cisão",
+        "order": 2
+      },
+      {
+        "event": "3. Paz, Terra e Pão: O Marketing Revolucionário",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "GEOPOLÍTICO",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução Russa: O Nascimento da URSS."
+    }
+  }
+}

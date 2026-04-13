@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "brasil-colonia-ciclo-acucar",
+    "title": "Ciclo do Açúcar: O Doce Lucro da Colônia",
+    "period": "1530 - 1700",
+    "tags": [
+      "Açúcar",
+      "Plantation",
+      "Escravidão",
+      "Holandeses",
+      "Nordeste"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O açúcar foi o primeiro 'ouro' do Brasil. Ele moldou a nossa terra em grandes fazendas, trouxe a escravidão africana e atraiu o interesse das grandes potências mundiais.",
+  "theory_content": "A colonização efetiva do Brasil começou com a cana-de-açúcar, escolhida por ser um produto de alto valor na Europa e pelo solo fértil de **massapê** no Nordeste. O sistema econômico foi o de **Plantation**: grandes latifúndios voltados para a exportação, utilizando mão de obra escrava (primeiro indígena e depois africana). A sociedade do açúcar era **patriarcal**, centralizada na figura do Senhor de Engenho, que exercia poder absoluto sobre sua família, agregados e escravizados. \n\nNo século XVII, a Holanda, através da Companhia das Índias Ocidentais, invadiu o Nordeste brasileiro para controlar o comércio açucareiro. O governo de **Maurício de Nassau** em Recife foi um período de luxo, ciência e tolerância religiosa, mas terminou em conflito quando os holandeses tentaram cobrar as dívidas dos senhores de engenho. A **Insurreição Pernambucana** (1645-1654) expulsou os holandeses, que levaram a técnica de produção para as Antilhas, causando a decadência do açúcar brasileiro. O ENEM costuma cobrar as características do Plantation, a estrutura da sociedade açucareira e as consequências geopolíticas das invasões holandesas.",
+  "sections": [
+    {
+      "title": "1. Plantation: O Motor da Colônia",
+      "content": "O açúcar não era apenas uma planta; era uma fábrica. No Engenho, tudo era projetado para o lucro rápido. O latifúndio impedia que o povo tivesse terra para plantar comida, obrigando o Brasil a importar quase tudo. A monocultura esgotava o solo e a escravidão esgotava a alma humana. Esse modelo de 'grande fazenda de exportação' é o DNA que ainda define muito do agronegócio brasileiro contemporâneo.",
+      "highlight": "O agronegócio moderno brasileiro nasceu no rastro da cana-de-açúcar.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_0.png",
+        "alt": "1. Plantation: O Motor da Colônia",
+        "caption": "1. Plantation: O Motor da Colônia"
+      }
+    },
+    {
+      "title": "2. Senhores e Escravos: A Pirâmide de Ferro",
+      "content": "No topo, o Senhor de Engenho; no meio, uma pequena classe de homens livres (padres, feitores, artesãos); na base, a massa de escravizados. A Casa-Grande e a Senzala não eram apenas edifícios, mas símbolos de uma distância social intransponível. A mulher era submissa ao pai ou ao marido, e a honra da elite era medida pela quantidade de braços negros que possuía para moer a cana.",
+      "highlight": "A sociedade do açúcar foi uma escola de desigualdade e autoritarismo patriarcal.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_1.png",
+        "alt": "2. Senhores e Escravos: A Pirâmide de Ferro",
+        "caption": "2. Senhores e Escravos: A Pirâmide de Ferro"
+      }
+    },
+    {
+      "title": "3. Nassau em Pernambuco: O 'Oásis' Holandês",
+      "content": "Maurício de Nassau transformou Recife na 'Cidade Maurícia'. Ele trouxe pintores (Eckhout e Post) para desenhar o Brasil, astrônomos e médicos. Criou o primeiro jardim botânico e o primeiro observatório das Américas. Ele emprestou dinheiro aos senhores de terra para reconstruir os engenhos destruídos na guerra. Foi o momento em que o Brasil quase se civilizou nos moldes europeus modernos antes da volta ao domínio português.",
+      "highlight": "Nassau foi o administrador que viu o Brasil como um país, e não apenas como uma mina.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_2.png",
+        "alt": "3. Nassau em Pernambuco: O 'Oásis' Holandês",
+        "caption": "3. Nassau em Pernambuco: O 'Oásis' Holandês"
+      }
+    },
+    {
+      "title": "4. Insurreição Pernambucana: O Nascimento do 'Ser Brasileiro'",
+      "content": "Quando Nassau foi embora e os holandeses apertaram o cinto nas cobranças, os senhores de engenho revoltaram-se. Na Batalha dos Guararapes, lutaram juntos André Vidal de Negreiros (branco), Henrique Dias (negro) e Felipe Camarão (indígena). Essa aliança de raças contra o invasor estrangeiro é celebrada como a certidão de nascimento da pátria brasileira, unida pelo interesse comercial dos donos de terra.",
+      "highlight": "A pátria brasileira nasceu da defesa dos lucros açucareiros contra os holandeses."
+    },
+    {
+      "title": "5. O Doce que Amargou: A Concorrência das Antilhas",
+      "content": "Expulsos do Brasil, os holandeses levaram mudas e capital para as ilhas do Caribe. Lá, produziam açúcar de melhor qualidade e mais barato. O açúcar brasileiro, arcaico e endividado, não aguentou a competição mundial. No final do século XVII, o Nordeste entrou em uma crise profunda, que só seria aliviada pela notícia da descoberta de ouro no interior de Minas Gerais.",
+      "highlight": "O açúcar ruiu no Nordeste quando o mundo descobriu que podia comprar mais barato no Caribe."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O sistema de produção colonial conhecido como 'Plantation', que vigorou no Ciclo do Açúcar no Brasil, era caracterizado pela:",
+      "options": [
+        "A) Pequena propriedade rural destinada ao consumo interno das famílias indígenas.",
+        "B) Grande propriedade (latifúndio), monocultura de exportação e utilização de mão de obra escravizada.",
+        "C) Proibição do uso de açúcar em todas as igrejas da Bahia e do Rio de Janeiro.",
+        "D) Venda imediata de todas as fazendas de cana para os piratas chineses.",
+        "E) Distribuição gratuita de terras para todos os imigrantes japoneses em 1600."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Plantation era o modelo clássico de exploração colonial voltado para abastecer o mercado europeu de luxo.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O governo de Maurício de Nassau (1637-1644) no Nordeste brasileiro foi marcado por qual dessas características?",
+      "options": [
+        "A) A proibição de qualquer tipo de comércio com os portugueses.",
+        "B) Incentivo à produção cultural e científica, obras de urbanização em Recife e tolerância religiosa.",
+        "C) Destruição de todos os engenhos de açúcar para plantar apenas laranjas.",
+        "D) Declaração de guerra imediata contra todos os países que falassem holandês.",
+        "E) Apoio à vinda de novos navios negreiros de Portugal para a Holanda."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nassau trouxe um projeto de modernização administrativa e cultural para a região de Nova Holanda (Pernambuco).",
+      "source": "Simulado ENEM / Invasões Holandesas"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou os portugueses a escolher a cana-de-açúcar como produto para cultivo no Brasil?",
+      "options": [
+        "A) Por ser um produto de baixo valor na Europa e pelo solo fértil de massapê no Nordeste",
+        "B) Por ser um produto de alto valor na Europa e pelo solo fértil de massapê no Nordeste",
+        "C) Por ser um produto de médio valor na Europa e pelo solo arenoso do Sudeste",
+        "D) Por ser um produto de baixo valor na Ásia e pelo solo fértil de massapê no Nordeste",
+        "E) Por ser um produto de alto valor na África e pelo solo arenoso do Nordeste"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o sistema econômico adotado pelos portugueses no Brasil durante o período da colonização efetiva?",
+      "options": [
+        "A) Sistema de pequenas propriedades rurais",
+        "B) Sistema de grandes latifúndios voltados para a exportação",
+        "C) Sistema de cooperativas agrícolas",
+        "D) Sistema de empresas estatais",
+        "E) Sistema de comércio de troca"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a consequência da Insurreição Pernambucana para a produção de açúcar no Brasil?",
+      "options": [
+        "A) Aumento da produção de açúcar devido à introdução de novas técnicas",
+        "B) Decadência do açúcar brasileiro devido à perda de técnicas de produção",
+        "C) Manutenção da produção de açúcar devido à estabilidade política",
+        "D) Redução da produção de açúcar devido à falta de mão de obra",
+        "E) Expansão da produção de açúcar para outras regiões do Brasil"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/thumb.png",
+    "alt": "Ciclo do Açúcar: O Doce Lucro da Colônia",
+    "caption": "Ciclo do Açúcar: O Doce Lucro da Colônia"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O complexo canavieiro no Nordeste brasileiro foi a primeira grande estrutura produtiva estável da colônia, baseada no sistema de *plantation* (latifúndio, monocultura, escravidão e exportação). O engenho de açúcar não era apenas uma fábrica, mas uma unidade social completa, onde o Senhor de Engenho exercia um poder patriarcal quase absoluto sobre sua família, agregados e escravizados. Essa estrutura, analisada classicamente por Gilberto Freyre, definiu as relações de poder e as hierarquias que caracterizaram a formação social brasileira.",
+        "A mão de obra escravizada de origem africana foi o motor que sustentou a economia açucareira, substituindo gradualmente a escravidão indígena devido à alta rentabilidade do tráfico negreiro e à resistência dos povos nativos. O açúcar brasileiro dominou o mercado mundial até meados do século XVII, quando a concorrência das Antilhas (após a expulsão dos holandeses do Nordeste) provocou uma crise no setor. No entanto, a cultura canavieira deixou um legado de concentração fundiária e exclusão social que perdura no litoral nordestino até os dias atuais.",
+        "A invasão holandesa (1630-1654) introduziu uma dinâmica cosmopolita e capitalista no coração do sistema colonial açucareiro. Sob o governo de Maurício de Nassau em Recife, houve um florescimento das artes e ciências, além de uma relativa tolerância religiosa. A expulsão dos holandeses marcou o nascimento de um sentimento 'proto-nacionalista' entre os colonos, ao mesmo tempo em que revelou a fragilidade do controle português sobre seus territórios diante de outras potências europeias em ascensão."
+      ],
+      "source": "FREYRE, Gilberto. Casa-Grande & Senzala. Rio de Janeiro: Record, 2005."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O sistema de produção colonial conhecido como 'Plantation', que vigorou no Ciclo do Açúcar no Brasil, era caracterizado pela:",
+        "back": "A) Pequena propriedade rural destinada ao consumo interno das famílias indígenas.. O Plantation era o modelo clássico de exploração colonial voltado para abastecer o mercado europeu de luxo."
+      },
+      {
+        "front": "O governo de Maurício de Nassau (1637-1644) no Nordeste brasileiro foi marcado por qual dessas características?",
+        "back": "A) A proibição de qualquer tipo de comércio com os portugueses.. Nassau trouxe um projeto de modernização administrativa e cultural para a região de Nova Holanda (Pernambuco)."
+      },
+      {
+        "front": "Qual produto de alto valor na Europa impulsionou a colonização efetiva do Brasil?",
+        "back": "A cana-de-açúcar."
+      },
+      {
+        "front": "Qual sistema econômico foi adotado no Brasil durante a colonização?",
+        "back": "O sistema de Plantation."
+      },
+      {
+        "front": "Quem exercia poder absoluto na sociedade do açúcar?",
+        "back": "O Senhor de Engenho."
+      },
+      {
+        "front": "Quem invadiu o Nordeste brasileiro no século XVII?",
+        "back": "A Holanda, através da Companhia das Índias Ocidentais."
+      },
+      {
+        "front": "Qual foi o resultado da Insurreição Pernambucana?",
+        "back": "A expulsão dos holandeses do Brasil."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Incentivo à produção cultural e científica, obras de urbanização em Recife e tolerância religiosa.",
+        "is_true": false,
+        "explanation": "Mito! Nassau trouxe um projeto de modernização administrativa e cultural para a região de Nova Holanda (Pernambuco)."
+      },
+      {
+        "statement": "Pequena propriedade rural destinada ao consumo interno das famílias indígenas.",
+        "is_true": true,
+        "explanation": "O Plantation era o modelo clássico de exploração colonial voltado para abastecer o mercado europeu de luxo."
+      },
+      {
+        "statement": "Grande propriedade (latifúndio), monocultura de exportação e utilização de mão de obra escravizada.",
+        "is_true": false,
+        "explanation": "Mito! O Plantation era o modelo clássico de exploração colonial voltado para abastecer o mercado europeu de luxo."
+      },
+      {
+        "statement": "A proibição de qualquer tipo de comércio com os portugueses.",
+        "is_true": true,
+        "explanation": "Nassau trouxe um projeto de modernização administrativa e cultural para a região de Nova Holanda (Pernambuco)."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Massapê",
+        "match": "Solo fértil no Nordeste"
+      },
+      {
+        "concept": "Plantation",
+        "match": "Sistema econômico de latifúndios"
+      },
+      {
+        "concept": "Patriarcal",
+        "match": "Sociedade centralizada no Senhor de Engenho"
+      },
+      {
+        "concept": "Maurício de Nassau",
+        "match": "Governante holandês no Recife"
+      },
+      {
+        "concept": "Insurreição Pernambucana",
+        "match": "Expulsão dos holandeses do Brasil"
+      },
+      {
+        "concept": "Companhia das Índias Ocidentais",
+        "match": "Companhia holandesa que invadiu o Nordeste"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Plantation: O Motor da Colônia",
+        "order": 1
+      },
+      {
+        "event": "2. Senhores e Escravos: A Pirâmide de Ferro",
+        "order": 2
+      },
+      {
+        "event": "3. Nassau em Pernambuco: O 'Oásis' Holandês",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ESCRAVIDÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Ciclo do Açúcar: O Doce Lucro da Colônia."
+    }
+  }
+}

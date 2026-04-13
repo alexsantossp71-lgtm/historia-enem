@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "id": "governo-fhc",
+    "title": "Governo FHC: A Era das Privatizações",
+    "period": "1995 - 2002",
+    "tags": [
+      "FHC",
+      "Privatização",
+      "Lei de Responsabilidade Fiscal",
+      "Neoliberalismo",
+      "Tripé Macroeconômico"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "FHC governou o Brasil por oito anos, consolidando a estabilidade do Real. Foi o período das grandes vendas estatais e da criação das regras de ouro das contas públicas.",
+  "theory_content": "O sociólogo **Fernando Henrique Cardoso (FHC)** assumiu a presidência em 1995 após o sucesso como ministro do Plano Real. Sua gestão foi marcada pela consolidação da estabilidade monetária e por uma agenda de profundas reformas neoliberais. No primeiro mandato, FHC realizou o maior programa de **Privatizações** da história do país, vendendo empresas como a Vale do Rio Doce, a Telebras e bancos estaduais. O objetivo era modernizar os serviços e reduzir a dívida pública, atraindo investimentos estrangeiros. \n\nNo segundo mandato, após a crise cambial de 1999, o governo instituiu o **Tripé Macroeconômico**: metas de inflação, câmbio flutuante e superávit primário (economia para pagar juros da dívida). Outro marco foi a **Lei de Responsabilidade Fiscal (LRF)**, que proibiu governadores e prefeitos de gastarem mais do que arrecadam. O governo FHC também iniciou programas sociais de transferência de renda, como o Bolsa-Escola. No entanto, o final do mandato foi marcado pelo 'Apagão' energético de 2001 e pelo baixo crescimento econômico, abrindo caminho para a vitória de Lula em 2002. O ENEM costuma cobrar as privatizações, o papel das agências reguladoras (como a ANATEL) e a LRF como ferramenta de controle democrático das contas públicas.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude as Privatizações como o conflito entre o Estado Gestor e o Estado Empresário. O ENEM costuma cobrar a LRF como lei de cidadania fiscal. Entenda o 'Tripé Macroeconômico' como a bússola que guiou o Brasil por duas décadas. Saiba distinguir as conquistas na saúde (Genéricos e combate ao HIV) como pontos altos sociais do governo de FHC.",
+  "sections": [
+    {
+      "title": "1. Privatizações: Do Estado para o Mercado",
+      "content": "A venda da Vale e da Telebras mudou o cotidiano brasileiro. Antes, uma linha telefônica custava milhares de dólares e era declarada no imposto de renda; após a privatização, o acesso ao telefone se popularizou. Porém, os críticos diziam que o governo estava vendendo o 'patrimônio nacional' a preços de banana para estrangeiros. O conflito entre nacionalismo e privatismo dominou os debates políticos da década de 90.",
+      "highlight": "FHC tirou o Estado da gestão das fábricas e o colocou na gestão das leis.",
+      "image": {
+        "url": "assets/images/lessons/governo-fhc/section_0.png",
+        "alt": "1. Privatizações: Do Estado para o Mercado",
+        "caption": "1. Privatizações: Do Estado para o Mercado"
+      }
+    },
+    {
+      "title": "2. Lei de Responsabilidade Fiscal (2000)",
+      "content": "A LRF foi a vacina contra os políticos que gastavam o que não tinham para ganhar eleições. Pela primeira vez, se um governante fizesse dívidas impagáveis, ele poderia responder criminalmente. Essa lei garantiu que o Brasil fosse visto pelo mundo como um país sério e organizado, diminuindo o 'Risco Brasil' e permitindo que o país recebesse novos empréstimos internacionais para hospitais e escolas.",
+      "highlight": "A LRF ensinou que o dinheiro público é sagrado e tem limite.",
+      "image": {
+        "url": "assets/images/lessons/governo-fhc/section_1.png",
+        "alt": "2. Lei de Responsabilidade Fiscal (2000)",
+        "caption": "2. Lei de Responsabilidade Fiscal (2000)"
+      }
+    },
+    {
+      "title": "3. Saúde: Genéricos e a Luta contra o HIV",
+      "content": "O ministro da saúde de FHC, José Serra, enfrentou as grandes farmacêuticas mundiais para criar a **Lei dos Genéricos**. O Brasil passou a fabricar remédios idênticos aos de marca a preços populares. O país também se tornou referência mundial no tratamento gratuito contra a AIDS, quebrando patentes em nome do direito à vida. Foi o momento em que a ciência brasileira provou que podia ser eficiente no serviço social.",
+      "highlight": "Os genéricos salvaram o bolso do brasileiro e a vida de milhões."
+    },
+    {
+      "title": "4. O Custo da Estabilidade: O Apagão de 2001",
+      "content": "A falta de investimentos em novas usinas hidroelétricas, somada a uma seca severa, levou o Brasil ao racionamento de energia em 2001. O povo foi obrigado a apagar luzes e desligar geladeiras sob pena de multas pesadas. O 'Apagão' foi o golpe fatal na imagem de eficiência do governo FHC, mostrando que a estabilidade do Real não era suficiente se a infraestrutura básica do país estivesse esquecida.",
+      "highlight": "A economia do Real quase parou por falta de um fio ligado na tomada."
+    },
+    {
+      "title": "5. O Fim da Era FHC: Saldo e Transição",
+      "content": "FHC entregou um Brasil estável, mas com um desemprego ainda alto e dívida externa crescente. Ele garantiu uma transição democrática exemplar para Lula em 2002, algo raro na história da América Latina. Seu legado é uma estrutura de governo profissional (as Agências Reguladoras) e uma macroeconomia sólida, que permitiu que os sucessores pudessem focar mais no social sem o medo da inflação galopante.",
+      "highlight": "FHC arrumou a casa brasileira, mas não conseguiu mobiliar a sala de todos os brasileiros."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Lei de Responsabilidade Fiscal (2000), sancionada no governo FHC, teve como principal objetivo:",
+      "options": [
+        "A) A doação imediata de todo o ouro brasileiro para o Banco Central da China.",
+        "B) Estabelecer normas de gestão financeira pública que impedissem governantes de gastar mais do que arrecadam, visando o equilíbrio das contas.",
+        "C) Proibir o uso de qualquer tipo de luz elétrica após as dez horas da noite.",
+        "D) Vender todas as praias do Rio de Janeiro para investidores ingleses.",
+        "E) O cancelamento de todas as aulas de história em escolas públicas."
+      ],
+      "correctIndex": 1,
+      "explanation": "A LRF buscou moralizar a gestão do dinheiro público e garantir a sustentabilidade econômica do Estado.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O programa de privatizações nos anos 90, liderado por FHC, baseava-se em qual diretriz econômica global?",
+      "options": [
+        "A) O Protecionismo Soviético, com o Estado controlando todas as padarias.",
+        "B) O Neoliberalismo, que defende a redução da participação do Estado na economia e a abertura ao capital privado.",
+        "C) A volta do escambo de pau-brasil em todas as capitais estaduais.",
+        "D) A declaração de guerra mundial contra qualquer país que tivesse empresas privadas.",
+        "E) O cancelamento de todos os contratos comerciais com os Estados Unidos."
+      ],
+      "correctIndex": 1,
+      "explanation": "FHC seguiu a tendência mundial de reformular o papel do Estado, saindo da produção direta de bens e focando na regulação.",
+      "source": "Simulado ENEM / Nova República"
+    },
+    {
+      "question": "Qual foi o principal objetivo do programa de Privatizações implementado durante a gestão de Fernando Henrique Cardoso?",
+      "options": [
+        "A) Reduzir a desigualdade social",
+        "B) Aumentar a intervenção estatal na economia",
+        "C) Modernizar os serviços e reduzir a dívida pública",
+        "D) Implementar controles de preços",
+        "E) Nacionalizar empresas estratégicas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o papel da Lei de Responsabilidade Fiscal (LRF) na gestão de Fernando Henrique Cardoso?",
+      "options": [
+        "A) Permitir que governadores e prefeitos gastem mais do que arrecadam",
+        "B) Estabelecer metas de inflação",
+        "C) Proibir governadores e prefeitos de gastarem mais do que arrecadam",
+        "D) Reduzir a autonomia dos municípios",
+        "E) Aumentar a carga tributária"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o nome do programa social de transferência de renda iniciado durante a gestão de Fernando Henrique Cardoso?",
+      "options": [
+        "A) Bolsa-Família",
+        "B) Bolsa-Escola",
+        "C) Programa de Renda Mínima",
+        "D) Auxílio-Estudante",
+        "E) Projeto de Inclusão Social"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/governo-fhc/thumb.png",
+    "alt": "Governo FHC: A Era das Privatizações",
+    "caption": "Governo FHC: A Era das Privatizações"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O governo de Fernando Henrique Cardoso (1995-2002) teve como pilar fundamental a consolidação da estabilidade econômica através do Plano Real, iniciado ainda no final do governo Itamar Franco. Para debelar a inflação crônica, o governo adotou medidas neoliberais baseadas no 'tripé macroeconômico' (metas de inflação, câmbio flutuante e responsabilidade fiscal). Esse período foi marcado por um intenso processo de desestatização, com a venda de empresas estratégicas como a Vale do Rio Doce e as telecomunicações, visando reduzir a dívida pública e atrair investimentos estrangeiros.",
+        "Na esfera social, o governo FHC implementou programas de transferência de renda focalizados, como o Bolsa Escola e o Vale Gás, embora tenha enfrentado críticas pelos altos níveis de desemprego e pela desigualdade persistente. Politicamente, a aprovação da emenda da Reeleição em 1997 foi um dos momentos mais controversos de sua gestão, permitindo-lhe um segundo mandato. A modernização do Estado brasileiro sob FHC buscava a inserção do país na globalização, mas as crises externas (México, Ásia, Rússia) revelaram a vulnerabilidade da economia nacional aos fluxos financeiros internacionais.",
+        "Para o Enem, o estudo das 'Era FHC' é essencial para compreender a construção do Brasil contemporâneo após décadas de hiperinflação. É importante analisar o impacto das privatizações nos serviços públicos e a introdução da Lei de Responsabilidade Fiscal como marco de gestão administrativa. A transição democrática consolidada sob sua liderança provou a maturidade das instituições brasileiras, preparando o terreno para as políticas de expansão de consumo e inclusão social que caracterizariam a década seguinte."
+      ],
+      "source": "SCHWARCZ, Lilia M.; STARLING, Heloisa M. Brasil: Uma Biografia. São Paulo: Companhia das Letras, 2015."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Lei de Responsabilidade Fiscal (2000), sancionada no governo FHC, teve como principal objetivo:",
+        "back": "A) A doação imediata de todo o ouro brasileiro para o Banco Central da China.. A LRF buscou moralizar a gestão do dinheiro público e garantir a sustentabilidade econômica do Estado."
+      },
+      {
+        "front": "O programa de privatizações nos anos 90, liderado por FHC, baseava-se em qual diretriz econômica global?",
+        "back": "A) O Protecionismo Soviético, com o Estado controlando todas as padarias.. FHC seguiu a tendência mundial de reformular o papel do Estado, saindo da produção direta de bens e focando na regulação."
+      },
+      {
+        "front": "Quem assumiu a presidência em 1995?",
+        "back": "Fernando Henrique Cardoso (FHC)"
+      },
+      {
+        "front": "Qual foi o maior programa implementado por FHC?",
+        "back": "Privatizações"
+      },
+      {
+        "front": "O que é o Tripé Macroeconômico?",
+        "back": "Metas de inflação, câmbio flutuante e superávit primário"
+      },
+      {
+        "front": "Qual lei proibiu governadores e prefeitos de gastarem mais do que arrecadam?",
+        "back": "Lei de Responsabilidade Fiscal (LRF)"
+      },
+      {
+        "front": "Qual foi um dos programas sociais iniciados por FHC?",
+        "back": "Bolsa-Escola"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O Protecionismo Soviético, com o Estado controlando todas as padarias.",
+        "is_true": true,
+        "explanation": "FHC seguiu a tendência mundial de reformular o papel do Estado, saindo da produção direta de bens e focando na regulação."
+      },
+      {
+        "statement": "O Neoliberalismo, que defende a redução da participação do Estado na economia e a abertura ao capital privado.",
+        "is_true": false,
+        "explanation": "Mito! FHC seguiu a tendência mundial de reformular o papel do Estado, saindo da produção direta de bens e focando na regulação."
+      },
+      {
+        "statement": "Estabelecer normas de gestão financeira pública que impedissem governantes de gastar mais do que arrecadam, visando o equilíbrio das contas.",
+        "is_true": false,
+        "explanation": "Mito! A LRF buscou moralizar a gestão do dinheiro público e garantir a sustentabilidade econômica do Estado."
+      },
+      {
+        "statement": "A doação imediata de todo o ouro brasileiro para o Banco Central da China.",
+        "is_true": true,
+        "explanation": "A LRF buscou moralizar a gestão do dinheiro público e garantir a sustentabilidade econômica do Estado."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Fernando Henrique Cardoso",
+        "match": "Sociólogo e presidente que criou o Plano Real"
+      },
+      {
+        "concept": "PSDB",
+        "match": "Partido de FHC, de centro-esquerda moderada"
+      },
+      {
+        "concept": "Privatizações",
+        "match": "Venda de estatais como Telebrás, Vale e outras"
+      },
+      {
+        "concept": "Real",
+        "match": "Moeda criada em 1994 que substituiu o Cruzeiro Real"
+      },
+      {
+        "concept": "Crise da Ásia (1997)",
+        "match": "Impacto financeiro global no governo FHC"
+      },
+      {
+        "concept": "Reforma da previdência",
+        "match": "Mudanças no sistema de aposentadoria durante o governo FHC"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Privatizações: Do Estado para o Mercado",
+        "order": 1
+      },
+      {
+        "event": "2. Lei de Responsabilidade Fiscal (2000)",
+        "order": 2
+      },
+      {
+        "event": "3. Saúde: Genéricos e a Luta contra o HIV",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "PRIVATIZAÇÕES",
+      "hint": "O conceito-chave central ou termo associado à aula de Governo FHC: A Era das Privatizações."
+    }
+  }
+}

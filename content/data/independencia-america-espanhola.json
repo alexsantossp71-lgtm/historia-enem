@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "id": "independencia-america-espanhola",
+    "title": "Independência da América Espanhola: Bolívar e San Martín",
+    "period": "1808 - 1830",
+    "tags": [
+      "Bolívar",
+      "San Martín",
+      "Criollos",
+      "Caudilhismo",
+      "Pan-americanismo"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Enquanto o Brasil virava um Império unido, a América Espanhola explodiu em dezenas de repúblicas em guerra. Foi a era dos 'Libertadores da América'.",
+  "theory_content": "A independência da América Espanhola (século XIX) foi fruto da crise do sistema colonial e da influência das ideias iluministas. O estopim foi a invasão da Espanha por Napoleão Bonaparte, que enfraqueceu o controle da metrópole. A elite local, os **Criollos** (filhos de espanhóis nascidos na América), liderou o movimento para expulsar os **Chapetones** (espanhóis nobres que ocupavam os cargos públicos). \n\nDuas grandes correntes de libertação surgiram: ao Norte, **Simón Bolívar**, que defendia o 'Pan-americanismo' (a união de toda a América em uma grande nação); e ao Sul, **José de San Martín**, que defendia a libertação focada na independência do Chile e Peru. Ao contrário do Brasil, que manteve a monarquia e a unidade territorial, a América Espanhola fragmentou-se em várias repúblicas devido às disputas regionais entre os **Caudilhos** (líderes militares locais). O ENEM costuma cobrar a comparação entre os modelos de independência luso e espanhol, o papel dos criollos na manutenção da ordem social escravista e o fracasso do sonho de união de Bolívar (Congresso do Panamá).",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude os 'Criollos' como a elite que queria liberdade econômica, mas não igualdade social para os indígenas e negros. O ENEM costuma cobrar o 'Caudilhismo' como uma herança autoritária regional. Entenda que a Argentina e o México foram os centros da revolta intelectual inicial. Saiba que a Inglaterra e os EUA (Doutrina Monroe) apoiaram as independências para garantirem novos mercados consumidores.",
+  "sections": [
+    {
+      "title": "1. Criollos vs Chapetones: A Briga pelo Poder",
+      "content": "A sociedade colonial espanhola era uma pirâmide de castas. Os Chapetones mandavam em tudo; os Criollos, embora ricos, eram cidadãos de segunda classe. Quando Napoleão prendeu o Rei da Espanha, os Criollos formaram as 'Juntas Governativas', alegando que governavam em nome do rei, mas na verdade estavam treinando para a independência. Foi a revolta dos filhos contra os pais pela herança da terra americana.",
+      "highlight": "A independência começou como uma briga doméstica da elite branca colonial.",
+      "image": {
+        "url": "assets/images/lessons/independencia-america-espanhola/section_0.png",
+        "alt": "1. Criollos vs Chapetones: A Briga pelo Poder",
+        "caption": "1. Criollos vs Chapetones: A Briga pelo Poder"
+      }
+    },
+    {
+      "title": "2. Simón Bolívar: O Sonho de uma Nação Gigante",
+      "content": "Bolívar era o 'Libertador'. Ele sonhava com a **Grã-Colômbia**, uma nação que unia Venezuela, Colômbia e Equador. Seu objetivo final era o Pan-americanismo: uma América Latina unida e forte para enfrentar os EUA e a Europa. Mas seu sonho esbarrou no ego dos generais locais e na geografia difícil do continente. Bolívar morreu triste, dizendo que 'tinha arado no mar', vendo sua grande obra se despedaçar em pequenos países.",
+      "highlight": "Bolívar queria um Estados Unidos da América Latina, mas o destino deu-lhe o Caudilhismo."
+    },
+    {
+      "title": "3. San Martín e o Exército dos Andes",
+      "content": "San Martín foi um estrategista genial. Ele atravessou a Cordilheira dos Andes com milhares de soldados para libertar o Chile e o Peru do domínio espanhol. Diferente de Bolívar, ele era mais conservador e temia que a democracia republicana gerasse o caos. San Martín abandonou a cena política após o encontro de Guayaquil com Bolívar, deixando o caminho livre para o republicano venezuelano concluir a libertação do continente.",
+      "highlight": "A travessia dos Andes foi o ato militar mais heróico da independência americana."
+    },
+    {
+      "title": "4. Caudilhismo: O Coronelismo Espanhol",
+      "content": "Com a saída dos espanhóis, o vácuo de poder foi preenchido pelos Caudilhos. Eram chefes militares regionais que mandavam em suas províncias com violência e carisma pessoal. O caudilhismo impediu a criação de leis fortes e democráticas, gerando décadas de guerras civis e instabilidade política no México, Argentina e em toda a América Central. O caudilho era o 'Pai' e o 'Carrasco' da sua região.",
+      "highlight": "O caudilho era o rei sem coroa que governava o povo pelo medo e pelo pão."
+    },
+    {
+      "title": "5. Brasil vs América Espanhola: O Grande Diferencial",
+      "content": "O Brasil manteve um Imperador e continuou sendo um país só. A América Espanhola seguiu o caminho da República e se dividiu em 18 nações. Por que? No Brasil, a elite tinha medo de que uma revolução popular acabasse com a escravidão (Haitianismo). Na América Espanhola, o ódio entre as regiões e a falta de uma capital herdeira forte como o Rio de Janeiro facilitaram a fragmentação que vemos hoje no mapa da América Latina.",
+      "highlight": "O Brasil salvou sua unidade pela Coroa; a América Espanhola perdeu a dela pelo canhão."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A elite colonial conhecida como 'Criollos', na América Espanhola do século XIX, liderou os processos de independência visando principalmente:",
+      "options": [
+        "A) A doação imediata de todas as terras para os indígenas escravizados.",
+        "B) A liberdade de comércio para os seus produtos e o acesso aos cargos públicos de alto escalão, antes exclusivos dos Chapetones.",
+        "C) A volta do domínio da Igreja Católica sobre todas as fazendas de milho.",
+        "D) Vender o continente para o governo da Rússia em troca de sapatos.",
+        "E) O cancelamento de todos os contratos de compra de café pelos Estados Unidos."
+      ],
+      "correctIndex": 1,
+      "explanation": "Os Criollos queriam o controle político e econômico que já exerciam de fato, mas não de direito.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O projeto político de Simón Bolívar, conhecido como 'Pan-americanismo', defendia qual tese fundamental para o continente?",
+      "options": [
+        "A) A divisão da América em pequenos estados rivais para facilitar o comércio.",
+        "B) A união política e econômica de todas as colônias hispânicas em uma única confederação poderosa para resistir ao imperialismo.",
+        "C) A proibição de falar qualquer língua que não fosse o latim nas escolas.",
+        "D) A venda imediata de todo o petróleo da Venezuela para o governo da China.",
+        "E) O cancelamento de todas as viagens de navio entre a América e a Europa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bolívar acreditava que apenas a união garantiria a real independência e o progresso da América Latina.",
+      "source": "Simulado ENEM / América Latina"
+    },
+    {
+      "question": "Qual foi o evento que desencadeou a crise do sistema colonial e influenciou a independência da América Espanhola?",
+      "options": [
+        "A) A Revolução Francesa",
+        "B) A invasão da Espanha por Napoleão Bonaparte",
+        "C) A Guerra de Independência dos Estados Unidos",
+        "D) A Abolição da Escravatura",
+        "E) A Unificação da Itália"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a principal diferença entre as correntes de libertação lideradas por Simón Bolívar e José de San Martín?",
+      "options": [
+        "A) Bolívar defendia a monarquia, enquanto San Martín defendia a república",
+        "B) Bolívar defendia a independência do Chile e Peru, enquanto San Martín defendia o Pan-americanismo",
+        "C) Bolívar defendia o Pan-americanismo, enquanto San Martín defendia a independência do Chile e Peru",
+        "D) Bolívar defendia a escravidão, enquanto San Martín defendia a abolição",
+        "E) Bolívar defendia a unificação da América Espanhola, enquanto San Martín defendia a fragmentação"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da fragmentação da América Espanhola após a independência?",
+      "options": [
+        "A) A formação de uma grande nação unificada",
+        "B) A manutenção da monarquia e da unidade territorial",
+        "C) A criação de uma confederação de estados",
+        "D) A formação de várias repúblicas devido às disputas regionais entre os Caudilhos",
+        "E) A anexação pela Grã-Bretanha"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/independencia-america-espanhola/thumb.png",
+    "alt": "Independência da América Espanhola: Bolívar e San Martín",
+    "caption": "Independência da América Espanhola: Bolívar e San Martín"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A independência da América Espanhola foi um processo profundamente marcado pelas desigualdades estruturais da sociedade colonial e pelo impacto das Guerras Napoleônicas na Europa. Segundo o historiador Tulio Halperín Donghi, a elite Criolla não buscava uma revolução social, mas sim a eliminação do monopólio político e comercial exercido pela metrópole e pelos Chapetones. A ruptura com Madri foi, na verdade, uma forma de conservação do poder da aristocracia agrária e mineradora local.",
+        "As campanhas militares foram lideradas por figuras icônicas como Simón Bolívar, ao norte, e José de San Martín, ao sul. Bolívar defendia a tese do pan-americanismo, imaginando uma grande confederação sul-americana capaz de resistir ao imperialismo europeu e norte-americano. No entanto, o Congresso do Panamá (1826) fracassou, e o sonho bolivariano ruiu diante dos particularismos regionais, da geografia hostil e, principalmente, do surgimento do caudilhismo — chefes militares locais que monopolizaram o poder com o vácuo deixado pela Coroa espanhola.",
+        "Para o Enem, a chave para compreender este assunto reside na comparação com a formação do Império do Brasil. Enquanto o Brasil adotou um modelo monárquico que, ancorado na escravidão, garantiu a unidade territorial para conter revoltas populares de contornos raciais e sociais (como o medo da 'Haitianização'), a América Hispânica fragmentou-se em múltiplas repúblicas governadas por ditaduras caudilhescas, perpetuando o colonialismo interno contra indígenas e negros africanos."
+      ],
+      "source": "HALPERÍN DONGHI, Tulio. História Contemporânea da América Latina. São Paulo: Paz e Terra, 2005."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A elite colonial conhecida como 'Criollos', na América Espanhola do século XIX, liderou os processos de independência visando principalmente:",
+        "back": "A) A doação imediata de todas as terras para os indígenas escravizados.. Os Criollos queriam o controle político e econômico que já exerciam de fato, mas não de direito."
+      },
+      {
+        "front": "O projeto político de Simón Bolívar, conhecido como 'Pan-americanismo', defendia qual tese fundamental para o continente?",
+        "back": "A) A divisão da América em pequenos estados rivais para facilitar o comércio.. Bolívar acreditava que apenas a união garantiria a real independência e o progresso da América Latina."
+      },
+      {
+        "front": "Quem liderou o movimento de independência na América Espanhola?",
+        "back": "A elite local, os Criollos."
+      },
+      {
+        "front": "Quem defendia o 'Pan-americanismo'?",
+        "back": "Simón Bolívar."
+      },
+      {
+        "front": "Quem liderou a libertação ao Sul?",
+        "back": "José de San Martín."
+      },
+      {
+        "front": "O que aconteceu com a América Espanhola após a independência?",
+        "back": "Fragmentou-se em várias repúblicas."
+      },
+      {
+        "front": "Qual foi o sonho de Simón Bolívar que fracassou?",
+        "back": "A união de toda a América em uma grande nação."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A doação imediata de todas as terras para os indígenas escravizados.",
+        "is_true": true,
+        "explanation": "Os Criollos queriam o controle político e econômico que já exerciam de fato, mas não de direito."
+      },
+      {
+        "statement": "A liberdade de comércio para os seus produtos e o acesso aos cargos públicos de alto escalão, antes exclusivos dos Chapetones.",
+        "is_true": false,
+        "explanation": "Mito! Os Criollos queriam o controle político e econômico que já exerciam de fato, mas não de direito."
+      },
+      {
+        "statement": "A divisão da América em pequenos estados rivais para facilitar o comércio.",
+        "is_true": true,
+        "explanation": "Bolívar acreditava que apenas a união garantiria a real independência e o progresso da América Latina."
+      },
+      {
+        "statement": "A união política e econômica de todas as colônias hispânicas em uma única confederação poderosa para resistir ao imperialismo.",
+        "is_true": false,
+        "explanation": "Mito! Bolívar acreditava que apenas a união garantiria a real independência e o progresso da América Latina."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Criollos",
+        "match": "Elite americana filho de espanhóis que liderou as revoltas"
+      },
+      {
+        "concept": "Simón Bolívar",
+        "match": "O Libertador da América do Sul"
+      },
+      {
+        "concept": "José de San Martín",
+        "match": "Libertador da Argentina, Chile e Peru"
+      },
+      {
+        "concept": "Congresso de Angostura",
+        "match": "Reunião que proclamou a Gran Colombia"
+      },
+      {
+        "concept": "Gran Colombia",
+        "match": "Estado unificado que agrupou Venezuela, Colômbia e Equador"
+      },
+      {
+        "concept": "Doutrina Monroe",
+        "match": "EUA declararam América para os americanos (1823)"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Criollos vs Chapetones: A Briga pelo Poder",
+        "order": 1
+      },
+      {
+        "event": "2. Simón Bolívar: O Sonho de uma Nação Gigante",
+        "order": 2
+      },
+      {
+        "event": "3. San Martín e o Exército dos Andes",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INDEPENDÊNCIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Independência da América Espanhola: Bolívar e San Martín."
+    }
+  }
+}

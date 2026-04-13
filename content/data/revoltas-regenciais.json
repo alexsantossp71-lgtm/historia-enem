@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "id": "revoltas-regenciais",
+    "title": "Revoltas Regenciais: O Brasil em Chamas",
+    "period": "1831 - 1840",
+    "tags": [
+      "Cabanagem",
+      "Sabinada",
+      "Balaiada",
+      "Revolta dos Malês",
+      "Período Regencial"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O Período Regencial foi o momento mais perigoso da história brasileira. Sem um imperador no trono, as províncias explodiram em revoltas que quase dividiram o país em várias nações.",
+  "theory_content": "Após a abdicação de D. Pedro I em 1831, o Brasil foi governado por regentes até que o herdeiro D. Pedro II atingisse a maioridade. Foi uma década de vazio de poder e intensas disputas entre Liberais (Exaltados e Moderados) e Restauradores. O descontentamento com o governo central no Rio de Janeiro e a miséria das populações provinciais geraram revoltas sangrentas. \n\nNo Grão-Pará, a **Cabanagem (1835-1840)** foi a mais violenta, onde negros, indígenas e pobres das cabanas tomaram Belém e proclamaram um governo popular, sendo dizimados pelas tropas imperiais (mortes de 20% da população local). Na Bahia, a **Sabinada (1837)** foi liderada pela classe média urbana que queria uma república temporária até a maioridade do imperador. No Maranhão, a **Balaiada (1838-1841)** reuniu camponeses e artesãos frustrados com os desmandos dos grandes fazendeiros e governadores. E, em 1835, ocorreu a **Revolta dos Malês**, em Salvador, um levante organizado por escravizados muçulmanos alfabetizados que lutavam pela liberdade e pelo direito de praticar sua religião. Essas revoltas, somadas à Farroupilha no Sul, forçaram as elites a darem o 'Golpe da Maioridade' em 1840, coroando D. Pedro II aos 14 anos para restaurar a ordem e a unidade nacional. O ENEM costuma cobrar a diferença social entre esses movimentos e o medo das elites de um novo 'Haitianismo' (revolução negra vitoriosa) no Brasil.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a diferença entre as revoltas de elite (Sabinada) e as revoltas populares (Cabanagem e Balaiada). O ENEM costuma cobrar a Revolta dos Malês pelo seu caráter cultural e religioso (Islã na Bahia). Entenda o conceito de 'Unidade Nacional': o governo central usava a violência extrema para evitar que o Brasil se fragmentasse como a América Espanhola. Saiba o papel de Duque de Caxias na pacificação final desses conflitos.",
+  "sections": [
+    {
+      "title": "1. Cabanagem: O Grito dos Humilhados no Pará",
+      "content": "Pobres que viviam em cabanas às margens dos rios cansaram-se da fome e do desprezo dos governantes do Rio de Janeiro. Eles tomaram o poder em Belém por anos, mas a falta de um plano político claro entre as lideranças facilitou a retomada violenta pelo Império. Foi a revolta mais sangrenta da nossa história: vilas inteiras foram apagadas do mapa pelas tropas imperiais como exemplo de terror.",
+      "highlight": "Na Cabanagem, o povo não apenas gritou; ele governou por um breve e sangrento momento.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-regenciais/section_0.png",
+        "alt": "1. Cabanagem: O Grito dos Humilhados no Pará",
+        "caption": "1. Cabanagem: O Grito dos Humilhados no Pará"
+      }
+    },
+    {
+      "title": "2. Revolta dos Malês: O Islã nas Trincheiras",
+      "content": "Em Salvador, escravizados de etnia Nagô e Haussá, que sabiam ler e escrever em árabe, organizaram um levante para tomar a cidade e acabar com a escravidão. Diferente de outros levantes, este tinha uma base intelectual e religiosa (o Islã). Descobertos dias antes, foram duramente reprimidos. O medo de uma revolução negra organizada assombrou as elites brasileiras por décadas.",
+      "highlight": "Os Malês provaram que a cultura e a fé são armas poderosas contra o chicote.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-regenciais/section_1.png",
+        "alt": "2. Revolta dos Malês: O Islã nas Trincheiras",
+        "caption": "2. Revolta dos Malês: O Islã nas Trincheiras"
+      }
+    },
+    {
+      "title": "3. Sabinada: A Classe Média Republicana",
+      "content": "Liderada pelo médico Francisco Sabino, a revolta em Salvador não queria separar-se do Brasil para sempre, mas apenas até o 'Pedrinho' (D. Pedro II) crescer. Eles eram contra a nomeação de governadores de fora da Bahia. Foi um movimento urbano de intelectuais e militares que acabou em fuzilamentos no Campo da Pólvora em Salvador.",
+      "highlight": "A Sabinada foi a tentativa frustrada da elite baiana de governar seu próprio quintal.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-regenciais/section_2.png",
+        "alt": "3. Sabinada: A Classe Média Republicana",
+        "caption": "3. Sabinada: A Classe Média Republicana"
+      }
+    },
+    {
+      "title": "4. Balaiada: O Levante dos Fabricantes de Cestos",
+      "content": "No Maranhão, a produção de algodão faliu e os pequenos artesãos e camponeses rebelaram-se contra os abusos dos grandes poderosos rurais (os Bentivi). O líder era Manuel Francisco dos Anjos Ferreira, o 'Balaio'. O movimento foi derrotado pelas tropas de Luís Alves de Lima e Silva, que graças a essa vitória ganhou o título de Barão de Caxias.",
+      "highlight": "A Balaiada foi o suspiro desesperado dos pobres do Maranhão contra a injustiça agrária."
+    },
+    {
+      "title": "5. O Golpe da Maioridade: A Ordem Restaurada",
+      "content": "As elites liberais e conservadoras perceberam que, se não houvesse um símbolo de autoridade central (o Rei), o Brasil viraria um 'caos de repúblicas'. Elas uniram-se para declarar D. Pedro II maior de idade antes do tempo. O Imperador adolescente foi o cimento que colou novamente as províncias que queriam fugir, iniciando os 49 anos de estabilidade do Segundo Reinado.",
+      "highlight": "A coroação de D. Pedro II foi o remédio político contra a desintegração do território."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Revolta dos Malês, ocorrida em Salvador em 1835, diferenciou-se de outras revoltas negras do período por um elemento cultural específico. Qual era?",
+      "options": [
+        "A) A participação de tribos de canibais da Amazônia.",
+        "B) A fundamentação na religião cristã protestante e no apoio dos reis de Portugal.",
+        "C) O fato de ser organizada por escravizados de origem muçulmana que sabiam ler e escrever em árabe.",
+        "D) A vontade deliberada de transformar a Bahia em um deserto de areia.",
+        "E) O apoio financeiro total dado pelos Estados Unidos à revolta."
+      ],
+      "correctIndex": 2,
+      "explanation": "A alfabetização em árabe e a fé islâmica permitiram a organização secreta e sofisticada dos insurgentes.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "As revoltas regenciais como a Cabanagem e a Balaiada foram caracterizadas por uma violenta repressão estatal. Qual era o grande temor das elites brasileiras em relação a esses movimentos populares?",
+      "options": [
+        "A) O temor de que a comida ficasse muito apimentada no Brasil.",
+        "B) O medo de que o país se fragmentasse em várias pequenas repúblicas, como ocorreu na América Espanhola.",
+        "C) A vontade de que os indígenas proibissem o plantio de cana-de-açúcar.",
+        "D) O receio de que o Papa se tornasse o novo imperador do Rio de Janeiro.",
+        "E) O cancelamento de todos os contratos de exportação de couro para a Europa."
+      ],
+      "correctIndex": 1,
+      "explanation": "A unidade territorial era o bem mais precioso para a manutenção do mercado e do poder das elites imperiais.",
+      "source": "Simulado ENEM / Período Regencial"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou as elites a darem o 'Golpe da Maioridade' em 1840, coroando D. Pedro II aos 14 anos?",
+      "options": [
+        "A) Para evitar a influência estrangeira no Brasil",
+        "B) Para restaurar a ordem e a unidade nacional, diante das revoltas que ocorriam em várias províncias",
+        "C) Para implantar uma república no Brasil",
+        "D) Para reduzir a influência dos escravizados muçulmanos",
+        "E) Para aumentar a autonomia das províncias"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o movimento que reuniu camponeses e artesãos frustrados com os desmandos dos grandes fazendeiros e governadores no Maranhão?",
+      "options": [
+        "A) Cabanagem",
+        "B) Sabinada",
+        "C) Balaiada",
+        "D) Revolta dos Malês",
+        "E) Farroupilha"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o movimento liderado pela classe média urbana que queria uma república temporária até a maioridade do imperador?",
+      "options": [
+        "A) Cabanagem",
+        "B) Sabinada",
+        "C) Balaiada",
+        "D) Revolta dos Malês",
+        "E) Farroupilha"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revoltas-regenciais/thumb.png",
+    "alt": "Revoltas Regenciais: O Brasil em Chamas",
+    "caption": "Revoltas Regenciais: O Brasil em Chamas"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Período Regencial (1831-1840) foi marcado pela 'experiência republicana' sob a vestimenta da Monarquia. Com a abdicação de D. Pedro I, as tensões centralidade-autonomia tornaram-se o fulcro da política brasileira. Segundo Boris Fausto, as revoltas regenciais, de Cabanagem a Sabinada, expuseram o déficit de integração territorial e de cidadania. Não foram meros levantes 'criminosos', como muitas vezes a narrativa oficial pretendeu, mas autênticas irrupções sociais motivadas pela pauperização e abandono das províncias.",
+        "Estas rebeliões possuíam características fundamentalmente distintas quanto às suas bases demográficas e finalidades programáticas. A Cabanagem no Pará e a Balaiada no Maranhão tiveram forte coloratura popular — mestiços, indígenas e escravizados fugidos — marcadas por uma profunda insatisfação antilusitana e de sobrevivência básica. Já a Sabinada, com seus republicanos soteropolitanos, demonstrava um perfil de estamento médio e proprietário frustrado com o poder centralizador instalado no Rio de Janeiro pós-Ato Adicional.",
+        "O Enem costuma abordar as revoltas regenciais sob a perspectiva de que a Unidade Nacional Brasileira foi construída a ferro, fogo e negociação. A posterior 'Regresso Conservador', a coroação antecipada do imperador menino (Golpe da Maioridade) e o peso da manutenção da máquina escravista operaram convergindo as elites regionais (as próprias oligarquias) num projeto monárquico que prometia 'ordem' num país temeroso da desintegração e da perda do controle sobre seus subalternizados."
+      ],
+      "source": "FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2012."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Revolta dos Malês, ocorrida em Salvador em 1835, diferenciou-se de outras revoltas negras do período por um elemento cultural específico. Qual era?",
+        "back": "A) A participação de tribos de canibais da Amazônia.. A alfabetização em árabe e a fé islâmica permitiram a organização secreta e sofisticada dos insurgentes."
+      },
+      {
+        "front": "As revoltas regenciais como a Cabanagem e a Balaiada foram caracterizadas por uma violenta repressão estatal. Qual era o grande temor das elites brasileiras em relação a esses movimentos populares?",
+        "back": "A) O temor de que a comida ficasse muito apimentada no Brasil.. A unidade territorial era o bem mais precioso para a manutenção do mercado e do poder das elites imperiais."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A participação de tribos de canibais da Amazônia..",
+        "is_true": true,
+        "explanation": "A alfabetização em árabe e a fé islâmica permitiram a organização secreta e sofisticada dos insurgentes."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A fundamentação na religião cristã protestante e no apoio dos reis de Portugal..",
+        "is_true": false,
+        "explanation": "Falso! A alfabetização em árabe e a fé islâmica permitiram a organização secreta e sofisticada dos insurgentes."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) O temor de que a comida ficasse muito apimentada no Brasil..",
+        "is_true": true,
+        "explanation": "A unidade territorial era o bem mais precioso para a manutenção do mercado e do poder das elites imperiais."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) O medo de que o país se fragmentasse em várias pequenas repúblicas, como ocorreu na América Espanhola..",
+        "is_true": false,
+        "explanation": "Falso! A unidade territorial era o bem mais precioso para a manutenção do mercado e do poder das elites imperiais."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Cabanagem (1835-1840)",
+        "match": "Revolta no Pará com altíssima mortalidade indígena"
+      },
+      {
+        "concept": "Balaiada (1838-1841)",
+        "match": "Revolta popular no Maranhão com escravos fugidos"
+      },
+      {
+        "concept": "Sabinada (1837-1838)",
+        "match": "Revolta de republicanos baianos que declararam separação"
+      },
+      {
+        "concept": "Farroupilha (1835-1845)",
+        "match": "Guerra dos Farrapos no Rio Grande do Sul"
+      },
+      {
+        "concept": "Balaios",
+        "match": "Grupos armados na revolta do Maranhão (artesãos e escravos)"
+      },
+      {
+        "concept": "Sorocaba",
+        "match": "Cidade do interior de SP que apoiou os farrapos"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Cabanagem: O Grito dos Humilhados no Pará",
+        "order": 1
+      },
+      {
+        "event": "2. Revolta dos Malês: O Islã nas Trincheiras",
+        "order": 2
+      },
+      {
+        "event": "3. Sabinada: A Classe Média Republicana",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "BRASILEIRA",
+      "hint": "O conceito-chave central ou termo associado à aula de Revoltas Regenciais: O Brasil em Chamas."
+    }
+  }
+}

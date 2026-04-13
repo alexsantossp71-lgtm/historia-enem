@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "revolucao-30",
+    "title": "Revolução de 1930: O Fim de uma Era",
+    "period": "1930",
+    "tags": [
+      "Vargas",
+      "Aliança Liberal",
+      "Coronelismo",
+      "João Pessoa",
+      "Café com Leite"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução de 1930 foi o golpe mortal na política dos coronéis de São Paulo e Minas. Ela abriu as portas para a modernização industrial e o populismo de Getúlio Vargas.",
+  "theory_content": "Desde 1894, o Brasil era governado pela 'Política do Café com Leite', um revezamento de poder entre as elites de São Paulo e Minas Gerais. Em 1929, no entanto, a **Crise de 1929** derrubou os preços do café, gerando uma revolta da elite mineira quando o presidente paulista Washington Luís decidiu apoiar outro paulista (Júlio Prestes) para sua sucessão, quebrando o acordo de revezamento. Minas Gerais uniu-se ao Rio Grande do Sul e à Paraíba para formar a **Aliança Liberal**, lançando Getúlio Vargas para presidente. \n\nA eleição de 1930 foi marcada por fraudes de ambos os lados, e Júlio Prestes foi declarado vencedor. O estopim para a revolta armada foi o **Assassinato de João Pessoa** (vice de Vargas), em Recife. Embora o crime tenha tido motivos passionais e locais, a Aliança Liberal usou o fato como bandeira política para iniciar o levante. Em outubro de 1930, as tropas de Vargas saíram do Rio Grande do Sul em direção ao Rio de Janeiro. Para evitar uma guerra civil, uma junta militar depôs Washington Luís e entregou o governo a Getúlio Vargas. Era o fim da República Velha (oligárquica) e o início do Estado Nacional Centralizado. O ENEM costuma cobrar as causas da ruptura das elites paulistas e mineiras e o papel das classes médias urbanas e dos jovens militares (tenentes) nesse movimento.",
+  "sections": [
+    {
+      "title": "1. A Ruptura do Café com Leite",
+      "content": "São Paulo achava que só eles sabiam lidar com a crise do café. Quando Washington Luís indicou Júlio Prestes, Minas Gerais sentiu-se traída. O acordo de décadas foi rasgado pelo egoísmo paulista e pelo medo de Minas de perder o acesso ao tesouro nacional. Essa briga de gigantes foi a oportunidade que o Rio Grande do Sul esperava para levar um sulista à cadeira da presidência.",
+      "highlight": "A revolução nasceu da briga de família entre os maiores produtores do Brasil.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-30/section_0.png",
+        "alt": "1. A Ruptura do Café com Leite",
+        "caption": "1. A Ruptura do Café com Leite"
+      }
+    },
+    {
+      "title": "2. Aliança Liberal: A União dos Descontentes",
+      "content": "Pela primeira vez, uma chapa de oposição uniu o Sul, o Centro e o Nordeste (Paraíba). Eles prometiam o voto secreto, a justiça eleitoral e leis trabalhistas para atrair a classe média das cidades e os operários. Vargas era o líder esperto, que sabia falar com os ricos e com os pobres ao mesmo tempo, preparando o caminho para o seu futuro populismo.",
+      "highlight": "Vargas foi o primeiro político brasileiro a perceber que o povo urbano era uma força poderosa.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-30/section_1.png",
+        "alt": "2. Aliança Liberal: A União dos Descontentes",
+        "caption": "2. Aliança Liberal: A União dos Descontentes"
+      }
+    },
+    {
+      "title": "3. João Pessoa: O Mártir por conveniência",
+      "content": "João Pessoa, governador da Paraíba, negou apoio a Júlio Prestes com o famoso telegrama 'NEGO'. Ao ser assassinado em uma confeitaria em Recife, o país parou. A propaganda de Vargas transformou um crime de honra política local em um ataque à democracia brasileira. O corpo de João Pessoa foi levado em cortejo pelo litoral até o Rio de Janeiro, inflamando o espírito revolucionário das massas.",
+      "highlight": "O sangue de João Pessoa foi o combustível que faltava para os canhões de Vargas.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-30/section_2.png",
+        "alt": "3. João Pessoa: O Mártir por conveniência",
+        "caption": "3. João Pessoa: O Mártir por conveniência"
+      }
+    },
+    {
+      "title": "4. O Movimento Tenentista: A Espada de Vargas",
+      "content": "Os jovens oficiais do exército (Tenentes) odiavam os coronéis e a corrupção da República Velha. Eles queriam um exército forte e um país industrializado. Quando a revolução começou, foram esses oficiais que deram o apoio técnico e militar para que Getúlio chegasse ao Rio de Janeiro. Vargas usou o fuzil dos tenentes para garantir que os coronéis de galocha não voltassem ao poder.",
+      "highlight": "O tenentismo foi o braço armado que enterrou a velha política das oligarquias."
+    },
+    {
+      "title": "5. O Fim da República Velha e a Nova Ordem",
+      "content": "Em 3 de novembro de 1930, Vargas subiu as escadarias do Palácio do Catete. Ele suspendeu a Constituição e nomeou 'Interventores' para governar os estados, acabando com a farra dos governadores estaduais independentes. O Brasil deixava de ser uma confederação frouxa de fazendeiros para se tornar um Estado forte, focado no trabalho e na indústria. O século XX brasileiro começou de fato ali.",
+      "highlight": "Em 1930, o Brasil trocou o café das fazendas pelas máquinas das fábricas."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O termo 'Política do Café com Leite' referia-se a qual prática política da chamada República Velha (1889-1930)?",
+      "options": [
+        "A) A doação gratuita de café para todas as crianças pobres do Brasil.",
+        "B) O revezamento da presidência da República entre as oligarquias de São Paulo (café) e Minas Gerais (leite).",
+        "C) A proibição de vender leite em pó nas cafeterias do Rio de Janeiro.",
+        "D) A vontade do Imperador D. Pedro II de que todos os brasileiros tomassem café da manhã juntos.",
+        "E) O controle total do comércio de queijo pelos exportadores de Santos."
+      ],
+      "correctIndex": 1,
+      "explanation": "Essa aliança garantia a estabilidade do poder nas mãos dos estados economicamente dominantes.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual fator econômico externo foi fundamental para desestabilizar a República Velha e permitir a vitória da Revolução de 1930 no Brasil?",
+      "options": [
+        "A) A Revolução russa e o fim do comércio de caviar.",
+        "B) A Quebra da Bolsa de Nova York de 1929, que derrubou os preços do café e quebrou as elites paulistas.",
+        "C) O descobrimento de petróleo na Lua por astronautas ingleses.",
+        "D) O aumento colossal no preço da borracha para a Argentina.",
+        "E) O cancelamento de todos os empréstimos dados pela Igreja Católica aos fazendeiros."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sem dinheiro do café, o sistema de compra de votos (coronelismo) e o apoio político dos coronéis entraram em colapso.",
+      "source": "Simulado ENEM / História do Brasil"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-30/thumb.png",
+    "alt": "Revolução de 1930: O Fim de uma Era",
+    "caption": "Revolução de 1930: O Fim de uma Era"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Revolução de 1930 foi o marco do fim da hegemonia da oligarquia cafeeira e o início do processo de modernização do Estado brasileiro. Motivada pela quebra da aliança entre São Paulo e Minas Gerais (Política do Café com Leite) e pelo impacto devastador da crise de 1929, o movimento uniu setores dissidentes das elites estaduais (Rio Grande do Sul, Minas Gerais e Paraíba) e o jovem movimento tenentista. A ascensão de Getúlio Vargas ao poder não foi uma revolução social de base, mas um rearranjo nas esferas dominantes que percebiam a necessidade de industrialização e centralização política.",
+        "O governo provisório de Vargas buscou desmontar a estrutura descentralizada da República Velha, nomeando interventores para os estados e criando os primeiros ministérios voltados para o Trabalho e a Educação. Essa centralização provocou a reação da elite paulista na Revolução Constitucionalista de 1932, que embora derrotada militarmente, forçou Vargas a convocar uma Assembleia Constituinte. A Constituição de 1934 introduziu avanços significativos, como o voto feminino, o voto secreto e a Justiça Eleitoral, marcos fundamentais da nossa história democrática.",
+        "Para o Enem, a Revolução de 1930 deve ser analisada como o 'nascimento do Brasil moderno'. A partir deste momento, o Estado assumiu o papel de indutor do desenvolvimento econômico através da criação de empresas de base (como a Vale e a CSN) e da legislação trabalhista. Compreender 1930 é essencial para entender como o Brasil deixou de ser um 'fazendão' subordinado aos interesses de um único setor agrícola para tornar-se uma nação urbana e industrial sob a égide do Estado nacionalista e intervencionista."
+      ],
+      "source": "FAUSTO, Boris. A Revolução de 1930: Historiografia e História. São Paulo: Brasiliense, 1970."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O termo 'Política do Café com Leite' referia-se a qual prática política da chamada República Velha (1889-1930)?",
+        "back": "A) A doação gratuita de café para todas as crianças pobres do Brasil.. Essa aliança garantia a estabilidade do poder nas mãos dos estados economicamente dominantes."
+      },
+      {
+        "front": "Qual fator econômico externo foi fundamental para desestabilizar a República Velha e permitir a vitória da Revolução de 1930 no Brasil?",
+        "back": "A) A Revolução russa e o fim do comércio de caviar.. Sem dinheiro do café, o sistema de compra de votos (coronelismo) e o apoio político dos coronéis entraram em colapso."
+      },
+      {
+        "front": "Qual era o sistema de governo no Brasil desde 1894?",
+        "back": "Política do Café com Leite"
+      },
+      {
+        "front": "O que foi a Crise de 1929?",
+        "back": "Derrubou os preços do café"
+      },
+      {
+        "front": "Qual foi o evento que desencadeou a revolta armada em 1930?",
+        "back": "Assassinato de João Pessoa"
+      },
+      {
+        "front": "Qual foi o resultado da eleição de 1930?",
+        "back": "Júlio Prestes foi declarado vencedor"
+      },
+      {
+        "front": "Quem assumiu o governo após a deposição de Washington Luís?",
+        "back": "Getúlio Vargas"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A doação gratuita de café para todas as crianças pobres do Brasil..",
+        "is_true": true,
+        "explanation": "Essa aliança garantia a estabilidade do poder nas mãos dos estados economicamente dominantes."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) O revezamento da presidência da República entre as oligarquias de São Paulo (café) e Minas Gerais (leite)..",
+        "is_true": false,
+        "explanation": "Falso! Essa aliança garantia a estabilidade do poder nas mãos dos estados economicamente dominantes."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A Revolução russa e o fim do comércio de caviar..",
+        "is_true": true,
+        "explanation": "Sem dinheiro do café, o sistema de compra de votos (coronelismo) e o apoio político dos coronéis entraram em colapso."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A Quebra da Bolsa de Nova York de 1929, que derrubou os preços do café e quebrou as elites paulistas..",
+        "is_true": false,
+        "explanation": "Falso! Sem dinheiro do café, o sistema de compra de votos (coronelismo) e o apoio político dos coronéis entraram em colapso."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Revolução de 1930",
+        "match": "Golpe que colocou Getúlio Vargas no poder"
+      },
+      {
+        "concept": "Aliança Liberal",
+        "match": "Coligação política de Vargas com tenentistas"
+      },
+      {
+        "concept": "Eleições de 1930",
+        "match": "Vitória do candidato oficial que desencadeou o golpe"
+      },
+      {
+        "concept": "Getúlio Vargas",
+        "match": "Candidato da Aliança Liberal que assumiu o poder"
+      },
+      {
+        "concept": "Oligarquia paulista",
+        "match": "Elite política derrubada pela Revolução de 30"
+      },
+      {
+        "concept": "Deodoro da Fonseca",
+        "match": "General que liderou a deposição de Washington Luís"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Ruptura do Café com Leite",
+        "order": 1
+      },
+      {
+        "event": "2. Aliança Liberal: A União dos Descontentes",
+        "order": 2
+      },
+      {
+        "event": "3. João Pessoa: O Mártir por conveniência",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MODERNIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução de 1930: O Fim de uma Era."
+    }
+  }
+}

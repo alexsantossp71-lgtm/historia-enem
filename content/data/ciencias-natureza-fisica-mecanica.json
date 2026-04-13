@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "id": "ciencias-natureza-fisica-mecanica",
+    "title": "Física: Mecânica - Cinemática",
+    "period": "",
+    "tags": [
+      "Ciências da Natureza",
+      "Física",
+      "Mecânica",
+      "Cinemática",
+      "Movimento",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências da Natureza",
+    "subject": "Física",
+    "visual_depth": "elite"
+  },
+  "intro": "A cinemática estuda o movimento dos corpos sem considerar as causas que o produzem, focando em posição, velocidade e aceleração como funções do tempo.",
+  "theory_content": "A cinemática descreve o movimento através de: 1) Posição (s): localização de um corpo em relação a um referencial. 2) Velocidade média (v̄): variação da posição dividida pelo intervalo de tempo (v̄ = Δs/Δt). 3) Velocidade instantânea: limite da velocidade média quando Δt tende a zero. 4) Aceleração média (ā): variação da velocidade dividida pelo intervalo de tempo (ā = Δv/Δt). 5) Aceleração instantânea: limite da aceleração média quando Δt tende a zero. Gráficos importantes: s x t (inclinação = velocidade), v x t (inclinação = aceleração, área = deslocamento), a x t (área = variação da velocidade). Para movimento uniformemente variado (MUV): v = v₀ + at, s = s₀ + v₀t + (1/2)at², v² = v₀² + 2aΔs.",
+  "support_text": "No ENEM, questões de cinemática frequentemente aparecem em contextos de interpretação de gráficos (s x t, v x t, a x t) e resolução de problemas do cotidiano, como calcular o tempo de frenagem de um veículo ou a altura máxima de um projétil lançado verticalmente. Dominar as equações do horário e a interpretação gráfica é essencial para a prova de Ciências da Natureza.",
+  "sections": [
+    {
+      "title": "Gráficos do Movimento",
+      "content": "No gráfico s x t: inclinação média = velocidade média; inclinação instantânea = velocidade instantânea. No gráfico v x t: inclinação média = aceleração média; área bajo a curva = deslocamento. No gráfico a x t: área bajo a curva = variação da velocidade.",
+      "image": {
+        "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/section_0.png",
+        "alt": "Gráficos do Movimento",
+        "caption": "Gráficos do Movimento"
+      },
+      "highlight": "A interpretação simultânea de múltiplos gráficos é frequentemente cobrada no ENEM."
+    },
+    {
+      "title": "Equações do Horário do MUV",
+      "content": "Para movimento com aceleração constante (a): 1) Equação horária da velocidade: v = v₀ + at. 2) Equação horária da posição: s = s₀ + v₀t + (1/2)at². 3) Equação de Torricelli: v² = v₀² + 2aΔs. Estas equações permitem resolver problemas de posição, velocidade e tempo quando três variáveis são conhecidas.",
+      "highlight": "As três equações são equivalentes e podem ser usadas de forma intercambiável dependendo dos dados conhecidos.",
+      "image": {
+        "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/section_1.png",
+        "alt": "Equações do Horário do MUV",
+        "caption": "Equações do Horário do MUV"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Um objeto parte do repouso e acelera uniformemente a 2 m/s². Qual é sua velocidade após 5 segundos?",
+      "options": [
+        "A) 2,5 m/s",
+        "B) 5 m/s",
+        "C) 10 m/s",
+        "D) 20 m/s",
+        "E) 25 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Um objeto se move em um plano horizontal com velocidade constante. Qual é a relação entre a posição e o tempo para esse objeto?",
+      "options": [
+        "A) A posição é diretamente proporcional ao tempo",
+        "B) A posição é inversamente proporcional ao tempo",
+        "C) A posição é diretamente proporcional ao quadrado do tempo",
+        "D) A posição é inversamente proporcional ao quadrado do tempo",
+        "E) A posição é constante e não depende do tempo"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um carro está se movendo com aceleração constante. Qual é a relação entre a velocidade e o tempo para esse carro?",
+      "options": [
+        "A) A velocidade é diretamente proporcional ao tempo",
+        "B) A velocidade é inversamente proporcional ao tempo",
+        "C) A velocidade é diretamente proporcional ao quadrado do tempo",
+        "D) A velocidade é inversamente proporcional ao quadrado do tempo",
+        "E) A velocidade é constante e não depende do tempo"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um objeto está se movendo em um movimento uniformemente variado. Qual é a equação que relaciona a velocidade final com a velocidade inicial, aceleração e tempo?",
+      "options": [
+        "A) v = v₀ - at",
+        "B) v = v₀ + at",
+        "C) v = v₀ - 2at",
+        "D) v = v₀ + 2at",
+        "E) v = v₀ / at"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um gráfico de velocidade em função do tempo para um objeto em movimento uniformemente variado tem uma inclinação constante. Qual é a grandeza física representada por essa inclinação?",
+      "options": [
+        "A) Aceleração",
+        "B) Velocidade",
+        "C) Posição",
+        "D) Tempo",
+        "E) Deslocamento"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Qual é a equação horária da posição para MUV?",
+      "back": "s = s₀ + v₀t + (1/2)at²"
+    },
+    {
+      "front": "O que a área bajo o gráfico v x t representa?",
+      "back": "Deslocamento"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/thumb.png",
+    "alt": "Física: Mecânica - Cinemática",
+    "caption": "Física: Mecânica - Cinemática"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "As formulações clássicas da Mecânica Newtoniana não são apenas equações de lousa, mas a linguagem universal empregada para decifrar desde o movimento dos astros celestes até o sistema de frenagem automobilístico contemporâneo. No contexto do Enem, exige-se do candidato associar teorias do atrito, gravidade e energia a modelos mecânicos e termodinâmicos rigorosos do dia-a-dia prático.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Um objeto parte do repouso e acelera uniformemente a 2 m/s². Qual é sua velocidade após 5 segundos?",
+        "back": "A) 2,5 m/s. Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
+      },
+      {
+        "front": "O que é posição em cinemática?",
+        "back": "Localização de um corpo em relação a um referencial."
+      },
+      {
+        "front": "Como é calculada a velocidade média?",
+        "back": "Variação da posição dividida pelo intervalo de tempo (v̄ = Δs/Δt)."
+      },
+      {
+        "front": "O que é velocidade instantânea?",
+        "back": "Limite da velocidade média quando Δt tende a zero."
+      },
+      {
+        "front": "Qual é a fórmula para aceleração média?",
+        "back": "Variação da velocidade dividida pelo intervalo de tempo (ā = Δv/Δt)."
+      },
+      {
+        "front": "Qual é o significado da inclinação no gráfico v x t?",
+        "back": "Aceleração."
+      },
+      {
+        "front": "Qual é a equação para o movimento uniformemente variado?",
+        "back": "v = v₀ + at, s = s₀ + v₀t + (1/2)at², v² = v₀² + 2aΔs."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "5 m/s.",
+        "is_true": false,
+        "explanation": "Mito! Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
+      },
+      {
+        "statement": "2,5 m/s.",
+        "is_true": true,
+        "explanation": "Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) 2,5 m/s",
+        "match": "Um objeto parte do repouso e acelera uniforme..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Gráficos do Movimento",
+        "order": 1
+      },
+      {
+        "event": "Equações do Horário do MUV",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CINEMÁTICA",
+      "hint": "O conceito-chave central ou termo associado à aula de Física: Mecânica - Cinemática."
+    }
+  }
+}

@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "o-que-e-historia",
+    "title": "O que é História? Fontes e Tempo",
+    "period": "Introdução",
+    "startYear": -10000000,
+    "tags": [
+      "Historiografia",
+      "Fontes Históricas",
+      "Tempo",
+      "Annales",
+      "Escolas Históricas"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/o-que-e-historia/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "pre-historia",
+    "title": "Pré-História: A Longa Caminhada Humana",
+    "period": "2,5 milhões a.C. - 3500 a.C.",
+    "startYear": -2500000,
+    "tags": [
+      "Paleolítico",
+      "Neolítico",
+      "Agricultura",
+      "Revolução Urbana",
+      "Pintura Rupestre"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/pre-historia/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "antiguidade-oriental",
+    "title": "Antiguidade Oriental: Poder e Rios",
+    "period": "3500 a.C. - 539 a.C.",
+    "startYear": -3500,
+    "tags": [
+      "Mesopotâmia",
+      "Egito",
+      "Código de Hamurábi",
+      "Faraó",
+      "Civilização Hidráulica"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/antiguidade-oriental/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "civilizacoes-pre-colombianas",
+    "title": "Astecas, Maias e Incas: O Gênio Americano",
+    "period": "Séc. XV a.C. - XVI d.C.",
+    "startYear": -2000,
+    "tags": [
+      "Astecas",
+      "Maias",
+      "Incas",
+      "Tenochtitlán",
+      "Machu Picchu"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "fenicios-persas-hebreus",
+    "title": "Fenícios, Persas e Hebreus: Legados do Oriente",
+    "period": "2000 a.C. - 330 a.C.",
+    "startYear": -2000,
+    "tags": [
+      "Alfabeto",
+      "Zoroatrismo",
+      "Monoteísmo",
+      "Talassocracia",
+      "Diáspora"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/fenicios-persas-hebreus/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "grecia-antiga",
+    "title": "Grécia Antiga: Política, Cultura e Pólis",
+    "period": "800 a.C. - 146 a.C.",
+    "startYear": -800,
+    "tags": [
+      "Atenas",
+      "Democracia",
+      "Filosofia",
+      "Esparta",
+      "Helenismo"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/grecia-antiga/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "roma-antiga",
+    "title": "Roma Antiga: República e Império",
+    "period": "753 a.C. - 476 d.C.",
+    "startYear": -753,
+    "tags": [
+      "Senado",
+      "Patrícios",
+      "Plebeus",
+      "Pax Romana",
+      "Direito Romano"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/roma-antiga/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "reinos-africa",
+    "title": "Grandes Reinos da África: Gana, Mali e Songai",
+    "period": "Séculos IV - XVI",
+    "startYear": 300,
+    "tags": [
+      "Mali",
+      "Mansa Musa",
+      "Timbuktu",
+      "Griots",
+      "Ouro"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/reinos-africa/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "feudalismo",
+    "title": "Idade Média: O Sistema Feudal",
+    "period": "Século V - XV",
+    "startYear": 476,
+    "tags": [
+      "Feudalismo",
+      "Igreja Católica",
+      "Cruzadas",
+      "Suserania",
+      "Peste Negra"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/feudalismo/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "renascimento",
+    "title": "Renascimento: O Homem em Foco",
+    "period": "Século XIV - XVII",
+    "startYear": 1300,
+    "tags": [
+      "Humanismo",
+      "Antropocentrismo",
+      "Heliocentrismo",
+      "Mecenato",
+      "Leonardo da Vinci"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/renascimento/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "absolutismo-mercantilismo",
+    "title": "Absolutismo e Mercantilismo: O Poder dos Reis",
+    "period": "Séculos XV - XVIII",
+    "startYear": 1450,
+    "tags": [
+      "Absolutismo",
+      "Mercantilismo",
+      "Maquiavel",
+      "Hobbes",
+      "Direito Divino"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/absolutismo-mercantilismo/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-colonia-pau-brasil",
+    "title": "Pré-Colonial: O Escambo do Pau-Brasil",
+    "period": "1500 - 1530",
+    "startYear": 1500,
+    "tags": [
+      "Pau-Brasil",
+      "Escambo",
+      "Indígenas",
+      "Feitorias",
+      "Descobrimento"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-colonia-pau-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-colonia",
+    "title": "Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)",
+    "period": "Séculos XVI ao XIX",
+    "startYear": 1500,
+    "tags": [
+      "Pacto Colonial",
+      "Plantation",
+      "Escravidão",
+      "Ciclo do Ouro",
+      "Historiografia"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-colonia/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "movimentos-indigenas",
+    "title": "Movimentos Indígenas: História e Direito à Terra",
+    "period": "1500 - Hoje",
+    "startYear": 1500,
+    "tags": [
+      "Indígenas",
+      "Demarcação",
+      "FUNAI",
+      "Constituição 1988",
+      "Resistência"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/movimentos-indigenas/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "reforma-protestante",
+    "title": "Reforma e Contrarreforma: A Cisão da Cristandade",
+    "period": "Século XVI",
+    "startYear": 1517,
+    "tags": [
+      "Luteranismo",
+      "Calvinismo",
+      "Inquisição",
+      "Jesuítas",
+      "Indulgências"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/reforma-protestante/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-colonia-ciclo-acucar",
+    "title": "Ciclo do Açúcar: O Doce Lucro da Colônia",
+    "period": "1530 - 1700",
+    "startYear": 1530,
+    "tags": [
+      "Açúcar",
+      "Plantation",
+      "Escravidão",
+      "Holandeses",
+      "Nordeste"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-colonia-ciclo-acucar/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "escravidao-abolicao",
+    "title": "Escravidão e Abolição no Brasil: Sistema e Resistência",
+    "period": "1530 - 1888",
+    "startYear": 1530,
+    "tags": [
+      "Tráfico Negreiro",
+      "Quilombos",
+      "Abolicionismo",
+      "Lei Áurea",
+      "Resistência"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/escravidao-abolicao/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "questao-agraria",
+    "title": "A Questão Agrária no Brasil: Histórias de Concentração e Luta",
+    "period": "1530 - Hoje",
+    "startYear": 1530,
+    "tags": [
+      "Reforma Agrária",
+      "Lei de Terras 1850",
+      "MST",
+      "Agronegócio",
+      "Conflitos"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/questao-agraria/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-colonia-ciclo-ouro",
+    "title": "Ciclo do Ouro: A Riqueza das Gerais",
+    "period": "1700 - 1800",
+    "startYear": 1700,
+    "tags": [
+      "Ouro",
+      "Barroco",
+      "Derrama",
+      "Aleijadinho",
+      "Minas Gerais"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-colonia-ciclo-ouro/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "iluminismo",
+    "title": "Iluminismo: A Razão contra as Trevas",
+    "period": "Século XVIII",
+    "startYear": 1715,
+    "tags": [
+      "Razão",
+      "Liberalismo",
+      "Montesquieu",
+      "Rousseau",
+      "Voltaire"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/iluminismo/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-industrial",
+    "title": "Revolução Industrial: A Transformação do Mundo",
+    "period": "1760 - Hoje",
+    "startYear": 1760,
+    "tags": [
+      "Inglaterra",
+      "Proletariado",
+      "Capitalismo",
+      "Ludismo",
+      "Tecnologia"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-industrial/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "independencia-eua",
+    "title": "Independência dos EUA: A Revolução da Liberdade",
+    "period": "1776 - 1787",
+    "startYear": 1776,
+    "tags": [
+      "EUA",
+      "Jefferson",
+      "Iluminismo",
+      "Constituição",
+      "Bill of Rights"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/independencia-eua/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-francesa",
+    "title": "Revolução Francesa: O Fim do Antigo Regime",
+    "period": "1789 - 1799",
+    "startYear": 1789,
+    "tags": [
+      "Iluminismo",
+      "Jacobinos",
+      "Bastilha",
+      "Direitos do Homem",
+      "Napoleão"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-francesa/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-haiti",
+    "title": "Revolução do Haiti: O Grito da Liberdade Negra",
+    "period": "1791 - 1804",
+    "startYear": 1791,
+    "tags": [
+      "Haiti",
+      "Toussaint Louverture",
+      "Escravidão",
+      "Haitianismo",
+      "Independência"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-haiti/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "independencia-america-espanhola",
+    "title": "Independência da América Espanhola: Bolívar e San Martín",
+    "period": "1808 - 1830",
+    "startYear": 1808,
+    "tags": [
+      "Bolívar",
+      "San Martín",
+      "Criollos",
+      "Caudilhismo",
+      "Pan-americanismo"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/independencia-america-espanhola/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revoltas-pernambuco",
+    "title": "Pernambuco Rebelde: 1817 e 1824",
+    "period": "1817 - 1824",
+    "startYear": 1817,
+    "tags": [
+      "Frei Caneca",
+      "Confederação do Equador",
+      "Republicanismo",
+      "Poder Moderador",
+      "Separatismo"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/revoltas-pernambuco/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-imperio-primeiro-reinado",
+    "title": "Primeiro Reinado: A Coroa de D. Pedro I",
+    "period": "1822 - 1831",
+    "startYear": 1822,
+    "tags": [
+      "D. Pedro I",
+      "Constituição 1824",
+      "Poder Moderador",
+      "Cisplatina",
+      "Abdicação"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-imperio-primeiro-reinado/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-imperio",
+    "title": "Brasil Império: Unidade e Contradição (1822-1889)",
+    "period": "Século XIX",
+    "startYear": 1822,
+    "tags": [
+      "Independência",
+      "Poder Moderador",
+      "Segundo Reinado",
+      "Guerra do Paraguai",
+      "Abolicionismo"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-imperio/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "politica-externa",
+    "title": "Política Externa Brasileira: Diplomacia e Poder",
+    "period": "1822 - Hoje",
+    "startYear": 1822,
+    "tags": [
+      "Itamaraty",
+      "Barão do Rio Branco",
+      "BRICS",
+      "Mercosul",
+      "Geopolítica"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/politica-externa/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucoes-liberais",
+    "title": "Primavera dos Povos: O Fim do Absolutismo",
+    "period": "1830 - 1848",
+    "startYear": 1830,
+    "tags": [
+      "Liberalismo",
+      "Nacionalismo",
+      "Socialismo",
+      "Barricadas",
+      "Primavera dos Povos"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucoes-liberais/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "periodo-regencial-brasil",
+    "title": "Período Regencial: A República Disfarçada",
+    "period": "1831 - 1840",
+    "startYear": 1831,
+    "tags": [
+      "Regência",
+      "Ato Adicional",
+      "Feijó",
+      "Maioridade",
+      "Federalismo"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/periodo-regencial-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revoltas-regenciais",
+    "title": "Revoltas Regenciais: O Brasil em Chamas",
+    "period": "1831 - 1840",
+    "startYear": 1831,
+    "tags": [
+      "Cabanagem",
+      "Sabinada",
+      "Balaiada",
+      "Revolta dos Malês",
+      "Período Regencial"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/revoltas-regenciais/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-farroupilha",
+    "title": "Guerra dos Farrapos: O Sul em Armas",
+    "period": "1835 - 1845",
+    "startYear": 1835,
+    "tags": [
+      "Farroupilha",
+      "Bento Gonçalves",
+      "Garibaldi",
+      "Charque",
+      "Republica"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/revolucao-farroupilha/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "linguagens-literatura-romantismo",
+    "title": "Literatura: Romantismo Brasileiro",
+    "period": "1836-1861",
+    "startYear": 1836,
+    "tags": [
+      "Linguagens",
+      "Literatura",
+      "Romantismo",
+      "José de Alencar",
+      "Gonçalves Dias"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "brasil-imperio-segundo-reinado",
+    "title": "Segundo Reinado: O Apogeu do Império",
+    "period": "1840 - 1889",
+    "startYear": 1840,
+    "tags": [
+      "D. Pedro II",
+      "Café",
+      "Imigração",
+      "Abolição",
+      "Guerra do Paraguai"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/brasil-imperio-segundo-reinado/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "era-maua",
+    "title": "A Era Mauá: O Primeiro Surto Industrial",
+    "period": "1844 - 1875",
+    "startYear": 1844,
+    "tags": [
+      "Barão de Mauá",
+      "Industrialização",
+      "Tarifa Alves Branco",
+      "D. Pedro II",
+      "Trabalho Livre"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/era-maua/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "unificacoes",
+    "title": "Unificações: O Nascimento de Novas Potências",
+    "period": "1850 - 1871",
+    "startYear": 1850,
+    "tags": [
+      "Bismarck",
+      "Garibaldi",
+      "Alsácia-Lorena",
+      "Nacionalismo",
+      "Realpolitik"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/unificacoes/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "guerra-paraguai",
+    "title": "Guerra do Paraguai: Conflito e Consequências",
+    "period": "1864 - 1870",
+    "startYear": 1864,
+    "tags": [
+      "Tríplice Aliança",
+      "Solano López",
+      "Caxias",
+      "D. Pedro II",
+      "Bacia do Prata"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/guerra-paraguai/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "imperialismo",
+    "title": "Imperialismo e Neocolonialismo: O Parto do Século XX",
+    "period": "Século XIX",
+    "startYear": 1870,
+    "tags": [
+      "Partilha da África",
+      "Conferência de Berlim",
+      "Darwinismo Social",
+      "Matérias Primas",
+      "Exploração"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/imperialismo/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "coronelismo-republica-velha",
+    "title": "Coronelismo: O Poder das Esporas",
+    "period": "1889 - 1930",
+    "startYear": 1889,
+    "tags": [
+      "Coronelismo",
+      "Voto de Cabresto",
+      "Clientelismo",
+      "República Velha",
+      "Fraude"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/coronelismo-republica-velha/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "republica-velha",
+    "title": "República Velha: O Domínio das Oligarquias (1889-1930)",
+    "period": "Século XIX ao XX",
+    "startYear": 1889,
+    "tags": [
+      "Coronelismo",
+      "Café com Leite",
+      "Canudos",
+      "Revolta da Vacina",
+      "Tenentismo"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/republica-velha/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolta-da-armada",
+    "title": "Revolta da Armada: O Duelo de Marechais",
+    "period": "1891 - 1894",
+    "startYear": 1891,
+    "tags": [
+      "Armada",
+      "Floriano Peixoto",
+      "Custódio de Melo",
+      "Marinha",
+      "Exército"
+    ],
+    "relevance": 3,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolta-da-armada/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "messianismo-campo-brasil",
+    "title": "Messianismo: O Grito do Sertão",
+    "period": "1893 - 1938",
+    "startYear": 1893,
+    "tags": [
+      "Canudos",
+      "Contestado",
+      "Cangaço",
+      "Messianismo",
+      "Antônio Conselheiro"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/messianismo-campo-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-federalista",
+    "title": "Revolução Federalista: A Guerra da Degola",
+    "period": "1893 - 1895",
+    "startYear": 1893,
+    "tags": [
+      "Maragatos",
+      "Pica-paus",
+      "Rio Grande do Sul",
+      "Degola",
+      "Floriano Peixoto"
+    ],
+    "relevance": 3,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-federalista/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "movimento-operario-brasil",
+    "title": "Movimento Operário: O Despertar das Fábricas",
+    "period": "1900 - 1930",
+    "startYear": 1900,
+    "tags": [
+      "Operário",
+      "Anarquismo",
+      "Greve 1917",
+      "Sindicalismo",
+      "PCB"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/movimento-operario-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revoltas-urbanas-brasil",
+    "title": "Vacina e Chibata: O Povo contra o Estado",
+    "period": "1904 - 1910",
+    "startYear": 1904,
+    "tags": [
+      "Vacina",
+      "Chibata",
+      "João Cândido",
+      "Oswaldo Cruz",
+      "Rio de Janeiro"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/revoltas-urbanas-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-chinesa",
+    "title": "Revolução Chinesa: Do Império à Superpotência",
+    "period": "1911 - Presente",
+    "startYear": 1911,
+    "tags": [
+      "Mao Tsé-Tung",
+      "Comunismo",
+      "Deng Xiaoping",
+      "Grande Salto Adiante",
+      "Guerra Civil"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-chinesa/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "primeira-guerra",
+    "title": "A Grande Guerra: Impérios em Colapso (1914-1918)",
+    "period": "Século XX",
+    "startYear": 1914,
+    "tags": [
+      "Imperialismo",
+      "Trincheiras",
+      "Versalhes",
+      "Belle Époque",
+      "Sarajevo"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/primeira-guerra/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-russa",
+    "title": "Revolução Russa: O Nascimento da URSS",
+    "period": "1917 - 1924",
+    "startYear": 1917,
+    "tags": [
+      "Socialismo",
+      "Lênin",
+      "Stalin",
+      "Bolcheviques",
+      "Guerra Civil"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-russa/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "totalitarismo",
+    "title": "Totalitarismo: Fascismo e Nazismo",
+    "period": "1919 - 1945",
+    "startYear": 1919,
+    "tags": [
+      "Fascismo",
+      "Nazismo",
+      "Totalitarismo",
+      "Propaganda",
+      "Antissemitismo"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/totalitarismo/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "semana-22",
+    "title": "Semana de Arte Moderna: A Revolução de 1922",
+    "period": "1922",
+    "startYear": 1922,
+    "tags": [
+      "Modernismo",
+      "Antropofagia",
+      "Identidade Nacional",
+      "Oswald de Andrade",
+      "Anita Malfatti"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/semana-22/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "tenentismo-anos-20",
+    "title": "Tenentismo: A Espada de Reforma",
+    "period": "1922 - 1930",
+    "startYear": 1922,
+    "tags": [
+      "Tenentismo",
+      "18 do Forte",
+      "Coluna Prestes",
+      "Voto Secreto",
+      "Moralismo"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/tenentismo-anos-20/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "crise-1929",
+    "title": "A Crise de 1929: O Colapso do Liberalismo",
+    "period": "1929 - 1939",
+    "startYear": 1929,
+    "tags": [
+      "Wall Street",
+      "New Deal",
+      "Keynesianismo",
+      "Grande Depressão",
+      "Roosevelt"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/crise-1929/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "era-vargas-revolucao-30",
+    "title": "Revolução de 1930: O Golpe que Mudou o Brasil",
+    "period": "1930",
+    "startYear": 1930,
+    "tags": [
+      "Vargas",
+      "Aliança Liberal",
+      "João Pessoa",
+      "República Velha",
+      "Café com Leite"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/era-vargas-revolucao-30/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "era-vargas",
+    "title": "A Era Vargas: Do Populismo ao Estado Novo (1930-1945)",
+    "period": "Século XX",
+    "startYear": 1930,
+    "tags": [
+      "Vargas",
+      "Estado Novo",
+      "CLT",
+      "Trabalhismo",
+      "Populismo"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/era-vargas/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-30",
+    "title": "Revolução de 1930: O Fim de uma Era",
+    "period": "1930",
+    "startYear": 1930,
+    "tags": [
+      "Vargas",
+      "Aliança Liberal",
+      "Coronelismo",
+      "João Pessoa",
+      "Café com Leite"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-30/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "revolucao-32",
+    "title": "Revolução de 1932: O Levante Paulista",
+    "period": "1932",
+    "startYear": 1932,
+    "tags": [
+      "São Paulo",
+      "Vargas",
+      "MMDC",
+      "Constituição",
+      "9 de Julho"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/revolucao-32/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "anl-aib",
+    "title": "AIB vs ANL: O Brasil Polarizado",
+    "period": "1934 - 1937",
+    "startYear": 1934,
+    "tags": [
+      "Integralismo",
+      "ANL",
+      "Prestes",
+      "Plínio Salgado",
+      "Plano Cohen"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/anl-aib/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "era-vargas-constituicao-34",
+    "title": "Constituição de 1934: A Democracia de Vargas",
+    "period": "1934 - 1937",
+    "startYear": 1934,
+    "tags": [
+      "Vargas",
+      "Voto Feminino",
+      "Direitos Trabalhistas",
+      "Justiça Eleitoral"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/era-vargas-constituicao-34/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "estado-novo",
+    "title": "Estado Novo: A Ditadura de Vargas",
+    "period": "1937 - 1945",
+    "startYear": 1937,
+    "tags": [
+      "Vargas",
+      "Censura",
+      "DIP",
+      "Plano Cohen",
+      "Industrialização"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/estado-novo/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "era-vargas-dip-propaganda",
+    "title": "DIP e Propaganda: A Mente do Estado Novo",
+    "period": "1939 - 1945",
+    "startYear": 1939,
+    "tags": [
+      "Vargas",
+      "DIP",
+      "Censura",
+      "Hora do Brasil",
+      "Propaganda"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/era-vargas-dip-propaganda/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "segunda-guerra",
+    "title": "Segunda Guerra Mundial: O Conflito Total (1939-1945)",
+    "period": "Século XX",
+    "startYear": 1939,
+    "tags": [
+      "Nazismo",
+      "Fascismo",
+      "Holocausto",
+      "ONU",
+      "FEB"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/segunda-guerra/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "era-vargas-clt",
+    "title": "CLT e Trabalhismo: A Herança de Getúlio",
+    "period": "1943",
+    "startYear": 1943,
+    "tags": [
+      "Vargas",
+      "CLT",
+      "Trabalhismo",
+      "Sindicatos",
+      "Carteira de Trabalho"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/era-vargas-clt/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "descolonizacao",
+    "title": "Descolonização Afro-Asiática: O Grito de Bandung",
+    "period": "1945 - 1975",
+    "startYear": 1945,
+    "tags": [
+      "Bandung",
+      "Gandhi",
+      "Apartheid",
+      "Terceiro Mundo",
+      "Independência"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/descolonizacao/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "populismo-brasil",
+    "title": "Populismo no Brasil: O Carisma no Poder",
+    "period": "1945 - 1964",
+    "startYear": 1945,
+    "tags": [
+      "Populismo",
+      "Vargas",
+      "JK",
+      "Jânio",
+      "Massas",
+      "Liderança"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/populismo-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governo-dutra",
+    "title": "Governo Dutra: Democracia e Guerra Fria",
+    "period": "1946 - 1951",
+    "startYear": 1946,
+    "tags": [
+      "Dutra",
+      "Guerra Fria",
+      "Plano SALTE",
+      "Constituição 1946",
+      "USA"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governo-dutra/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "guerra-fria",
+    "title": "Guerra Fria: O Mundo Bipolar (1945-1991)",
+    "period": "Século XX",
+    "startYear": 1947,
+    "tags": [
+      "EUA",
+      "URSS",
+      "Muro de Berlim",
+      "Mundialismo",
+      "Socialismo"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/guerra-fria/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "conflitos-oriente-medio",
+    "title": "Oriente Médio: O Barril de Pólvora",
+    "period": "1947 - Presente",
+    "startYear": 1948,
+    "tags": [
+      "Israel",
+      "Palestina",
+      "Sionismo",
+      "ONU",
+      "Guerra dos Seis Dias"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/conflitos-oriente-medio/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "segundo-governo-vargas",
+    "title": "Getúlio Vargas (1951-1954): O Fim Trágico",
+    "period": "1951 - 1954",
+    "startYear": 1951,
+    "tags": [
+      "Vargas",
+      "Petrobras",
+      "Lacerda",
+      "Suicídio",
+      "Nacionalismo"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/segundo-governo-vargas/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governo-janio-quadros",
+    "title": "Jânio Quadros (1961): A Vassoura no Palácio",
+    "period": "1961",
+    "startYear": 1961,
+    "tags": [
+      "Jânio",
+      "Vassourinha",
+      "Guerra Fria",
+      "Renúncia",
+      "Che Guevara"
+    ],
+    "relevance": 4,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governo-janio-quadros/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governo-joao-goulart",
+    "title": "João Goulart (Jango): O Sonho e o Golpe",
+    "period": "1961 - 1964",
+    "startYear": 1961,
+    "tags": [
+      "Jango",
+      "Reformas de Base",
+      "Comício Central",
+      "Golpe 64",
+      "Legalidade"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governo-joao-goulart/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "ditadura-militar",
+    "title": "Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)",
+    "period": "Século XX",
+    "startYear": 1964,
+    "tags": [
+      "AI-5",
+      "Milagre Econômico",
+      "Anistia",
+      "Repressão",
+      "Geisel"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/ditadura-militar/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "operacao-condor-ditaduras",
+    "title": "Operação Condor: O Terror Coordenado",
+    "period": "1970 - 1980",
+    "startYear": 1970,
+    "tags": [
+      "Condor",
+      "Ditadura",
+      "Chile",
+      "Argentina",
+      "EUA"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/operacao-condor-ditaduras/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "ascensao-china",
+    "title": "Ascensão da China: O Novo Eixo Global",
+    "period": "1978 - Presente",
+    "startYear": 1978,
+    "tags": [
+      "China",
+      "Deng Xiaoping",
+      "Nova Rota da Seda",
+      "Geopolítica",
+      "Tecnologia"
+    ],
+    "relevance": 5,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/ascensao-china/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "redemocratizacao",
+    "title": "A Nova República: Democracia e Estabilização (1985-Hoje)",
+    "period": "Século XX e XXI",
+    "startYear": 1985,
+    "tags": [
+      "Constituição de 1988",
+      "Plano Real",
+      "Impeachment",
+      "Sarney",
+      "Lula",
+      "FHC"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/redemocratizacao/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governos-collor-itamar",
+    "title": "Governos Collor e Itamar: Do Confisco ao Real",
+    "period": "1990 - 1994",
+    "startYear": 1990,
+    "tags": [
+      "Collor",
+      "Itamar Franco",
+      "Plano Real",
+      "Impeachment",
+      "Inflação"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governos-collor-itamar/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governo-fhc",
+    "title": "Governo FHC: A Era das Privatizações",
+    "period": "1995 - 2002",
+    "startYear": 1995,
+    "tags": [
+      "FHC",
+      "Privatização",
+      "Lei de Responsabilidade Fiscal",
+      "Neoliberalismo",
+      "Tripé Macroeconômico"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governo-fhc/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governo-lula",
+    "title": "Governo Lula: Inclusão e Commodities",
+    "period": "2003 - 2010",
+    "startYear": 2003,
+    "tags": [
+      "Lula",
+      "Bolsa Família",
+      "Commodities",
+      "Pré-sal",
+      "BRICS"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governo-lula/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "primavera-arabe-conflitos",
+    "title": "Primavera Árabe: A Revolta das Redes",
+    "period": "2010 - Presente",
+    "startYear": 2010,
+    "tags": [
+      "Tunísia",
+      "Egito",
+      "Síria",
+      "Redes Sociais",
+      "Refugiados"
+    ],
+    "relevance": 4,
+    "category": "História Geral",
+    "thumbnail": "assets/images/lessons/primavera-arabe-conflitos/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "governos-dilma-temer",
+    "title": "Governos Dilma e Temer: A Grande Crise",
+    "period": "2011 - 2018",
+    "startYear": 2011,
+    "tags": [
+      "Dilma",
+      "Temer",
+      "Impeachment",
+      "Lava Jato",
+      "Protestos 2013"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governos-dilma-temer/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "ciencias-humanas-sociologia-estratificacao",
+    "title": "Sociologia: Estratificação Social e Classes Sociais",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Ciências Humanas",
+      "Sociologia",
+      "Estratificação",
+      "Classes Sociais",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1697729953709-0d5eb0dfc6aa?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "ciencias-humanas",
+    "title": "Ciencias Humanas",
+    "period": "",
+    "startYear": 2025,
+    "tags": [],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "assets/images/lessons/ciencias-humanas/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "ciencias-natureza-biologia-celula",
+    "title": "Biologia: Estrutura e Função da Célula",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Ciências da Natureza",
+      "Biologia",
+      "Célula",
+      "Organelas",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1674910177345-05201515bdbe?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "ciencias-natureza-fisica-mecanica",
+    "title": "Física: Mecânica - Cinemática",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Ciências da Natureza",
+      "Física",
+      "Mecânica",
+      "Cinemática",
+      "Movimento",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1674910177566-8bb17c5751ad?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "ciencias-natureza-quimica-estereoquimica",
+    "title": "Química: Estereoquímica e Isomerismo",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Ciências da Natureza",
+      "Química",
+      "Estereoquímica",
+      "Isomerismo",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1518663392635-94580fd4ba4e?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "ciencias-natureza",
+    "title": "Ciencias Natureza",
+    "period": "",
+    "startYear": 2025,
+    "tags": [],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1613218283851-9ea3d0350a2e?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "governo-jk",
+    "title": "Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)",
+    "period": "Século XX",
+    "startYear": 2025,
+    "tags": [
+      "JK",
+      "Brasília",
+      "Plano de Metas",
+      "Desenvolvimentismo",
+      "50 anos em 5"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/governo-jk/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "guerras-bandeirantes",
+    "title": "Bandeirantismo: Expansão e Conflitos no Interior",
+    "period": "Séculos XVI e XVII",
+    "startYear": 2025,
+    "tags": [
+      "Bandeiras",
+      "Entradas",
+      "Expansão Territorial",
+      "Mamelucos",
+      "Tratado de Tordesilhas"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/guerras-bandeirantes/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "independencia-brasil",
+    "title": "A Independência do Brasil: Ruptura e Continuidade (1808-1822)",
+    "period": "Século XIX",
+    "startYear": 2025,
+    "tags": [
+      "D. João VI",
+      "Independência",
+      "Revolução do Porto",
+      "Pacto Colonial",
+      "1822"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/independencia-brasil/thumb.png",
+    "icon": "📜"
+  },
+  {
+    "id": "linguagens-gramatica-classes-palavras",
+    "title": "Gramática: Classes de Palavras",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Linguagens",
+      "Português",
+      "Gramática",
+      "Classes de Palavras"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1472173148041-00294f0814a2?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "linguagens-ingles-interpretacao",
+    "title": "Inglês: Interpretação de Textos",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Linguagens",
+      "Inglês",
+      "Interpretação",
+      "Leitura",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1674727219372-4ba6644106bc?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "linguagens",
+    "title": "Linguagens",
+    "period": "",
+    "startYear": 2025,
+    "tags": [],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1491841651911-c44c30c34548?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "matematica-algebra-funcoes-1grau",
+    "title": "Algebra: Funções do 1º Grau",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Matemática",
+      "Algebra",
+      "Funções",
+      "1º Grau",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1682125773446-259ce64f9dd7?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "matematica-estatistica-medidas-resumo",
+    "title": "Estatística: Medidas de Resumo",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Matemática",
+      "Estatística",
+      "Média",
+      "Mediana",
+      "Moda",
+      "Desvio Padrão",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "matematica-geometria-triangulos",
+    "title": "Geometria: Triângulos e Semelhança",
+    "period": "",
+    "startYear": 2025,
+    "tags": [
+      "Matemática",
+      "Geometria",
+      "Triângulos",
+      "Semelhança",
+      "ENEM"
+    ],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1447727214830-cbcbf097b52c?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "matematica",
+    "title": "Matematica",
+    "period": "",
+    "startYear": 2025,
+    "tags": [],
+    "relevance": 5,
+    "category": "Outras Matérias",
+    "thumbnail": "https://images.unsplash.com/photo-1682125779534-76c5debea767?auto=format&fit=crop&q=85&w=1200&h=600",
+    "icon": "📜"
+  },
+  {
+    "id": "revoltas-coloniais",
+    "title": "Revoltas Coloniais: Nativismo e Separatismo",
+    "period": "Séculos XVII e XVIII",
+    "startYear": 2025,
+    "tags": [
+      "Inconfidência Mineira",
+      "Conjuração Baiana",
+      "Nativismo",
+      "Pacto Colonial",
+      "Iluminismo"
+    ],
+    "relevance": 5,
+    "category": "História do Brasil",
+    "thumbnail": "assets/images/lessons/revoltas-coloniais/thumb.png",
+    "icon": "📜"
+  }
+]

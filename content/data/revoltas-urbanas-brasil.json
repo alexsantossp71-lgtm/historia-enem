@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "revoltas-urbanas-brasil",
+    "title": "Vacina e Chibata: O Povo contra o Estado",
+    "period": "1904 - 1910",
+    "tags": [
+      "Vacina",
+      "Chibata",
+      "João Cândido",
+      "Oswaldo Cruz",
+      "Rio de Janeiro"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O Rio de Janeiro foi o palco de explosões populares contra o autoritarismo da República. O povo lutou pelo direito ao seu corpo na Vacina e pela dignidade humana na Chibata.",
+  "theory_content": "No início do século XX, o Rio de Janeiro passava pela 'Reforma Passos', um plano para transformar a cidade em uma 'Paris Tropical', derrubando cortiços e expulsando os pobres para os morros (nascimento das favelas). Em 1904, o médico **Oswaldo Cruz** convenceu o presidente Rodrigues Alves a tornar a vacinação contra a varíola obrigatória. A falta de informação e o autoritarismo dos agentes sanitários, que invadiam casas, geraram a **Revolta da Vacina**, uma guerra de barricadas no centro do Rio. \n\nEm 1910, a Marinha brasileira, que ainda mantinha castigos corporais (chibatadas) contra marinheiros negros e pobres, viveu a **Revolta da Chibata**. Sob a liderança do marujo **João Cândido**, o 'Almirante Negro', os marinheiros tomaram os couraçados modernos (Minas Gerais e São Paulo) e apontaram os canhões para a capital, exigindo o fim das chibatadas, melhores salários e alimentação. Embora tenham conseguido o fim oficial dos castigos, os líderes foram traídos, presos e torturados pelo governo de Hermes da Fonseca. O ENEM costuma cobrar a higienização social, a relação entre ciência e autoritarismo, e a permanência da herança escravocrata nas instituições brasileiras.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a Revolta da Vacina como um conflito de desinformação versus autoritarismo estatal. O ENEM costuma cobrar a Revolta da Chibata como o último suspiro da escravidão nas forças armadas. Entenda que a 'Reforma Passos' foi o início da segregação urbana no Rio de Janeiro (o 'Bota-Abaixo'). Saiba o papel de João Cândido como herói nacional da luta por direitos humanos.",
+  "sections": [
+    {
+      "title": "1. O Bota-Abaixo: A Expulsão dos Pobres",
+      "content": "O prefeito Pereira Passos queria 'limpar' o Rio. Para isso, ele derrubou mais de 600 prédios de cortiços no centro da cidade, forçando as populações negras e operárias a subirem os morros ou se mudarem para as periferias distantes. Essa modernização exclusiva para os turistas e para a elite criou a ferida da desigualdade geográfica que o Rio de Janeiro não fechou até hoje. Os pobres, sem teto e sem voz, acumulavam um ódio que explodiria na primeira oportunidade.",
+      "highlight": "A beleza de Paris no Rio foi comprada com a demolição do lar dos pobres.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_0.png",
+        "alt": "1. O Bota-Abaixo: A Expulsão dos Pobres",
+        "caption": "1. O Bota-Abaixo: A Expulsão dos Pobres"
+      }
+    },
+    {
+      "title": "2. Revolta da Vacina (1904): O Brinde da Desconfiança",
+      "content": "Oswaldo Cruz era um cientista brilhante, mas autoritário. Quando a vacina foi imposta por força de lei, o povo reagiu. Casas eram invadidas por brigadas sanitárias e mulheres eram vacinadas à força, o que era visto como uma ofensa à honra da época. Por quatro dias, o Rio virou um campo de batalha: bondes virados, lojas saqueadas e tiroteios. O povo não era 'contra a ciência', mas contra o Estado que só aparecia para demolir casas ou espetar agulhas.",
+      "highlight": "A vacina foi a gota d'água em um copo transbordando de exclusão social.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_1.png",
+        "alt": "2. Revolta da Vacina (1904): O Brinde da Desconfiança",
+        "caption": "2. Revolta da Vacina (1904): O Brinde da Desconfiança"
+      }
+    },
+    {
+      "title": "3. Revolta da Chibata (1910): O Almirante Negro",
+      "content": "A Marinha era a arma mais aristocrática do Brasil, mas sua tripulação de base era composta quase totalmente por negros e mulatos. O marinheiro Marcelino Rodrigues foi punido com 250 chibatadas diante de todos os colegas por ter levado cachaça para o navio. Foi o basta. João Cândido assumiu o comando dos navios e deu um ultimato ao governo: 'O fim da chibata ou o bombardeio do Rio'. O governo cedeu no papel, mas agiu como traidor na prática.",
+      "highlight": "João Cândido provou que o escravo que aprende a navegar não aceita mais o açoite.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_2.png",
+        "alt": "3. Revolta da Chibata (1910): O Almirante Negro",
+        "caption": "3. Revolta da Chibata (1910): O Almirante Negro"
+      }
+    },
+    {
+      "title": "4. A Traição e a Ilha das Cobras",
+      "content": "Após a rendição dos marinheiros, o governo de Hermes da Fonseca desrespeitou a anistia prometida. João Cândido e seus companheiros foram jogados na masmorra da Ilha das Cobras, onde foram asfixiados com cal. Dos 18 presos na cal, apenas dois sobreviveram (um deles foi João Cândido). O Almirante Negro passou o resto da vida esquecido e na miséria, sendo reconhecido como herói nacional apenas décadas depois de sua morte.",
+      "highlight": "A República tratou seus heróis negros com o cal do esquecimento e o cárcere."
+    },
+    {
+      "title": "5. Consequências: Higienismo e Controle Social",
+      "content": "Essas revoltas mostram que a República Velha era um regime de 'fachada moderna' com raízes coloniais profundas. A elite brasileira acreditava que podia civilizar o país ignorando o povo. A Vacina ensinou que a saúde pública precisa de diálogo; a Chibata ensinou que a humanidade do soldado não se apaga com farda. Ambos os movimentos são marcos da luta pela cidadania num país que insistia em tratar o seu povo como objeto de laboratório ou peça de carga.",
+      "highlight": "Vacina e Chibata foram as primeiras revoltas pelo direito à própria pele no Brasil."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O movimento conhecido como Revolta da Vacina (1904), no Rio de Janeiro, teve como causa principal:",
+      "options": [
+        "A) A vontade dos cariocas de que todos os postos de saúde fossem pintados de dourado.",
+        "B) A reação popular violenta contra a lei da vacinação obrigatória e o autoritarismo das reformas urbanas higienistas do prefeito Pereira Passos.",
+        "C) O fim de todas as praias do Rio de Janeiro pela marinha russa.",
+        "D) A proibição de vender pão francês e café com leite em todo o território nacional.",
+        "E) O cancelamento do carnaval por ordem do papa Oswaldo Cruz."
+      ],
+      "correctIndex": 1,
+      "explanation": "A revolta foi uma explosão de insatisfação popular acumulada contra o descaso e a violência estatal.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A liderança de João Cândido na Revolta da Chibata (1910) é um marco na história brasileira porque:",
+      "options": [
+        "A) Ele foi o primeiro marinheiro a viajar até a lua em um navio de papel.",
+        "B) Representou a luta contra o racismo estrutural e os castigos físicos escravocratas remanescentes nas instituições das Forças Armadas brasileiras.",
+        "C) Conseguiu transformar o Rio de Janeiro em uma grande fazenda de gado guzerá.",
+        "D) Unificou a marinha do Brasil com a marinha da Inglaterra contra o café.",
+        "E) Declarou guerra mundial contra todos os países que usassem fardas brancas."
+      ],
+      "correctIndex": 1,
+      "explanation": "A luta dos marinheiros pelo fim da chibata foi uma luta tardia, porém essencial, pela abolição mental e institucional no Brasil.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou à Revolta da Vacina no Rio de Janeiro em 1904?",
+      "options": [
+        "A) A falta de acesso à educação básica para a população pobre",
+        "B) A implementação de políticas de higienização urbana sem considerar as necessidades da população",
+        "C) A obrigatoriedade da vacinação contra a varíola imposta pelo governo",
+        "D) A expansão descontrolada da cidade sem planejamento urbano",
+        "E) A crise econômica que afetou a classe trabalhadora"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a principal reivindicação dos marinheiros durante a Revolta da Chibata em 1910?",
+      "options": [
+        "A) Aumento dos salários e melhoria das condições de trabalho",
+        "B) Fim dos castigos corporais, como as chibatadas, e melhores condições de vida",
+        "C) Redução do tempo de serviço militar e mais folgas",
+        "D) Implementação de uma nova hierarquia dentro da Marinha",
+        "E) Acesso a educação e treinamento para todos os marinheiros"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "O que a 'Revolta da Chibata' e a 'Revolta da Vacina' têm em comum em termos de contexto histórico?",
+      "options": [
+        "A) Ambas foram movimentos de elite que buscavam mais poder político",
+        "B) Foram revoltas populares contra políticas autoritárias e abusivas do governo",
+        "C) Eram movimentos separatistas que buscavam a independência de regiões",
+        "D) Foram conflitos entre diferentes facções políticas pelo controle do governo",
+        "E) Eram protestos contra a influência estrangeira na política brasileira"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revoltas-urbanas-brasil/thumb.png",
+    "alt": "Vacina e Chibata: O Povo contra o Estado",
+    "caption": "Vacina e Chibata: O Povo contra o Estado"
+  },
+  "support_texts": [
+    {
+      "source": "CARVALHO, José Murilo de. Os Bestializados. São Paulo: Cia das Letras, 1987.",
+      "paragraphs": [
+        "O violento choque entre o higienismo europeizado das elites e o abandono absoluto do povo manifestou-se flagrantemente nas revoltas urbanas da Primeira República, em particular a Revolta da Vacina (1904) e a Revolta da Chibata (1910). Ambas revelavam a total falta de mediação política para as populações miseráveis recém egresso-escravizadas no meio citadino carioca.",
+        "A indignação contra a obrigatoriedade vacinal (de Oswaldo Cruz) não fora um mero obscuratismo ignorante, mas a fagulha última contra truculentas invasões e a expulsão dos cortiços por Pereira Passos (o 'Bota-Abaixo'). Similarmente, os marinheiros de João Cândido erguiam-se num brado contundente contra um lastro escravocrata nas Forças Armadas: o castigo corporal do chicote.",
+        "As provas avaliativas da atualidade exigem focar a Revolta da Vacina e da Chibata como genuínas pautas de dignidade e insurreição corporal contra o biopoder esmagador do Estado. Demonstravam vividamente que cidadania material ainda pertencia fortemente as amarras opressivas do Brasil elitizado."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O movimento conhecido como Revolta da Vacina (1904), no Rio de Janeiro, teve como causa principal:",
+        "back": "A) A vontade dos cariocas de que todos os postos de saúde fossem pintados de dourado.. A revolta foi uma explosão de insatisfação popular acumulada contra o descaso e a violência estatal."
+      },
+      {
+        "front": "A liderança de João Cândido na Revolta da Chibata (1910) é um marco na história brasileira porque:",
+        "back": "A) Ele foi o primeiro marinheiro a viajar até a lua em um navio de papel.. A luta dos marinheiros pelo fim da chibata foi uma luta tardia, porém essencial, pela abolição mental e institucional no Brasil."
+      },
+      {
+        "front": "Quem liderou a Revolta da Chibata?",
+        "back": "João Cândido, o 'Almirante Negro'"
+      },
+      {
+        "front": "Qual foi o objetivo da 'Reforma Passos'?",
+        "back": "Transformar o Rio de Janeiro em uma 'Paris Tropical'"
+      },
+      {
+        "front": "Por que ocorreu a Revolta da Vacina?",
+        "back": "Falta de informação e autoritarismo dos agentes sanitários"
+      },
+      {
+        "front": "Quem convenceu o presidente a tornar a vacinação contra a varíola obrigatória?",
+        "back": "Oswaldo Cruz"
+      },
+      {
+        "front": "Qual foi o resultado da Revolta da Chibata?",
+        "back": "Fim oficial dos castigos corporais, mas líderes foram presos e torturados"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A vontade dos cariocas de que todos os postos de saúde fossem pintados de dourado..",
+        "is_true": true,
+        "explanation": "A revolta foi uma explosão de insatisfação popular acumulada contra o descaso e a violência estatal."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A reação popular violenta contra a lei da vacinação obrigatória e o autoritarismo das reformas urbanas higienistas do prefeito Pereira Passos..",
+        "is_true": false,
+        "explanation": "Falso! A revolta foi uma explosão de insatisfação popular acumulada contra o descaso e a violência estatal."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Ele foi o primeiro marinheiro a viajar até a lua em um navio de papel..",
+        "is_true": true,
+        "explanation": "A luta dos marinheiros pelo fim da chibata foi uma luta tardia, porém essencial, pela abolição mental e institucional no Brasil."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Representou a luta contra o racismo estrutural e os castigos físicos escravocratas remanescentes nas instituições das Forças Armadas brasileiras..",
+        "is_true": false,
+        "explanation": "Falso! A luta dos marinheiros pelo fim da chibata foi uma luta tardia, porém essencial, pela abolição mental e institucional no Brasil."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Revolta da Vacina (1904)",
+        "match": "Revolta popular contra a vacinação obrigatória de Oswaldo Cruz"
+      },
+      {
+        "concept": "Revolta da Chibata (1910)",
+        "match": "Marinheiros negros rebelaram-se contra os castigos físicos"
+      },
+      {
+        "concept": "João Cândido",
+        "match": "O Almirante Negro, líder da Revolta da Chibata"
+      },
+      {
+        "concept": "Oswaldo Cruz",
+        "match": "Sanitarista responsável pelo saneamento do Rio de Janeiro"
+      },
+      {
+        "concept": "Reforma Pereira Passos",
+        "match": "Urbanização do Rio de Janeiro que expulsou os pobres"
+      },
+      {
+        "concept": "Bota-abaixo",
+        "match": "Demolição dos cortiços cariocas durante a revolta da vacina"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Bota-Abaixo: A Expulsão dos Pobres",
+        "order": 1
+      },
+      {
+        "event": "2. Revolta da Vacina (1904): O Brinde da Desconfiança",
+        "order": 2
+      },
+      {
+        "event": "3. Revolta da Chibata (1910): O Almirante Negro",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "AUTORITARISMO",
+      "hint": "O conceito-chave central ou termo associado à aula de Vacina e Chibata: O Povo contra o Estado."
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "ascensao-china",
+    "title": "Ascensão da China: O Novo Eixo Global",
+    "period": "1978 - Presente",
+    "tags": [
+      "China",
+      "Deng Xiaoping",
+      "Nova Rota da Seda",
+      "Geopolítica",
+      "Tecnologia"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Em 40 anos, a China deixou de ser um país camponês pobre para se tornar a fábrica do mundo e a maior ameaça econômica à supremacia dos Estados Unidos.",
+  "theory_content": "A transformação da China começou em 1978 com as reformas de **Deng Xiaoping**, que abriu a economia ao capital estrangeiro sem abrir mão do controle político do Partido Comunista. O modelo chinês tornou-se o 'Socialismo de Mercado'. Ao criar as Zonas Econômicas Especiais (ZEEs), a China atraiu fábricas globais com mão de obra barata e infraestrutura gigante, tornando-se a 'Fábrica do Mundo'. \n\nNo século XXI, sob o comando de **Xi Jinping**, a China deixou de ser apenas montadora de produtos baratos para ser líder em tecnologia de ponta (**5G**, IA, Carros Elétricos). O projeto **Nova Rota da Seda** (Belt and Road) é a maior tentativa de infraestrutura da história humana, conectando a China à Europa e África por terra e mar. O ENEM costuma cobrar a China como o grande centro do comércio global, o impacto chinês na economia brasileira (venda de soja e minério) e a tensa disputa geopolítica com os EUA pela liderança do sistema internacional (Guerra Comercial e questão de Taiwan).",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a China como o principal motor do superávit comercial brasileiro. O ENEM costuma cobrar as contradições do modelo chinês (crescimento vs falta de liberdade política). Entenda o projeto 'Made in China 2025' como a meta de liderar a tecnologia global. Saiba que a China é hoje o maior investidor em infraestrutura na América Latina e África, mudando o equilíbrio de forças diplomáticas do planeta.",
+  "sections": [
+    {
+      "title": "1. Deng Xiaoping: O Gato que Caça Ratos",
+      "content": "Mao Zedong fez a revolução comunista, mas Deng Xiaoping fez a revolução econômica. Ele disse: 'Enriquecer é glorioso'. Ele permitiu que os chineses tivessem empresas privadas e que estrangeiros montassem fábricas em solo chinês. Foi o maior experimento econômico da história: manter o partido no poder enquanto o capitalismo transformava o país. Em poucos anos, a China tirou 800 milhões de pessoas da miséria absoluta.",
+      "highlight": "Deng abriu a janela da China e o vento do capitalismo trouxe o dinheiro do mundo.",
+      "image": {
+        "url": "assets/images/lessons/ascensao-china/section_0.png",
+        "alt": "1. Deng Xiaoping: O Gato que Caça Ratos",
+        "caption": "1. Deng Xiaoping: O Gato que Caça Ratos"
+      }
+    },
+    {
+      "title": "2. Made in China: Da Cópia para a Criação",
+      "content": "Antigamente, 'Made in China' era sinônimo de brinquedo que quebra ou réplica barata. Hoje, China é sinônimo de Huawei, BYD e Lenovo. O governo investiu pesado em educação e pesquisa e desenvolvimento (P&D). Eles não querem mais apenas costurar tênis Nike, querem criar os celulares mais potentes do mundo. A China passou da fase de 'copiar' para a fase de 'superar' o Ocidente em tecnologia digital.",
+      "highlight": "O dragão chinês hoje cospe chips eletrônicos em vez de fogo.",
+      "image": {
+        "url": "assets/images/lessons/ascensao-china/section_1.png",
+        "alt": "2. Made in China: Da Cópia para a Criação",
+        "caption": "2. Made in China: Da Cópia para a Criação"
+      }
+    },
+    {
+      "title": "3. Nova Rota da Seda: O Império da Infraestrutura",
+      "content": "O projeto Belt and Road é o plano chinês de espalhar estradas, portos e ferrovias por 70 países. Ao financiar pontes na África e trens na Europa, a China compra influência diplomática e garante que todos os caminhos do comércio levem a Pequim. Os críticos dizem que isso é a 'Diplomacia da Dívida', onde países pobres ficam devendo bilhões à China e acabam perdendo a soberania de seus próprios portos.",
+      "highlight": "A China está reconstruindo o mapa comercial do mundo com o seu próprio cimento.",
+      "image": {
+        "url": "assets/images/lessons/ascensao-china/section_2.png",
+        "alt": "3. Nova Rota da Seda: O Império da Infraestrutura",
+        "caption": "3. Nova Rota da Seda: O Império da Infraestrutura"
+      }
+    },
+    {
+      "title": "4. Guerra Comercial: China vs EUA",
+      "content": "Os EUA perceberam que a China não seria apenas uma aliada, mas uma rival. Começou a guerra das tarifas: Trump e Biden tentaram barrar produtos chineses para proteger os empregos americanos. O centro da briga é o 5G: quem controlar o sinal da internet do futuro controlará os dados do planeta. Essa 'Nova Guerra Fria' é diferente da antiga porque os dois países são sócios econômicos; eles brigam, mas não podem viver um sem o outro.",
+      "highlight": "A briga entre a Águia e o Dragão decidirá quem manda no século XXI."
+    },
+    {
+      "title": "5. Brasil e China: O Sócio de Ferro e Soja",
+      "content": "O Brasil é hoje um dos parceiros mais importantes da China fora da Ásia. Quase tudo o que a China come (soja e carne) e o que usa para fazer aço (minério de ferro) vem do nosso país. Isso traz muito dinheiro para o agronegócio brasileiro, mas também nos torna dependentes. Se a China parar de crescer, a economia brasileira entra em crise. Somos a fazenda que alimenta o operário chinês que fabrica o nosso celular.",
+      "highlight": "A economia brasileira hoje bate no ritmo do coração industrial chinês."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O modelo econômico instituído na China por Deng Xiaoping a partir de 1978 ficou conhecido como:",
+      "options": [
+        "A) Capitalismo Selvagem Sem Leis em todas as feiras de Pequim.",
+        "B) Socialismo de Mercado, combinando o controle político centralizado do PC Chínês com a abertura econômica ao capitalismo internacional.",
+        "C) O Feodalismo Cibernético, onde todos os camponeses ganham robôs.",
+        "D) Venda imediata de todo o território nacional para o Japão.",
+        "E) O cancelamento de todas as aulas de história em universidades chinesas."
+      ],
+      "correctIndex": 1,
+      "explanation": "A China integrou práticas capitalistas à estrutura política socialista original.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual o principal objetivo estratégico do projeto chinês contemporâneo chamado 'Belt and Road' (Nova Rota da Seda)?",
+      "options": [
+        "A) Enviar toda a seda da China para os astronautas que moram na lua.",
+        "B) Expandir a infraestrutura global e a conectividade comercial para aumentar a influência geopolítica e econômica da China no mundo.",
+        "C) Proibir o uso de aviões em todos os países da África para voltarem a andar de navio.",
+        "D) Venda de todos os portos do Brasil para os investidores dos Estados Unidos.",
+        "E) O cancelamento de todos os contratos de compra de minério de ferro por ordem do Papa."
+      ],
+      "correctIndex": 1,
+      "explanation": "O projeto visa garantir rotas seguras e influência política sobre mercados estratégicos globais.",
+      "source": "Simulado ENEM / Geopolítica"
+    },
+    {
+      "question": "Qual foi o principal objetivo das reformas econômicas implementadas por Deng Xiaoping na China em 1978?",
+      "options": [
+        "A) Nacionalizar a economia e reduzir a influência estrangeira",
+        "B) Abrir a economia ao capital estrangeiro sem perder o controle político do Partido Comunista",
+        "C) Implementar um modelo de economia planificada centralmente",
+        "D) Reduzir a desigualdade de renda e melhorar a distribuição de riqueza",
+        "E) Promover a industrialização através de investimentos estatais"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o nome do projeto de infraestrutura lançado pela China no século XXI, que visa conectar a China à Europa e África por terra e mar?",
+      "options": [
+        "A) Projeto da Grande Muralha",
+        "B) Nova Rota da Seda",
+        "C) Projeto do Canal da China",
+        "D) Iniciativa do Cinturão e da Rota",
+        "E) Plano de Desenvolvimento da Ásia"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o setor em que a China se tornou líder em tecnologia de ponta no século XXI?",
+      "options": [
+        "A) Tecnologia de informação e comunicação",
+        "B) Energia renovável e meio ambiente",
+        "C) 5G, IA e Carros Elétricos",
+        "D) Aeroespacial e defesa",
+        "E) Biotecnologia e medicina"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/ascensao-china/thumb.png",
+    "alt": "Ascensão da China: O Novo Eixo Global",
+    "caption": "Ascensão da China: O Novo Eixo Global"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A transformação da República Popular da China, nas últimas quatro décadas, em potência geoeconômica de vanguarda configura a reconfiguração mais significativa na ordem geopolítica contemporânea. O ponto de virada histórico deve-se, indiscutivelmente, à liderança pragmática de Deng Xiaoping e seu plano das 'Quatro Modernizações' implementadas após 1978. Como adverte Fareed Zakaria, tratou-se fundamentalmente da formulação do 'socialismo com características chinesas': a adoção radical e massiva da economia de mercado guiada sob o punho totalitário e planificador da burocracia do Partido Comunista.",
+        "As Zonas Econômicas Especiais (ZEEs) estabeleceram-se como âncoras da economia política sino-asiática, conjugando fornecimento hiperabundante de força de trabalho precarizada, ausência de greves sindicalistas e massiva sucção de capital/know-how estrangeiro. Tal fórmula de 'abertura econômica e fechamento político' cristalizou-se em 1989, no fatídico episódio da Praça da Paz Celestial (Tiananmen), demarcando nitidamente as balizas de atuação política admitidas pela intelligentsia de Pequim: a libertação comercial jamais representaria democratização do sistema partidário.",
+        "O domínio contemporâneo e o Exame do Enem abordam a inserção chinesa como motor nevrálgico do capital asiático. As políticas de infraestrutura como a 'Iniciativa Cinturão e Rota' (Nova Rota da Seda), a entrada avassaladora do gigante asiático como império adquirente de commodities latino-americanas no século XXI (especialmente no Brasil) e o embate geoestratégico de hegemonia bélica e de semicondutores (Big Techs e 5G) contra a prevalência dos Estados Unidos são as tônicas dessa profunda metamorfose."
+      ],
+      "source": "KISSINGER, Henry. Sobre a China. Rio de Janeiro: Objetiva, 2011."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O modelo econômico instituído na China por Deng Xiaoping a partir de 1978 ficou conhecido como:",
+        "back": "A) Capitalismo Selvagem Sem Leis em todas as feiras de Pequim.. A China integrou práticas capitalistas à estrutura política socialista original."
+      },
+      {
+        "front": "Qual o principal objetivo estratégico do projeto chinês contemporâneo chamado 'Belt and Road' (Nova Rota da Seda)?",
+        "back": "A) Enviar toda a seda da China para os astronautas que moram na lua.. O projeto visa garantir rotas seguras e influência política sobre mercados estratégicos globais."
+      },
+      {
+        "front": "Quem iniciou as reformas na China em 1978?",
+        "back": "Deng Xiaoping"
+      },
+      {
+        "front": "O que é o 'Socialismo de Mercado'?",
+        "back": "Modelo econômico chinês"
+      },
+      {
+        "front": "Qual é o nome do projeto de infraestrutura que conecta a China à Europa e África?",
+        "back": "Nova Rota da Seda"
+      },
+      {
+        "front": "Quem é o líder chinês que transformou a China em líder em tecnologia de ponta?",
+        "back": "Xi Jinping"
+      },
+      {
+        "front": "O que é a 'Fábrica do Mundo'?",
+        "back": "Apelido dado à China devido às suas Zonas Econômicas Especiais"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Capitalismo Selvagem Sem Leis em todas as feiras de Pequim.",
+        "is_true": true,
+        "explanation": "A China integrou práticas capitalistas à estrutura política socialista original."
+      },
+      {
+        "statement": "Socialismo de Mercado, combinando o controle político centralizado do PC Chínês com a abertura econômica ao capitalismo internacional.",
+        "is_true": false,
+        "explanation": "Mito! A China integrou práticas capitalistas à estrutura política socialista original."
+      },
+      {
+        "statement": "Enviar toda a seda da China para os astronautas que moram na lua.",
+        "is_true": true,
+        "explanation": "O projeto visa garantir rotas seguras e influência política sobre mercados estratégicos globais."
+      },
+      {
+        "statement": "Expandir a infraestrutura global e a conectividade comercial para aumentar a influência geopolítica e econômica da China no mundo.",
+        "is_true": false,
+        "explanation": "Mito! O projeto visa garantir rotas seguras e influência política sobre mercados estratégicos globais."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Deng Xiaoping",
+        "match": "Líder que iniciou as reformas na China em 1978"
+      },
+      {
+        "concept": "Socialismo de Mercado",
+        "match": "Modelo econômico chinês que combina capitalismo e controle político"
+      },
+      {
+        "concept": "Zonas Econômicas Especiais",
+        "match": "Áreas que atraem fábricas globais com mão de obra barata"
+      },
+      {
+        "concept": "Xi Jinping",
+        "match": "Líder chinês do século XXI"
+      },
+      {
+        "concept": "Nova Rota da Seda",
+        "match": "Projeto de infraestrutura que conecta a China à Europa e África"
+      },
+      {
+        "concept": "5G",
+        "match": "Tecnologia de comunicação de ponta desenvolvida pela China"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Deng Xiaoping: O Gato que Caça Ratos",
+        "order": 1
+      },
+      {
+        "event": "2. Made in China: Da Cópia para a Criação",
+        "order": 2
+      },
+      {
+        "event": "3. Nova Rota da Seda: O Império da Infraestrutura",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "SUPREMACIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Ascensão da China: O Novo Eixo Global."
+    }
+  }
+}

@@ -1,0 +1,96 @@
+/* Dynamic Themes for HistóriaENEM */
+
+/* Base Theme Tokens */
+:root {
+    --theme-primary: var(--primary);
+    --theme-secondary: var(--primary-dark);
+    --theme-light: var(--primary-light);
+    --theme-accent: var(--accent-gold);
+}
+
+/* Brasil Theme (Emerald) */
+.theme-brasil {
+    --theme-primary: #059669;    /* Emerald 600 */
+    --theme-secondary: #064e3b;  /* Emerald 900 */
+    --theme-light: #d1fae5;      /* Emerald 100 */
+    --theme-accent: #fbbf24;     /* Amber 400 */
+}
+
+/* História Geral Theme (Sapphire/Blue) */
+.theme-geral {
+    --theme-primary: #2563eb;    /* Blue 600 */
+    --theme-secondary: #1e3a8a;  /* Blue 900 */
+    --theme-light: #dbeafe;      /* Blue 100 */
+    --theme-accent: #f59e0b;     /* Amber 500 */
+}
+
+/* História Antiga Theme (Ruby/Red-Brown) */
+.theme-antiga {
+    --theme-primary: #991b1b;    /* Red 800 */
+    --theme-secondary: #450a0a;  /* Red 900 */
+    --theme-light: #fee2e2;      /* Red 100 */
+    --theme-accent: #d97706;     /* Amber 600 */
+}
+
+/* Idade Contemporânea (Gold/Amber) */
+.theme-contemporanea {
+    --theme-primary: #d97706;    /* Amber 600 */
+    --theme-secondary: #78350f;  /* Amber 900 */
+    --theme-light: #fef3c7;      /* Amber 50 */
+    --theme-accent: #059669;     /* Emerald 600 */
+}
+
+/* Application Classes */
+.bg-theme-main { background-color: var(--theme-primary); }
+.text-theme-main { color: var(--theme-primary); }
+.border-theme-main { border-color: var(--theme-primary); }
+
+.theme-button {
+    background: linear-gradient(135deg, var(--theme-primary) 0%, var(--theme-secondary) 100%);
+    box-shadow: 0 10px 20px -5px rgba(var(--theme-primary-rgb, 5, 150, 105), 0.4);
+}
+
+.theme-button:hover {
+    filter: brightness(1.1);
+    transform: translateY(-3px);
+}
+/* Support Text Box (GeoENEM Style) */
+.support-text-box {
+    padding: 2.5rem;
+    border-radius: 2rem;
+    border-left: 8px solid var(--theme-primary);
+    background-color: rgba(var(--theme-primary-rgb, 5, 150, 105), 0.08);
+    margin: 4rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.support-text-box::before {
+    content: '"';
+    position: absolute;
+    top: -1rem;
+    right: 2rem;
+    font-size: 8rem;
+    font-family: 'Outfit', sans-serif;
+    color: var(--theme-primary);
+    opacity: 0.1;
+    font-weight: 900;
+}
+
+.support-text-box p {
+    color: #374151; /* Gray 700 */
+    line-height: 1.8;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+.support-text-box .source {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px dashed rgba(var(--theme-primary-rgb, 5, 150, 105), 0.2);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--theme-secondary);
+}

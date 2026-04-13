@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "revoltas-pernambuco",
+    "title": "Pernambuco Rebelde: 1817 e 1824",
+    "period": "1817 - 1824",
+    "tags": [
+      "Frei Caneca",
+      "Confederação do Equador",
+      "Republicanismo",
+      "Poder Moderador",
+      "Separatismo"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "Pernambuco foi o coração da resistência contra o poder absoluto no Brasil. Em 1817 e 1824, os pernambucanos desafiaram reis e imperadores para exigir uma República livre e justa.",
+  "theory_content": "Pernambuco, no início do século XIX, vivia uma contradição: era uma província riquíssima (açúcar e algodão), mas o povo sofria com a seca, a fome e os altos impostos cobrados pela corte de D. João VI no Rio de Janeiro. A **Revolução Pernambucana de 1817** foi o único movimento separatista do período colonial que chegou a tomar o poder e proclamar uma República, durando 75 dias. Inspirados pelo Iluminismo, os rebeldes criaram uma bandeira própria (que hoje é a do estado) e uma constituição provisória que garantia a liberdade de imprensa e de culto. \n\nEm **1824**, o clima pesou novamente. D. Pedro I havia outorgado uma constituição autoritária e criado o **Poder Moderador**, o que revoltou as elites liberais do Nordeste. Liderados pelo mestre carmelita **Frei Caneca**, Pernambuco proclamou a **Confederação do Equador**, que visava unir as províncias do norte em uma federação republicana. O Imperador reagiu com o uso de tropas mercenárias inglesas para bombardear o Recife. Frei Caneca foi preso e executado (por fuzilamento, já que ninguém aceitou ser seu carrasco na forca). O ENEM costuma cobrar as motivações econômicas dessas revoltas, a influência da Maçonaria e a crítica ao centralismo político do Rio de Janeiro.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a diferença entre as revoltas de 1817 (Contra Portugal) e 1824 (Contra D. Pedro I). O ENEM costuma cobrar o papel de Frei Caneca como intelectual e líder religioso. Entenda o conceito de Federação (maior autonomia para os estados) que os rebeldes defendiam. Saiba que a repressão a 1824 manchou o prestígio de D. Pedro I, contribuindo para sua abdicação anos depois.",
+  "sections": [
+    {
+      "title": "1. 1817: A Revolta dos Padres",
+      "content": "Pernambuco estava cansado de sustentar os luxos dos nobres portugueses que fugiram para o Rio. Em 1817, padres, militares e maçons uniram-se sob as ideias da Revolução Francesa. Proclamaram a República, aboliram impostos sobre comida e convidaram outras províncias para a união. Foi uma revolução de intelectuais e soldados que provou que o Brasil já não aceitava ser colônia de fato.",
+      "highlight": "A revolução de 1817 foi o ensaio geral para a independência republicana que falhou.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-pernambuco/section_0.png",
+        "alt": "1. 1817: A Revolta dos Padres",
+        "caption": "1. 1817: A Revolta dos Padres"
+      }
+    },
+    {
+      "title": "2. Frei Caneca: O Mestre da Resistência",
+      "content": "Joaquim do Amor Divino Caneca, o Frei Caneca, foi o maior herói de Pernambuco. Através do jornal 'Typhis Pernambucano', ele atacava o autoritarismo de D. Pedro I e o Poder Moderador. Caneca não era apenas um religioso, mas um teórico da política que defendia que o rei não podia estar acima da lei. Sua execução transformou-o em mártir eterno da liberdade brasileira.",
+      "highlight": "Frei Caneca foi o profeta da autonomia federativa do Brasil.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-pernambuco/section_1.png",
+        "alt": "2. Frei Caneca: O Mestre da Resistência",
+        "caption": "2. Frei Caneca: O Mestre da Resistência"
+      }
+    },
+    {
+      "title": "3. Confederação do Equador: O Sonho de um Novo País",
+      "content": "Em 1824, Pernambuco, Ceará, Paraíba e Rio Grande do Norte tentaram criar a Confederação do Equador. O objetivo era formar uma nação separada, baseada no modelo dos EUA, com voto mais amplo e sem o controle imperial. Eles rejeitavam a Constituição de 1824 imposta por D. Pedro I, que dava ao imperador o direito de anular as leis do parlamento.",
+      "highlight": "A Confederação do Equador foi a resposta armada contra o golpe autoritário de D. Pedro I.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-pernambuco/section_2.png",
+        "alt": "3. Confederação do Equador: O Sonho de um Novo País",
+        "caption": "3. Confederação do Equador: O Sonho de um Novo País"
+      }
+    },
+    {
+      "title": "4. Mercenários e Canhões contra o Recife",
+      "content": "Para sufocar Pernambuco, D. Pedro I usou o dinheiro do tesouro brasileiro para contratar exércitos estrangeiros. Mercenários ingleses e franceses, sob o comando de lorde Cochrane, bloquearam o porto do Recife e bombardearam a cidade. A força bruta imperial venceu a vontade popular, mas deixou feridas que jamais cicatrizaram na relação entre o Nordeste e o poder central.",
+      "highlight": "A repressão imperial foi o uso do terror estatal para salvar a coroa do imperador."
+    },
+    {
+      "title": "5. O Legado da Revolução no Nordeste",
+      "content": "Pernambuco tornou-se o termômetro liberal do Brasil. Dessas revoltas nasceu uma cultura política de oposição radical. A bandeira de Pernambuco (de 1817) continua tremulando hoje como símbolo de que a luta pela democracia e pela república começou no Recife milênios antes dos livros de história darem crédito total ao Rio de Janeiro e São Paulo.",
+      "highlight": "Pernambuco ensinou ao Brasil o caminho da liberdade com o sangue de seus revoltosos."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Confederação do Equador (1824) foi um movimento separatista que eclodiu em Pernambuco. Qual era o seu principal motivo de indignação contra o Imperador D. Pedro I?",
+      "options": [
+        "A) A proibição de comer tapioca na capital.",
+        "B) A outorga da Constituição de 1824 e a criação do Poder Moderador, que dava poderes absolutos ao imperador.",
+        "C) O desejo de que o Brasil fosse colonizado pela China.",
+        "D) A obrigatoriedade de falar apenas inglês nas missas católicas.",
+        "E) O cancelamento do feriado de São João no Recife."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Poder Moderador era visto como um golpe na liberdade parlamentar e no federalismo desejado pelas elites do norte.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "Frei Caneca, líder da Confederação do Equador, foi condenado à morte após o fracasso do movimento. Qual foi o destino final de sua execução?",
+      "options": [
+        "A) Foi morto em combate em uma batalha naval contra a Inglaterra.",
+        "B) Foi fuzilado, pois os carrascos recusaram-se a enforcá-lo por respeito ao mestre.",
+        "C) Fugiu para a Argentina e morreu de velhice em Buenos Aires.",
+        "D) Tornou-se o novo imperador do Brasil após ser perdoado.",
+        "E) Morreu de fome dentro de uma caverna em Fernando de Noronha."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nenhum dos carrascos oficiais aceitou pôr a corda no pescoço de Frei Caneca, o que forçou o governo imperial a usar um pelotão de fuzilamento.",
+      "source": "Simulado ENEM / Revoltas Regenciais"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revoltas-pernambuco/thumb.png",
+    "alt": "Pernambuco Rebelde: 1817 e 1824",
+    "caption": "Pernambuco Rebelde: 1817 e 1824"
+  },
+  "support_texts": [
+    {
+      "source": "MELLO, Evaldo Cabral de. A Outra Independência: O Federalismo Pernambucano. Editora 34, 2004.",
+      "paragraphs": [
+        "Pernambuco constituiu-se no grande núcleo do republicanismo e do separatismo radical durante os séculos XVIII e XIX. A Revolução Pernambucana de 1817 e a Confederação do Equador de 1824 demonstram o profundo descontentamento da elite e das camadas médias locais frente ao centralismo exacerbado do Rio de Janeiro e aos abusivos impostos joaninos.",
+        "Segundo Evaldo Cabral de Mello, essas revoltas evidenciam 'a outra independência': um projeto antilusitano e republicano diametralmente oposto à monarquia centralizadora bragantina que venceu nacionalmente. O movimento agregou maçons, padres libertários e proprietários de terra, em um caldeirão iluminista e revolucionário nordestino.",
+        "Para o Enem, entender as revoltas pernambucanas é compreender que o Estado Imperial não foi formado pacificamente. A repressão brutal contra figuras como Frei Caneca em 1824 expõe o caráter autoritário do Primeiro Reinado e a persistência do anseio por um federalismo autonômico."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Confederação do Equador (1824) foi um movimento separatista que eclodiu em Pernambuco. Qual era o seu principal motivo de indignação contra o Imperador D. Pedro I?",
+        "back": "A) A proibição de comer tapioca na capital.. O Poder Moderador era visto como um golpe na liberdade parlamentar e no federalismo desejado pelas elites do norte."
+      },
+      {
+        "front": "Frei Caneca, líder da Confederação do Equador, foi condenado à morte após o fracasso do movimento. Qual foi o destino final de sua execução?",
+        "back": "A) Foi morto em combate em uma batalha naval contra a Inglaterra.. Nenhum dos carrascos oficiais aceitou pôr a corda no pescoço de Frei Caneca, o que forçou o governo imperial a usar um pelotão de fuzilamento."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A proibição de comer tapioca na capital..",
+        "is_true": true,
+        "explanation": "O Poder Moderador era visto como um golpe na liberdade parlamentar e no federalismo desejado pelas elites do norte."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A outorga da Constituição de 1824 e a criação do Poder Moderador, que dava poderes absolutos ao imperador..",
+        "is_true": false,
+        "explanation": "Falso! O Poder Moderador era visto como um golpe na liberdade parlamentar e no federalismo desejado pelas elites do norte."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Foi morto em combate em uma batalha naval contra a Inglaterra..",
+        "is_true": true,
+        "explanation": "Nenhum dos carrascos oficiais aceitou pôr a corda no pescoço de Frei Caneca, o que forçou o governo imperial a usar um pelotão de fuzilamento."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Foi fuzilado, pois os carrascos recusaram-se a enforcá-lo por respeito ao mestre..",
+        "is_true": false,
+        "explanation": "Falso! Nenhum dos carrascos oficiais aceitou pôr a corda no pescoço de Frei Caneca, o que forçou o governo imperial a usar um pelotão de fuzilamento."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Insurreição Pernambucana (1817)",
+        "match": "Revolta republicana separatista em Pernambuco"
+      },
+      {
+        "concept": "Revolução Praieira",
+        "match": "Revolta liberal de 1848 em Pernambuco"
+      },
+      {
+        "concept": "Confederação do Equador",
+        "match": "Revolta republicana de 1824 no nordeste"
+      },
+      {
+        "concept": "Frei Caneca",
+        "match": "Líder da Confederação do Equador, executado em 1825"
+      },
+      {
+        "concept": "Patriarcalismo nordestino",
+        "match": "Base social que sustentava os latifúndios pernambucanos"
+      },
+      {
+        "concept": "Oligarquias do nordeste",
+        "match": "Famílias que controlavam a política de Pernambuco"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. 1817: A Revolta dos Padres",
+        "order": 1
+      },
+      {
+        "event": "2. Frei Caneca: O Mestre da Resistência",
+        "order": 2
+      },
+      {
+        "event": "3. Confederação do Equador: O Sonho de um Novo País",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "PERNAMBUCANOS",
+      "hint": "O conceito-chave central ou termo associado à aula de Pernambuco Rebelde: 1817 e 1824."
+    }
+  }
+}

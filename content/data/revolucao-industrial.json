@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "id": "revolucao-industrial",
+    "title": "Revolução Industrial: A Transformação do Mundo",
+    "period": "1760 - Hoje",
+    "tags": [
+      "Inglaterra",
+      "Proletariado",
+      "Capitalismo",
+      "Ludismo",
+      "Tecnologia"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução Industrial não foi apenas a criação de máquinas; foi o nascimento de uma nova forma de vida urbana, de classes sociais em conflito e da degradação ambiental sistemática em escala global.",
+  "theory_content": "A **Primeira Revolução Industrial** começou na Inglaterra na metade do século XVIII (por volta de 1760). Diversos fatores explicam o pioneirismo inglês: o acúmulo de capital (vindo do tráfico negreiro e comércio colonial), a abundância de carvão mineral e ferro, e os **Cercamentos (Enclosures)**, que expulsaram os camponeses da terra para servirem de mão de obra barata nas fábricas de Londres e Manchester. O símbolo dessa fase foi a máquina a vapor de James Watt e a indústria têxtil. \n\nNo século XIX (1860-1945), ocorreu a **Segunda Revolução Industrial**, marcada pelo uso da eletricidade, do petróleo e do aço. Foi o período do Fordismo (produção em massa) e da expansão industrial para os EUA, Alemanha e Japão, o que gerou a corrida imperialista (Neocolonialismo) por carvão e metais na África e Ásia. \n\nSocialmente, a revolução criou o **Proletariado**, uma classe que não possuía nada além de sua força de trabalho, submetida a jornadas de 16 horas, trabalho infantil e péssimas condições de moradia (cortiços). A resposta veio através de movimentos como o **Ludismo** (os quebradores de máquinas, que viam nelas a causa do desemprego) e o **Cartismo** (luta por direitos políticos e voto universal). Mais tarde, o Marxismo e o Socialismo Anarquista dariam a base teórica para os sindicatos. No século XX, avançamos para a **Terceira Revolução** (Computadores e Energia Nuclear) e, atualmente, para a **Quarta Revolução ou Indústria 4.0** (IA, Internet das Coisas e Robótica), onde o desafio não é mais a produção, mas o superávit de mão de obra humana frente à automação total.",
+  "sections": [
+    {
+      "title": "1. Por que a Inglaterra? O Berço da Indústria",
+      "content": "A Inglaterra era a rainha dos mares e detinha o controle das rotas comerciais mais ricas. Além da marinha forte, possuía uma burguesia com poder político no Parlamento após a Revolução Gloriosa (1688). Somado a isso, o carvão mineral estava aflorando no solo inglês, facilitando a extração. O camponês expulso pela lã (ovelhas) não teve outra opção a não ser aceitar os salários de miséria das primeiras fábricas.",
+      "highlight": "A revolução industrial foi financiada pela exploração colonial anterior.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-industrial/section_0.png",
+        "alt": "1. Por que a Inglaterra? O Berço da Indústria",
+        "caption": "1. Por que a Inglaterra? O Berço da Indústria"
+      }
+    },
+    {
+      "title": "2. Da Máquina a Vapor ao Fordismo",
+      "content": "A produção mudou radicalmente. No Fordismo, a esteira rolante trazia a peça até o operário. O tempo passou a ser controlado por cronômetros ('Tempo é dinheiro'). Isso aumentou a produtividade absurdamente, tornando produtos que antes eram de luxo em acessíveis para as massas. Contudo, transformou o homem em um 'apêndice da máquina', tema clássico do filme 'Tempos Modernos' de Charlie Chaplin.",
+      "highlight": "O Fordismo introduziu a padronização e o consumo de massa no capitalismo.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-industrial/section_1.png",
+        "alt": "2. Da Máquina a Vapor ao Fordismo",
+        "caption": "2. Da Máquina a Vapor ao Fordismo"
+      }
+    },
+    {
+      "title": "3. Luta Operária: Ludismo e Cartismo",
+      "content": "Os trabalhadores não aceitaram a exploração calados. O Ludismo (liderado por Ned Ludd) acreditava que a máquina era o inimigo. Já os Cartistas escreveram a 'Carta do Povo', pedindo que o trabalhador pudesse ser eleito para o parlamento inglês para criar leis protetoras. Dessas lutas nasceram as leis proibindo o trabalho infantil e limitando a jornada de trabalho para 8 horas diárias.",
+      "highlight": "Nenhum direito trabalhista atual existiria sem a revolta dos operários industriais do século XIX.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-industrial/section_2.png",
+        "alt": "3. Luta Operária: Ludismo e Cartismo",
+        "caption": "3. Luta Operária: Ludismo e Cartismo"
+      }
+    },
+    {
+      "title": "4. Impacto Geopolítico: O Imperialismo",
+      "content": "As potências industriais começaram a brigar por mercados e matérias-primas. A Europa dividiu a África na Conferência de Berlim apenas para garantir ferro, borracha e carvão. Isso plantou as sementes para a I Guerra Mundial em 1914. A riqueza industrial europeia foi construída sobre o sangue e o roubo das riquezas do 'Sul Global'.",
+      "highlight": "O progresso industrial europeu exigiu a destruição das riquezas africanas e asiáticas."
+    },
+    {
+      "title": "5. Indústria 4.0: O Perigo da Automação",
+      "content": "A revolução continua hoje com a biotecnologia e a IA. O desafio moderno é o desemprego estrutural. Diferente das revoluções anteriores que criavam novos empregos, a robótica atual substitui o cérebro humano em tarefas complexas. O ENEM costuma cobrar a desigualdade tecnológica entre países ricos e pobres nesse cenário de alta tecnologia digital.",
+      "highlight": "A revolução industrial hoje é invisível (algoritmos) mas imensamente poderosa."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O movimento dos 'Quebradores de Máquinas' ou Ludismo, ocorrido na Inglaterra no início do século XIX, representava:",
+      "options": [
+        "A) Uma seita religiosa que achava as máquinas demoníacas por motivos teológicos.",
+        "B) Uma forma de protesto dos trabalhadores ingleses que viam na mecanização a culpa pelo desemprego e baixos salários.",
+        "C) O desejo de que o Brasil fosse o único país a ter fábricas no mundo.",
+        "D) Uma organização russa para acabar com o capitalismo americano silenciosamente.",
+        "E) O apoio total do rei da Inglaterra à substituição de homens por robôs."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Ludismo foi uma reação direta e física dos trabalhadores ao avanço da automação inicial da indústria.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "A passagem do artesanato para a manufatura e, posteriormente, para a maquinofatura provocou na vida do trabalhador:",
+      "options": [
+        "A) Uma maior liberdade criativa e controle total sobre o tempo de trabalho.",
+        "B) A alienação do processo produtivo (especialização em apenas uma parte da tarefa) e a sujeição ao tempo rigoroso da fábrica.",
+        "C) A volta de todos os operários para os campos para plantarem o próprio alimento.",
+        "D) O enriquecimento imediato de todos os que trabalhavam nas fábricas têxteis.",
+        "E) O fim total das cidades e a mudança de toda a população para o topo das montanhas."
+      ],
+      "correctIndex": 1,
+      "explanation": "A mecanização fragmentou o trabalho, fazendo com que o homem não mais reconhecesse o produto final do seu esforço.",
+      "source": "Simulado ENEM / Marxologia"
+    },
+    {
+      "question": "Qual foi o principal fator que contribuiu para o início da Primeira Revolução Industrial na Inglaterra?",
+      "options": [
+        "A) A abundância de carvão mineral e ferro",
+        "B) O acúmulo de capital vindo do tráfico negreiro e comércio colonial",
+        "C) A invenção da máquina a vapor de James Watt",
+        "D) A expansão industrial para os EUA, Alemanha e Japão",
+        "E) A corrida imperialista por carvão e metais na África e Ásia"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o movimento que lutou por direitos políticos e voto universal durante a Primeira Revolução Industrial?",
+      "options": [
+        "A) Ludismo",
+        "B) Cartismo",
+        "C) Marxismo",
+        "D) Socialismo Anarquista",
+        "E) Fordismo"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o principal desafio enfrentado pela sociedade na Quarta Revolução Industrial ou Indústria 4.0?",
+      "options": [
+        "A) A falta de mão de obra qualificada",
+        "B) A insuficiência de recursos naturais",
+        "C) O superávit de mão de obra humana frente à automação total",
+        "D) A necessidade de expansão industrial para novos mercados",
+        "E) A concorrência entre as empresas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-industrial/thumb.png",
+    "alt": "Revolução Industrial: A Transformação do Mundo",
+    "caption": "Revolução Industrial: A Transformação do Mundo"
+  },
+  "support_texts": [
+    {
+      "source": "HOBSBAWM, Eric. A Era das Revoluções. Paz e Terra, 2012.",
+      "paragraphs": [
+        "A deflagração da pioneira Revolução Industrial de terras bretãs setecentistas inauguraria transformações não apenas puramente tecnicistas mercadológicas, entretanto determinou para época e perenidade os abalos magnos absolutos em todos os nichos macrofísicos sobre o trato da nova classe humana proletariada global. Como sublinhou Hobsbawm a era da chaminé não seria primórdio sem avanço e abolição das posses rurais comuns expropriados da lã britânica (Cercamentos - Enclosures).",
+        "Configura a instauração implacável absoluta maquinizada da fiação algodonística capitalista substituindo a artesania medieval secular, transmigrando os detentora originário detentor destituidos para exércitos urbanizados depauperados empesteados da neblina cinza carvão – constituíram o proletariado industrial nascedouro miserabilizado fustigado aos apelos das máquinas não fadadas cansarem ao rigor mortíferas das insalubridades da jornada incessante fabril sem direitos.",
+        "Em todo eixo cobrado referem-se os pilares deste avassalador acontecimento social, da formação nevrálgica alienadora – subprodutos da mecanização extrema. De luditas revulsos ingleses na tentativa das quebras da enfurecidas máquinas das tecelagem as organizações do ludismo operário moderno o impacto transbordaria a pauta estritamente do aço transubstanciando como núcleo irradicável fundador do capitalismo em sua marcha civilizatória contemporânea industrial."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O movimento dos 'Quebradores de Máquinas' ou Ludismo, ocorrido na Inglaterra no início do século XIX, representava:",
+        "back": "A) Uma seita religiosa que achava as máquinas demoníacas por motivos teológicos.. O Ludismo foi uma reação direta e física dos trabalhadores ao avanço da automação inicial da indústria."
+      },
+      {
+        "front": "A passagem do artesanato para a manufatura e, posteriormente, para a maquinofatura provocou na vida do trabalhador:",
+        "back": "A) Uma maior liberdade criativa e controle total sobre o tempo de trabalho.. A mecanização fragmentou o trabalho, fazendo com que o homem não mais reconhecesse o produto final do seu esforço."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Uma seita religiosa que achava as máquinas demoníacas por motivos teológicos..",
+        "is_true": true,
+        "explanation": "O Ludismo foi uma reação direta e física dos trabalhadores ao avanço da automação inicial da indústria."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Uma forma de protesto dos trabalhadores ingleses que viam na mecanização a culpa pelo desemprego e baixos salários..",
+        "is_true": false,
+        "explanation": "Falso! O Ludismo foi uma reação direta e física dos trabalhadores ao avanço da automação inicial da indústria."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Uma maior liberdade criativa e controle total sobre o tempo de trabalho..",
+        "is_true": true,
+        "explanation": "A mecanização fragmentou o trabalho, fazendo com que o homem não mais reconhecesse o produto final do seu esforço."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A alienação do processo produtivo (especialização em apenas uma parte da tarefa) e a sujeição ao tempo rigoroso da fábrica..",
+        "is_true": false,
+        "explanation": "Falso! A mecanização fragmentou o trabalho, fazendo com que o homem não mais reconhecesse o produto final do seu esforço."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Máquina a vapor",
+        "match": "Invenção de James Watt que impulsionou a industrialização"
+      },
+      {
+        "concept": "Proletariado",
+        "match": "Classe trabalhadora industrial sem meios de produção"
+      },
+      {
+        "concept": "Capitalismo industrial",
+        "match": "Sistema baseado em fábricas, salários e lucro"
+      },
+      {
+        "concept": "Luddismo",
+        "match": "Movimento de operários que destruíam máquinas"
+      },
+      {
+        "concept": "Enclosures",
+        "match": "Cercamento das terras comuns na Inglaterra"
+      },
+      {
+        "concept": "Sindicalismo",
+        "match": "Organização coletiva dos trabalhadores por direitos"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Por que a Inglaterra? O Berço da Indústria",
+        "order": 1
+      },
+      {
+        "event": "2. Da Máquina a Vapor ao Fordismo",
+        "order": 2
+      },
+      {
+        "event": "3. Luta Operária: Ludismo e Cartismo",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "TRANSFORMAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução Industrial: A Transformação do Mundo."
+    }
+  }
+}

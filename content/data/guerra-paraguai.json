@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "id": "guerra-paraguai",
+    "title": "Guerra do Paraguai: Conflito e Consequências",
+    "period": "1864 - 1870",
+    "tags": [
+      "Tríplice Aliança",
+      "Solano López",
+      "Caxias",
+      "D. Pedro II",
+      "Bacia do Prata"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil e América",
+    "visual_depth": "elite"
+  },
+  "intro": "A Guerra do Paraguai foi o maior conflito militar da América do Sul. Ela destruiu o Paraguai, endividou o Brasil e criou a força política que derrubaria o Império: o Exército Brasileiro.",
+  "theory_content": "A **Guerra do Paraguai** (ou Guerra da Tríplice Aliança) não foi causada apenas pela 'megalomania' de Solano López, mas por uma disputa geopolítica secular pelo controle da **Bacia do Prata** e a livre navegação dos rios. O Paraguai era uma nação isolada que buscava uma saída para o mar, enquanto o Brasil e a Argentina interferiam constantemente na política interna do Uruguai. O conflito começou quando López aprisionou o navio brasileiro *Marquês de Olinda* e invadiu o Mato Grosso. Em resposta, Brasil, Argentina e Uruguai assinaram o tratado da **Tríplice Aliança (1865)**. \n\nO Brasil carregou o fardo principal da guerra, enviando os 'Voluntários da Pátria' (muitos deles negros e escravizados que lutavam em troca da liberdade). Sob o comando do **Duque de Caxias**, o exército reorganizou-se e conquistou vitórias decisivas como a Batalha de Riachuelo (naval) e a Dezembrada. A guerra terminou em 1870 com a morte de Solano López em Cerro Corá. \n\nAs consequências foram devastadoras: o Paraguai perdeu cerca de 70% de sua população masculina adulta e territórios estratégicos. O Brasil, embora vitorioso, saiu com uma dívida externa imensa com a Inglaterra e um Exército fortalecido institucionalmente. Os oficiais voltaram da guerra com ideias abolicionistas (por terem lutado ao lado de negros) e republicanas (ao verem as repúblicas vizinhas funcionando), o que iniciou a contagem regressiva para o fim do Segundo Reinado em 1889. O ENEM costuma cobrar as motivações geopolíticas e a revisão crítica sobre quem realmente 'ganhou' a guerra econômica.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o papel dos 'Voluntários da Pátria'. O ENEM costuma cobrar a contradição de escravizados lutando pela liberdade de um país que ainda era escravocrata. Saiba a importância de Duque de Caxias como o pacificador e patrono do exército. Entenda que a guerra acelerou o fim da Monarquia devido ao descontentamento militar com o Imperador.",
+  "sections": [
+    {
+      "title": "1. Motivações Geopolíticas no Prata",
+      "content": "Para o Brasil Império, o rio Paraguai era a única estrada para chegar ao interior do Mato Grosso. Para o Paraguai, o controle da bacia era a sobrevivência comercial. O equilíbrio de poder na região era frágil e qualquer intervenção no Uruguai (nosso vizinho do sul) disparava um efeito dominó de alianças militares. A guerra foi o choque final dessas ambições territoriais.",
+      "highlight": "A bacia platina era a 'rodovia' estratégica mais valiosa da América do Sul.",
+      "image": {
+        "url": "assets/images/lessons/guerra-paraguai/section_0.png",
+        "alt": "1. Motivações Geopolíticas no Prata",
+        "caption": "1. Motivações Geopolíticas no Prata"
+      }
+    },
+    {
+      "title": "2. Tríplice Aliança e Voluntários da Pátria",
+      "content": "O Brasil não tinha um exército grande. D. Pedro II criou os 'Voluntários da Pátria', prometendo terras e dinheiro para quem lutasse. No entanto, o recrutamento foi forçado em muitos casos. Milhares de escravizados foram enviados no lugar dos filhos dos fazendeiros, com a promessa de alforria após a guerra. Isso criou um forte laço de união entre os soldados brancos e negros no campo de batalha.",
+      "highlight": "A guerra humanizou o escravizado aos olhos dos oficiais do exército brasileiro.",
+      "image": {
+        "url": "assets/images/lessons/guerra-paraguai/section_1.png",
+        "alt": "2. Tríplice Aliança e Voluntários da Pátria",
+        "caption": "2. Tríplice Aliança e Voluntários da Pátria"
+      }
+    },
+    {
+      "title": "3. Duque de Caxias e a Retomada",
+      "content": "Após anos de derrotas e doenças (cólera e fome no front), Duque de Caxias assumiu o comando. Ele impôs disciplina e modernizou o exército. No episódio da 'Dezembrada' (1868), Caxias destruiu as defesas finais de López. Ele chegou a ocupar Assunção, mas recusou-se a caçar Solano López nas matas, por considerar a guerra tecnicamente vencida, deixando o fim do conflito para o Conde d'Eu.",
+      "highlight": "Caxias é o símbolo da disciplina que transformou a milícia brasileira em um Exército profissional.",
+      "image": {
+        "url": "assets/images/lessons/guerra-paraguai/section_2.png",
+        "alt": "3. Duque de Caxias e a Retomada",
+        "caption": "3. Duque de Caxias e a Retomada"
+      }
+    },
+    {
+      "title": "4. O Desastre Paraguaio e a Questão Econômica",
+      "content": "O Paraguai foi arrasado. Vilas inteiras sumiram e a infraestrutura do país foi destruída. Historiadores discutem se o Paraguai era uma potência industrial autossuficiente antes da guerra ou apenas um país agrário isolado. O fato é que após a guerra, o Paraguai tornou-se um dos países mais pobres da região, dependente de Brasil e Argentina.",
+      "highlight": "A guerra matou o futuro demográfico e econômico de uma geração no Paraguai."
+    },
+    {
+      "title": "5. A Volta dos Vencedores e a Queda do Trono",
+      "content": "O Exército Brasileiro voltou da guerra coberto de glórias, mas desrespeitado pelo governo imperial, que não queria pagar pensões nem modernizar os batalhões. Os militares começaram a se ver como os 'verdadeiros defensores do país', acima dos políticos corruptos do Império. Disso nasceu o Positivismo militar e o desejo de uma República que valorizasse a competência técnica e a ordem social.",
+      "highlight": "O fim do Império começou no dia em que os soldados voltaram do Paraguai."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A participação de escravizados na Guerra do Paraguai, através dos 'Voluntários da Pátria', trouxe uma consequência política importante para o Brasil. Qual foi?",
+      "options": [
+        "A) O exército brasileiro tornou-se favorável à manutenção da escravidão.",
+        "B) O fortalecimento do movimento abolicionista dentro do exército, que passou a ver o negro como um igual na luta pela nação.",
+        "C) A proibição de qualquer pessoa negra de entrar no exército após a guerra.",
+        "D) A criação de uma nova república apenas para pessoas negras no Paraguai.",
+        "E) O cancelamento de todas as dívidas do Brasil com a Inglaterra."
+      ],
+      "correctIndex": 1,
+      "explanation": "O convívio nas trincheiras quebrou as barreiras raciais e motivou os militares a apoiarem o fim da escravidão.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual era a principal disputa geopolítica que levou à eclosão da Guerra do Paraguai?",
+      "options": [
+        "A) A disputa pela posse das minas de ouro de Minas Gerais.",
+        "B) O livre acesso e a navegação pela Bacia do Prata, vital para o comércio e defesa da região.",
+        "C) O controle da produção de café no sul de São Paulo.",
+        "D) A vontade do Brasil de se tornar uma província espanhola.",
+        "E) A proibição da religião católica paraguaia no território brasileiro."
+      ],
+      "correctIndex": 1,
+      "explanation": "A navegação fluvial era estratégica para a integração e economia de todos os países envolvidos.",
+      "source": "Simulado ENEM / América Latina"
+    },
+    {
+      "question": "Qual foi o evento que desencadeou a Guerra do Paraguai?",
+      "options": [
+        "A) A assinatura do Tratado da Tríplice Aliança",
+        "B) A invasão do Mato Grosso pelo Paraguai",
+        "C) A prisão do navio brasileiro Marquês de Olinda",
+        "D) A Batalha de Riachuelo",
+        "E) A morte de Solano López"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a consequência mais devastadora para o Paraguai após a Guerra do Paraguai?",
+      "options": [
+        "A) Perda de 30% da população masculina adulta",
+        "B) Perda de 50% da população masculina adulta",
+        "C) Perda de 70% da população masculina adulta",
+        "D) Perda de 90% da população masculina adulta",
+        "E) Perda de toda a população masculina adulta"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o impacto da Guerra do Paraguai no Exército brasileiro?",
+      "options": [
+        "A) O Exército foi enfraquecido institucionalmente",
+        "B) O Exército foi fortalecido institucionalmente",
+        "C) O Exército permaneceu inalterado",
+        "D) O Exército foi dissolvido",
+        "E) O Exército foi substituído por uma força paramilitar"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/guerra-paraguai/thumb.png",
+    "alt": "Guerra do Paraguai: Conflito e Consequências",
+    "caption": "Guerra do Paraguai: Conflito e Consequências"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Guerra do Paraguai (1864-1870) foi o maior conflito militar da América do Sul, envolvendo a Tríplice Aliança (Brasil, Argentina e Uruguai) contra o Paraguai de Solano López. Longe de ser apenas uma disputa por fronteiras, a guerra deve ser entendida como o resultado de um longo processo de formação das nações da bacia do Rio da Prata, onde a livre navegação dos rios era crucial para o comércio internacional. O custo humano para o Paraguai foi devastador, resultando na morte de grande parte de sua população masculina adulta.",
+        "Para o Brasil Imperial, a guerra teve consequências ambíguas. Embora vitorioso, o Império saiu do conflito com um exército fortalecido, politizado e abertamente descontente com a monarquia e a escravidão (devido ao convívio dos oficiais com o republicanismo platino). O endividamento financeiro astronômico junto à Inglaterra e o retorno dos soldados negros que exigiam liberdade para suas famílias aceleraram a crise do regime de D. Pedro II, unindo a questão militar à causa abolicionista.",
+        "O Enem frequentemente aborda a Guerra do Paraguai sob a revisão historiográfica moderna, que contesta a visão antiga da Inglaterra como 'vilã conspiradora' do conflito, preferindo focar nas tensões locais e no papel das elites sul-americanas. A guerra marcou o início do fim do Império no Brasil e consolidou a hegemonia brasileira na região, mas ao preço de uma destruição brutal dos vizinhos e de uma grave crise fiscal interna que pavimentaria o caminho para a República em 1889."
+      ],
+      "source": "DORATIOTO, Francisco. Maldita Guerra: Nova História da Guerra do Paraguai. São Paulo: Companhia das Letras, 2002."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A participação de escravizados na Guerra do Paraguai, através dos 'Voluntários da Pátria', trouxe uma consequência política importante para o Brasil. Qual foi?",
+        "back": "A) O exército brasileiro tornou-se favorável à manutenção da escravidão.. O convívio nas trincheiras quebrou as barreiras raciais e motivou os militares a apoiarem o fim da escravidão."
+      },
+      {
+        "front": "Qual era a principal disputa geopolítica que levou à eclosão da Guerra do Paraguai?",
+        "back": "A) A disputa pela posse das minas de ouro de Minas Gerais.. A navegação fluvial era estratégica para a integração e economia de todos os países envolvidos."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O livre acesso e a navegação pela Bacia do Prata, vital para o comércio e defesa da região.",
+        "is_true": false,
+        "explanation": "Mito! A navegação fluvial era estratégica para a integração e economia de todos os países envolvidos."
+      },
+      {
+        "statement": "A disputa pela posse das minas de ouro de Minas Gerais.",
+        "is_true": true,
+        "explanation": "A navegação fluvial era estratégica para a integração e economia de todos os países envolvidos."
+      },
+      {
+        "statement": "O fortalecimento do movimento abolicionista dentro do exército, que passou a ver o negro como um igual na luta pela nação.",
+        "is_true": false,
+        "explanation": "Mito! O convívio nas trincheiras quebrou as barreiras raciais e motivou os militares a apoiarem o fim da escravidão."
+      },
+      {
+        "statement": "O exército brasileiro tornou-se favorável à manutenção da escravidão.",
+        "is_true": true,
+        "explanation": "O convívio nas trincheiras quebrou as barreiras raciais e motivou os militares a apoiarem o fim da escravidão."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Francisco Solano López",
+        "match": "Ditador paraguaio líder da Guerra do Paraguai"
+      },
+      {
+        "concept": "Tríplice Aliança",
+        "match": "Brasil, Argentina e Uruguai contra o Paraguai"
+      },
+      {
+        "concept": "Batalha do Riachuelo",
+        "match": "Decisiva batalha naval que garantiu o controle do Paraguai"
+      },
+      {
+        "concept": "Caxias",
+        "match": "Duque e comandante-chefe das forças brasileiras na guerra"
+      },
+      {
+        "concept": "Devastação do Paraguai",
+        "match": "País perdeu mais de 2/3 da população masculina"
+      },
+      {
+        "concept": "Exército de escravo",
+        "match": "Escravos recrutados com promessa de liberdade para lutarem"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Motivações Geopolíticas no Prata",
+        "order": 1
+      },
+      {
+        "event": "2. Tríplice Aliança e Voluntários da Pátria",
+        "order": 2
+      },
+      {
+        "event": "3. Duque de Caxias e a Retomada",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONSEQUÊNCIAS",
+      "hint": "O conceito-chave central ou termo associado à aula de Guerra do Paraguai: Conflito e Consequências."
+    }
+  }
+}

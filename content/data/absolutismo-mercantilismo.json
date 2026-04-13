@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "absolutismo-mercantilismo",
+    "title": "Absolutismo e Mercantilismo: O Poder dos Reis",
+    "period": "Séculos XV - XVIII",
+    "tags": [
+      "Absolutismo",
+      "Mercantilismo",
+      "Maquiavel",
+      "Hobbes",
+      "Direito Divino"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Na Idade Moderna, os reis deixaram de dividir o poder com os nobres para serem donos absolutos do Estado. O dinheiro vinha do Mercantilismo, e o poder vinha de Deus.",
+  "theory_content": "O **Absolutismo** foi o sistema político que dominou a Europa entre os séculos XV e XVIII, caracterizado pela concentração total de poderes nas mãos do monarca. Para justificar esse poder, surgiram teóricos como **Maquiavel** (o Estado acima da moral), **Thomas Hobbes** (o Leviatã que evita a guerra de todos contra todos) e **Jacques Bossuet** (o Rei como representante direto de Deus na Terra). O exemplo máximo foi Luís XIV, o Rei Sol da França, autor da frase 'O Estado sou Eu'. \n\nPara sustentar esse poder caro, os reis adotaram o **Mercantilismo**, um conjunto de práticas econômicas que visava o acúmulo de metais preciosos (ouro e prata). A regra era a **Balança Comercial Favorável** (vender mais do que comprar), o **Protecionismo** (tarifas sobre importados) e o **Pacto Colonial** (a colônia só podia comercializar com a metrópole). O Brasil foi peça fundamental desse sistema para Portugal, servindo como fornecedor de matérias-primas e mercado consumidor forçado. O ENEM costuma cobrar a transição do feudalismo para o Estado moderno, o papel das teorias políticas absolutistas e a relação entre o mercantilismo e as Grandes Navegações.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude Maquiavel como o pai da ciência política moderna (separa a ética da política). O ENEM costuma cobrar o 'Direito Divino' como ferramenta de controle social religioso. Entenda o Mercantilismo como o 'pré-capitalismo' comercial das grandes potências. Saiba que o Pacto Colonial foi a algema econômica que motivou as futuras revoltas de independência no Brasil (Inconfidência e Baiana).",
+  "sections": [
+    {
+      "title": "1. Maquiavel e Hobbes: A Razão de Estado",
+      "content": "Antes de Maquiavel, o bom rei deveria ser um bom cristão. Ele mudou isso: o bom rei é aquele que mantém o poder, mesmo que precise agir de forma cruel. 'É melhor ser temido do que amado'. Já Hobbes dizia que o homem é naturalmente violento ('o lobo do homem'). Para não morrermos em brigas eternas, entregamos nossa liberdade ao Rei em troca de ordem. O Estado Absoluto não era apenas um desejo dos reis, mas um pedido de silêncio da burguesia cansada das guerras feudais.",
+      "highlight": "Para o absolutismo, o Rei era o cérebro que guiava o corpo da nação.",
+      "image": {
+        "url": "assets/images/lessons/absolutismo-mercantilismo/section_0.png",
+        "alt": "1. Maquiavel e Hobbes: A Razão de Estado",
+        "caption": "1. Maquiavel e Hobbes: A Razão de Estado"
+      }
+    },
+    {
+      "title": "2. Bossuet e o Direito Divino",
+      "content": "Se Maquiavel falava de política, Bossuet usava a Bíblia. Ele dizia que o Rei era escolhido por Deus e que desobedecer ao monarca era pecado mortal. Esse argumento calava as rebeliões camponesas e a própria nobreza. O palácio de Versalhes era o grande cenário desse teatro de poder: tudo girava em torno do Rei, desde o seu despertar matinal até os jantares suntuosos iluminados pela luz do Sol de sua glória.",
+      "highlight": "O trono do rei absoluto era a cadeira que Deus deixou na terra.",
+      "image": {
+        "url": "assets/images/lessons/absolutismo-mercantilismo/section_1.png",
+        "alt": "2. Bossuet e o Direito Divino",
+        "caption": "2. Bossuet e o Direito Divino"
+      }
+    },
+    {
+      "title": "3. Mercantilismo: O Acúmulo Primitivo",
+      "content": "Os reis precisavam de exércitos caros e burocratas. De onde vinha o dinheiro? Do comércio marítimo. O Mercantilismo acreditava que a riqueza do mundo era fixa; se um país ganhava, outro perdia. Por isso, a obsessão pelo 'Metalismo' (ouro no cofre). As metrópoles proibiam suas colônias de produzirem artigos manufaturados, garantindo que o lucro final sempre ficasse na Europa - o chamado Colonialismo.",
+      "highlight": "O Mercantilismo foi o motor econômico que financiou as frotas do Novo Mundo.",
+      "image": {
+        "url": "assets/images/lessons/absolutismo-mercantilismo/section_2.png",
+        "alt": "3. Mercantilismo: O Acúmulo Primitivo",
+        "caption": "3. Mercantilismo: O Acúmulo Primitivo"
+      }
+    },
+    {
+      "title": "4. O Pacto Colonial: O Brasil Acorrentado",
+      "content": "O Brasil não podia ter fábricas, jornais ou universidade por causa das regras mercantilistas de Portugal. Éramos o quintal extrativista: açúcar, ouro e algodão saíam a preço de custo e voltavam como produtos caros de Portugal. Esse sistema garantiu que o Brasil crescesse dependente do mercado externo, criando uma elite agrária que olhava apenas para a Europa enquanto o povo trabalhava sob o chicote.",
+      "highlight": "O pacto colonial foi a raiz do subdesenvolvimento industrial brasileiro."
+    },
+    {
+      "title": "5. A Crise do Modelo: O Iluminismo",
+      "content": "No final do século XVIII, as ideias de liberdade (Iluminismo) começaram a atacar o Absolutismo. Os reis viraram 'déspotas esclarecidos', tentando modernizar seus reinos sem abrir mão do poder (como o Marquês de Pombal em Portugal). Mas era tarde demais: o sistema não aguentava mais as novas demandas da Revolução Industrial e da burguesia ascendente. O relógio dos reis absolutos estava chegando à sua hora final com a Revolução Francesa.",
+      "highlight": "O absolutismo caiu quando a razão humana superou a vontade divina dos monarcas."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O teórico político Nicolau Maquiavel, em sua obra 'O Príncipe', defende que a principal função do governante é:",
+      "options": [
+        "A) Doar todo o seu tesouro nacional para as igrejas da periferia de Roma.",
+        "B) Manter e ampliar o seu poder político e a estabilidade do Estado, utilizando todos os meios necessários ('os fins justificam os meios').",
+        "C) Proibir o uso de qualquer tipo de metal nas moedas nacionais.",
+        "D) Vender o país para o governo da China em nome da paz mundial.",
+        "E) O cancelamento de todos os contratos militares por ordem do Papa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Maquiavel inaugurou a política laica e pragmática, voltada para a manutenção da ordem e do Estado.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A prática mercantilista da 'Balança Comercial Favorável' consistia em qual estratégia econômica pelas metrópoles europeias?",
+      "options": [
+        "A) Manter o equilíbrio exato entre exportação e importação para não irritar os vizinhos.",
+        "B) Exportar mais produtos do que importar (vender mais do que comprar), garantindo o acúmulo de metais preciosos no reino.",
+        "C) Proibir o comércio de laranjas e limões em todos os portos da Europa.",
+        "D) Doar todos os produtos nacionais para as colônias em troca de orações dos indígenas.",
+        "E) O cancelamento de todas as moedas de papel para instaurar a troca de espelhos."
+      ],
+      "correctIndex": 1,
+      "explanation": "O objetivo era sempre garantir que mais dinheiro entrasse do que saísse da economia nacional.",
+      "source": "Simulado ENEM / Idade Moderna"
+    },
+    {
+      "question": "Qual foi o principal objetivo do Mercantilismo como política econômica adotada pelos reis absolutistas?",
+      "options": [
+        "A) Reduzir a desigualdade social",
+        "B) Promover o livre comércio",
+        "C) Acumular metais preciosos",
+        "D) Desenvolver a agricultura",
+        "E) Fortalecer a burguesia"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quem é o teórico político que defendeu a ideia de que o Estado deve ser acima da moral?",
+      "options": [
+        "A) Thomas Hobbes",
+        "B) Jacques Bossuet",
+        "C) Maquiavel",
+        "D) John Locke",
+        "E) Rousseau"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o papel do Brasil no sistema mercantilista português?",
+      "options": [
+        "A) Fornecedor de mão de obra qualificada",
+        "B) Centro de produção de manufaturas",
+        "C) Fornecedor de matérias-primas e mercado consumidor forçado",
+        "D) Ponte de comércio com a Ásia",
+        "E) Destino de investimentos estrangeiros"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/absolutismo-mercantilismo/thumb.png",
+    "alt": "Absolutismo e Mercantilismo: O Poder dos Reis",
+    "caption": "Absolutismo e Mercantilismo: O Poder dos Reis"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Absolutismo Monárquico foi o sistema político que marcou a transição da Idade Média para a Moderna, caracterizado pela concentração total de poder nas mãos do soberano. Segundo a teoria do Direito Divino de Jacques Bossuet, o rei era o representante de Deus na Terra, e contestar sua autoridade era um sacrilégio. O Estado Absolutista foi o instrumento que a burguesia e a nobreza utilizaram (cada uma a seu modo) para garantir a ordem interna e a expansão comercial, superando a fragmentação feudal.",
+        "O Mercantilismo foi o braço econômico do Absolutismo, um conjunto de práticas que visava o enriquecimento do Estado através do acúmulo de metais preciosos (metalismo) e da busca por uma balança comercial favorável. O Protecionismo e o Exclusivo Comercial (pacto colonial) eram ferramentas essenciais para garantir que a riqueza circulasse apenas dentro do império, financiando os luxos da corte e a manutenção de exércitos permanentes que garantiam a soberania do monarca.",
+        "Para o Enem, o Absolutismo deve ser entendido como a base do 'Antigo Regime', que seria posteriormente derrubado pelas revoluções iluministas. Figuras como Luís XIV, o 'Rei Sol', simbolizam o apogeu dessa estrutura onde 'L'État c'est moi' (O Estado sou eu). A compreensão desse período é fundamental para analisar como a centralização do poder permitiu as Grandes Navegações e a colonização da América, moldando a economia global moderna."
+      ],
+      "source": "ANDERSON, Perry. Linhagens do Estado Absolutista. São Paulo: Brasiliense, 1989."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O teórico político Nicolau Maquiavel, em sua obra 'O Príncipe', defende que a principal função do governante é:",
+        "back": "A) Doar todo o seu tesouro nacional para as igrejas da periferia de Roma.. Maquiavel inaugurou a política laica e pragmática, voltada para a manutenção da ordem e do Estado."
+      },
+      {
+        "front": "A prática mercantilista da 'Balança Comercial Favorável' consistia em qual estratégia econômica pelas metrópoles europeias?",
+        "back": "A) Manter o equilíbrio exato entre exportação e importação para não irritar os vizinhos.. O objetivo era sempre garantir que mais dinheiro entrasse do que saísse da economia nacional."
+      },
+      {
+        "front": "O que caracteriza o Absolutismo?",
+        "back": "Concentração total de poderes nas mãos do monarca."
+      },
+      {
+        "front": "Quem é o teórico que defende o Estado acima da moral?",
+        "back": "Maquiavel."
+      },
+      {
+        "front": "Qual foi o exemplo máximo do Absolutismo?",
+        "back": "Luís XIV, o Rei Sol da França."
+      },
+      {
+        "front": "Qual é o objetivo do Mercantilismo?",
+        "back": "Acúmulo de metais preciosos (ouro e prata)."
+      },
+      {
+        "front": "Qual é a regra do Mercantilismo?",
+        "back": "Balança Comercial Favorável, Protecionismo e Pacto Colonial."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Manter o equilíbrio exato entre exportação e importação para não irritar os vizinhos.",
+        "is_true": true,
+        "explanation": "O objetivo era sempre garantir que mais dinheiro entrasse do que saísse da economia nacional."
+      },
+      {
+        "statement": "Exportar mais produtos do que importar (vender mais do que comprar), garantindo o acúmulo de metais preciosos no reino.",
+        "is_true": false,
+        "explanation": "Mito! O objetivo era sempre garantir que mais dinheiro entrasse do que saísse da economia nacional."
+      },
+      {
+        "statement": "Manter e ampliar o seu poder político e a estabilidade do Estado, utilizando todos os meios necessários ('os fins justificam os meios').",
+        "is_true": false,
+        "explanation": "Mito! Maquiavel inaugurou a política laica e pragmática, voltada para a manutenção da ordem e do Estado."
+      },
+      {
+        "statement": "Doar todo o seu tesouro nacional para as igrejas da periferia de Roma.",
+        "is_true": true,
+        "explanation": "Maquiavel inaugurou a política laica e pragmática, voltada para a manutenção da ordem e do Estado."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Absolutismo",
+        "match": "Sistema político com poder concentrado no monarca"
+      },
+      {
+        "concept": "Maquiavel",
+        "match": "Teórico que defende o Estado acima da moral"
+      },
+      {
+        "concept": "Mercantilismo",
+        "match": "Práticas econômicas para acúmulo de metais preciosos"
+      },
+      {
+        "concept": "Balança Comercial Favorável",
+        "match": "Vender mais do que comprar"
+      },
+      {
+        "concept": "Luís XIV",
+        "match": "Rei Sol da França que disse 'O Estado sou Eu'"
+      },
+      {
+        "concept": "Pacto Colonial",
+        "match": "Colônia comercializa apenas com a metrópole"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Maquiavel e Hobbes: A Razão de Estado",
+        "order": 1
+      },
+      {
+        "event": "2. Bossuet e o Direito Divino",
+        "order": 2
+      },
+      {
+        "event": "3. Mercantilismo: O Acúmulo Primitivo",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MERCANTILISMO",
+      "hint": "O conceito-chave central ou termo associado à aula de Absolutismo e Mercantilismo: O Poder dos Reis."
+    }
+  }
+}

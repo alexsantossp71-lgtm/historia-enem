@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "id": "reforma-protestante",
+    "title": "Reforma e Contrarreforma: A Cisão da Cristandade",
+    "period": "Século XVI",
+    "tags": [
+      "Luteranismo",
+      "Calvinismo",
+      "Inquisição",
+      "Jesuítas",
+      "Indulgências"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "A Reforma Protestante quebrou a hegemonia de mil anos da Igreja Católica. Ela não mudou apenas a religião; mudou a política, a economia e a forma como o homem se relaciona com Deus e com o trabalho.",
+  "theory_content": "No século XVI, a Igreja Católica enfrentava uma crise moral profunda, marcada pela venda de **Indulgências** (perdão de pecados por dinheiro) e pela **Simonia** (venda de cargos e relíquias sagradas). Em 1517, o monge alemão **Martinho Lutero** publicou suas '95 Teses', criticando essas práticas e defendendo a 'Salvação pela Fé' e o 'Sacerdócio Universal' (cada fiel pode ler e interpretar a Bíblia sozinho). A tradução da Bíblia de Lutero para o alemão foi o gatilho para o nascimento das línguas modernas e para o fim do monopólio clerical do saber. \n\nA reforma expandiu-se com o **Calvinismo** de João Calvino, que introduziu a doutrina da **Predestinação** (Deus já escolheu quem será salvo). Para os calvinistas, o sucesso no trabalho e a vida regrada eram sinais da bênção divina, o que incentivou o lucro e a poupança — pilares do nascente Capitalismo. Na Inglaterra, Henrique VIII criou o **Anglicanismo** por motivos políticos: romper com o Papa para confiscar as terras da Igreja e casar-se novamente. A Igreja Católica reagiu com a **Contrarreforma (Concílio de Trento)**: reafirmou os dogmas, criou o *Index* (lista de livros proibidos), reativou a Inquisição (Santo Ofício) e fundou a **Companhia de Jesus (Jesuítas)**, que seria o exército cultural da fé católica nas novas colônias como o Brasil. O ENEM costuma cobrar as influências culturais desse conflito, como a arte Barroca, usada pela Igreja para impressionar e converter os fiéis através da emoção.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a relação entre o Calvinismo e o surgimento do Capitalismo (tese de Max Weber). O ENEM costuma cobrar a importância da Imprensa de Gutenberg na divulgação das ideias de Lutero. Entenda que a Reforma foi um movimento de ruptura religiosa, mas também de afirmação dos novos Estados Nacionais que queriam se livrar da influência política de Roma.",
+  "sections": [
+    {
+      "title": "1. Martinho Lutero e o Grito de Wittenberg",
+      "content": "Lutero não queria destruir a Igreja, queria limpá-la. Ele defendia três solas: *Sola Fide* (Apenas a Fé salva), *Sola Scriptura* (Apenas a Bíblia é regra) e *Sola Gratia* (Apenas a Graça divina). Ao negar que o Papa fosse infalível, Lutero deu ao indivíduo o poder de ler e interpretar a palavra sagrada, o que foi uma das maiores revoluções intelectuais da história ocidental.",
+      "highlight": "Lutero derrubou o muro entre o homem e o sagrado.",
+      "image": {
+        "url": "assets/images/lessons/reforma-protestante/section_0.png",
+        "alt": "1. Martinho Lutero e o Grito de Wittenberg",
+        "caption": "1. Martinho Lutero e o Grito de Wittenberg"
+      }
+    },
+    {
+      "title": "2. Calvino e a Ética do Trabalho",
+      "content": "João Calvino foi além de Lutero. Se Deus já decidiu quem vai para o céu, o homem deve viver uma vida de trabalho duro e moral rígida para honrar essa escolha. O lucro, antes visto pela Igreja como pecado (Usura), passou a ser um sinal de glória para o Calvinismo. Isso facilitou o crescimento da burguesia na Holanda, Inglaterra e EUA.",
+      "highlight": "O calvinismo deu a bênção religiosa ao lucro burguês."
+    },
+    {
+      "title": "3. Anglicanismo: A Igreja do Rei",
+      "content": "Henrique VIII precisava de um herdeiro homem e de dinheiro para seu reino. O Papa negou o divórcio de Catarina de Aragão, o que serviu de desculpa para o Rei assinar o 'Ato de Supremacia' (1534), tornando-se chefe supremo da Igreja na Inglaterra. O Anglicanismo manteve muitos ritos católicos, mas subordinou a religião aos interesses do Estado Britânico.",
+      "highlight": "O anglicanismo foi a reforma das terras e do poder político real.",
+      "image": {
+        "url": "assets/images/lessons/reforma-protestante/section_2.png",
+        "alt": "3. Anglicanismo: A Igreja do Rei",
+        "caption": "3. Anglicanismo: A Igreja do Rei"
+      }
+    },
+    {
+      "title": "4. O Concílio de Trento e a Muralha Católica",
+      "content": "A Igreja Católica não ficou parada. Entre 1545 e 1563, o Concílio de Trento reafirmou o poder do Papa, dos sete sacramentos e do culto aos santos. Criou-se o Seminário para formar padres mais sérios e cultos. A Inquisição passou a perseguir quem seguisse as ideias protestantes ou científicas (como Galileu), criando um clima de censura intelectual em países como Espanha e Portugal.",
+      "highlight": "A contrarreforma foi a reforma interna necessária para a sobrevivência católica."
+    },
+    {
+      "title": "5. Jesuítas e Barroco: A Sedução da Fé",
+      "content": "Inácio de Loyola fundou a Companhia de Jesus para ser a 'milícia de Cristo'. Os jesuítas foram os maiores educadores do mundo, fundando colégios e catequizando indígenas na América. Para reconquistar as massas que não sabiam ler, a Igreja investiu no estilo **Barroco**: igrejas cheias de ouro, cores vibrantes, música teatral e luz dramática. O objetivo era converter através dos sentidos e da emoção.",
+      "highlight": "O Barroco foi a propaganda visual mais poderosa da história da religião."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A doutrina da 'Predestinação absoluta', que afirmava que o destino da alma de cada pessoa já estava definido por Deus desde o nascimento, é a base teórica de qual religião reformada?",
+      "options": [
+        "A) Luteranismo alemão.",
+        "B) Calvinismo de João Calvino.",
+        "C) Budismo de Gengis Khan.",
+        "D) Anglicanismo de Henrique VIII.",
+        "E) Espiritismo de Allan Kardec."
+      ],
+      "correctIndex": 1,
+      "explanation": "A predestinação serviu para justificar a moral rígida e o trabalho incansável dos fiéis reformados.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O Concílio de Trento (1545-1563) foi a resposta oficial da Igreja Católica à Reforma Protestante. Qual dessas medidas foi tomada pela Igreja nesse momento para conter o avanço das novas ideias?",
+      "options": [
+        "A) A tradução da Bíblia para todas as línguas indígenas do mundo.",
+        "B) A reativação do Tribunal do Santo Ofício (Inquisição) e a criação do Index Librorum Prohibitorum.",
+        "C) A entrega de todas as igrejas de Roma para Martinho Lutero.",
+        "D) O fim imediato do celibato para todos os padres e bispos.",
+        "E) A proibição de que o Papa usasse coroas de ouro."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Igreja reativou instrumentos de vigilância e censura para manter o controle sobre a doutrina cristã.",
+      "source": "Simulado ENEM / História Contemporânea"
+    },
+    {
+      "question": "Qual foi o principal motivo que levou Henrique VIII a criar o Anglicanismo?",
+      "options": [
+        "A) Para se opor à venda de indulgências",
+        "B) Para romper com o Papa e confiscar as terras da Igreja, além de se casar novamente",
+        "C) Para defender a salvação pela fé e o sacerdócio universal",
+        "D) Para introduzir a doutrina da predestinação",
+        "E) Para reafirmar os dogmas da Igreja Católica"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da tradução da Bíblia por Martinho Lutero para o alemão?",
+      "options": [
+        "A) O fortalecimento do monopólio clerical do saber",
+        "B) A expansão do Calvinismo",
+        "C) O nascimento das línguas modernas e o fim do monopólio clerical do saber",
+        "D) A criação da Companhia de Jesus",
+        "E) A reativação da Inquisição"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a reação da Igreja Católica à Reforma Protestante?",
+      "options": [
+        "A) A adoção da doutrina da predestinação",
+        "B) A criação da Companhia de Jesus e a reafirmação dos dogmas",
+        "C) A expansão do Anglicanismo",
+        "D) A venda de indulgências",
+        "E) A tradução da Bíblia para o alemão"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/reforma-protestante/thumb.png",
+    "alt": "Reforma e Contrarreforma: A Cisão da Cristandade",
+    "caption": "Reforma e Contrarreforma: A Cisão da Cristandade"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Reforma Protestante do século XVI, iniciada com as 95 teses de Martinho Lutero, representou a quebra do monopólio espiritual e político da Igreja Católica na Europa Ocidental. Motivada por críticas à venda de indulgências e à corrupção clerical, a Reforma introduziu o conceito de 'salvação pela fé' e a livre interpretação das Escrituras. Esse processo não foi apenas teológico, mas também político, ao fortalecer o poder dos monarcas nacionais que desejavam se libertar da tutela do Papa.",
+        "O Calvinismo, em particular sua doutrina da predestinação, teve um impacto profundo no desenvolvimento do capitalismo. Segundo Max Weber, a valorização do trabalho, da parcimônia e do lucro como sinais de eleição divina criou uma 'ética protestante' que serviu de motor para a acumulação de capital e a modernização econômica. Ao substituir o ascetismo monástico pelo ascetismo mundano, o protestantismo transformou a vida profissional em um chamado espiritual, alterando permanentemente a mentalidade ocidental.",
+        "Para o Enem, é vital compreender a Reforma Protestante como o início do processo de secularização e pluralismo religioso na modernidade. A Contra-Reforma (Reforma Católica) buscou recuperar fiéis através do Concílio de Trento e da Companhia de Jesus, mas a unidade da cristandade europeia já estava irremediavelmente fragmentada. O estudo deste tema permite analisar como a religião e a política se entrelaçaram para moldar as estruturas de poder e as bases culturais dos Estados nacionais modernos."
+      ],
+      "source": "WEBER, Max. A Ética Protestante e o Espírito do Capitalismo. São Paulo: Companhia das Letras, 2004."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A doutrina da 'Predestinação absoluta', que afirmava que o destino da alma de cada pessoa já estava definido por Deus desde o nascimento, é a base teórica de qual religião reformada?",
+        "back": "A) Luteranismo alemão.. A predestinação serviu para justificar a moral rígida e o trabalho incansável dos fiéis reformados."
+      },
+      {
+        "front": "O Concílio de Trento (1545-1563) foi a resposta oficial da Igreja Católica à Reforma Protestante. Qual dessas medidas foi tomada pela Igreja nesse momento para conter o avanço das novas ideias?",
+        "back": "A) A tradução da Bíblia para todas as línguas indígenas do mundo.. A Igreja reativou instrumentos de vigilância e censura para manter o controle sobre a doutrina cristã."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Luteranismo alemão..",
+        "is_true": true,
+        "explanation": "A predestinação serviu para justificar a moral rígida e o trabalho incansável dos fiéis reformados."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Calvinismo de João Calvino..",
+        "is_true": false,
+        "explanation": "Falso! A predestinação serviu para justificar a moral rígida e o trabalho incansável dos fiéis reformados."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A tradução da Bíblia para todas as línguas indígenas do mundo..",
+        "is_true": true,
+        "explanation": "A Igreja reativou instrumentos de vigilância e censura para manter o controle sobre a doutrina cristã."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A reativação do Tribunal do Santo Ofício (Inquisição) e a criação do Index Librorum Prohibitorum..",
+        "is_true": false,
+        "explanation": "Falso! A Igreja reativou instrumentos de vigilância e censura para manter o controle sobre a doutrina cristã."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Martinho Lutero",
+        "match": "Monge que afixou as 95 teses e iniciou a Reforma"
+      },
+      {
+        "concept": "Calvino",
+        "match": "Reformador que criou a doutrina da predestinação"
+      },
+      {
+        "concept": "Indulgências",
+        "match": "Perdão de pecados vendido pela Igreja Católica"
+      },
+      {
+        "concept": "Contrarreforma",
+        "match": "Movimento católico de renovação após a Reforma"
+      },
+      {
+        "concept": "Inquisição",
+        "match": "Tribunal eclesiástico para combater a heresia"
+      },
+      {
+        "concept": "Bíblia em vernáculo",
+        "match": "Tradução da Bíblia para línguas populares por Lutero"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Martinho Lutero e o Grito de Wittenberg",
+        "order": 1
+      },
+      {
+        "event": "2. Calvino e a Ética do Trabalho",
+        "order": 2
+      },
+      {
+        "event": "3. Anglicanismo: A Igreja do Rei",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "PROTESTANTE",
+      "hint": "O conceito-chave central ou termo associado à aula de Reforma e Contrarreforma: A Cisão da Cristandade."
+    }
+  }
+}

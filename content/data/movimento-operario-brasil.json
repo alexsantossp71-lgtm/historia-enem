@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "movimento-operario-brasil",
+    "title": "Movimento Operário: O Despertar das Fábricas",
+    "period": "1900 - 1930",
+    "tags": [
+      "Operário",
+      "Anarquismo",
+      "Greve 1917",
+      "Sindicalismo",
+      "PCB"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "Antes de Vargas dar direitos, os trabalhadores brasileiros tiveram que lutar por cada hora de folga. O movimento operário nasceu da coragem de imigrantes que desafiaram a polícia e os patrões.",
+  "theory_content": "No início do século XX, o Brasil começou a se industrializar, especialmente em São Paulo e no Rio de Janeiro. As condições de trabalho nas fábricas têxteis eram desumanas: jornadas de 14 a 16 horas, trabalho infantil, sem férias e sem auxílio acidente. A influência veio dos imigrantes italianos e espanhóis, que trouxeram do IDE (Idéia) o **Anarquismo** e o **Socialismo**. Eles pregavam a ação direta e a greve como únicas armas contra a exploração. \n\nO ponto crítico foi a **Greve Geral de 1917**, em São Paulo. Após o assassinato do sapateiro anarquista José Martinez pela polícia, a cidade parou. Mais de 50 mil operários cruzaram os braços, exigindo aumento salarial, fim do trabalho noturno para mulheres e proibição do trabalho infantil. A burguesia paulista, apavorada, pediu a ajuda do exército. O governo respondeu com a **Lei Adolfo Gordo**, que permitia a expulsão de estrangeiros envolvidos em 'atividades subversivas'. Em 1922, influenciados pela Revolução Russa, nove delegados fundaram o **PCB (Partido Comunista do Brasil)**, marcando o início da transição do anarquismo para o sindicalismo político. O ENEM costuma cobrar a influência da imigração no movimento, a ideologia anarquista e a repressão estatal (a 'questão social como uma questão de polícia').",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a diferença entre Anarquismo (sem hierarquia, ação direta) e Socialismo (partido, tomada do Estado). O ENEM costuma cobrar a Greve de 1917 como o marco do poder operário. Entenda a frase do presidente Washington Luís: 'A questão social é um caso de polícia' — essa visão dominava as elites republicanas. Saiba que as leis trabalhistas de Vargas não foram 'presentes', mas uma forma de controlar esse movimento operário que já era forte antes de 1930.",
+  "sections": [
+    {
+      "title": "1. Fábricas e Cortiços: O Cenário da Exploração",
+      "content": "No Brás e na Mooca, em São Paulo, as chaminés das fábricas eram cercadas por vilas operárias onde o trabalhador era oprimido 24 horas por dia. O patrão era dono da fábrica e da casa do operário. O barulho das máquinas e a poeira têxtil destruíam a saúde de crianças de 10 anos que trabalhavam à noite para sustentar a família. Não havia leis: o chicote havia sido trocado pelo relógio de ponto, mas a opressão era a mesma.",
+      "highlight": "A revolução operária começou no escuro das vilas operárias paulistas.",
+      "image": {
+        "url": "assets/images/lessons/movimento-operario-brasil/section_0.png",
+        "alt": "1. Fábricas e Cortiços: O Cenário da Exploração",
+        "caption": "1. Fábricas e Cortiços: O Cenário da Exploração"
+      }
+    },
+    {
+      "title": "2. Anarquismo: Nem Deus, Nem Mestre",
+      "content": "Os anarquistas italianos não queriam votar; queriam destruir o sistema. Eles diziam que o patrão e o governo eram os inimigos. Através de jornais como 'La Battaglia' e de grupos de teatro operário, eles educavam o trabalhador para a revolução social. Pregavam a autogestão e a solidariedade, acreditando que a greve geral seria o grande golpe final contra a sociedade capitalista burguesa.",
+      "highlight": "O anarquismo foi o combustível intelectual das primeiras grandes revoltas do Brasil.",
+      "image": {
+        "url": "assets/images/lessons/movimento-operario-brasil/section_1.png",
+        "alt": "2. Anarquismo: Nem Deus, Nem Mestre",
+        "caption": "2. Anarquismo: Nem Deus, Nem Mestre"
+      }
+    },
+    {
+      "title": "3. 1917: A Cidade sob as Nossas Mãos",
+      "content": "O funeral de José Martinez transformou-se em uma marcha fúnebre de milhares de pessoas. As ruas de São Paulo viraram trincheiras. Os operários sentiram, pela primeira vez, que podiam vencer. A greve de 17 foi vitoriosa em parte: os patrões prometeram 20% de aumento e não demitir os grevistas. Mas assim que a calma voltou, as promessas foram quebradas e a polícia voltou a caçar os líderes operários no meio da noite.",
+      "highlight": "Em 1917, São Paulo provou que a riqueza das fábricas não existia sem o suor dos trabalhadores.",
+      "image": {
+        "url": "assets/images/lessons/movimento-operario-brasil/section_2.png",
+        "alt": "3. 1917: A Cidade sob as Nossas Mãos",
+        "caption": "3. 1917: A Cidade sob as Nossas Mãos"
+      }
+    },
+    {
+      "title": "4. A Lei Adolfo Gordo e o Medo das Elites",
+      "content": "O governo republicano viu na greve a 'mão estrangeira'. O senador Adolfo Gordo criou a lei de expulsão: qualquer imigrante que fizesse propaganda de greve era colocado num navio de volta para a Europa, perdendo tudo o que construiu aqui. O Estado tratava o operário não como cidadão, mas como perigo público ou bando de arruaceiros, justificando o uso da cavalaria e das baionetas em cada esquina sindical.",
+      "highlight": "A expulsão foi o muro legal construído pelas elites para silenciar o sonho operário."
+    },
+    {
+      "title": "5. De 1922 ao Trabalhismo Varguista",
+      "content": "Em 1922, o PCB nasceu em Niterói para dar um rumo 'organizado' à luta. O anarquismo perdia força para o comunismo disciplinado de Moscou. No entanto, o sistema republicano só caiu em 1930. Vargas, percebendo que a repressão policial não bastava mais, criou o Ministério do Trabalho para legalizar o que os operários já haviam conquistado e acalmar as ruas. A luta operária forçou o Estado a mudar, mas perdeu parte de sua autonomia no processo.",
+      "highlight": "O PCB e o PTB foram os dois caminhos que surgiram das cinzas da anarquia de 1917."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O movimento operário brasileiro no início do século XX teve forte influência de imigrantes europeus. Qual era a corrente ideológica predominante entre os líderes grevistas de 1917?",
+      "options": [
+        "A) O monarquismo absoluto focado na volta de D. Pedro II.",
+        "B) O anarcosindicalismo e o anarquismo, que pregavam a negociação direta e a greve geral contra o Estado e o Capital.",
+        "C) O neoliberalismo focado na venda de empresas públicas brasileiras.",
+        "D) A vontade de que o Brasil fosse colonizado pela Itália de Mussolini.",
+        "E) O budismo zen-budista aplicado na meditação dentro das fábricas têxteis."
+      ],
+      "correctIndex": 1,
+      "explanation": "O anarquismo trazido por italianos e espanhóis foi a base da primeira organização operária no país.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A frase 'A questão social é um caso de polícia', atribuída ao presidente Washington Luís, expressa qual visão das elites da República Velha sobre as demandas operárias?",
+      "options": [
+        "A) A vontade de dar uniformes de gala para todos os trabalhadores.",
+        "B) A convicção de que as greves e as lutas por direitos trabalhistas eram crimes de ordem pública e deveriam ser reprimidas pela força policial, sem diálogo político.",
+        "C) O apoio total do governo federal à criação de sindicatos livres no interior.",
+        "D) A proibição de contratar policiais que não fossem operários das fábricas.",
+        "E) O cancelamento de todas as multas de trânsito para os grevistas."
+      ],
+      "correctIndex": 1,
+      "explanation": "Por décadas, as demandas por direitos no Brasil foram tratadas como distúrbios de ordem pública e não como direitos de cidadania.",
+      "source": "Simulado ENEM / História do Brasil"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/movimento-operario-brasil/thumb.png",
+    "alt": "Movimento Operário: O Despertar das Fábricas",
+    "caption": "Movimento Operário: O Despertar das Fábricas"
+  },
+  "support_texts": [
+    {
+      "source": "FAUSTO, Boris. Trabalho Urbano e Conflito Social. São Paulo: Difel, 1976.",
+      "paragraphs": [
+        "A Primeira República foi palco do alvorecer beligerante e de repressões massivas do chamado nascente operariado urbano e incipiente fabril do Sudeste. Formado substancialmente de italianos, espanhóis e egressos nacionais de parcos rendimentos o nascente proletariado nacional mobilizou um combativo protesto ideológico predominantemente assentado nas ideologias radicais originárias libertárias (imigração) sob os tentáculos diretos do anarcossindicalismo na recusa a tutelagens da república do voto corrupto.",
+        "O epicentro magno do protesto desta labuta degradante materializou-se concretamente deflagrando a grandiosa e histórica 'Greve Geral de 1917'. O apelo pelas reivindicações mínimas por horários não excruciantes e abolição das penalizações e chibatas nas linhas fabris por lideranças grevistas demonstrou inquestionávelmente as fraturantes contradições estruturais submersas na efervescente paisagem de fábricas nascentes de edifícios industriais.",
+        "Ao Enem e a intepretação social profunda convêm perceber que aos movimentos paredistas operários opuseram-se uma classe conservadora, repressiva estatal hermeticamente aliada que tratava sumariamente a agitação fabril 'não com legistlações apaziguadoras trabalhistas', e sim as categorizavam nos registros estatais como famigerada estritamente 'Questão de Polícia' passivo aos flagelos das prisões desterros ou deportações do famigerado anarquista rebelado."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O movimento operário brasileiro no início do século XX teve forte influência de imigrantes europeus. Qual era a corrente ideológica predominante entre os líderes grevistas de 1917?",
+        "back": "A) O monarquismo absoluto focado na volta de D. Pedro II.. O anarquismo trazido por italianos e espanhóis foi a base da primeira organização operária no país."
+      },
+      {
+        "front": "A frase 'A questão social é um caso de polícia', atribuída ao presidente Washington Luís, expressa qual visão das elites da República Velha sobre as demandas operárias?",
+        "back": "A) A vontade de dar uniformes de gala para todos os trabalhadores.. Por décadas, as demandas por direitos no Brasil foram tratadas como distúrbios de ordem pública e não como direitos de cidadania."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O monarquismo absoluto focado na volta de D. Pedro II.",
+        "is_true": true,
+        "explanation": "O anarquismo trazido por italianos e espanhóis foi a base da primeira organização operária no país."
+      },
+      {
+        "statement": "O anarcosindicalismo e o anarquismo, que pregavam a negociação direta e a greve geral contra o Estado e o Capital.",
+        "is_true": false,
+        "explanation": "Mito! O anarquismo trazido por italianos e espanhóis foi a base da primeira organização operária no país."
+      },
+      {
+        "statement": "A vontade de dar uniformes de gala para todos os trabalhadores.",
+        "is_true": true,
+        "explanation": "Por décadas, as demandas por direitos no Brasil foram tratadas como distúrbios de ordem pública e não como direitos de cidadania."
+      },
+      {
+        "statement": "A convicção de que as greves e as lutas por direitos trabalhistas eram crimes de ordem pública e deveriam ser reprimidas pela força policial, sem diálogo político.",
+        "is_true": false,
+        "explanation": "Mito! Por décadas, as demandas por direitos no Brasil foram tratadas como distúrbios de ordem pública e não como direitos de cidadania."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Anarco-sindicalismo",
+        "match": "Principal corrente do movimento operário no início do século XX"
+      },
+      {
+        "concept": "Greve de 1917",
+        "match": "Primeira grande greve geral do Brasil, em São Paulo"
+      },
+      {
+        "concept": "CLT",
+        "match": "Consolidação das Leis do Trabalho, criada por Vargas em 1943"
+      },
+      {
+        "concept": "PCB",
+        "match": "Partido Comunista do Brasil, fundado em 1922"
+      },
+      {
+        "concept": "Imigrantes anarquistas",
+        "match": "Italianos e espanhóis que trouxeram o anarquismo ao Brasil"
+      },
+      {
+        "concept": "Jornada de 8 horas",
+        "match": "Principal reivindicação dos operários no início do século"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Fábricas e Cortiços: O Cenário da Exploração",
+        "order": 1
+      },
+      {
+        "event": "2. Anarquismo: Nem Deus, Nem Mestre",
+        "order": 2
+      },
+      {
+        "event": "3. 1917: A Cidade sob as Nossas Mãos",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "TRABALHADORES",
+      "hint": "O conceito-chave central ou termo associado à aula de Movimento Operário: O Despertar das Fábricas."
+    }
+  }
+}

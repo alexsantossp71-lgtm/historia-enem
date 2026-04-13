@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "guerra-fria",
+    "title": "Guerra Fria: O Mundo Bipolar (1945-1991)",
+    "period": "Século XX",
+    "tags": [
+      "EUA",
+      "URSS",
+      "Muro de Berlim",
+      "Mundialismo",
+      "Socialismo"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História e Geopolítica",
+    "visual_depth": "elite"
+  },
+  "intro": "A Guerra Fria foi o período em que o mundo viveu sob a sombra de um apocalipse nuclear. Duas superpotências dividiram o planeta em dois blocos ideológicos e militares irreconciliáveis.",
+  "theory_content": "A **Guerra Fria** não foi um conflito direto (quente) de armas entre as duas superpotências, mas uma disputa global nos campos ideológico, econômico, científico e tecnológico. De um lado, os **EUA** lideravam o bloco capitalista defendendo a democracia liberal e o livre mercado; do outro, a **URSS** liderava o bloco socialista defendendo o planejamento estatal e o partido único. O marco inicial foi a **Doutrina Truman (1947)** e o **Plano Marshall**, em que os EUA enviaram bilhões para reconstruir a Europa Ocidental e evitar o avanço do socialismo. \n\nA tensão se materializou em blocos militares: a **OTAN** (capitalista) e o **Pacto de Varsóvia** (socialista). O mundo foi dividido por uma 'Cortina de Ferro', simbolizada fisicamente pelo **Muro de Berlim (1961)**. A corrida tecnológica foi frenética: a Corrida Espacial (com o Sputnik russo e a chegada americana à Lua em 1969) e a Corrida Armamentista nuclear, onde o princípio da **Destruição Mútua Assegurada (MAD)** dizia que, se um atacasse, o outro revidaria e ambos seriam destruídos, mantendo um equilíbrio precário de paz através do terror. \n\nEmbora EUA e URSS nunca tenham se enfrentado diretamente, eles financiaram inúmeras **Guerras Periféricas**, como as da Coreia (1950-53) e do Vietnã (1955-75), além da Crise dos Mísseis em Cuba (1962), o momento mais próximo que a humanidade chegou de uma guerra atômica. A URSS começou a entrar em colapso nos anos 80 por ineficiência econômica, o que levou às reformas de Gorbachev (**Perestroika e Glasnost**). O fim foi marcado pela Queda do Muro de Berlim (1989) e a desintegração oficial da URSS em 1991. O ENEM costuma cobrar as influências culturais da Guerra Fria (cinema de Hollywood e esporte) e o papel da ONU nesse novo xadrez mundial.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude os conceitos de 'Mural de Berlim' como símbolo da divisão. Saiba diferenciar a corrida espacial da armamentista. O ENEM costuma cobrar como a Guerra Fria influenciou as ditaduras militares na América Latina (Doutrina de Segurança Nacional). Entenda o que foi o Movimento dos Países Não-Alinhados (como o Brasil em alguns momentos) que buscavam não ser 'satélites' de nenhuma das duas potências.",
+  "sections": [
+    {
+      "title": "1. 1945: A Divisão da Alemanha e do Mundo",
+      "content": "Após a queda de Hitler, a Alemanha foi dividida em quatro zonas de ocupação, que depois se tornaram duas Alemanhas: a Ocidental (RFA, capitalista) e a Oriental (RDA, socialista). Stalin buscou criar um 'cordão sanitário' na Europa do leste para proteger a Rússia de futuras invasões. Foi o início de uma competição que duraria quase 50 anos por cada palmo do mapa terrestre.",
+      "highlight": "O mundo de 1945 não teve paz, teve apenas uma nova forma de guerra invisível.",
+      "image": {
+        "url": "assets/images/lessons/guerra-fria/section_0.png",
+        "alt": "1. 1945: A Divisão da Alemanha e do Mundo",
+        "caption": "1. 1945: A Divisão da Alemanha e do Mundo"
+      }
+    },
+    {
+      "title": "2. O Muro de Berlim e a Cortina de Ferro",
+      "content": "Em 1961, para conter a fuga de cidadãos do lado socialista para o capitalista, a RDA ergueu o Muro de Berlim em uma única noite. O muro cercava Berlim Ocidental e tornou-se a cicatriz física da Guerra Fria. Famílias foram separadas por 28 anos, e quem tentava cruzar a zona da morte era fuzilado, provando a natureza autoritária do regime soviético em crise.",
+      "highlight": "O muro era a confissão visual do fracasso comunista em manter seu povo satisfeito.",
+      "image": {
+        "url": "assets/images/lessons/guerra-fria/section_1.png",
+        "alt": "2. O Muro de Berlim e a Cortina de Ferro",
+        "caption": "2. O Muro de Berlim e a Cortina de Ferro"
+      }
+    },
+    {
+      "title": "3. A Corrida Espacial: Missão à Lua",
+      "content": "A conquista do espaço era a maior vitrine de superioridade científica. Se você pode colocar um satélite em órbita (como o Sputnik), pode colocar um míssil nuclear em qualquer cidade inimiga. A chegada de Neil Armstrong na Lua em 1969 foi a maior vitória de propaganda dos EUA, demonstrando que o sistema capitalista era capaz de produzir tecnologia super avançada frente aos soviéticos.",
+      "highlight": "A lua foi o último palco da competição ideológica mundial.",
+      "image": {
+        "url": "assets/images/lessons/guerra-fria/section_2.png",
+        "alt": "3. A Corrida Espacial: Missão à Lua",
+        "caption": "3. A Corrida Espacial: Missão à Lua"
+      }
+    },
+    {
+      "title": "4. Vietnã e Cuba: O Conflito nas Periferias",
+      "content": "No Vietnã, os EUA enfrentaram uma guerra de guerrilha humilhante contra os comunistas do norte. Foi a primeira guerra televisionada da história, gerando protestos hippie em todo o mundo. Em Cuba, a revolta de Fidel Castro e a instalação de mísseis russos na ilha em 1962 quase causaram a III Guerra Mundial. Kennedy e Khrushchev negociaram no limite do abismo para salvar a terra da radiação.",
+      "highlight": "As superpotências jogavam xadrez usando o sangue dos soldados de países pobres."
+    },
+    {
+      "title": "5. O Fim: Perestroika e o Colapso da URSS",
+      "content": "Mikhail Gorbachev assumiu a URSS em 1985 e tentou modernizá-la: Perestroika (reforma econômica) e Glasnost (abertura política). No entanto, o sistema estava tão mofado que desmoronou. Com a queda do muro em 1989, as nações socialistas declararam independência uma a uma. Em 1991, a bandeira vermelha foi baixada no Kremlin, marcando a vitória definitiva do modelo capitalista liberal.",
+      "highlight": "A Guerra Fria não acabou com um tiro, mas com uma fila para o McDonald's."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Crise dos Mísseis em Cuba (1962) é considerada o momento mais perigoso da Guerra Fria por que:",
+      "options": [
+        "A) O mundo ficou sem açúcar devido ao embargo americano contra a ilha.",
+        "B) Houve a iminência de um ataque nuclear direto entre as duas superpotências, após a descoberta de mísseis soviéticos apontados para os EUA.",
+        "C) O Papa Francisco declarou que Cuba deveria ser a capital do mundo.",
+        "D) Os cubanos tentaram invadir a lua antes de Neil Armstrong.",
+        "E) Os EUA e a URSS decidiram se unir para destruir o Brasil."
+      ],
+      "correctIndex": 1,
+      "explanation": "A crise durou 13 dias e foi o pico da tensão nuclear entre Kennedy e Khrushchev.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "Os termos 'Perestroika' e 'Glasnost' referem-se ao conjunto de reformas implementadas na URSS por Mikhail Gorbachev. O que elas representavam na prática?",
+      "options": [
+        "A) A proibição de qualquer tipo de comércio com o Japão.",
+        "B) O aumento total do poder do ditador Stalin sobre os camponeses.",
+        "C) A abertura política e a reestruturação econômica para tentar salvar o país da crise, o que acabou levando ao seu fim.",
+        "D) A construção de um novo muro muito maior em torno da Rússia.",
+        "E) A mudança de toda a população da URSS para a Sibéria."
+      ],
+      "correctIndex": 2,
+      "explanation": "A tentativa de reforma revelou as falhas estruturais que levaram à desintegração do bloco socialista.",
+      "source": "Simulado ENEM / História Contemporânea"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/guerra-fria/thumb.png",
+    "alt": "Guerra Fria: O Mundo Bipolar (1945-1991)",
+    "caption": "Guerra Fria: O Mundo Bipolar (1945-1991)"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Guerra Fria (1947-1991) foi o período de confronto global indireto entre as duas superpotências sobreviventes da Segunda Guerra Mundial: os Estados Unidos (capitalismo) e a União Soviética (socialismo). Marcada pelo 'equilíbrio do terror' nuclear, a disputa não resultou em um conflito direto entre os gigantes, mas em guerras por procuração (Coreia, Vietnã, Afeganistão) e em uma frenética corrida espacial e armamentista que exauriu os recursos de ambos os lados.",
+        "A Doutrina Truman e o Plano Marshall foram as ferramentas americanas para a contenção do comunismo na Europa Ocidental, enquanto o Pacto de Varsóvia e o COMECON consolidaram o bloco soviético. O mundo tornou-se bipolar, e qualquer conflito interno em países do Terceiro Mundo era imediatamente interpretado sob a ótica da disputa ideológica. No Brasil, o clima de Guerra Fria foi o pano de fundo para a marginalização do PCB e as tensões que culminaram no golpe de 1964.",
+        "A queda do Muro de Berlim em 1989 simbolizou o fim de uma era onde o mundo era dividido por 'cortinas de ferro'. Para o Enem, é vital compreender que a Guerra Fria não foi apenas militar, mas uma batalha cultural e tecnológica que influenciou desde a arte até o desenvolvimento da internet. O estudo deste período permite analisar a formação da ordem mundial contemporânea e as raízes de muitos conflitos geopolíticos que ainda observamos hoje."
+      ],
+      "source": "GADDIS, John Lewis. História da Guerra Fria. Rio de Janeiro: Nova Fronteira, 2006."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Crise dos Mísseis em Cuba (1962) é considerada o momento mais perigoso da Guerra Fria por que:",
+        "back": "A) O mundo ficou sem açúcar devido ao embargo americano contra a ilha.. A crise durou 13 dias e foi o pico da tensão nuclear entre Kennedy e Khrushchev."
+      },
+      {
+        "front": "Os termos 'Perestroika' e 'Glasnost' referem-se ao conjunto de reformas implementadas na URSS por Mikhail Gorbachev. O que elas representavam na prática?",
+        "back": "A) A proibição de qualquer tipo de comércio com o Japão.. A tentativa de reforma revelou as falhas estruturais que levaram à desintegração do bloco socialista."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O aumento total do poder do ditador Stalin sobre os camponeses.",
+        "is_true": false,
+        "explanation": "Mito! A tentativa de reforma revelou as falhas estruturais que levaram à desintegração do bloco socialista."
+      },
+      {
+        "statement": "Houve a iminência de um ataque nuclear direto entre as duas superpotências, após a descoberta de mísseis soviéticos apontados para os EUA.",
+        "is_true": false,
+        "explanation": "Mito! A crise durou 13 dias e foi o pico da tensão nuclear entre Kennedy e Khrushchev."
+      },
+      {
+        "statement": "A proibição de qualquer tipo de comércio com o Japão.",
+        "is_true": true,
+        "explanation": "A tentativa de reforma revelou as falhas estruturais que levaram à desintegração do bloco socialista."
+      },
+      {
+        "statement": "O mundo ficou sem açúcar devido ao embargo americano contra a ilha.",
+        "is_true": true,
+        "explanation": "A crise durou 13 dias e foi o pico da tensão nuclear entre Kennedy e Khrushchev."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Cortina de Ferro",
+        "match": "Divisão simbólica entre Europa capitalista e socialista"
+      },
+      {
+        "concept": "NATO / OTAN",
+        "match": "Aliança military ocidental liderada pelos EUA"
+      },
+      {
+        "concept": "Pacto de Varsóvia",
+        "match": "Aliança military do bloco soviético"
+      },
+      {
+        "concept": "Corrida espacial",
+        "match": "Disputa entre EUA e URSS pela conquista do espaço"
+      },
+      {
+        "concept": "McCarthismo",
+        "match": "Perseguição anticomunista nos EUA nos anos 1950"
+      },
+      {
+        "concept": "Muro de Berlim",
+        "match": "Barreira que dividiu Berlim de 1961 a 1989"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. 1945: A Divisão da Alemanha e do Mundo",
+        "order": 1
+      },
+      {
+        "event": "2. O Muro de Berlim e a Cortina de Ferro",
+        "order": 2
+      },
+      {
+        "event": "3. A Corrida Espacial: Missão à Lua",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "IRRECONCILIÁVEIS",
+      "hint": "O conceito-chave central ou termo associado à aula de Guerra Fria: O Mundo Bipolar (1945-1991)."
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "unificacoes",
+    "title": "Unificações: O Nascimento de Novas Potências",
+    "period": "1850 - 1871",
+    "tags": [
+      "Bismarck",
+      "Garibaldi",
+      "Alsácia-Lorena",
+      "Nacionalismo",
+      "Realpolitik"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "A Itália e a Alemanha não existiam como países até o final do século XIX. Sua unificação mudou o equilíbrio de poder na Europa e preparou o terreno para as grandes guerras mundiais.",
+  "theory_content": "No século XIX, a região da Europa Central era um mosaico de pequenos reinos e ducados. A unificação dessas nações foi movida pelo **Nacionalismo** e pelas necessidades da **Segunda Revolução Industrial** (que exigia mercados unificados e moedas únicas). \n\nNa **Itália**, o movimento conhecido como *Risorgimento* foi liderado pelo Reino do Piemonte-Sardenha. O conde Cavour usou a diplomacia, enquanto **Giuseppe Garibaldi** (o 'Herói de Dois Mundos') comandou os 'Camisas Vermelhas' na conquista do sul da península. Em 1870, com a queda de Roma, a Itália unificou-se, restando apenas a Questão Romana (o conflito com o Papa). \n\nNa **Alemanha**, a unificação foi guiada pela Prússia e pelo gênio de **Otto von Bismarck**, o 'Chanceler de Ferro'. Sua política era a **Realpolitik** (política baseada em fins pragmáticos e força militar, não em ideais). Através de três guerras rápidas (contra Dinamarca, Áustria e França), Bismarck uniu os estados alemães sob a coroa de Guilherme I. A vitória na Guerra Franco-Prussiana (1871) humilhou a França, que perdeu as ricas regiões da **Alsácia-Lorena**, criando um sentimento de revanche que seria um dos principais motores da **Primeira Guerra Mundial**. O nascimento do Império Alemão (Segundo Reich) transformou a Alemanha na maior potência industrial e militar do continente da noite para o dia. O ENEM costuma cobrar as motivações econômicas dessas unificações e os impactos geopolíticos na Europa.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude os conceitos de 'Zollverein' (união aduaneira alemã) e 'Irredentismo' (terras que os italianos ainda reivindicavam). O ENEM costuma cobrar a figura de Bismarck como o arquiteto da modernidade autoritária alemã e a participação de Garibaldi em movimentos no Brasil (Revolução Farroupilha). Entenda que a unificação alemã rompeu o equilíbrio de forças criado no Congresso de Viena.",
+  "sections": [
+    {
+      "title": "1. Zollverein: A Unificação pelo Bolso",
+      "content": "Antes de ser política, a unificação alemã foi econômica. A Prússia criou o Zollverein, uma zona de livre comércio entre os estados germânicos que excluía a Áustria. Isso permitiu que a indústria alemã crescesse rápido e que as ferrovias conectassem as cidades prussianas com as bávaras. Quando Bismarck assumiu, o terreno econômico para uma só nação já estava pronto.",
+      "highlight": "A economia alemã uniu-se antes que as baionetas decidissem a política.",
+      "image": {
+        "url": "assets/images/lessons/unificacoes/section_0.png",
+        "alt": "1. Zollverein: A Unificação pelo Bolso",
+        "caption": "1. Zollverein: A Unificação pelo Bolso"
+      }
+    },
+    {
+      "title": "2. Bismarck e a Política do Sangue e Ferro",
+      "content": "Bismarck declarou que os grandes problemas da época não seriam resolvidos com discursos, mas com 'Sangue e Ferro'. Ele modernizou o exército prussiano, transformando-o na máquina de guerra mais eficiente do mundo. Sua diplomacia era cínica e genial: ele isolava seus inimigos um a um antes de atacá-los, garantindo vitórias rápidas e territórios estratégicos.",
+      "highlight": "Bismarck foi o cirurgião militar que pariu a Alemanha moderna.",
+      "image": {
+        "url": "assets/images/lessons/unificacoes/section_1.png",
+        "alt": "2. Bismarck e a Política do Sangue e Ferro",
+        "caption": "2. Bismarck e a Política do Sangue e Ferro"
+      }
+    },
+    {
+      "title": "3. Garibaldi e o Risorgimento Italiano",
+      "content": "A Itália era dividida entre o norte rico e industrial, o sul pobre e agrário, e os Estados Pontifícios (do Papa) no meio. Garibaldi, com o apoio do povo, conquistou o sul (Reino das Duas Sicílias) em uma campanha relâmpago. Ele abriu mão do poder em favor do Rei Vítor Emanuel II para garantir a união do país, um gesto raro de patriotismo que o tornou mito nacional.",
+      "highlight": "Garibaldi deu à Itália o coração romântico, enquanto Piemonte deu o cérebro político.",
+      "image": {
+        "url": "assets/images/lessons/unificacoes/section_2.png",
+        "alt": "3. Garibaldi e o Risorgimento Italiano",
+        "caption": "3. Garibaldi e o Risorgimento Italiano"
+      }
+    },
+    {
+      "title": "4. Sedan e a Humilhação Francesa",
+      "content": "A batalha final da unificação alemã ocorreu em Sedan, onde o imperador francês Napoleão III foi preso. Os alemães proclamaram o seu Império (Reich) dentro da Galeria dos Espelhos do Palácio de Versalhes, o maior símbolo do orgulho francês. A perda da Alsácia-Lorena transformou a França em uma eterna inimiga da Alemanha, esperando a primeira chance para se vingar.",
+      "highlight": "O Império Alemão nasceu da humilhação total da França."
+    },
+    {
+      "title": "5. Consequências: Corrida Armamentista",
+      "content": "Com a unificação alemã, o equilíbrio de forças na Europa acabou. A Inglaterra passou a temer a marinha alemã, e a Rússia temia o avanço terrestre prussiano. O mundo entrou na 'Paz Armada', um período onde todos se preparavam para o conflito que parecia inevitável. As unificações foram o pavio que acendeu o século XX de guerras.",
+      "highlight": "As unificações tardias criaram as tensões imediatas da 1ª Guerra Mundial."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A unificação alemã, concluída em 1871 sob a liderança da Prússia, teve como um de seus principais resultados a anexação de territórios franceses. Quais eram esses territórios e qual sentimento geraram na França?",
+      "options": [
+        "A) Provença e Côte d'Azur; sentimento de festa e união.",
+        "B) Alsácia e Lorena; sentimento de revanchismo que contribuiu para a 1ª Guerra Mundial.",
+        "C) Paris e Lyon; sentimento de gratidão absoluta à Alemanha.",
+        "D) Córsega e Sardenha; sentimento de apatia e preguiça política.",
+        "E) Madrid e Lisboa; sentimento de orgulho nacional ibérico."
+      ],
+      "correctIndex": 1,
+      "explanation": "A perda dessas províncias ricas em minérios feriu o orgulho francês e alimentou o desejo de vingança até 1914.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "O 'Zollverein', crucial para a unificação alemã, consistia em:",
+      "options": [
+        "A) Uma aliança religiosa entre católicos e protestantes.",
+        "B) Uma união aduaneira de livre comércio entre os Estados germânicos, liderada pela Prússia.",
+        "C) Um festival de música folclórica obrigatório para todos os nobres.",
+        "D) A proibição de qualquer tipo de indústria de armas no país.",
+        "E) O fechamento total das fronteiras alemãs para o comércio exterior."
+      ],
+      "correctIndex": 1,
+      "explanation": "A integração econômica serviu de base material para a união política posterior.",
+      "source": "Simulado ENEM / História Geral"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/unificacoes/thumb.png",
+    "alt": "Unificações: O Nascimento de Novas Potências",
+    "caption": "Unificações: O Nascimento de Novas Potências"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "As unificações da Itália e da Alemanha no final do século XIX alteraram o equilíbrio de poder na Europa, sendo marcos do nacionalismo burguês. Inspiradas pelos ideais liberais e impulsionadas por burguesias desejosas de mercados maiores e padronizados, as unificações foram processos conduzidos 'de cima para baixo'. Na Prússia de Otto von Bismarck, a 'Política do Ferro e Sangue' usou a guerra contra Áustria e França para cimentar a unidade alemã sob a égide autoritária do II Reich.",
+        "Na Itália, o processo de *Risorgimento* foi mais fragmentado, divido entre o republicanismo de Garibaldi e a monarquia de Cavour e do Reino da Sardenha-Piemonte. A unificação deixou sequelas: a Alemanha emergiu como a maior potência militar e industrial do continente, enquanto a Itália permaneceu dividida entre um Norte industrial e um Sul agrário e pobre. Esse nacionalismo ufanista que uniu estes novos Estados foi o precursor das tensões imperialistas que desembocariam na Primeira Guerra Mundial.",
+        "Para o Enem, o estudo das unificações é central para compreender a desintegração do sistema do Congresso de Viena e o surgimento das rivalidades europeias modernas. A análise da figura de Bismarck permite discutir como o Estado pode cooptar as classes populares (através da criação dos primeiros seguros sociais) para garantir a ordem interna enquanto expande sua influência externa. As unificações provam que o mapa europeu, longe de ser estático, foi forjado através da diplomacia e da violência industrializada."
+      ],
+      "source": "HOBSBAWM, Eric. A Era do Capital (1848-1875). Rio de Janeiro: Paz e Terra, 2012."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A unificação alemã, concluída em 1871 sob a liderança da Prússia, teve como um de seus principais resultados a anexação de territórios franceses. Quais eram esses territórios e qual sentimento geraram na França?",
+        "back": "A) Provença e Côte d'Azur; sentimento de festa e união.. A perda dessas províncias ricas em minérios feriu o orgulho francês e alimentou o desejo de vingança até 1914."
+      },
+      {
+        "front": "O 'Zollverein', crucial para a unificação alemã, consistia em:",
+        "back": "A) Uma aliança religiosa entre católicos e protestantes.. A integração econômica serviu de base material para a união política posterior."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Provença e Côte d'Azur; sentimento de festa e união..",
+        "is_true": true,
+        "explanation": "A perda dessas províncias ricas em minérios feriu o orgulho francês e alimentou o desejo de vingança até 1914."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Alsácia e Lorena; sentimento de revanchismo que contribuiu para a 1ª Guerra Mundial..",
+        "is_true": false,
+        "explanation": "Falso! A perda dessas províncias ricas em minérios feriu o orgulho francês e alimentou o desejo de vingança até 1914."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Uma aliança religiosa entre católicos e protestantes..",
+        "is_true": true,
+        "explanation": "A integração econômica serviu de base material para a união política posterior."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Uma união aduaneira de livre comércio entre os Estados germânicos, liderada pela Prússia..",
+        "is_true": false,
+        "explanation": "Falso! A integração econômica serviu de base material para a união política posterior."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Bismarck",
+        "match": "Chanceler prussiano que unificou a Alemanha"
+      },
+      {
+        "concept": "Ressurgimento italiano",
+        "match": "Movimento de unificação da Itália (Risorgimento)"
+      },
+      {
+        "concept": "Garibaldi",
+        "match": "Herói popular da unificação italiana"
+      },
+      {
+        "concept": "Realpolitik",
+        "match": "Política baseada em interesses práticos, não em ideais"
+      },
+      {
+        "concept": "Estados alemães",
+        "match": "39 estados que se unificaram em 1871 formando o Império"
+      },
+      {
+        "concept": "Cavour",
+        "match": "Primeiro-ministro do Piemonte que articulou a unificação italiana"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Zollverein: A Unificação pelo Bolso",
+        "order": 1
+      },
+      {
+        "event": "2. Bismarck e a Política do Sangue e Ferro",
+        "order": 2
+      },
+      {
+        "event": "3. Garibaldi e o Risorgimento Italiano",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "UNIFICAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Unificações: O Nascimento de Novas Potências."
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "id": "grecia-antiga",
+    "title": "Grécia Antiga: Política, Cultura e Pólis",
+    "period": "800 a.C. - 146 a.C.",
+    "tags": [
+      "Atenas",
+      "Democracia",
+      "Filosofia",
+      "Esparta",
+      "Helenismo"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "thumbnail": "assets/images/lessons/grecia-antiga/section_0.png",
+    "visual_depth": "elite"
+  },
+  "intro": "A civilização grega não foi um império unificado, mas um arquipélago de ideias. Na Pólis, surgiu a política como debate racional, a filosofia como busca pela verdade e a arte como expressão da harmonia humana.",
+  "theory_content": "A história da Grécia Antiga é fundamental para entender o conceito moderno de **Cidadania**. Ela é dividida nos períodos Pré-Homérico, Homérico, Arcaico, Clássico e Helenístico. O Período Arcaico viu o surgimento da **Pólis** (Cidade-Estado), uma unidade política soberana que transformou o antigo clã (genos) em uma comunidade de cidadãos. \n\nDuas cidades simbolizam os caminhos opostos da Grécia: **Atenas** e **Esparta**. Atenas, através das reformas de Sólon e Clístenes, criou a **Democracia**. Diferente da nossa democracia representativa, a ateniense era **Direta**: o cidadão participava pessoalmente da Eclésia (Assembleia) para votar leis. Os conceitos de **Isonomia** (igualdade perante a lei), **Isocracia** (igualdade de acesso aos cargos) e **Isegoria** (igualdade de direito à fala) eram os pilares do sistema. Contudo, essa liberdade dependia de uma base escravocrata e da exclusão total de mulheres, escravos e metecos (estrangeiros). \n\nEsparta, por outro lado, era uma **Oligarquia** militarista. A educação (Agogê) visava formar o soldado perfeito, submetido ao Estado desde os 7 anos. A sociedade espartana era mantida pela exploração dos hilotas (servos estatais), que viviam em constante vigilância armada. \n\nNo ápice do Período Clássico (Século de Péricles), a Grécia brilhou na filosofia (Sócrates, Platão e Aristóteles), no teatro e na arquitetura. Mas a rivalidade entre as cidades levou à autodestruição na **Guerra do Peloponeso**, o que permitiu o domínio da Macedônia sob **Alexandre, o Grande**. O período Helenístico, que se seguiu, foi a fusão da cultura grega com a oriental, espalhando o conhecimento grego por todo o mundo mediterrâneo antes da conquista definitiva por Roma.",
+  "sections": [
+    {
+      "title": "1. O Conceito de Pólis e o Espaço Público",
+      "content": "A Pólis grega revolucionou a história ao transferir o poder do palácio do rei para a **Ágora** (praça pública). Na praça, a solução dos problemas coletivos não vinha de uma revelação divina, mas da retórica e do argumento. A política grega era, portanto, uma atividade intelectual e verbal. O cidadão era aquele que se dedicava ao bem comum acima dos interesses privados (idiotês - aquele que só cuida do próprio umbigo).",
+      "highlight": "A política nasceu quando os homens decidiram resolver seus conflitos pelo debate e não pela força.",
+      "image": {
+        "url": "assets/images/lessons/grecia-antiga/section_0.png",
+        "alt": "Ilustração de 1. O Conceito de Pólis e o Espaço Público",
+        "caption": "Interpretacao artistica: 1. O Conceito de Pólis e o Espaço Público"
+      }
+    },
+    {
+      "title": "2. Democracia Ateniense: Direta e Seletiva",
+      "content": "Com Clístenes, o 'Pai da Democracia', Atenas foi dividida em dez tribos geográficas para diluir o poder das famílias aristocráticas. O voto era exercido na Eclésia. Para garantir que todos os cidadãos — e não apenas os ricos — participassem, criou-se a mistoforia (uma ajuda de custo para quem ia exercer cargos públicos). Entretanto, apenas homens livres e filhos de atenienses podiam votar, deixando 90% da população de fora.",
+      "image": {
+        "url": "assets/images/lessons/grecia-antiga/section_1.png",
+        "alt": "Ilustração de 2. Democracia Ateniense: Direta e Seletiva",
+        "caption": "Interpretacao artistica: 2. Democracia Ateniense: Direta e Seletiva"
+      },
+      "highlight": "A democracia grega era baseada na presença física do cidadão no processo decisório."
+    },
+    {
+      "title": "3. Esparta: A Disciplina do Guerreiro",
+      "content": "Em Esparta, a vida era regida pela austeridade (laconicismo). Governada por uma Gerúsia (conselho de idosos) e dois reis (diarquia), a cidade era uma máquina de guerra. A mulher espartana tinha mais liberdade e educação física do que a ateniense, pois precisava gerar filhos fortes. A economia era mantida pelos Hilotas, uma classe de servos que tentava se rebelar constantemente contra a opressão militar espartana.",
+      "highlight": "Esparta sacrificou as artes e a filosofia em nome da suprema disciplina militar.",
+      "image": {
+        "url": "assets/images/lessons/grecia-antiga/section_2.png",
+        "alt": "Ilustração de 3. Esparta: A Disciplina do Guerreiro",
+        "caption": "Interpretacao artistica: 3. Esparta: A Disciplina do Guerreiro"
+      }
+    },
+    {
+      "title": "4. O Conflito Final: Guerra do Peloponeso",
+      "content": "Após as Guerras Médicas (unindo gregos contra os Persas), Atenas e Esparta entraram em choque. A Liga de Delos (liderada por Atenas) e a Liga do Peloponeso (liderada pelas cidades espartanas) entraram em uma guerra civil de 27 anos que esgotou os recursos da Grécia. A vitória de Esparta foi amarga: a Grécia ficou tão enfraquecida que foi facilmente conquistada por Filipe II da Macedônia.",
+      "highlight": "A desunião das cidades-estado facilitou o fim da autonomia política grega."
+    },
+    {
+      "title": "5. O Helenismo: A Grega pelo Mundo",
+      "content": "Alexandre Magno, aluno de Aristóteles, não apenas conquistou o Egito e a Pérsia; ele misturou as culturas. O helenismo foi a disseminação do grego como língua universal, do teatro e das ciências gregas fundidas com a mística egípcia e babilônica. Cidades como Alexandria tornaram-se os novos centros do mundo, com bibliotecas e museus que preservaram o saber grego para o futuro Império Romano e para nós.",
+      "image": {
+        "url": "/assets/img/historia/alexandre_magno.png",
+        "alt": "Busto de Alexandre o Grande com o mundo ao fundo",
+        "caption": "O império de Alexandre Magno foi a ponte cultural que permitiu a sobrevivência do saber grego."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A cidadania em Atenas clássica era privilégio de um grupo seleto. Eram considerados cidadãos apenas os:",
+      "options": [
+        "A) Homens e mulheres nascidos na cidade, independentemente da renda.",
+        "B) Homens livres, adultos, filhos de pais atenienses e que tivessem prestado serviço militar.",
+        "C) Estrangeiros radicados que dominassem a língua e a filosofia grega.",
+        "D) Escravizados que conseguissem comprar sua própria liberdade.",
+        "E) Membros da Igreja Católica radicada em Atenas no período."
+      ],
+      "correctIndex": 1,
+      "explanation": "A cidadania era restritiva: mulheres, escravos e estrangeiros não tinham direitos políticos.",
+      "source": "FUVEST/ENEM"
+    },
+    {
+      "question": "A Guerra do Peloponeso (431-404 a.C.) teve como uma de suas principais causas:",
+      "options": [
+        "A) A invasão dos romanos no solo sagrado de Delfos.",
+        "B) O desejo de Alexandre Magno de destruir a democracia ateniense.",
+        "C) A rivalidade política e econômica entre a Liga de Delos (Atenas) e a Liga do Peloponeso (Esparta).",
+        "D) A disputa pela posse das pirâmides do Egito entre as cidades gregas.",
+        "E) A proibição do teatro em toda a Grécia por ordens de Sócrates."
+      ],
+      "correctIndex": 2,
+      "explanation": "A hegemonia de Atenas incomodava as outras pólis, gerando o maior conflito interno da Grécia Antiga.",
+      "source": "Simulado ENEM Tradicional"
+    }
+  ],
+  "thumbnail": "assets/images/lessons/grecia-antiga/thumb.png",
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A pólis grega, enquanto unidade política soberana, foi o laboratório onde nasceu o conceito de cidadania e democracia no Ocidente. Diferente dos impérios orientais teocráticos, em Atenas o poder emanava (teoricamente) do corpo de cidadãos reunidos na Ágora. Contudo, essa liberdade era excludente: mulheres, estrangeiros (metecos) e a vasta massa de escravizados não possuíam direitos políticos, revelando que a democracia clássica era um privilégio de uma minoria aristocrática ou proprietária de terras.",
+        "Os Jogos Olímpicos e a religião antropomórfica serviam como cimento cultural para os gregos, que, apesar de politicamente fragmentados em centenas de cidades-estado, compartilhavam uma identidade Pan-helênica. A crença de que os homens e os deuses possuíam a mesma forma e sentimentos (ainda que os deuses fossem imortais) impulsionou a valorização do corpo humano e da razão, as bases do humanismo clássico que influenciaria o Renascimento e a Ilustração séculos depois.",
+        "O conflito entre Atenas (o poder marítimo e democrático) e Esparta (o poder terrestre e aristocrático), culminando na Guerra do Peloponeso, demonstrou os limites do imperialismo grego. A exaustão causada por essas lutas internas abriu caminho para a conquista macedônica por Alexandre, o Grande, dando início ao período Helenístico. Este período foi marcado pela fusão da cultura grega com a oriental, criando um mundo cosmopolita onde o conhecimento científico e a filosofia se expandiram muito além das fronteiras da península balcânica."
+      ],
+      "source": "FINLEY, Moses I. O Mundo de Ulisses. Lisboa: Presença, 1998."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A cidadania em Atenas clássica era privilégio de um grupo seleto. Eram considerados cidadãos apenas os:",
+        "back": "A) Homens e mulheres nascidos na cidade, independentemente da renda.. A cidadania era restritiva: mulheres, escravos e estrangeiros não tinham direitos políticos."
+      },
+      {
+        "front": "A Guerra do Peloponeso (431-404 a.C.) teve como uma de suas principais causas:",
+        "back": "A) A invasão dos romanos no solo sagrado de Delfos.. A hegemonia de Atenas incomodava as outras pólis, gerando o maior conflito interno da Grécia Antiga."
+      },
+      {
+        "front": "Qual é o tema fundamental para entender o conceito moderno de Cidadania?",
+        "back": "A história da Grécia Antiga"
+      },
+      {
+        "front": "Qual era a característica da democracia em Atenas?",
+        "back": "Direta"
+      },
+      {
+        "front": "Qual era o sistema de governo em Esparta?",
+        "back": "Oligarquia militarista"
+      },
+      {
+        "front": "Quem foi o líder que permitiu o domínio da Macedônia sobre a Grécia?",
+        "back": "Alexandre, o Grande"
+      },
+      {
+        "front": "Qual foi o resultado da rivalidade entre as cidades-estados gregas?",
+        "back": "A Guerra do Peloponeso"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O desejo de Alexandre Magno de destruir a democracia ateniense.",
+        "is_true": false,
+        "explanation": "Mito! A hegemonia de Atenas incomodava as outras pólis, gerando o maior conflito interno da Grécia Antiga."
+      },
+      {
+        "statement": "Homens livres, adultos, filhos de pais atenienses e que tivessem prestado serviço militar.",
+        "is_true": false,
+        "explanation": "Mito! A cidadania era restritiva: mulheres, escravos e estrangeiros não tinham direitos políticos."
+      },
+      {
+        "statement": "Homens e mulheres nascidos na cidade, independentemente da renda.",
+        "is_true": true,
+        "explanation": "A cidadania era restritiva: mulheres, escravos e estrangeiros não tinham direitos políticos."
+      },
+      {
+        "statement": "A invasão dos romanos no solo sagrado de Delfos.",
+        "is_true": true,
+        "explanation": "A hegemonia de Atenas incomodava as outras pólis, gerando o maior conflito interno da Grécia Antiga."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Polis",
+        "match": "Cidade-Estado grega com autonomia política"
+      },
+      {
+        "concept": "Democracia ateniense",
+        "match": "Sistema de governo participativo criado em Atenas"
+      },
+      {
+        "concept": "Espartanos",
+        "match": "Guerreiros treinados desde criança para a guerra"
+      },
+      {
+        "concept": "Olimpíadas",
+        "match": "Jogos em honra a Zeus realizados a cada 4 anos"
+      },
+      {
+        "concept": "Sócrates",
+        "match": "Filósofo que questionava tudo pelo diálogo"
+      },
+      {
+        "concept": "Alexandre, o Grande",
+        "match": "Conquistador macedônico que helenizou o Oriente"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Conceito de Pólis e o Espaço Público",
+        "order": 1
+      },
+      {
+        "event": "2. Democracia Ateniense: Direta e Seletiva",
+        "order": 2
+      },
+      {
+        "event": "3. Esparta: A Disciplina do Guerreiro",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CIVILIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Grécia Antiga: Política, Cultura e Pólis."
+    }
+  }
+}

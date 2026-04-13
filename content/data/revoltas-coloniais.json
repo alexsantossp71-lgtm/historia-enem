@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "revoltas-coloniais",
+    "title": "Revoltas Coloniais: Nativismo e Separatismo",
+    "period": "Séculos XVII e XVIII",
+    "tags": [
+      "Inconfidência Mineira",
+      "Conjuração Baiana",
+      "Nativismo",
+      "Pacto Colonial",
+      "Iluminismo"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "As revoltas coloniais no Brasil foram as primeiras rachaduras no Pacto Colonial. Elas variaram de revoltas locais por impostos até movimentos revolucionários que planejavam a independência total do país.",
+  "theory_content": "As revoltas no Brasil Colônia são classificadas pela historiografia em dois grandes grupos: as **Revoltas Nativistas** (século XVII e início do XVIII) e as **Revoltas Separatistas ou Emancipacionistas** (final do século XVIII). \n\nAs Nativistas, como a **Revolta de Beckman (MA)**, a **Guerra dos Emboabas (MG)**, a **Guerra dos Mascates (PE)** e a **Revolta de Vila Rica (MG)**, não visavam a separação de Portugal. Elas eram conflitos pontuais contra o monopólio comercial, os altos impostos da Coroa ou disputas entre colonos e comerciantes estrangeiros. O foco era resolver um problema regional, mantendo-se a lealdade ao Rei. \n\nJá as Separatistas surgiram sob a influência do **Iluminismo** e das revoluções burguesas (EUA e França). A **Inconfidência Mineira (1789)** foi um movimento da elite intelectual e econômica de Minas Gerais contra a derrama (cobrança forçada de quintos atrasados). Embora republicana e liberal, era contraditória: a maioria dos conspiradores não defendia a abolição da escravidão. Em contraste, a **Conjuração Baiana ou Revolta dos Alfaiates (1798)** teve caráter eminentemente popular e racial. Liderada por negros, pardos e artesãos, ela exigia o fim da escravidão, a igualdade de direitos e a fundação de uma república democrática em Salvador. A diferença nas punições dadas pela Coroa (onde apenas Tiradentes foi enforcado em Minas, enquanto quatro líderes populares foram executados na Bahia) revela o medo que a elite colonial tinha de um levante social negro nos moldes da Revolução do Haiti.",
+  "sections": [
+    {
+      "title": "1. Revolta de Beckman e a Guerra dos Mascates",
+      "content": "No Maranhão (1684), os irmãos Beckman lideraram o povo contra o monopólio da Companhia de Comércio do Maranhão que vendia caro e entregava mercadorias de má qualidade. Foi o primeiro grande grito contra o pacto colonial econômico. Já em Pernambuco (1710), a Guerra dos Mascates opôs a aristocracia rural de Olinda (senhores de engenho em decadência) aos comerciantes portugueses de Recife (os 'Mascates', novos ricos). Mostrou o choque entre a tradição agrária e o novo capital comercial.",
+      "highlight": "As revoltas nativistas focavam na sobrevivência econômica local, sem questionar o domínio do Rei.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-coloniais/section_0.png",
+        "alt": "1. Revolta de Beckman e a Guerra dos Mascates",
+        "caption": "1. Revolta de Beckman e a Guerra dos Mascates"
+      }
+    },
+    {
+      "title": "2. Inconfidência Mineira e o Mito de Tiradentes",
+      "content": "A Inconfidência nasceu em banquetes e saraus literários. Poetas (como Cláudio Manuel da Costa e Tomás Antônio Gonzaga), padres e mineradores endividados com a Coroa planejavam uma república em Vila Rica. Tiradentes, o de menor patente entre eles, foi o bode expiatório usado para amedrontar a população. O movimento foi denunciado por Joaquim Silvério dos Reis em troca do perdão de suas dívidas, antes mesmo de começar.",
+      "highlight": "A Inconfidência foi um projeto republicano de elite que temia a libertação dos escravizados.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-coloniais/section_1.png",
+        "alt": "2. Inconfidência Mineira e o Mito de Tiradentes",
+        "caption": "2. Inconfidência Mineira e o Mito de Tiradentes"
+      }
+    },
+    {
+      "title": "3. Conjuração Baiana: A Revolta dos Alfaiates",
+      "content": "Diferente de Minas, na Bahia os panfletos eram colados nas portas das igrejas clamando por 'Liberdade, Igualdade e Fraternidade'. Os soldados e alfaiates baianos queriam o fim do preconceito de cor e a abolição da escravidão. Enquanto a elite de Minas pedia por impostos menores, o povo baiano pedia por comida (pão) e liberdade real para todos os homens, independentemente da raça.",
+      "highlight": "A Conjuração Baiana foi o movimento mais próximo dos ideais populares da Revolução Francesa no Brasil.",
+      "image": {
+        "url": "assets/images/lessons/revoltas-coloniais/section_2.png",
+        "alt": "3. Conjuração Baiana: A Revolta dos Alfaiates",
+        "caption": "3. Conjuração Baiana: A Revolta dos Alfaiates"
+      }
+    },
+    {
+      "title": "4. Influência das Luzes e das Revoluções Externas",
+      "content": "As revoltas separatistas não teriam existido sem o Iluminismo. Livros proibidos chegavam às mãos de estudantes brasileiros que voltavam da Europa. A Independência dos EUA (1776) serviu de prova prática de que uma colônia poderia vencer a metrópole. A Revolução do Haiti (1804), por outro lado, causou pavor nas elites brasileiras, que passaram a vigiar qualquer movimento que pedisse o fim da escravidão.",
+      "highlight": "As ideias de liberdade viajavam em livros escondidos para inflamar os corações coloniais."
+    },
+    {
+      "title": "5. Repressão e Legado Institucional",
+      "content": "A Coroa Portuguesa reagiu com extrema violência a qualquer tentativa separatista. As 'Devassas' (investigações) destruíam famílias e propriedades. No entanto, esses movimentos foram fundamentais para criar um sentimento de 'brasilidade' que explodiria mais tarde em 1822. O Brasil aprendeu que o pacto colonial era uma camisa de força que impedia o crescimento de qualquer setor que não fosse o extrativismo puro.",
+      "highlight": "O sangue dos revoltosos adubou o terreno das ideias que levariam à independência de 1822."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A principal diferença social entre a Inconfidência Mineira (1789) e a Conjuração Baiana (1798) reside no fato de que:",
+      "options": [
+        "A) A mineira era de caráter popular e a baiana era comandada por grandes fazendeiros.",
+        "B) A mineira desejava a volta da monarquia, enquanto a baiana queria uma república fascista.",
+        "C) A mineira era liderada pela elite e não priorizava a abolição, enquanto a baiana era popular, negra e abolicionista.",
+        "D) Nenhuma das duas revoltas aceitava a influência de ideias vindas da França ou dos EUA.",
+        "E) Foram revoltas que ocorreram apenas nas praias, sem qualquer motivação política interna."
+      ],
+      "correctIndex": 2,
+      "explanation": "A Inconfidência Mineira foi um movimento elitista; a Conjuração Baiana incluiu camadas populares e escravizadas no centro do projeto político.",
+      "source": "Enem 2011"
+    },
+    {
+      "question": "O termo 'Revolta Nativista' é atribuído aos conflitos coloniais que:",
+      "options": [
+        "A) Queriam a independência total do Brasil e a criação de uma bandeira nacional imediatamente.",
+        "B) Eram focados em problemas regionais e econômicos, sem a intenção de romper com o domínio de Portugal.",
+        "C) Foram financiados apenas por índios amazônicos para expulsar os europeus.",
+        "D) Tinham como único objetivo transformar o Brasil em uma colônia russa.",
+        "E) Declararam guerra apenas contra os padres jesuítas no sul do país."
+      ],
+      "correctIndex": 1,
+      "explanation": "O nativismo buscava reformas dentro do sistema colonial, não a quebra do sistema em si.",
+      "source": "Simulado ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revoltas-coloniais/thumb.png",
+    "alt": "Revoltas Coloniais: Nativismo e Separatismo",
+    "caption": "Revoltas Coloniais: Nativismo e Separatismo"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "As revoltas coloniais no Brasil (séculos XVII e XVIII) dividem-se em nativistas e emancipacionistas, refletindo o amadurecimento das tensões entre a colônia e o sistema mercantilista português. Enquanto revoltas como a de Beckman e a dos Mascates buscavam ajustes no pacto colonial, movimentos como a Inconfidência Mineira (1789) e a Conjuração Baiana (1798) foram influenciados pelo Iluminismo e pelas revoluções atlânticas, almejando a ruptura definitiva com a metrópole e a fundação de repúblicas independentes.",
+        "A Inconfidência Mineira, embora marcada pelo caráter elitista da aristocracia mineira endividada, tornou-se o principal símbolo da resistência brasileira através da figura de Tiradentes, construída posteriormente pela República. Já a Conjuração Baiana, ou Revolta dos Alfaiates, destacou-se por seu caráter popular e radical, defendendo não apenas a independência, mas a abolição da escravidão e a igualdade racial. Ambos os movimentos foram duramente reprimidos, demonstrando a incapacidade da Coroa Portuguesa de negociar com os anseios de liberdade das Américas.",
+        "O estudo das revoltas coloniais para o Enem permite analisar como a crise do sistema colonial foi alimentada por contradições econômicas (derrama, monopólios) e pela circulação de ideias revolucionárias. É essencial comparar as diferentes bases sociais de cada levante e como o Estado português utilizou o espetáculo da punição (como o esquartejamento de Tiradentes) para desencorajar futuras insurgências. Esses episódios revelam que o Brasil não nasceu de um consenso pacífico, mas de séculos de resistência e sonhos republicanos."
+      ],
+      "source": "MAXWELL, Kenneth. A Devassa da Devassa: A Inconfidência Mineira, Brasil e Portugal - 1750-1808. Rio de Janeiro: Paz e Terra, 2005."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A principal diferença social entre a Inconfidência Mineira (1789) e a Conjuração Baiana (1798) reside no fato de que:",
+        "back": "A) A mineira era de caráter popular e a baiana era comandada por grandes fazendeiros.. A Inconfidência Mineira foi um movimento elitista; a Conjuração Baiana incluiu camadas populares e escravizadas no centro do projeto político."
+      },
+      {
+        "front": "O termo 'Revolta Nativista' é atribuído aos conflitos coloniais que:",
+        "back": "A) Queriam a independência total do Brasil e a criação de uma bandeira nacional imediatamente.. O nativismo buscava reformas dentro do sistema colonial, não a quebra do sistema em si."
+      },
+      {
+        "front": "Qual é o nome do movimento que ocorreu em Minas Gerais em 1789?",
+        "back": "Inconfidência Mineira"
+      },
+      {
+        "front": "Qual foi o principal motivo da Revolta de Beckman?",
+        "back": "Conflito contra o monopólio comercial"
+      },
+      {
+        "front": "O que caracterizou a Conjuração Baiana?",
+        "back": "Caráter popular e racial, liderada por negros, pardos e artesãos"
+      },
+      {
+        "front": "Qual foi a punição dada a Tiradentes?",
+        "back": "Enforcamento"
+      },
+      {
+        "front": "Qual foi a influência que deu origem às Revoltas Separatistas?",
+        "back": "Iluminismo e revoluções burguesas (EUA e França)"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A mineira era de caráter popular e a baiana era comandada por grandes fazendeiros..",
+        "is_true": true,
+        "explanation": "A Inconfidência Mineira foi um movimento elitista; a Conjuração Baiana incluiu camadas populares e escravizadas no centro do projeto político."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A mineira desejava a volta da monarquia, enquanto a baiana queria uma república fascista..",
+        "is_true": false,
+        "explanation": "Falso! A Inconfidência Mineira foi um movimento elitista; a Conjuração Baiana incluiu camadas populares e escravizadas no centro do projeto político."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Queriam a independência total do Brasil e a criação de uma bandeira nacional imediatamente..",
+        "is_true": true,
+        "explanation": "O nativismo buscava reformas dentro do sistema colonial, não a quebra do sistema em si."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Eram focados em problemas regionais e econômicos, sem a intenção de romper com o domínio de Portugal..",
+        "is_true": false,
+        "explanation": "Falso! O nativismo buscava reformas dentro do sistema colonial, não a quebra do sistema em si."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Beckman",
+        "match": "Revolta maranhense contra o monopólio da Companhia do Comércio"
+      },
+      {
+        "concept": "Inconfidência Mineira",
+        "match": "Revolta de 1789 ligada ao Iluminismo e à derrama"
+      },
+      {
+        "concept": "Tiradentes",
+        "match": "Alferes enforcado e esquartejado por liderar a inconfidência"
+      },
+      {
+        "concept": "Conjuração Baiana",
+        "match": "Revolta de 1798 com participação popular e racial"
+      },
+      {
+        "concept": "Motim do Sal",
+        "match": "Revolta popular nos séculos XVII-XVIII no nordeste"
+      },
+      {
+        "concept": "Arcadismo",
+        "match": "Movimento literário que inspirou os conjurados mineiros"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Revolta de Beckman e a Guerra dos Mascates",
+        "order": 1
+      },
+      {
+        "event": "2. Inconfidência Mineira e o Mito de Tiradentes",
+        "order": 2
+      },
+      {
+        "event": "3. Conjuração Baiana: A Revolta dos Alfaiates",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "REVOLUCIONÁRIOS",
+      "hint": "O conceito-chave central ou termo associado à aula de Revoltas Coloniais: Nativismo e Separatismo."
+    }
+  }
+}

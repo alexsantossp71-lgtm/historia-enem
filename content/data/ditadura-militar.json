@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "id": "ditadura-militar",
+    "title": "Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)",
+    "period": "Século XX",
+    "tags": [
+      "AI-5",
+      "Milagre Econômico",
+      "Anistia",
+      "Repressão",
+      "Geisel"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A Ditadura Militar brasileira foi um período de exceção que durou 21 anos. Marcado pela supressão de direitos políticos e pelo uso sistemático da tortura, o regime também promoveu uma industrialização dependente de capital estrangeiro.",
+  "theory_content": "O Golpe de 31 de Março de 1964 derrubou o governo constitucional de João Goulart sob o pretexto de afastar a 'ameaça comunista' e as Reformas de Base. O regime foi legitimado pelos **Atos Institucionais (AIs)**, que permitiam aos militares legislar acima da Constituição de 1946. O período é dividido entre os 'Anos de Chumbo' (1968-1974), sob o governo Médici, e a 'Abertura Lenta, Gradual e Segura' (1974-1985), iniciada por Geisel. \n\nA promulgação do **AI-5** em 1968 marcou o fechamento total do regime: o Congresso foi fechado, a censura prévia foi instituída e o habeas corpus foi suspenso para crimes políticos, permitindo que órgãos como o DOI-CODI prendessem e torturassem opositores com total impunidade. Socialmente, a ditadura buscou criar uma imagem de prosperidade através do **Milagre Econômico**, um crescimento do PIB de mais de 10% financiado por empréstimos externos e pelo arrocho salarial (o bolo precisava crescer para depois dividir). O custo disso foi o endividamento externo massivo e uma desigualdade social abissal. \n\nA partir de 1974, a crise do petróleo e a morte do jornalista Vladimir Herzog geraram uma pressão popular insustentável. A Lei da Anistia (1979) permitiu a volta dos exilados, mas também protegeu os torturadores do regime. O movimento das 'Diretas Já' (1984) foi a expressão máxima do desejo democrático, reunindo milhões nas ruas, embora o regime só tenha terminado com a eleição indireta de Tancredo Neves em 1985.",
+  "support_texts": [
+    {
+      "source": "SKIDMORE, Thomas E. Brasil: De Castelo a Tancredo (1964-1985). São Paulo: Paz e Terra, 1988.",
+      "paragraphs": [
+        "Instaurado por um golpe civil-militar articulado por facções conservadoras, empresariado robusto e referendado internacionalmente com a Doutrina de Segurança Nacional americana (Guerra Fria) o regime discricionário dos marechais no anoitecer de 1964 instauraria uma repressiva autocracia nacional asfixiando com recriminada impiedade os mandatos políticos e aos progressistas opositores defensores as perigosamente taxadas “Repúblicas Sindicalistas”",
+        "Ao encrustar constitucionalmente os ditames e decretações centralizadoras arbitrárias (imposição sumária brutal do dantesco Ato Institucional n° 5) e atrelando concomitantemente a farsa ufanista do falso “Milagre Econômico”. Embalados na falácia propagandeada desenvolvimentista (construções faraônicas sob lastro esmagador dos juros dolarizados de empréstimos e a atração neocolonial perversa da expansão concentradora transnacional aliada fortemente repressão cruenta sistemática macabra executada nos infames Doicodis.",
+        "Essencial nas provas em âmbito atual o domínio dos ditames geopolíticos e de cerceamento na memória traumática contemporânea. A ditadura legou a desigualdade das rendas, endividamento galopante extorsivo, aparelhamento generalizado institucional à hiperinflação estonteante e uma herança cicatricial perenal sangrenta e abafada das anistias brandas impostas que sufocam o clamor permanente e dolorosa dos calados nas masmorras subterrâneas das polícias discricionárias da dita 'Subversão'."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "1. O Golpe de 1964 e os Atos Institucionais",
+      "content": "O governo Jango era visto como radical pela elite e pelas Forças Armadas. O golpe teve o apoio da Marcha da Família com Deus pela Liberdade. Os primeiros AIs foram usados para cassar mandatos e punir opositores. O AI-2 acabou com o pluripartidarismo, criando apenas dois partidos: a ARENA (do governo) e o MDB (oposição controlada), uma democracia de fachada onde os generais indicavam seus sucessores.",
+      "highlight": "A ditadura usou a legalidade autoritária (os AIs) para se autossustentar juridicamente.",
+      "image": {
+        "url": "assets/images/lessons/ditadura-militar/section_0.png",
+        "alt": "1. O Golpe de 1964 e os Atos Institucionais",
+        "caption": "1. O Golpe de 1964 e os Atos Institucionais"
+      }
+    },
+    {
+      "title": "2. AI-5 e as Resistências Armadas e Culturais",
+      "content": "O AI-5 foi o golpe dentro do golpe. Após o discurso do deputado Márcio Moreira Alves, os militares radicalizaram. Estudantes, jornalistas e artistas (como Caetano e Gil) foram perseguidos. Grupos de esquerda optaram pela luta armada (guerrilha rural no Araguaia e urbana no Rio/SP), que foi esmagada pelo aparato repressivo do Estado, financiado inclusive por empresários civis (Operação Bandeirante).",
+      "highlight": "A censura e o terror de Estado silenciaram o debate público por quase uma década.",
+      "image": {
+        "url": "assets/images/lessons/ditadura-militar/section_1.png",
+        "alt": "2. AI-5 e as Resistências Armadas e Culturais",
+        "caption": "2. AI-5 e as Resistências Armadas e Culturais"
+      }
+    },
+    {
+      "title": "3. O Milagre Econômico e a Transamazônica",
+      "content": "Sob Médici, o Brasil viveu um delírio de crescimento. Obras faraônicas como a Rodovia Transamazônica e a Ponte Rio-Niterói simbolizavam o 'Brasil: Ame-o ou Deixe-o'. O slogan patriótico escondia que o país estava ficando refém da dívida externa e que o salário mínimo real estava despencando, enquanto a elite industrial lucrava com a proibição de greves.",
+      "highlight": "O 'milagre' foi construído sobre a exclusão social e a falta de liberdades sindicais.",
+      "image": {
+        "url": "assets/images/lessons/ditadura-militar/section_2.png",
+        "alt": "3. O Milagre Econômico e a Transamazônica",
+        "caption": "3. O Milagre Econômico e a Transamazônica"
+      }
+    },
+    {
+      "title": "4. Geisel, Figueiredo e a Abertura",
+      "content": "Ernesto Geisel iniciou a abertura por necessidade: a economia estava em crise e a oposição crescia. Ele revogou o AI-5 e lidou com os militares da 'linha dura' que queriam explodir bombas para impedir a volta da democracia (como no Atentado do Riocentro). João Figueiredo, o último general, assinou a Anistia e permitiu o retorno do pluripartidarismo, tentando reformar o sistema para que os militares saíssem sem retaliações.",
+      "highlight": "A transição foi pactuada por cima, deixando heranças de impunidade até hoje."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O AI-5 (Ato Institucional nº 5), promulgado em dezembro de 1968, é considerado o auge da ditadura por que:",
+      "options": [
+        "A) Garantiu a liberdade de imprensa e o direito de greve.",
+        "B) Permitiu ao presidente fechar o Congresso e suspender o Habeas Corpus para crimes políticos.",
+        "C) Determinou que apenas civis poderiam governar os estados.",
+        "D) Acabou com a censura prévia nas emissoras de rádio.",
+        "E) Criou o primeiro programa de bolsas de estudo para universitários pobres."
+      ],
+      "correctIndex": 1,
+      "explanation": "O AI-5 deu poderes ditatoriais totais ao executivo, eliminando as garantias individuais.",
+      "source": "FUVEST/ENEM"
+    },
+    {
+      "question": "A política econômica do 'Milagre' baseava-se na seguinte frase do ministro Delfim Netto: 'É preciso fazer o bolo crescer para depois dividi-lo'. O resultado prático dessa política foi:",
+      "options": [
+        "A) Uma distribuição de renda imediata e igualitária.",
+        "B) A redução da dívida externa brasileira a zero.",
+        "C) O crescimento do PIB acompanhado de uma concentração de renda brutal e aumento da pobreza.",
+        "D) A transformação do Brasil na maior potência militar do mundo em 1970.",
+        "E) O fim da industrialização em São Paulo."
+      ],
+      "correctIndex": 2,
+      "explanation": "O crescimento foi excludente; o bolo cresceu, mas a divisão para as classes baixas nunca aconteceu.",
+      "source": "Enem 2017"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/ditadura-militar/thumb.png",
+    "alt": "Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)",
+    "caption": "Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)"
+  },
+  "games": {
+    "flashcards": [
+      {
+        "front": "O AI-5 (Ato Institucional nº 5), promulgado em dezembro de 1968, é considerado o auge da ditadura por que:",
+        "back": "A) Garantiu a liberdade de imprensa e o direito de greve.. O AI-5 deu poderes ditatoriais totais ao executivo, eliminando as garantias individuais."
+      },
+      {
+        "front": "A política econômica do 'Milagre' baseava-se na seguinte frase do ministro Delfim Netto: 'É preciso fazer o bolo crescer para depois dividi-lo'. O resultado prático dessa política foi:",
+        "back": "A) Uma distribuição de renda imediata e igualitária.. O crescimento foi excludente; o bolo cresceu, mas a divisão para as classes baixas nunca aconteceu."
+      },
+      {
+        "front": "Quem foi derrubado pelo Golpe de 31 de Março de 1964?",
+        "back": "João Goulart"
+      },
+      {
+        "front": "O que permitia aos militares legislar acima da Constituição de 1946?",
+        "back": "Atos Institucionais (AIs)"
+      },
+      {
+        "front": "Qual foi o período de fechamento total do regime?",
+        "back": "Anos de Chumbo (1968-1974)"
+      },
+      {
+        "front": "O que foi o Milagre Econômico?",
+        "back": "Crescimento do PIB de mais de 10% financiado por empréstimos externos e pelo arrocho salarial"
+      },
+      {
+        "front": "Quando foi a eleição indireta de Tancredo Neves?",
+        "back": "1985"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Garantiu a liberdade de imprensa e o direito de greve.",
+        "is_true": true,
+        "explanation": "O AI-5 deu poderes ditatoriais totais ao executivo, eliminando as garantias individuais."
+      },
+      {
+        "statement": "Permitiu ao presidente fechar o Congresso e suspender o Habeas Corpus para crimes políticos.",
+        "is_true": false,
+        "explanation": "Mito! O AI-5 deu poderes ditatoriais totais ao executivo, eliminando as garantias individuais."
+      },
+      {
+        "statement": "Uma distribuição de renda imediata e igualitária.",
+        "is_true": true,
+        "explanation": "O crescimento foi excludente; o bolo cresceu, mas a divisão para as classes baixas nunca aconteceu."
+      },
+      {
+        "statement": "A redução da dívida externa brasileira a zero.",
+        "is_true": false,
+        "explanation": "Mito! O crescimento foi excludente; o bolo cresceu, mas a divisão para as classes baixas nunca aconteceu."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "AI-5 (1968)",
+        "match": "Ato Institucional mais duro: fechou Congresso e cassou direitos"
+      },
+      {
+        "concept": "DOPS",
+        "match": "Departamento de Ordem Política e Social, órgão de repressão"
+      },
+      {
+        "concept": "Milagre Econômico",
+        "match": "Crescimento de 10% ao ano no governo Médici (1969-73)"
+      },
+      {
+        "concept": "DOI-CODI",
+        "match": "Centro de torturas e mortes de opositores políticos"
+      },
+      {
+        "concept": "Guerrilha do Araguaia",
+        "match": "Resistência comunista eliminada pelo exército (1972-74)"
+      },
+      {
+        "concept": "Abertura política (1979)",
+        "match": "Processo gradual de redemocratização de Geisel e Figueiredo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Golpe de 1964 e os Atos Institucionais",
+        "order": 1
+      },
+      {
+        "event": "2. AI-5 e as Resistências Armadas e Culturais",
+        "order": 2
+      },
+      {
+        "event": "3. O Milagre Econômico e a Transamazônica",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INDUSTRIALIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)."
+    }
+  }
+}

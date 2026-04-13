@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "id": "movimentos-indigenas",
+    "title": "Movimentos Indígenas: História e Direito à Terra",
+    "period": "1500 - Hoje",
+    "tags": [
+      "Indígenas",
+      "Demarcação",
+      "FUNAI",
+      "Constituição 1988",
+      "Resistência"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "Os povos originários são os verdadeiros donos das terras brasileiras. Sua história não é apenas de derrota, mas de uma resistência milenar que hoje se traduz na luta por demarcação e respeito à autonomia cultural.",
+  "theory_content": "A história indígena no Brasil é marcada por um dos maiores genocídios da humanidade. Antes da chegada de Cabral, estima-se que entre 3 e 5 milhões de pessoas viviam no território, divididas em centenas de etnias (Tupis, Gês, Nuaruakes, etc.) com sofisticadas organizações sociais e sistemas agrícolas. O contato com o europeu trouxe a 'Guerra Justa' (escravização legalizada por resistência religiosa), epidemias de varíola e gripe que dizimaram populações inteiras, e a exploração desenfreada do pau-brasil. \n\nDurante séculos, a política do Estado brasileiro foi **Assimilacionista**: acreditava-se que o indígena era um ser 'atrasado' que deveria ser integrado à civilização branca, perdendo sua língua e costumes. Isso foi formalizado na criação do SPI (Serviço de Proteção aos Índios) em 1910, sob liderança do Marechal Rondon. Embora Rondon pregasse o lema 'Morrer se preciso for, matar nunca', o SPI foi palco de corrupção e violências graves. Em 1967, foi substituído pela FUNAI (Fundação Nacional do Índio) durante a Ditadura Militar, período de grandes massacres devido às obras rodoviárias (como a Transamazônica) que cruzaram terras ancestrais sem aviso. \n\nO grande marco de vitória foi a **Constituição de 1988**. Nela, os povos indígenas conquistaram os artigos 231 e 232, que reconhecem sua organização social, costumes, línguas e, crucialmente, seus **direitos originários sobre as terras** que tradicionalmente ocupam. A Constituição rompeu com a ideia de tutela absoluta: o indígena passou a ser sujeito de direitos, podendo inclusive entrar em juízo em defesa de seus interesses. Hoje, a luta foca no 'Marco Temporal' e na invasão de terras por garimpo ilegal, mostrando que a resistência indígena é uma guerra diária pela vida e pelo meio ambiente.",
+  "sections": [
+    {
+      "title": "1. Diversidade Pré-Cabralina: O Brasil antes do 'Brasil'",
+      "content": "Os povos indígenas não eram um bloco único. Havia grandes confederações, como a dos Tamoios e Tupi-Guarani, com complexas rotas de comércio (Peabiru) e sofisticada cerâmica (Marajoara). O desconhecimento dessas estruturas pelos colonizadores justificou a barbárie. O indígena foi usado inicialmente como guia e mão de obra no escambo do pau-brasil antes do início da escravidão açucareira.",
+      "highlight": "O Brasil de 1500 era um mosaico multicultural vibrante e populoso.",
+      "image": {
+        "url": "assets/images/lessons/movimentos-indigenas/section_0.png",
+        "alt": "1. Diversidade Pré-Cabralina: O Brasil antes do 'Brasil'",
+        "caption": "1. Diversidade Pré-Cabralina: O Brasil antes do 'Brasil'"
+      }
+    },
+    {
+      "title": "2. Aldeamentos Jesuítas e o Conflito Cultural",
+      "content": "A Companhia de Jesus (Jesuítas) tentou 'proteger' o indígena da escravidão militar, mas ao custo da destruição de sua cultura original. Os aldeamentos (Missões) impunham o catolicismo, a monogamia e o trabalho agrícola europeu. Isso gerou conflitos sangrentos com os Bandeirantes paulistas, que invadiam as missões para capturar indígenas já 'domesticados', levando à Guerra Guaranítica no sul do país.",
+      "highlight": "A proteção jesuíta era uma faca de dois gumes: preservava a vida, mas apagava a alma indígena.",
+      "image": {
+        "url": "assets/images/lessons/movimentos-indigenas/section_1.png",
+        "alt": "2. Aldeamentos Jesuítas e o Conflito Cultural",
+        "caption": "2. Aldeamentos Jesuítas e o Conflito Cultural"
+      }
+    },
+    {
+      "title": "3. O Século XX e a Política Indigenista",
+      "content": "O Marechal Rondon buscou pacificar o interior do Brasil. Embora humanista, sua visão era de que o indígena seria um 'brasileiro em formação'. A criação do Parque Indígena do Xingu (1961), pelos irmãos Villas-Bôas, foi a primeira grande vitória territorial, servindo de modelo para a preservação de biomas. Contudo, a ditadura militar tratou o indígena como um entrave ao desenvolvimento, causando o desaparecimento de centenas de etnias.",
+      "image": {
+        "url": "assets/images/lessons/movimentos-indigenas/section_2.png",
+        "alt": "3. O Século XX e a Política Indigenista",
+        "caption": "3. O Século XX e a Política Indigenista"
+      }
+    },
+    {
+      "title": "4. Constituição de 1988: A Grande Virada",
+      "content": "Pela primeira vez em 500 anos, o Estado brasileiro disse que o indígena tinha o direito de continuar sendo indígena. O artigo 231 diz que as terras ocupadas são bens da União, mas de usufruto exclusivo dos indígenas. Isso impediu que as terras fossem vendidas ou loteadas por fazendeiros, garantindo a reprodução física e cultural dos povos originários.",
+      "highlight": "A Constituição de 1988 enterrou a política de assimilação forçada."
+    },
+    {
+      "title": "5. Desafios Atuais: Marco Temporal e Garimpo",
+      "content": "A tese do 'Marco Temporal' afirma que os indígenas só teriam direito às terras que ocupavam em 5 de outubro de 1988. Os movimentos indígenas argumentam que isso é injusto, pois muitos haviam sido expulsos violentamente de suas terras antes dessa data. Além disso, o garimpo ilegal e o desmatamento ameaçam a segurança alimentar e a saúde das aldeias (como os Yanomami), tornando a questão indígena o centro do debate sobre o futuro do planeta.",
+      "highlight": "Sem terra demarcada, não existe sobrevivência cultural para os povos originários."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Constituição de 1988 é considerada um marco para os povos indígenas por que:",
+      "options": [
+        "A) Determinou que todos os indígenas deveriam viver em cidades e falar apenas português.",
+        "B) Reconheceu o direito originário às terras tradicionalmente ocupadas e a autonomia de seus costumes e línguas.",
+        "C) Proibiu a existência de qualquer organização indígena no território nacional.",
+        "D) Garantiu que os indígenas fossem escravizados apenas pelo governo federal.",
+        "E) Declarou que todas as terras indígenas deveriam ser vendidas para empresas estrangeiras."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Carta de 88 encerrou a tutela assimilacionista, garantindo o direito à diferença cultural e à posse da terra.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "O lema do Marechal Rondon, 'Morrer se preciso for, matar nunca', resumia a filosofia do SPI (Serviço de Proteção aos Índios). Qual era a crítica moderna a essa política?",
+      "options": [
+        "A) Que ela era excessivamente violenta e matava todos os indígenas.",
+        "B) Que ela tinha como objetivo final a assimilação do indígena à cultura branca, ignorando sua autonomia cultural.",
+        "C) Que ela proibia os brancos de entrarem na floresta amazônica.",
+        "D) Que ela gastava muito dinheiro com a compra de aviões para os indígenas.",
+        "E) Que ela defendia que o Brasil deveria pertencer apenas aos índios Tupis."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rondon era humanista, mas sua política ainda visava transformar o indígena em um cidadão 'brasileiro' comum, apagando sua identidade própria.",
+      "source": "Simulado ENEM Humanas"
+    },
+    {
+      "question": "Qual foi o principal impacto do contato com os europeus nas populações indígenas no Brasil?",
+      "options": [
+        "A) Aumento da população indígena devido à miscigenação",
+        "B) Desenvolvimento de sistemas agrícolas mais sofisticados",
+        "C) Dizimação de populações inteiras devido a epidemias e violência",
+        "D) Integração pacífica e troca cultural",
+        "E) Expansão territorial das etnias indígenas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o objetivo principal da política assimilacionista do Estado brasileiro em relação aos povos indígenas?",
+      "options": [
+        "A) Preservar as culturas e línguas indígenas",
+        "B) Integrar os indígenas à sociedade branca, perdendo sua identidade",
+        "C) Estabelecer reservas indígenas autônomas",
+        "D) Promover a educação bilíngue nas comunidades indígenas",
+        "E) Desenvolver projetos de cooperação internacional para os povos indígenas"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o marco legal que reconheceu os direitos originários dos povos indígenas sobre as terras que tradicionalmente ocupam?",
+      "options": [
+        "A) Lei de Proteção aos Índios de 1910",
+        "B) Constituição de 1988",
+        "C) Decreto de Criação da FUNAI em 1967",
+        "D) Tratado de Paz com as Etnias Indígenas de 1950",
+        "E) Convenção Internacional sobre Direitos Indígenas de 1992"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/movimentos-indigenas/thumb.png",
+    "alt": "Movimentos Indígenas: História e Direito à Terra",
+    "caption": "Movimentos Indígenas: História e Direito à Terra"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A história dos povos indígenas no Brasil é marcada por cinco séculos de genocídios físicos e apagamentos culturais, mas também por uma resistência contínua e adaptativa. Desde as Confederações de povos nativos contra os colonizadores no século XVI até as atuais lutas por demarcação de terras, o protagonismo indígena tem sido sistematicamente silenciado pelas narrativas oficiais. A Constituição de 1988 marcou um ponto de inflexão ao reconhecer aos índios sua organização social, costumes, línguas e crenças, garantindo-lhes o direito originário às terras que tradicionalmente ocupam.",
+        "O conceito de 'terra indígena' transcede a noção de propriedade privada ocidental; para os povos originários, a terra é um patrimônio imaterial indissociável de sua existência física e cultural. A ausência de demarcações e a invasão por garimpeiros e agronegócio representam não apenas crimes ambientais, mas ataques diretos à soberania desses povos. Movimentos como a APIB (Articulação dos Povos Indígenas do Brasil) demonstram que hoje os indígenas são atores políticos plenos, ocupando espaços de poder e usando o direito internacional como escudo contra o retrocesso de garantias constitucionais.",
+        "O Enem frequentemente aborda a 'questão indígena' sob a ótica da alteridade e da diversidade. É fundamental compreender que não existe um 'Índio Genérico', mas centenas de etnias com línguas e filosofias distintas. O estudo dessa resistência deve focar em como estes povos conseguiram sobreviver ao processo colonizador, preservando saberes ancestrais sobre a biodiversidade que são hoje cruciais para o debate ambiental global. A luta indígena é, em última instância, a luta pela preservação de uma visão de mundo baseada no equilíbrio, em oposição à exploração desenfreada de recursos."
+      ],
+      "source": "CUNHA, Manuela Carneiro da. História dos Índios no Brasil. São Paulo: Companhia das Letras, 1992."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Constituição de 1988 é considerada um marco para os povos indígenas por que:",
+        "back": "A) Determinou que todos os indígenas deveriam viver em cidades e falar apenas português.. A Carta de 88 encerrou a tutela assimilacionista, garantindo o direito à diferença cultural e à posse da terra."
+      },
+      {
+        "front": "O lema do Marechal Rondon, 'Morrer se preciso for, matar nunca', resumia a filosofia do SPI (Serviço de Proteção aos Índios). Qual era a crítica moderna a essa política?",
+        "back": "A) Que ela era excessivamente violenta e matava todos os indígenas.. Rondon era humanista, mas sua política ainda visava transformar o indígena em um cidadão 'brasileiro' comum, apagando sua identidade própria."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Determinou que todos os indígenas deveriam viver em cidades e falar apenas português.",
+        "is_true": true,
+        "explanation": "A Carta de 88 encerrou a tutela assimilacionista, garantindo o direito à diferença cultural e à posse da terra."
+      },
+      {
+        "statement": "Reconheceu o direito originário às terras tradicionalmente ocupadas e a autonomia de seus costumes e línguas.",
+        "is_true": false,
+        "explanation": "Mito! A Carta de 88 encerrou a tutela assimilacionista, garantindo o direito à diferença cultural e à posse da terra."
+      },
+      {
+        "statement": "Que ela era excessivamente violenta e matava todos os indígenas.",
+        "is_true": true,
+        "explanation": "Rondon era humanista, mas sua política ainda visava transformar o indígena em um cidadão 'brasileiro' comum, apagando sua identidade própria."
+      },
+      {
+        "statement": "Que ela tinha como objetivo final a assimilação do indígena à cultura branca, ignorando sua autonomia cultural.",
+        "is_true": false,
+        "explanation": "Mito! Rondon era humanista, mas sua política ainda visava transformar o indígena em um cidadão 'brasileiro' comum, apagando sua identidade própria."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "FUNAI",
+        "match": "Fundação Nacional dos Povos Indígenas"
+      },
+      {
+        "concept": "Demarcação de terras",
+        "match": "Processo legal de reconhecimento de territórios indígenas"
+      },
+      {
+        "concept": "Estatuto do Índio (1973)",
+        "match": "Lei que regulamentou os direitos indígenas no Brasil"
+      },
+      {
+        "concept": "Artigo 231 da CF/88",
+        "match": "Dispositivo constitucional que garante terras indígenas"
+      },
+      {
+        "concept": "Aldeamento",
+        "match": "Prática colonial de concentrar índios em áreas controladas"
+      },
+      {
+        "concept": "Etnocídio",
+        "match": "Destruição da cultura de um povo sem eliminação física"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Diversidade Pré-Cabralina: O Brasil antes do 'Brasil'",
+        "order": 1
+      },
+      {
+        "event": "2. Aldeamentos Jesuítas e o Conflito Cultural",
+        "order": 2
+      },
+      {
+        "event": "3. O Século XX e a Política Indigenista",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ORIGINÁRIOS",
+      "hint": "O conceito-chave central ou termo associado à aula de Movimentos Indígenas: História e Direito à Terra."
+    }
+  }
+}

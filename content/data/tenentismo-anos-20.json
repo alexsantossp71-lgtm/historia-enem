@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "tenentismo-anos-20",
+    "title": "Tenentismo: A Espada de Reforma",
+    "period": "1922 - 1930",
+    "tags": [
+      "Tenentismo",
+      "18 do Forte",
+      "Coluna Prestes",
+      "Voto Secreto",
+      "Moralismo"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O Tenentismo foi o grito de rebelião dos jovens quartéis contra a sujeira da política dos coronéis. Ele foi o motor militar que destruiu a República Velha e abriu as portas para a modernização do Brasil.",
+  "theory_content": "Na década de 1920, o Brasil vivia sob o domínio das oligarquias de São Paulo e Minas, mas a classe média urbana e as Forças Armadas estavam indignadas. O **Tenentismo** foi um movimento de jovens oficiais (tenentes e capitães) que exigiam o fim do voto de cabresto, a adoção do **voto secreto**, a moralização da administração pública e a centralização do poder para fortalecer a nação. \n\nO movimento começou em 1922 com a **Revolta dos 18 do Forte de Copacabana**, onde um punhado de oficiais preferiu morrer caminhando pela praia contra o exército legalista a se render. Em 1924, os tenentes tomaram a cidade de São Paulo por quase um mês, fugindo depois para o interior. Dessa retirada nasceu a **Coluna Prestes**, liderada por Luís Carlos Prestes, que percorreu 25 mil quilômetros pelo interior do Brasil durante dois anos sem nunca ser derrotada em campo. Embora os tenentes não tivessem um projeto social claro para o povo, eles desmoralizaram as elites agrárias e foram a base de apoio que levou Getúlio Vargas ao poder em 1930. O ENEM costuma cobrar o caráter elitista (mas reformista) do movimento, a oposição ao coronelismo e o papel da Coluna Prestes na denúncia da miséria do interior brasileiro.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude os '18 do Forte' como o símbolo do sacrifício romântico militar. O ENEM costuma cobrar a Coluna Prestes pelo seu impacto geográfico e político (o Brasil profundo sendo descoberto). Entenda que o Tenentismo não era 'democrático' no sentido moderno (eles queriam um governo forte), mas era 'anti-oligárquico'. Saiba que muitos 'tenentes' viraram 'interventores' no governo Vargas.",
+  "sections": [
+    {
+      "title": "1. Os 18 do Forte: O Batismo de Sangue",
+      "content": "Em 5 de julho de 1922, o exército cercou o Forte de Copacabana. Em vez de se renderem, os oficiais saíram para a praia com pedaços da bandeira brasileira pregados ao peito. Dos centenas de homens iniciais, sobraram 18 (e dois civis) que enfrentaram as tropas do governo em um tiroteio suicida. Sobreviveram apenas os tenentes Eduardo Gomes e Siqueira Campos, que tornaram-se os primeiros mártires da luta contra a República Velha.",
+      "highlight": "Na areia de Copacabana, o tenentismo provou que o exército não aceitaria mais as fraudes dos coronéis.",
+      "image": {
+        "url": "assets/images/lessons/tenentismo-anos-20/section_0.png",
+        "alt": "1. Os 18 do Forte: O Batismo de Sangue",
+        "caption": "1. Os 18 do Forte: O Batismo de Sangue"
+      }
+    },
+    {
+      "title": "2. A Revolta de 1924: São Paulo Bombardeada",
+      "content": "Dois anos após o Forte, São Paulo viveu o maior conflito urbano de sua história. Os tenentes rebeldes tomaram a capital para exigir a renúncia do presidente Artur Bernardes. O governo federal respondeu com bombardeios aéreos indiscriminados sobre áreas civis (como o bairro da Mooca). Os rebeldes recuaram em ordem para o interior, unindo-se aos gaúchos para formar a mítica Coluna Prestes.",
+      "highlight": "São Paulo foi o laboratório sangrento da guerra civil tenentista.",
+      "image": {
+        "url": "assets/images/lessons/tenentismo-anos-20/section_1.png",
+        "alt": "2. A Revolta de 1924: São Paulo Bombardeada",
+        "caption": "2. A Revolta de 1924: São Paulo Bombardeada"
+      }
+    },
+    {
+      "title": "3. Coluna Prestes: O Cavaleiro da Esperança",
+      "content": "Comandados por Luís Carlos Prestes e Miguel Costa, milhares de homens cruzaram o Brasil do Sul ao Nordeste. Eles não queriam tomar cidades, mas despertar o povo contra os coronéis. Em cada vila, eles queimavam os arquivos de cobrança de impostos e libertavam presos políticos. A Coluna foi invencível, mas exaurida, seus membros fugiram para o exílio na Bolívia em 1927, deixando uma lenda de honra e resistência no sertão.",
+      "highlight": "A Coluna Prestes foi a maior marcha militar da história mundial em termos de persistência e distância.",
+      "image": {
+        "url": "assets/images/lessons/tenentismo-anos-20/section_2.png",
+        "alt": "3. Coluna Prestes: O Cavaleiro da Esperança",
+        "caption": "3. Coluna Prestes: O Cavaleiro da Esperança"
+      }
+    },
+    {
+      "title": "4. O Programa dos Tenentes: Ordem e Moral",
+      "content": "Os tenentes eram oficiais cultos que liam sobre as reformas na Europa. Eles acreditavam que o povo brasileiro era 'atrasado' e precisava de um Estado forte para ser educado. Suas bandeiras eram: o voto secreto (para acabar com o cabresto), o ensino primário obrigatório e a estatização das minas de ferro. Eles não eram socialistas, mas eram nacionalistas ferrenhos que odiavam a corrupção do café com leite.",
+      "highlight": "Para os tenentes, a ordem militar era o remédio contra o caos oligárquico."
+    },
+    {
+      "title": "5. De Tenentes a Interventores de Vargas",
+      "content": "A Revolução de 1930 só foi vitoriosa porque os tenentes apoiaram Getúlio Vargas. Após o golpe, muitos desses oficiais foram nomeados por Vargas como 'Interventores' nos estados, para substituir os velhos governadores corrompidos. Foi o momento em que a espada militar de fato assumiu o volante da política brasileira, iniciando uma tradição de intervenção das Forças Armadas que duraria décadas.",
+      "highlight": "O tenentismo foi o fardamento que vestiu o novo poder de Vargas em 1930."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O movimento dos '18 do Forte de Copacabana', ocorrido em 1922, representou qual etapa da história da República Velha?",
+      "options": [
+        "A) A vitória definitiva dos coronéis do café sobre os militares.",
+        "B) O início das manifestações do Tenentismo, questionando as estruturas oligárquicas e as fraudes eleitorais.",
+        "C) O fechamento de todas as creches do Rio de Janeiro pelo exército.",
+        "D) A vontade do povo carioca de voltar a ser colônia de Portugal.",
+        "E) O cancelamento de todos os desfiles de carnaval por ordem do Papa."
+      ],
+      "correctIndex": 1,
+      "explanation": "A revolta foi o primeiro choque militar direto contra o sistema de poder da República Velha.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A Coluna Prestes (1925-1927) foi uma marcha militar épica que percorreu o interior do Brasil. Qual era o seu principal objetivo político?",
+      "options": [
+        "A) Conquistar terras na floresta amazônica para plantar café e leite.",
+        "B) Denunciar a corrupção das oligarquias, a miséria do povo no interior e pregar a moralização da política e o voto secreto.",
+        "C) Proibir que as pessoas falassem português no sertão da Bahia.",
+        "D) Entregar as chaves do Brasil para o presidente da França.",
+        "E) Destruir todas as ferrovias que levavam até a cidade de São Paulo."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Coluna buscava mobilizar o povo para derrubar o poder dos coronéis estaduais.",
+      "source": "Simulado ENEM / História do Brasil"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/tenentismo-anos-20/thumb.png",
+    "alt": "Tenentismo: A Espada de Reforma",
+    "caption": "Tenentismo: A Espada de Reforma"
+  },
+  "support_texts": [
+    {
+      "source": "CARVALHO, José Murilo de. Forças Armadas e Política no Brasil. Zahar, 2005.",
+      "paragraphs": [
+        "Surgido nos redutos das jovens patentes da milícia armada o Movimento Tenentista dos anos 1920 (Dezesseis do Forte de Copacabana, Revolta Paulista de 1924 e Coluna Prestes) operou enquanto motor instigador anti-oligárquico ferrenho. Denunciaram e pegaram nas trincheiras armadas contra as fraudes escandalosas contínuas impetradas ao voto eleitoral aberto corrompido, almejando instigantemente a pregação contundente pelo regresso centralizado a ordem republicana verdadeira focada nas prerrogativas da autoridade moral institucional salva.",
+        "Esses insurretos operaram como portadores da autoritária 'salvação social'. Embora profundamente desgostosos frente ao sucateamento da caserna, agiam como condutores patriarcais com visões redentoras militarizadas, crendo possuírem sozinhos e acima do reles proletário iletrado do qual temiam proximidades, o condão necessário ético elitista e imbuído da verdadeira retidão purificadora do organismo estatista brasileiro.",
+        "A eclosão desses fatos evidencia nitidamente para resolução o Exame a crise contumaz que ruía impiedosamente as estruturas fundacionais das fraudes de Voto-de-Cabresto coronelista no interior do estado frente a modernizante metrópole que germinava. Seriam eles, anos após desilusonados das promessas ou apoiadores centrais, braço executante inafastável ao triunfo varguista total de 1930."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O movimento dos '18 do Forte de Copacabana', ocorrido em 1922, representou qual etapa da história da República Velha?",
+        "back": "A) A vitória definitiva dos coronéis do café sobre os militares.. A revolta foi o primeiro choque militar direto contra o sistema de poder da República Velha."
+      },
+      {
+        "front": "A Coluna Prestes (1925-1927) foi uma marcha militar épica que percorreu o interior do Brasil. Qual era o seu principal objetivo político?",
+        "back": "A) Conquistar terras na floresta amazônica para plantar café e leite.. A Coluna buscava mobilizar o povo para derrubar o poder dos coronéis estaduais."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A vitória definitiva dos coronéis do café sobre os militares..",
+        "is_true": true,
+        "explanation": "A revolta foi o primeiro choque militar direto contra o sistema de poder da República Velha."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) O início das manifestações do Tenentismo, questionando as estruturas oligárquicas e as fraudes eleitorais..",
+        "is_true": false,
+        "explanation": "Falso! A revolta foi o primeiro choque militar direto contra o sistema de poder da República Velha."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Conquistar terras na floresta amazônica para plantar café e leite..",
+        "is_true": true,
+        "explanation": "A Coluna buscava mobilizar o povo para derrubar o poder dos coronéis estaduais."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Denunciar a corrupção das oligarquias, a miséria do povo no interior e pregar a moralização da política e o voto secreto..",
+        "is_true": false,
+        "explanation": "Falso! A Coluna buscava mobilizar o povo para derrubar o poder dos coronéis estaduais."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Tenentismo",
+        "match": "Movimento de jovens oficiais contra a oligarquia"
+      },
+      {
+        "concept": "Revolta do Forte de Copacabana",
+        "match": "Os 18 do Forte desafiam as oligarquias em 1922"
+      },
+      {
+        "concept": "Coluna Prestes",
+        "match": "Marcha de 29 mil km pelo Brasil interior (1924-1927)"
+      },
+      {
+        "concept": "Luís Carlos Prestes",
+        "match": "Cavaleiro da Esperança, líder da coluna revolucionária"
+      },
+      {
+        "concept": "Semana de Arte Moderna (1922)",
+        "match": "Movimento cultural de ruptura com o academicismo"
+      },
+      {
+        "concept": "Oligarquias cafeeiras",
+        "match": "Alvo principal das críticas do tenentismo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Os 18 do Forte: O Batismo de Sangue",
+        "order": 1
+      },
+      {
+        "event": "2. A Revolta de 1924: São Paulo Bombardeada",
+        "order": 2
+      },
+      {
+        "event": "3. Coluna Prestes: O Cavaleiro da Esperança",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MODERNIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Tenentismo: A Espada de Reforma."
+    }
+  }
+}

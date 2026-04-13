@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "id": "linguagens-gramatica-classes-palavras",
+    "title": "Gramática: Classes de Palavras",
+    "period": "",
+    "tags": [
+      "Linguagens",
+      "Português",
+      "Gramática",
+      "Classes de Palavras"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Linguagens",
+    "subject": "Português",
+    "visual_depth": "elite"
+  },
+  "intro": "As classes de palavras são fundamentais para a compreensão da estrutura da língua portuguesa. Elas categorizam as palavras conforme sua função na frase e suas características morfológicas.",
+  "theory_content": "Na língua portuguesa, as palavras são divididas em classes gramaticais conforme suas propriedades semânticas, morfológicas e sintáticas. As principais classes são: 1) Substantivo: nomeia seres, objetos, sentimentos, etc. (ex: menino, casa, alegria). 2) Adjetivo: caracteriza ou modifica o substantivo (ex: bonito, grande, interessante). 3) Verbo: expressa ação, estado ou fenômeno (ex: correr, ser, chover). 4) Advérbio: modifica o verbo, adjetivo ou outro advérbio (ex: rapidamente, muito, bem). 5) Pronome: substitui ou acompanha o substantivo (ex: ele, meu, algum). 6) Preposição: estabelece relação de dependência entre termos (ex: de, em, por). 7) Conjunção: une termos ou orações (ex: e, mas, porque). 8) Interjeição: expressa sentimento ou sentimento isolado (ex: ah, oxe, ufa). Cada classe possui características específicas de flexão (variação de forma) e sintaxe (função na frase).",
+  "support_text": "Em 2022, o ENEM cobrou questões sobre classes de palavras em contextos de interpretação de texto. Um exemplo foi identificar a classe de palavras sublinhadas em trechos de dissertação argumentativa. Dominar essa matéria é essencial não apenas para a prova de Linguagens, mas também para a produção textual coerente na redação.",
+  "sections": [
+    {
+      "title": "Substantivos e Adjetivos",
+      "content": "Substantivos podem ser próprios ou comuns, concretos ou abstratos, individuais ou coletivos. Adjetivos podem ser classificados quanto ao grau: positivo, comparativo e superlativo. Eles concordam em gênero e número com o substantivo que modificam.",
+      "image": {
+        "url": "assets/images/lessons/linguagens-gramatica-classes-palavras/section_0.png",
+        "alt": "Substantivos e Adjetivos",
+        "caption": "Substantivos e Adjetivos"
+      },
+      "highlight": "A concordância nominal é essencial para a correção gramatical."
+    },
+    {
+      "title": "Verbos e Advérbios",
+      "content": "Verbos são classificados quanto ao aspecto (perfeituoso ou imperfeituoso), tempo (passado, presente, futuro) e modo (indicativo, subjuntivo, imperativo). Advérbios podem ser de modo, tempo, lugar, quantidade, afirmação, negação e dúvida.",
+      "highlight": "O verbo é o núcleo do predicado verbal e determina a estrutura da oração.",
+      "image": {
+        "url": "assets/images/lessons/linguagens-gramatica-classes-palavras/section_1.png",
+        "alt": "Verbos e Advérbios",
+        "caption": "Verbos e Advérbios"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Na frase \"Os estudantes estudaram profundamente para o exame\", a palavra \"profundamente\" é um:",
+      "options": [
+        "A) Substantivo",
+        "B) Adjetivo",
+        "C) Advérbio",
+        "D) Pronome",
+        "E) Preposição"
+      ],
+      "correctIndex": 2,
+      "explanation": "A palavra \"profundamente\" modifica o verbo \"estudaram\", indicando o modo como a ação foi realizada, caracterizando-a como advérbio de modo.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Qual é a classe gramatical da palavra 'rápido' na frase 'O menino correu rapidamente pela rua'?",
+      "options": [
+        "A) Substantivo",
+        "B) Adjetivo",
+        "C) Verbo",
+        "D) Advérbio",
+        "E) Pronome"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é a função da palavra 'de' na frase 'O livro é de minha irmã'?",
+      "options": [
+        "A) Substituir o substantivo",
+        "B) Modificar o verbo",
+        "C) Estabelecer relação de dependência",
+        "D) Expressar sentimento",
+        "E) Unir termos"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é a classe gramatical da palavra 'oxe' na frase 'Oxe, que dor de cabeça!'?",
+      "options": [
+        "A) Substantivo",
+        "B) Adjetivo",
+        "C) Verbo",
+        "D) Advérbio",
+        "E) Interjeição"
+      ],
+      "correct_answer": 4,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é a característica da classe gramatical do verbo 'ser' na frase 'Eu sou um estudante'?",
+      "options": [
+        "A) Expressar ação",
+        "B) Expressar estado",
+        "C) Modificar o substantivo",
+        "D) Estabelecer relação de dependência",
+        "E) Unir termos"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "O que é um substantivo?",
+      "back": "Classe de palavra que nomeia seres, objetos, sentimentos, fenômenos, etc."
+    },
+    {
+      "front": "Qual a diferença entre adjetivo e advérbio?",
+      "back": "O adjetivo modifica o substantivo; o advérbio modifica o verbo, adjetivo ou outro advérbio."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/linguagens-gramatica-classes-palavras/thumb.png",
+    "alt": "Gramática: Classes de Palavras",
+    "caption": "Gramática: Classes de Palavras"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O estudo da gramática normativa e das classes morfológicas não detém mais no Enem um caráter unicamente mnemônico. A coesão pronominal, o eixo verbal e a substantivação são as matrizes fundamentais avaliadas como suportes da argumentação, de ironias no discurso e da clareza expositiva necessária para uma redação dissertativa-argumentativa avaliada na temida pontuação máxima.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Na frase \"Os estudantes estudaram profundamente para o exame\", a palavra \"profundamente\" é um:",
+        "back": "A) Substantivo. A palavra \"profundamente\" modifica o verbo \"estudaram\", indicando o modo como a ação foi realizada, caracterizando-a como advérbio de modo."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Substantivo.",
+        "is_true": true,
+        "explanation": "A palavra \"profundamente\" modifica o verbo \"estudaram\", indicando o modo como a ação foi realizada, caracterizando-a como advérbio de modo."
+      },
+      {
+        "statement": "Adjetivo.",
+        "is_true": false,
+        "explanation": "Mito! A palavra \"profundamente\" modifica o verbo \"estudaram\", indicando o modo como a ação foi realizada, caracterizando-a como advérbio de modo."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) Substantivo",
+        "match": "Na frase \"Os estudantes estudaram profundamen..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Substantivos e Adjetivos",
+        "order": 1
+      },
+      {
+        "event": "Verbos e Advérbios",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CARACTERÍSTICAS",
+      "hint": "O conceito-chave central ou termo associado à aula de Gramática: Classes de Palavras."
+    }
+  }
+}

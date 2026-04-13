@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "conflitos-oriente-medio",
+    "title": "Oriente Médio: O Barril de Pólvora",
+    "period": "1947 - Presente",
+    "tags": [
+      "Israel",
+      "Palestina",
+      "Sionismo",
+      "ONU",
+      "Guerra dos Seis Dias"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral e Geopolítica",
+    "visual_depth": "elite"
+  },
+  "intro": "A disputa por um pedaço pequeno de terra sagrada gerou o conflito mais longo da era moderna. No centro da questão, estão dois povos que clamam pelo direito de ter sua própria nação.",
+  "theory_content": "A fundação do conflito moderno no **Oriente Médio** remete ao final do século XIX com o movimento **Sionista**, que defendia a criação de um Estado judeu na Palestina (sua terra ancestral). Após o Holocausto na 2ª Guerra Mundial, a pressão internacional levou a ONU a aprovar, em 1947, o Plano de Partilha da Palestina em dois Estados: um judeu e um árabe. Os judeus aceitaram e proclamaram o **Estado de Israel (1948)**, mas os países árabes vizinhos recusaram e atacaram imediatamente, iniciando a primeira de várias guerras. \n\nEm 1967, na **Guerra dos Seis Dias**, Israel desferiu um ataque mestre e ocupou a Faixa de Gaza, a Cisjordânia e Jerusalém Oriental — territórios que seriam a base do futuro Estado Palestino. Essa ocupação militar dura até hoje e é o cerne das tensões. Em 1973, a **Guerra do Yom Kippur** levou os países árabes a usarem o petróleo como arma política, gerando a crise econômica mundial da década de 70. Acordos de paz, como os de Oslo (1993), tentaram criar a Autoridade Nacional Palestina, mas o assassinato de líderes e a expansão de assentamentos israelenses, junto com a resistência do grupo Hamas, mantêm a região em um ciclo de violência e impasses diplomáticos. O ENEM costuma cobrar as causas históricas da partilha, os impactos econômicos (choques do petróleo) e as questões humanitárias envolvendo os refugiados palestinos.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude os conceitos de 'Sionismo' e 'Pan-Arabismo'. O ENEM costuma cobrar a Partilha da ONU (1947) e as consequências da Guerra dos Seis Dias (1967). Entenda que Jerusalém é a cidade sagrada para as três maiores religiões monoteístas, o que complica qualquer acordo político. Saiba o impacto da Crise do Petróleo (1973) no 'Milagre Econômico' brasileiro. Fique atento aos discursos atuais sobre os 'dois Estados' como solução diplomática.",
+  "sections": [
+    {
+      "title": "1. Sionismo e a Herança da 2ª Guerra",
+      "content": "Para os judeus dispersos pelo mundo (Diáspora), o retorno para a 'Terra de Israel' (Eretz Yisrael) era místico e político. Após o extermínio de 6 milhões de judeus pelos nazistas, o mundo sentiu-se moralmente obrigado a garantir um porto seguro para esse povo. A Palestina, sob mandato britânico, era o local escolhido, mas já era habitada há séculos por uma maioria árabe muçulmana e cristã.",
+      "highlight": "Israel nasceu da tragédia do Holocausto e da esperança sionista.",
+      "image": {
+        "url": "assets/images/lessons/conflitos-oriente-medio/section_0.png",
+        "alt": "1. Sionismo e a Herança da 2ª Guerra",
+        "caption": "1. Sionismo e a Herança da 2ª Guerra"
+      }
+    },
+    {
+      "title": "2. ONU 1947: O Mapa da Discórdia",
+      "content": "A ONU propôs dividir a terra: 55% para os judeus e 45% para os árabes. Jerusalém seria uma zona internacional neutra. Os árabes rejeitaram, pois consideravam injusto perderem suas terras ancestrais por uma decisão tomada pela Europa. No dia seguinte à independência de Israel, exércitos do Egito, Jordânia, Síria e Iraque invadiram a região. Israel venceu e expandiu seu território além do planejado pela ONU.",
+      "highlight": "A partilha da ONU foi a certidão de nascimento de Israel e o dia da catástrofe ('Nakba') para os palestinos.",
+      "image": {
+        "url": "assets/images/lessons/conflitos-oriente-medio/section_1.png",
+        "alt": "2. ONU 1947: O Mapa da Discórdia",
+        "caption": "2. ONU 1947: O Mapa da Discórdia"
+      }
+    },
+    {
+      "title": "3. 1967: Os Seis Dias que Mudaram a Geografia",
+      "content": "Sentindo um ataque iminente, Israel destruiu as forças aéreas árabes em poucas horas. Em seis dias, triplicou de tamanho, tomando as Colinas de Golã (Síria), o Sinai (Egito) e o controle total de Jerusalém. Desde então, a fronteira de 1967 é a base de todas as negociações de paz, exigindo que Israel se retire dessas áreas em troca de segurança permanente.",
+      "highlight": "A guerra de 1967 fez de Israel uma potência militar ocupante.",
+      "image": {
+        "url": "assets/images/lessons/conflitos-oriente-medio/section_2.png",
+        "alt": "3. 1967: Os Seis Dias que Mudaram a Geografia",
+        "caption": "3. 1967: Os Seis Dias que Mudaram a Geografia"
+      }
+    },
+    {
+      "title": "4. Choque do Petróleo e Crise Global",
+      "content": "Em 1973, países árabes da OPEP (Organização dos Países Exportadores de Petróleo) quadruplicaram o preço do barril para punir os aliados de Israel. Isso causou uma inflação global assustadora e o fim do crescimento econômico acelerado em países como o Brasil, forçando o mundo a buscar energias alternativas e carros mais econômicos.",
+      "highlight": "A política do Oriente Médio move o preço da gasolina em todo o planeta."
+    },
+    {
+      "title": "5. Acordos de Oslo e a Falência da Paz",
+      "content": "Na década de 90, o líder palestino Yasser Arafat e o premiê israelense Yitzhak Rabin apertaram as mãos. Parecia o fim do conflito, com a promessa de criação de um Estado da Palestina em 5 anos. Mas o extremismo de ambos os lados venceu: Rabin foi assassinado por um judeu radical e os atentados suicidas palestinos aumentaram. Hoje, o muro construído por Israel e o bloqueio a Gaza mantêm a paz como um sonho distante.",
+      "highlight": "Oslo foi a promessa de uma paz que acabou sufocada pelo radicalismo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Guerra dos Seis Dias (1967) resultou na ocupação por Israel de territórios estratégicos que são até hoje pontos de disputa. Quais são esses territórios?",
+      "options": [
+        "A) Tóquio, Berlim e Nova York.",
+        "B) Faixa de Gaza, Cisjordânia, Colinas de Golã e Península do Sinai.",
+        "C) O deserto do Saara e a floresta Amazônica.",
+        "D) A ilha de Cuba e o Alasca.",
+        "E) O Vaticano e os canais de Veneza."
+      ],
+      "correctIndex": 1,
+      "explanation": "A ocupação dessas áreas gerou a questão dos assentamentos israelenses e a luta palestina por libertação nacional.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual foi a principal consequência econômica mundial da Guerra do Yom Kippur, em 1973?",
+      "options": [
+        "A) A distribuição gratuita de ouro para todos os países africanos.",
+        "B) O Primeiro Choque do Petróleo, com a elevação brusca dos preços por parte da OPEP.",
+        "C) O fim de todas as guerras no mundo para sempre.",
+        "D) A invenção da Internet por cientistas sauditas.",
+        "E) O cancelamento da dívida externa do Brasil e da Argentina."
+      ],
+      "correctIndex": 1,
+      "explanation": "Os países árabes usaram o petróleo como arma diplomática, demonstrando a dependência energética da economia global.",
+      "source": "Simulado ENEM / Geopolítica"
+    },
+    {
+      "question": "Qual foi o evento que levou a ONU a aprovar o Plano de Partilha da Palestina em 1947?",
+      "options": [
+        "A) A Guerra dos Seis Dias",
+        "B) O Holocausto na 2ª Guerra Mundial",
+        "C) A Guerra do Yom Kippur",
+        "D) A criação do Estado de Israel",
+        "E) A fundação do movimento Sionista"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da Guerra dos Seis Dias em 1967?",
+      "options": [
+        "A) A criação do Estado Palestino",
+        "B) A ocupação militar israelense da Faixa de Gaza, Cisjordânia e Jerusalém Oriental",
+        "C) A derrota de Israel",
+        "D) A assinatura do Acordo de Paz de Oslo",
+        "E) A expulsão dos judeus da Palestina"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a consequência econômica da Guerra do Yom Kippur em 1973?",
+      "options": [
+        "A) A crise econômica mundial da década de 80",
+        "B) A expansão dos assentamentos israelenses",
+        "C) A criação da Autoridade Nacional Palestina",
+        "D) A crise econômica mundial da década de 70 devido ao uso do petróleo como arma política",
+        "E) A assinatura do Tratado de Paz entre Israel e Palestina"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/conflitos-oriente-medio/thumb.png",
+    "alt": "Oriente Médio: O Barril de Pólvora",
+    "caption": "Oriente Médio: O Barril de Pólvora"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A extrema convulsão e fragmentação política da região do Oriente Médio fundamenta-se nos traumas colossais da 'Balcanização' orquestrada pelos imperialistas britânicos e franceses nos Acordos Sykes-Picot (1916). Na partilha das carcaças do moribundo Império Otomano, fronteiras rectilíneas totalmente exógenas e artificiais apartaram milênios de dinâmicas laicais, sectárias-sunitas, xiitas ou étnicas, inserindo artificialmente os governos protetores das jazidas petrolíferas do chamado Novo Grande Jogo geopolítico.",
+        "O mais doloroso e nuclear destes distúrbios, como examinado criticamente por Edward Said, é o antagonismo territorial Israelo-Palestino estabelecido atavicamente após o Plano de Partilha pela Organização das Nações Unidas (ONU, 1947). O advento do projeto sionista culminando na instauração do forte Estado-Nacional Judeu em 1948 materializou para os palestinos árabes e o mundo pan-árabe a 'Nakba' (Catástrofe). Uma saga crônica pautada por êxodos geracionais incalculáveis e refúgios que inflamariam as vitórias isrealeses como a famigerada 'Guerra dos Seis Dias'.",
+        "Ao Enem, é indispensável relacionar as dinâmicas sociopolíticas do Oriente Médio não como reflexões isoladas e inexplicáveis de 'ódio extremista', mas atados estruturalmente à era do colonialismo ocidental, à política americana da Guerra Fria versus o Nasserismo Pan-Árabe e nas disputas pela matriz carbonífera. Além do embate Arábe-israelense, as divergências geopolíticas na Guerra Irã-Iraque e mais contemporaneamente, as ramificações violentas, ditatoriais e precarizantes para controle hegemônio regional são essenciais ao candidato crítico."
+      ],
+      "source": "SAID, Edward W. A Questão Palestina. São Paulo: Editora da Unesp, 2011."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Guerra dos Seis Dias (1967) resultou na ocupação por Israel de territórios estratégicos que são até hoje pontos de disputa. Quais são esses territórios?",
+        "back": "A) Tóquio, Berlim e Nova York.. A ocupação dessas áreas gerou a questão dos assentamentos israelenses e a luta palestina por libertação nacional."
+      },
+      {
+        "front": "Qual foi a principal consequência econômica mundial da Guerra do Yom Kippur, em 1973?",
+        "back": "A) A distribuição gratuita de ouro para todos os países africanos.. Os países árabes usaram o petróleo como arma diplomática, demonstrando a dependência energética da economia global."
+      },
+      {
+        "front": "Qual movimento defendia a criação de um Estado judeu na Palestina?",
+        "back": "Sionista"
+      },
+      {
+        "front": "Em que ano foi aprovado o Plano de Partilha da Palestina?",
+        "back": "1947"
+      },
+      {
+        "front": "Qual guerra levou Israel a ocupar a Faixa de Gaza e a Cisjordânia?",
+        "back": "Guerra dos Seis Dias"
+      },
+      {
+        "front": "Em que ano ocorreu a Guerra do Yom Kippur?",
+        "back": "1973"
+      },
+      {
+        "front": "Qual acordo de paz tentou criar a Autoridade Nacional Palestina?",
+        "back": "Acordo de Oslo"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Faixa de Gaza, Cisjordânia, Colinas de Golã e Península do Sinai.",
+        "is_true": false,
+        "explanation": "Mito! A ocupação dessas áreas gerou a questão dos assentamentos israelenses e a luta palestina por libertação nacional."
+      },
+      {
+        "statement": "O Primeiro Choque do Petróleo, com a elevação brusca dos preços por parte da OPEP.",
+        "is_true": false,
+        "explanation": "Mito! Os países árabes usaram o petróleo como arma diplomática, demonstrando a dependência energética da economia global."
+      },
+      {
+        "statement": "Tóquio, Berlim e Nova York.",
+        "is_true": true,
+        "explanation": "A ocupação dessas áreas gerou a questão dos assentamentos israelenses e a luta palestina por libertação nacional."
+      },
+      {
+        "statement": "A distribuição gratuita de ouro para todos os países africanos.",
+        "is_true": true,
+        "explanation": "Os países árabes usaram o petróleo como arma diplomática, demonstrando a dependência energética da economia global."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Plano de Partilha da ONU",
+        "match": "Divisão da Palestina entre judeus e árabes em 1947"
+      },
+      {
+        "concept": "Sionismo",
+        "match": "Movimento de criação de um Estado judeu na Palestina"
+      },
+      {
+        "concept": "Guerra dos Seis Dias",
+        "match": "Conflito de 1967 com vitória israelense fulminante"
+      },
+      {
+        "concept": "OLP",
+        "match": "Organização para a Libertação da Palestina"
+      },
+      {
+        "concept": "Jihad",
+        "match": "Conceito islâmico de luta, frequentemente mal compreendido"
+      },
+      {
+        "concept": "Acordo de Oslo",
+        "match": "Negociação de paz entre Israel e palestinos em 1993"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Sionismo e a Herança da 2ª Guerra",
+        "order": 1
+      },
+      {
+        "event": "2. ONU 1947: O Mapa da Discórdia",
+        "order": 2
+      },
+      {
+        "event": "3. 1967: Os Seis Dias que Mudaram a Geografia",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONFLITO",
+      "hint": "O conceito-chave central ou termo associado à aula de Oriente Médio: O Barril de Pólvora."
+    }
+  }
+}

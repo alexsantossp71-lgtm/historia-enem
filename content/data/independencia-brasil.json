@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "id": "independencia-brasil",
+    "title": "A Independência do Brasil: Ruptura e Continuidade (1808-1822)",
+    "period": "Século XIX",
+    "tags": [
+      "D. João VI",
+      "Independência",
+      "Revolução do Porto",
+      "Pacto Colonial",
+      "1822"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A independência do Brasil não foi um evento isolado em 7 de setembro de 1822. Foi um processo de 14 anos iniciado com a fuga da Família Real para o Rio de Janeiro em 1808, fugindo de Napoleão Bonaparte.",
+  "theory_content": "A emancipação política do Brasil é um caso único nas Américas. Enquanto nossos vizinhos hispânicos lutaram guerras civis sangrentas para se tornarem repúblicas fragmentadas, o Brasil manteve-se unido sob a forma de uma Monarquia liderada pelo próprio herdeiro da antiga metrópole. O ponto de virada foi a **Vinda da Família Real em 1808**. Com a abertura dos Portos às Nações Amigas, o Pacto Colonial foi quebrado na prática: o Brasil deixou de ser uma colônia exclusiva de Portugal para se tornar o centro administrativo do Império Português. \n\nA interiorização da metrópole no Rio de Janeiro (o chamado 'Período Joanino') trouxe a criação do Banco do Brasil, a Imprensa Régia e o Jardim Botânico, mas também gerou insatisfação no Nordeste. A **Revolução Pernambucana de 1817** foi a maior ameaça à ordem monárquica, defendendo ideais republicanos e separatistas em resposta aos altos impostos cobrados para manter a luxuosa corte no Rio. \n\nEm 1820, a **Revolução Liberal do Porto** em Portugal exigiu o retorno de D. João VI e a recolonização do Brasil. A elite brasileira (o Partido Brasileiro), temendo perder os privilégios conquistados desde 1808, uniu-se a D. Pedro I sob o lema 'Independência ou Morte'. O processo foi, portanto, uma transição conservadora: rompeu-se com Portugal, mas manteve-se a estrutura social baseada na **Escravidão**, no latifúndio e no poder monárquico centralizado, evitando a participação popular e qualquer reforma social profunda que pudesse levar ao 'haitismo' (uma revolta de escravos como ocorrido no Haiti).",
+  "sections": [
+    {
+      "title": "1. 1808: A Inversão Metropolitana",
+      "content": "Quando D. João VI desembarcou no Brasil, a relação entre metrópole e colônia inverteu-se. O Rio tornou-se a capital do reino unido de Portugal, Brasil e Algarves (1815). A Abertura dos Portos acabou com o monopólio comercial, beneficiando imensamente a Inglaterra, que passou a inundar o mercado brasileiro com seus produtos industriais através dos Tratados de 1810.",
+      "highlight": "A independência econômica do Brasil começou em 1808, muito antes do grito do Ipiranga.",
+      "image": {
+        "url": "assets/images/lessons/independencia-brasil/section_0.png",
+        "alt": "1. 1808: A Inversão Metropolitana",
+        "caption": "1. 1808: A Inversão Metropolitana"
+      }
+    },
+    {
+      "title": "2. 1817: A Revolução de Pernambuco",
+      "content": "Pernambuco, que já fora o centro do açúcar, sentia-se abandonado e explorado. Inspirados no Iluminismo, padres, militares e maçons proclamaram uma república. Por 75 dias, o Brasil teve seu primeiro governo republicano de fato, com bandeira e leis próprias. A repressão de D. João VI foi brutal, com enforcamentos e perseguições, mas a semente do separatismo já estava plantada no Nordeste.",
+      "highlight": "Pernambuco de 1817 foi o grito mais radical e popular pela liberdade.",
+      "image": {
+        "url": "assets/images/lessons/independencia-brasil/section_1.png",
+        "alt": "2. 1817: A Revolução de Pernambuco",
+        "caption": "2. 1817: A Revolução de Pernambuco"
+      }
+    },
+    {
+      "title": "3. O Dia do Fico e a Pressão Portuguesa",
+      "content": "D. João VI voltou para Portugal em 1821, deixando seu filho Pedro como regente. As cortes portuguesas começaram a enviar decretos que retiravam a autonomia do Brasil, tentando rebaixá-lo a simples colônia novamente. Em 9 de janeiro de 1822 (Dia do Fico), Pedro atende aos pedidos das elites brasileiras e decide permanecer, desafiando abertamente as ordens de Lisboa.",
+      "highlight": "O 'Fico' foi o ato simbólico de desobediência que tornou a guerra de independência inevitável.",
+      "image": {
+        "url": "assets/images/lessons/independencia-brasil/section_2.png",
+        "alt": "3. O Dia do Fico e a Pressão Portuguesa",
+        "caption": "3. O Dia do Fico e a Pressão Portuguesa"
+      }
+    },
+    {
+      "title": "4. 7 de Setembro e a 'Paz' Sangrenta",
+      "content": "O grito do Ipiranga foi a formalização de algo que já estava decidido. Entretanto, a independência não foi pacífica em todo o país. Províncias como Bahia, Maranhão, Piauí e Pará tinham tropas fiéis a Portugal. Foram batalhas sangrentas, como a do Jenipapo (Piauí) e o cerco de Salvador, onde o povo baiano (como Maria Quitéria e Joana Angélica) lutou para expulsar os portugueses definitivamente em 1823.",
+      "highlight": "O mito da 'Independência sem Sangue' ignora as batalhas no Norte e Nordeste."
+    },
+    {
+      "title": "5. O Reconhecimento Internacional e a Dívida",
+      "content": "Para ser um país, o Brasil precisava ser reconhecido pelas potências. Os EUA foram os primeiros (Doutrina Monroe). Portugal só aceitou em 1825 após o Brasil pagar 2 milhões de libras esterlinas (dinheiro emprestado pela Inglaterra). Assim, o Brasil nasceu politicamente livre, mas financeiramente dependente dos bancos britânicos, herança que duraria o século inteiro.",
+      "highlight": "A independência financeira foi adiada por décadas em nome do reconhecimento diplomático."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A vinda da Família Real para o Brasil em 1808 trouxe a 'Abertura dos Portos às Nações Amigas'. Qual foi o principal efeito econômico dessa medida?",
+      "options": [
+        "A) O fortalecimento do Pacto Colonial e o aumento dos impostos portugueses.",
+        "B) A quebra do monopólio comercial de Portugal e a entrada maciça de produtos ingleses.",
+        "C) A proibição imediata da entrada de escravizados no país.",
+        "D) O fechamento de todas as indústrias nacionais que haviam sido criadas.",
+        "E) A transformação do Real na moeda oficial da Europa."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Abertura dos Portos significou o fim do Exclusivo Colonial de Portugal sobre o Brasil.",
+      "source": "Simulado ENEM"
+    },
+    {
+      "question": "Diferente da Independência dos EUA, a do Brasil manteve o regime monárquico. O principal motivo para essa escolha das elites foi:",
+      "options": [
+        "A) O desejo de ser colonizado pela Argentina futuramente.",
+        "B) O medo de que uma república trouxesse a abolição da escravidão e a fragmentação do território, como no Haiti.",
+        "C) A ausência total de militares no território brasileiro em 1822.",
+        "D) Uma lei internacional que proibia repúblicas na América do Sul.",
+        "E) O fato de D. Pedro I ser o único homem alfabetizado no país."
+      ],
+      "correctIndex": 1,
+      "explanation": "A monarquia era vista como garantia de ordem social escravista e de unidade territorial.",
+      "source": "Enem 2019"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/independencia-brasil/thumb.png",
+    "alt": "A Independência do Brasil: Ruptura e Continuidade (1808-1822)",
+    "caption": "A Independência do Brasil: Ruptura e Continuidade (1808-1822)"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A independência do Brasil em 1822 foi um processo marcado pela continuidade e pela conservação das estruturas sociais, distinguindo-se radicalmente das repúblicas que nasceram na América Espanhola. A vinda da família real em 1808 já havia transformado o Brasil na 'sede do império', invertendo a lógica colonial. Assim, o Sete de Setembro foi menos uma ruptura revolucionária e mais um rearranjo político entre a elite agrária brasileira e o príncipe regente D. Pedro, visando manter a unidade territorial e, principalmente, o regime escravista.",
+        "O papel da Inglaterra foi fundamental na legitimação do novo Estado brasileiro. Através de empréstimos vultosos e tratados comerciais desiguais, o Brasil conquistou o reconhecimento internacional em troca de sua dependência econômica. A Constituição de 1824, outorgada por D. Pedro I após o fechamento da Assembleia Constituinte, instituiu o Poder Moderador, garantindo ao Imperador autoridade absoluta acima dos demais poderes e consolidando um modelo de Estado centralista e conservador que duraria todo o século XIX.",
+        "Para o Enem, é essencial compreender que a independência não trouxe 'cidadania' para a maioria da população. Os povos indígenas, os escravizados e as massas pobres continuaram excluídos do projeto de nação. A unidade territorial, muitas vezes exaltada como um sucesso, foi mantida através do uso da força contra movimentos separatistas e republicanos, como a Confederação do Equador. A independência foi, portanto, um 'arranjo por cima' que preservou o latifúndio e a escravidão, marcas que definiriam as contradições do Primeiro e Segundo Reinados."
+      ],
+      "source": "COSTA, Emília Viotti da. Da Monarquia à República: Momentos Decisivos. São Paulo: UNESP, 2010."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A vinda da Família Real para o Brasil em 1808 trouxe a 'Abertura dos Portos às Nações Amigas'. Qual foi o principal efeito econômico dessa medida?",
+        "back": "A) O fortalecimento do Pacto Colonial e o aumento dos impostos portugueses.. A Abertura dos Portos significou o fim do Exclusivo Colonial de Portugal sobre o Brasil."
+      },
+      {
+        "front": "Diferente da Independência dos EUA, a do Brasil manteve o regime monárquico. O principal motivo para essa escolha das elites foi:",
+        "back": "A) O desejo de ser colonizado pela Argentina futuramente.. A monarquia era vista como garantia de ordem social escravista e de unidade territorial."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O fortalecimento do Pacto Colonial e o aumento dos impostos portugueses.",
+        "is_true": true,
+        "explanation": "A Abertura dos Portos significou o fim do Exclusivo Colonial de Portugal sobre o Brasil."
+      },
+      {
+        "statement": "A quebra do monopólio comercial de Portugal e a entrada maciça de produtos ingleses.",
+        "is_true": false,
+        "explanation": "Mito! A Abertura dos Portos significou o fim do Exclusivo Colonial de Portugal sobre o Brasil."
+      },
+      {
+        "statement": "O desejo de ser colonizado pela Argentina futuramente.",
+        "is_true": true,
+        "explanation": "A monarquia era vista como garantia de ordem social escravista e de unidade territorial."
+      },
+      {
+        "statement": "O medo de que uma república trouxesse a abolição da escravidão e a fragmentação do território, como no Haiti.",
+        "is_true": false,
+        "explanation": "Mito! A monarquia era vista como garantia de ordem social escravista e de unidade territorial."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "7 de Setembro de 1822",
+        "match": "Data do Grito do Ipiranga e independência do Brasil"
+      },
+      {
+        "concept": "D. Pedro I",
+        "match": "Príncipe que proclamou a independência do Brasil"
+      },
+      {
+        "concept": "José Bonifácio",
+        "match": "Patriarca da Independência e ministro de D. Pedro I"
+      },
+      {
+        "concept": "Reconhecimento americano",
+        "match": "Os EUA foram os primeiros a reconhecer a independência"
+      },
+      {
+        "concept": "Reconhecimento de Portugal",
+        "match": "Ocorreu em 1825 com pagamento de indenização"
+      },
+      {
+        "concept": "Cortes de Lisboa",
+        "match": "Parlamento que tentou recolonizar o Brasil"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. 1808: A Inversão Metropolitana",
+        "order": 1
+      },
+      {
+        "event": "2. 1817: A Revolução de Pernambuco",
+        "order": 2
+      },
+      {
+        "event": "3. O Dia do Fico e a Pressão Portuguesa",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INDEPENDÊNCIA",
+      "hint": "O conceito-chave central ou termo associado à aula de A Independência do Brasil: Ruptura e Continuidade (1808-1822)."
+    }
+  }
+}

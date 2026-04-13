@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "brasil-colonia-pau-brasil",
+    "title": "Pré-Colonial: O Escambo do Pau-Brasil",
+    "period": "1500 - 1530",
+    "tags": [
+      "Pau-Brasil",
+      "Escambo",
+      "Indígenas",
+      "Feitorias",
+      "Descobrimento"
+    ],
+    "difficulty": "Fácil",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "Antes das fazendas e das cidades, o Brasil era apenas uma floresta de tintura. Por 30 anos, Portugal só quis a madeira vermelha, trocando facas por árvores com os índios.",
+  "theory_content": "O **Período Pré-Colonial** (1500-1530) foi uma fase de desinteresse relativo de Portugal pelo Brasil, já que o comércio de especiarias nas Índias era muito mais lucrativo. A única riqueza explorada foi o **pau-brasil** (madeira 'cor de brasa'), usada para tingir tecidos de luxo na Europa. A extração era feita através do **Escambo**: os indígenas cortavam e carregavam a madeira até as **Feitorias** (armazéns fortificados na costa) em troca de objetos de metal (machados, facas), espelhos e miçangas. \n\nNão houve colonização efetiva, vilas ou governo central nesse período. Portugal limitava-se a enviar **expedições guarda-costas** para expulsar piratas franceses, que também faziam escambo com os nativos. O cenário mudou com a crise do comércio oriental e a ameaça de invasão francesa permanente. Em 1530, a expedição de **Martim Afonso de Sousa** deu início à ocupação da terra com a fundação da Vila de São Vicente e o plantio das primeiras mudas de cana-de-açúcar. O ENEM costuma cobrar a relação de trabalho (escambo) com os indígenas e o caráter nômade e predatório da exploração inicial da Mata Atlântica.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o 'Escambo' como a primeira forma de interação econômica luso-indígena. O ENEM costuma cobrar o pau-brasil como o início da devastação da Mata Atlântica. Entenda que não havia escravidão oficial no pré-colonial, mas sim uma cooperação baseada no interesse dos indígenas por tecnologia de metal. Saiba que as 'Feitorias' foram o único rastro de presença física portuguesa por três décadas.",
+  "sections": [
+    {
+      "title": "1. O Desinteresse de Portugal (1500)",
+      "content": "Quando Cabral chegou, o Brasil não tinha cidades de ouro como as dos Astecas. Portugal estava focado no lucro bilionário das pimentas na Índia. O Brasil foi tratado como uma 'parada de descanso' no caminho para as especiarias. O governo português nem sequer chamava a terra de país; era apenas a 'Ilha de Vera Cruz' ou, mais tarde, a 'Terra de Santa Cruz', vista como uma reserva de madeira para o futuro.",
+      "highlight": "O Brasil nasceu como um plano B das especiarias orientais.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_0.png",
+        "alt": "1. O Desinteresse de Portugal (1500)",
+        "caption": "1. O Desinteresse de Portugal (1500)"
+      }
+    },
+    {
+      "title": "2. O Pau-Brasil: A Árvore de Sangue",
+      "content": "A madeira era valiosa pela resina vermelha. Os europeus gastavam fortunas para tingir roupas da nobreza e do clero. No litoral brasileiro, essa árvore era abundante. Por ser pesada e difícil de transportar, os portugueses dependiam totalmente do conhecimento e da força física dos indígenas. Portugal decretou o 'Estanco' (monopólio real), proibindo qualquer um de cortar madeira sem pagar impostos à coroa.",
+      "highlight": "O primeiro monopólio brasileiro foi sobre a cor vermelha das nossas árvores.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_1.png",
+        "alt": "2. O Pau-Brasil: A Árvore de Sangue",
+        "caption": "2. O Pau-Brasil: A Árvore de Sangue"
+      }
+    },
+    {
+      "title": "3. O Escambo: Trocas e Alianças",
+      "content": "O indígena não era ingênuo de trocar 'ouro por espelhos'. Para um povo que vivia na Idade da Pedra, um machado de metal ou uma foice valiam mais que um baú de árvores. O escambo era uma relação de troca mútua: o lucro para o português e a tecnologia real para o nativo. Essa aliança permitiu que Portugal conhecesse o interior do litoral sem precisar guerrear com as tribos locais logo de cara.",
+      "highlight": "O machado de metal foi a primeira ferramenta da colonização portuguesa.",
+      "image": {
+        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_2.png",
+        "alt": "3. O Escambo: Trocas e Alianças",
+        "caption": "3. O Escambo: Trocas e Alianças"
+      }
+    },
+    {
+      "title": "4. As Feitorias: Ilhas no Litoral",
+      "content": "As feitorias eram pequenos postos comerciais cercados por paliçadas. Não havia famílias portuguesas, apenas degredados ou funcionários do rei. Ali, o pau-brasil era estocado esperando os navios que vinham de Lisboa a cada semestre. Essas bases eram frágeis e muitas vezes destruídas por piratas franceses ou ataques de tribos indígenas que se sentiam traídas pelos 'caraíbas'.",
+      "highlight": "As feitorias eram os únicos pontos de luz europeia em um continente indígena."
+    },
+    {
+      "title": "5. 1530: O Fim da Paciência",
+      "content": "Franceses continuavam roubando madeira e ameaçando fundar colônias no Brasil (Antártica Francesa). O rei D. João III percebeu que precisava 'povoar para não perder'. Ele enviou Martim Afonso de Sousa com soldados, padres e colonos. Começava a Era das Capitanias Hereditárias, o fim da exploração puramente predatória e o início da construção das primeiras bases da sociedade agrária brasileira.",
+      "highlight": "O medo de perder a terra para a França forçou Portugal a colonizar o Brasil."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Durante o Período Pré-Colonial do Brasil (1500-1530), a principal forma de relação de trabalho entre portugueses e indígenas foi:",
+      "options": [
+        "A) A escravidão obrigatória de todos os pajés das tribos.",
+        "B) O escambo, que consistia na troca da extração do pau-brasil por objetos de metal e utilitários úteis aos nativos.",
+        "C) O pagamento de salários em ouro e prata nas feitorias litorâneas.",
+        "D) A proibição de qualquer tipo de conversa entre as duas raças nas praias.",
+        "E) O cancelamento de todas as viagens de navios portugueses para o Brasil."
+      ],
+      "correctIndex": 1,
+      "explanation": "O escambo foi a base da economia inicial, utilizando o interesse mútuo para a extração madeireira.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual fator principal levou Portugal a abandonar o desinteresse pelo Brasil e iniciar a colonização efetiva em 1530?",
+      "options": [
+        "A) A vontade do rei de Portugal de aprender a língua tupi.",
+        "B) A constante ameaça de invasões francesas e a necessidade de garantir a posse do território através do povoamento.",
+        "C) A decisão de transformar o Brasil em uma grande fábrica de sapatos de couro.",
+        "D) O pedido do papa para que todos os portugueses morassem no Amazonas.",
+        "E) A descoberta imediata de petróleio no fundo do oceano Atlântico."
+      ],
+      "correctIndex": 1,
+      "explanation": "A vulnerabilidade do litoral brasileiro a invasores obrigou Portugal a investir em capitanias e vilas.",
+      "source": "Simulado ENEM / Pré-Colonial"
+    },
+    {
+      "question": "Qual foi o principal motivo do desinteresse de Portugal pelo Brasil durante o Período Pré-Colonial?",
+      "options": [
+        "A) A falta de recursos naturais no Brasil",
+        "B) A competição com outros países europeus",
+        "C) O comércio de especiarias nas Índias era mais lucrativo",
+        "D) A distância entre Portugal e o Brasil",
+        "E) A resistência dos indígenas à colonização"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual era o sistema de troca utilizado pelos portugueses para obter pau-brasil dos indígenas?",
+      "options": [
+        "A) Escravatura",
+        "B) Comércio direto",
+        "C) Escambo",
+        "D) Tributo",
+        "E) Conquista"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o evento que marcou o início da ocupação efetiva do Brasil por Portugal?",
+      "options": [
+        "A) A chegada de Cabral ao Brasil",
+        "B) A fundação da Vila de São Vicente por Martim Afonso de Sousa",
+        "C) A expulsão dos piratas franceses",
+        "D) A crise do comércio oriental",
+        "E) A ameaça de invasão francesa permanente"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-colonia-pau-brasil/thumb.png",
+    "alt": "Pré-Colonial: O Escambo do Pau-Brasil",
+    "caption": "Pré-Colonial: O Escambo do Pau-Brasil"
+  },
+  "support_texts": [
+    {
+      "source": "DEAN, Warren. A Ferro e Fogo: A História e a Devastação da Mata Atlântica Brasileira. Cia das Letras, 1996.",
+      "paragraphs": [
+        "A extração do pau-brasil (Caesalpinia echinata) caracterizou a primeira fase da exploração portuguesa na América (1500-1530). O escambo estabelecido com as populações indígenas locais foi o primeiro modelo de relação de trabalho mercantil, fornecendo espelhos e ferramentas de metal em troca do esforço monumental de derrubada e transporte da madeira.",
+        "Conforme aponta Warren Dean, essa fase não representou apenas o início da dominação econômica, mas inaugurou a brutal devastação ecológica da Mata Atlântica. O arrendamento do monopólio (estanco) da Coroa a consórcios de cristãos-novos, como Fernão de Noronha, viabilizou a exploração sem exigir a imediata ocupação e colonização do território.",
+        "Para o Enem, é vital compreender que o ciclo do pau-brasil baseou-se na mão de obra nativa livre, porém explorada mercantilmente, e que o caráter predatório e extrativista desta economia moldaria permanentemente as relações históricas do Brasil com seu meio ambiente e com o capital externo."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Durante o Período Pré-Colonial do Brasil (1500-1530), a principal forma de relação de trabalho entre portugueses e indígenas foi:",
+        "back": "A) A escravidão obrigatória de todos os pajés das tribos.. O escambo foi a base da economia inicial, utilizando o interesse mútuo para a extração madeireira."
+      },
+      {
+        "front": "Qual fator principal levou Portugal a abandonar o desinteresse pelo Brasil e iniciar a colonização efetiva em 1530?",
+        "back": "A) A vontade do rei de Portugal de aprender a língua tupi.. A vulnerabilidade do litoral brasileiro a invasores obrigou Portugal a investir em capitanias e vilas."
+      },
+      {
+        "front": "Qual foi a principal riqueza explorada pelo Portugal no Brasil durante o Período Pré-Colonial?",
+        "back": "Pau-brasil"
+      },
+      {
+        "front": "Como era feita a extração do pau-brasil?",
+        "back": "Através do escambo"
+      },
+      {
+        "front": "O que era trocado com os indígenas em troca do pau-brasil?",
+        "back": "Objetos de metal, espelhos e miçangas"
+      },
+      {
+        "front": "Quem ameaçava a exploração portuguesa no Brasil durante o Período Pré-Colonial?",
+        "back": "Piratas franceses"
+      },
+      {
+        "front": "Quem deu início à ocupação da terra no Brasil em 1530?",
+        "back": "Martim Afonso de Sousa"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A escravidão obrigatória de todos os pajés das tribos.",
+        "is_true": true,
+        "explanation": "O escambo foi a base da economia inicial, utilizando o interesse mútuo para a extração madeireira."
+      },
+      {
+        "statement": "O escambo, que consistia na troca da extração do pau-brasil por objetos de metal e utilitários úteis aos nativos.",
+        "is_true": false,
+        "explanation": "Mito! O escambo foi a base da economia inicial, utilizando o interesse mútuo para a extração madeireira."
+      },
+      {
+        "statement": "A constante ameaça de invasões francesas e a necessidade de garantir a posse do território através do povoamento.",
+        "is_true": false,
+        "explanation": "Mito! A vulnerabilidade do litoral brasileiro a invasores obrigou Portugal a investir em capitanias e vilas."
+      },
+      {
+        "statement": "A vontade do rei de Portugal de aprender a língua tupi.",
+        "is_true": true,
+        "explanation": "A vulnerabilidade do litoral brasileiro a invasores obrigou Portugal a investir em capitanias e vilas."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Pau-brasil",
+        "match": "Primeiro produto de exportação colonial (tinta vermelha)"
+      },
+      {
+        "concept": "Escambo",
+        "match": "Troca de mercadorias com os índios na costa brasileira"
+      },
+      {
+        "concept": "Feitorias",
+        "match": "Postos de comércio portugaseus na costa do Brasil"
+      },
+      {
+        "concept": "Tupinambás",
+        "match": "Povo indígena que colaborou com os portugueses no primeiro momento"
+      },
+      {
+        "concept": "Tratado de Tordesilhas",
+        "match": "Divisão do mundo entre Portugal e Espanha (1494)"
+      },
+      {
+        "concept": "Pedro Álvares Cabral",
+        "match": "Navegador que 'descobriu' o Brasil em 1500"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Desinteresse de Portugal (1500)",
+        "order": 1
+      },
+      {
+        "event": "2. O Pau-Brasil: A Árvore de Sangue",
+        "order": 2
+      },
+      {
+        "event": "3. O Escambo: Trocas e Alianças",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "FAZENDAS",
+      "hint": "O conceito-chave central ou termo associado à aula de Pré-Colonial: O Escambo do Pau-Brasil."
+    }
+  }
+}

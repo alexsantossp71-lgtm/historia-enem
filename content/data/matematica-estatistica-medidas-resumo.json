@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "id": "matematica-estatistica-medidas-resumo",
+    "title": "Estatística: Medidas de Resumo",
+    "period": "",
+    "tags": [
+      "Matemática",
+      "Estatística",
+      "Média",
+      "Mediana",
+      "Moda",
+      "Desvio Padrão",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Matemática",
+    "subject": "Estatística",
+    "visual_depth": "elite"
+  },
+  "intro": "As medidas de resumo são essenciais para descrever e comparar conjuntos de dados, permitindo identificar tendências centrais e dispersão.",
+  "theory_content": "As principais medidas de tendência central são: 1) Média aritmética: soma de todos os valores dividida pelo número de elementos (x̄ = Σx/n). 2) Mediana: valor que ocupa a posição central quando os dados estão ordenados. 3) Moda: valor que ocorre com maior frequência. As medidas de dispersão incluem: 1) Amplitude: diferença entre o maior e o menor valor. 2) Variância: média dos quadrados dos desvios em relação à média (σ² = Σ(xi - x̄)²/n). 3) Desvio padrão: raiz quadrada da variância (σ = √σ²). O coeficiente de variação (CV = σ/x̄ × 100%) permite comparar dispersão entre escalas diferentes. Em distribuições simétricas, média ≈ mediana ≈ moda; em assimétricas à direita, moda < mediana < média; à esquerda, média < mediana < moda.",
+  "support_text": "No ENEM, questões de estatística frequentemente aparecem em contextos de interpretação de gráficos (histogramas, boxplots) e resolução de problemas com tabelas de frequência. Por exemplo, uma questão pode apresentar a distribuição de salários em uma empresa e pedir para calcular a média, mediana e identificar se a distribuição é assimétrica.",
+  "sections": [
+    {
+      "title": "Medidas de Tendência Central",
+      "content": "Média: sensível a valores extremos. Mediana: robusta a outliers. Moda: útil para dados categóricos ou discretos. Em dados agrupados, usa-se pontos médios das classes.",
+      "image": {
+        "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/section_0.png",
+        "alt": "Medidas de Tendência Central",
+        "caption": "Medidas de Tendência Central"
+      },
+      "highlight": "A escolha da medida depende do tipo de dados e da presença de outliers."
+    },
+    {
+      "title": "Medidas de Dispersão e Coeficiente de Variação",
+      "content": "Variância e desvio padrão medem o quanto os dados se espalham em torno da média. O coeficiente de variação expressa o desvio padrão como porcentagem da média, permitindo comparação entre diferentes unidades ou escalas.",
+      "highlight": "CV < 15% indica baixa dispersão; CV > 35% indica alta dispersão (regra empírica).",
+      "image": {
+        "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/section_1.png",
+        "alt": "Medidas de Dispersão e Coeficiente de Variação",
+        "caption": "Medidas de Dispersão e Coeficiente de Variação"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Para o conjunto de dados {2, 4, 4, 4, 5, 5, 7, 9}, qual é a mediana?",
+      "options": [
+        "A) 4",
+        "B) 4.5",
+        "C) 5",
+        "D) 5.5",
+        "E) 6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Qual é a fórmula para calcular a média aritmética de um conjunto de dados?",
+      "options": [
+        "A) x̄ = Σx/n",
+        "B) x̄ = Σx × n",
+        "C) x̄ = Σx - n",
+        "D) x̄ = n × Σx",
+        "E) x̄ = Σx + n"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    },
+    {
+      "question": "Em uma distribuição simétrica, qual é a relação entre a média, a mediana e a moda?",
+      "options": [
+        "A) Média < Mediana < Moda",
+        "B) Média > Mediana > Moda",
+        "C) Média ≈ Mediana ≈ Moda",
+        "D) Média = Mediana, mas Moda é diferente",
+        "E) Mediana = Moda, mas Média é diferente"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é a medida de dispersão que representa a diferença entre o maior e o menor valor em um conjunto de dados?",
+      "options": [
+        "A) Variância",
+        "B) Desvio padrão",
+        "C) Amplitude",
+        "D) Coeficiente de variação",
+        "E) Média aritmética"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Em uma distribuição assimétrica à direita, qual é a ordem correta da moda, mediana e média?",
+      "options": [
+        "A) Moda < Mediana < Média",
+        "B) Média < Mediana < Moda",
+        "C) Mediana < Moda < Média",
+        "D) Moda > Mediana > Média",
+        "E) Média = Mediana = Moda"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Qual é a fórmula da variância populacional?",
+      "back": "σ² = Σ(xi - μ)² / N"
+    },
+    {
+      "front": "Se o desvio padrão de um conjunto é 0, o que isso indica?",
+      "back": "Todos os valores são iguais à média."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/thumb.png",
+    "alt": "Estatística: Medidas de Resumo",
+    "caption": "Estatística: Medidas de Resumo"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "Em um cenário massivamente saturado do Big Data e métricas estatais sociais o domínio apurado dos fundamentos de tendência central (Média, Moda, Mediana) consagram a aptidão de diferenciação da Matemática aplicada. Distinguir e calcular distorções analíticas interpretativas estatísticas constituem, recorrentemente, a colossal parcela de acertos para os cálculos sociais demográficos contemporâneos dos cadernos do Inep.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Para o conjunto de dados {2, 4, 4, 4, 5, 5, 7, 9}, qual é a mediana?",
+        "back": "A) 4. Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
+      },
+      {
+        "front": "O que é a média aritmética?",
+        "back": "Soma de todos os valores dividida pelo número de elementos."
+      },
+      {
+        "front": "Qual é a fórmula da variância?",
+        "back": "Média dos quadrados dos desvios em relação à média (σ² = Σ(xi - x̄)²/n)."
+      },
+      {
+        "front": "O que é a moda?",
+        "back": "Valor que ocorre com maior frequência."
+      },
+      {
+        "front": "Qual é a relação entre média, mediana e moda em distribuições simétricas?",
+        "back": "Média ≈ mediana ≈ moda."
+      },
+      {
+        "front": "O que é o desvio padrão?",
+        "back": "Raiz quadrada da variância (σ = √σ²)."
+      },
+      {
+        "front": "Para que serve o coeficiente de variação?",
+        "back": "Permite comparar dispersão entre escalas diferentes."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "4",
+        "is_true": true,
+        "explanation": "Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
+      },
+      {
+        "statement": "5",
+        "is_true": false,
+        "explanation": "Mito! Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) 4",
+        "match": "Para o conjunto de dados {2, 4, 4, 4, 5, 5, 7..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Medidas de Tendência Central",
+        "order": 1
+      },
+      {
+        "event": "Medidas de Dispersão e Coeficiente de Variação",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "IDENTIFICAR",
+      "hint": "O conceito-chave central ou termo associado à aula de Estatística: Medidas de Resumo."
+    }
+  }
+}

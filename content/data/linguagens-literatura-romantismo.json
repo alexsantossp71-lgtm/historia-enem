@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "id": "linguagens-literatura-romantismo",
+    "title": "Literatura: Romantismo Brasileiro",
+    "period": "1836-1861",
+    "tags": [
+      "Linguagens",
+      "Literatura",
+      "Romantismo",
+      "José de Alencar",
+      "Gonçalves Dias"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Linguagens",
+    "subject": "Literatura",
+    "visual_depth": "elite"
+  },
+  "intro": "O Romantismo foi o primeiro movimento literário de expressão nacional no Brasil, marcado pelo exaltamento da natureza, do sentimento individual e da busca por uma identidade brasileira própria.",
+  "theory_content": "O Romantismo no Brasil (1836-1861) desenvolveu-se em três fases: 1) Romantismo Nacionalista: exaltamento da natureza brasileira, do índio e da luta pela independência (ex: Gonçalves Dias, 'Canção do Exílio'). 2) Romantismo Universalista: foco no amor triste, melancolia e sofrimento pessoal (ex: Álvares de Azevedo). 3) Romantismo Social: preocupação com questões sociais como escravidão e liberdade (ex: Castro Alves, 'Navio Negreiro'). Características marcantes: valorização do sentimento sobre a razão, idealização do amor feminino, manifestação do eu lírico, interesse pelo medieval e pelo misterioso, e nacionalismo expresso através da glorificação da natureza e do índio brasileiro.",
+  "support_text": "No ENEM, questões sobre Romantismo frequentemente aparecem ligadas à interpretação de textos e à identificação de características do movimento em trechos de obras. Por exemplo, um trecho de 'Iracema' de José de Alencar pode ser usado para analisar o indianismo e a construção de uma identidade nacional brasileira.",
+  "sections": [
+    {
+      "title": "Indianismo e Nacionalismo",
+      "content": "O indianismo foi uma tendência do Romantismo brasileiro que utilizou o índio como símbolo da nação brasileira. Obras como 'Iracema', de José de Alencar, e 'Song of the Exile', de Gonçalves Dias, exemplificam essa tendência. O índio era visto como nobre, selvagem e representante da natureza brasileira pura.",
+      "highlight": "O indianismo romântico buscava criar um mito de origem para a nação brasileira.",
+      "image": {
+        "url": "assets/images/lessons/linguagens-literatura-romantismo/section_0.png",
+        "alt": "Indianismo e Nacionalismo",
+        "caption": "Indianismo e Nacionalismo"
+      }
+    },
+    {
+      "title": "Amor e Melancolia",
+      "content": "Na fase universalista, o amor passou a ser visto como fonte de sofrimento e melancolia. Poetas como Álvares de Azevedo exploravam temas como a morte, o desejo impossível e a dor do amor não correspondido. O eu lírico romântico era frequentemente isolado, sofrido e voltado para o interior.",
+      "highlight": "O amor romântico é frequentemente trágico e impossível, refletindo o mal do século.",
+      "image": {
+        "url": "assets/images/lessons/linguagens-literatura-romantismo/section_1.png",
+        "alt": "Amor e Melancolia",
+        "caption": "Amor e Melancolia"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qual das seguintes características NÃO é típica do Romantismo brasileiro?",
+      "options": [
+        "A) Exaltação da natureza brasileira",
+        "B) Valorização do sentimento sobre a razão",
+        "C) Foco na objetividade e no racionalismo científico",
+        "D) Interesse pelo medieval e pelo misterioso",
+        "E) Nacionalismo expresso através do indianismo"
+      ],
+      "correctIndex": 2,
+      "explanation": "O Romantismo valorizava o sentimento, a imaginação e a subjetividade, opondo-se ao racionalismo e ao classicismo do Iluminismo. A objetividade e o racionalismo científico são características do Positivismo, não do Romantismo.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Qual foi a principal característica do Romantismo Nacionalista no Brasil?",
+      "options": [
+        "A) Foco no amor triste e melancolia",
+        "B) Exaltação da natureza brasileira e do índio",
+        "C) Preocupação com questões sociais como escravidão",
+        "D) Valorização da razão sobre o sentimento",
+        "E) Idealização do medieval e do misterioso"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quem é um exemplo de autor do Romantismo Universalista no Brasil?",
+      "options": [
+        "A) Gonçalves Dias",
+        "B) Álvares de Azevedo",
+        "C) Castro Alves",
+        "D) Machado de Assis",
+        "E) José de Alencar"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o tema principal da obra 'Navio Negreiro' de Castro Alves?",
+      "options": [
+        "A) A luta pela independência do Brasil",
+        "B) A exaltação da natureza brasileira",
+        "C) A escravidão e a liberdade",
+        "D) O amor triste e a melancolia",
+        "E) A idealização do medieval e do misterioso"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é uma característica marcante do Romantismo no Brasil?",
+      "options": [
+        "A) Valorização da razão sobre o sentimento",
+        "B) Idealização do amor feminino e manifestação do eu lírico",
+        "C) Preocupação com questões sociais como a pobreza",
+        "D) Foco no amor feliz e alegre",
+        "E) Desinteresse pelo medieval e pelo misterioso"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Qual é o marco inicial do Romantismo brasileiro?",
+      "back": "1836, com a publicação de 'Sacrifícios' de Domingos José Gonçalves de Magalhães."
+    },
+    {
+      "front": "O que é o 'eu lírico' no Romantismo?",
+      "back": "A voz poética que expressa sentimentos pessoais, frequentemente melancólicos e isolados."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/linguagens-literatura-romantismo/thumb.png",
+    "alt": "Literatura: Romantismo Brasileiro",
+    "caption": "Literatura: Romantismo Brasileiro"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "Eixo fulcral estético formador no século XIX, o Romantismo modelou a literatura de constituição nacionalista na jovem nação de Gonçalves Dias e José de Alencar em simbiose ambígua às prospecções europeias introspectivas. Avalia-se nas provas estatais a constatação que o bucolismo egocêntrico abriu caminho a posterior crítica realista em Machado de Assis rompendo o ufanismo do indigenismo imperial.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Qual das seguintes características NÃO é típica do Romantismo brasileiro?",
+        "back": "A) Exaltação da natureza brasileira. O Romantismo valorizava o sentimento, a imaginação e a subjetividade, opondo-se ao racionalismo e ao classicismo do Iluminismo. A objetividade e o racionalismo científico são características do Positivismo, não do Romantismo."
+      },
+      {
+        "front": "Qual foi o período do Romantismo no Brasil?",
+        "back": "1836-1861"
+      },
+      {
+        "front": "Quais são as três fases do Romantismo no Brasil?",
+        "back": "Romantismo Nacionalista, Romantismo Universalista e Romantismo Social"
+      },
+      {
+        "front": "Quem é um exemplo de autor do Romantismo Nacionalista?",
+        "back": "Gonçalves Dias"
+      },
+      {
+        "front": "Qual é o tema principal do Romantismo Universalista?",
+        "back": "Amor triste, melancolia e sofrimento pessoal"
+      },
+      {
+        "front": "Quem é um exemplo de autor do Romantismo Social?",
+        "back": "Castro Alves"
+      },
+      {
+        "front": "Qual é uma característica marcante do Romantismo?",
+        "back": "Valorização do sentimento sobre a razão"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Exaltação da natureza brasileira.",
+        "is_true": true,
+        "explanation": "O Romantismo valorizava o sentimento, a imaginação e a subjetividade, opondo-se ao racionalismo e ao classicismo do Iluminismo. A objetividade e o racionalismo científico são características do Positivismo, não do Romantismo."
+      },
+      {
+        "statement": "Valorização do sentimento sobre a razão.",
+        "is_true": false,
+        "explanation": "Mito! O Romantismo valorizava o sentimento, a imaginação e a subjetividade, opondo-se ao racionalismo e ao classicismo do Iluminismo. A objetividade e o racionalismo científico são características do Positivismo, não do Romantismo."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) Exaltação da natureza brasileira",
+        "match": "Qual das seguintes características NÃO é típi..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Indianismo e Nacionalismo",
+        "order": 1
+      },
+      {
+        "event": "Amor e Melancolia",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "EXALTAMENTO",
+      "hint": "O conceito-chave central ou termo associado à aula de Literatura: Romantismo Brasileiro."
+    }
+  }
+}

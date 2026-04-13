@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "renascimento",
+    "title": "Renascimento: O Homem em Foco",
+    "period": "Século XIV - XVII",
+    "tags": [
+      "Humanismo",
+      "Antropocentrismo",
+      "Heliocentrismo",
+      "Mecenato",
+      "Leonardo da Vinci"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas e Linguagens",
+    "subject": "História e Arte",
+    "visual_depth": "elite"
+  },
+  "intro": "O Renascimento foi a grande explosão de luz após a Idade Média. Foi o momento em que o homem deixou de olhar apenas para o céu (Deus) e passou a olhar para si mesmo, para a natureza e para a ciência.",
+  "theory_content": "O **Renascimento Cultural e Científico** teve seu berço na Itália (Cidades-Estado como Florença, Veneza e Roma), impulsionado pelas rotas comerciais marítimas que enriqueceram a burguesia. O conceito central foi o **Humanismo**: o resgate dos valores e do conhecimento da Antiguidade Clássica (Grécia e Roma). A transição Mental foi do **Teocentrismo** (Deus como centro de tudo) para o **Antropocentrismo** (O Homem como centro de tudo). \n\nEssa nova visão permitiu o desenvolvimento do **Individualismo** (o valor da autoria e do talento pessoal) e do **Racionalismo** (a busca pela verdade através da observação e da razão, e não apenas da fé). Na ciência, o **Heliocentrismo** de Copérnico e Galileu provou que a Terra girava em torno do Sol, o que abalou o dogmatismo da Igreja Católica que defendia o Geocentrismo. \n\nNas artes, o Renascimento introduziu a **Perspectiva** (profundidade tridimensional), o realismo anatômico e o uso da luz e sombra (sfumato). Grandes mestres como Leonardo da Vinci representaram o 'Homem Universal' — aquele que dominava pintura, ciência, engenharia e anatomia. O suporte financeiro vinha do **Mecenato**: reis, papas e burgueses ricos (como os Médici em Florença) financiavam os artistas para ganharem prestígio e demonstrar poder. A invenção da Imprensa de Gutenberg em 1450 foi a ferramenta técnica que permitiu a rápida difusão dessas novas ideias por toda a Europa, rompendo o monopólio da Igreja sobre a escrita e a leitura.",
+  "sections": [
+    {
+      "title": "1. O Berço Italiano e o Mecenato",
+      "content": "A Itália possuía uma burguesia comercial forte que desejava se diferenciar da nobreza decadente através da cultura. Famílias como os Médici patrocinavam artistas não apenas por amor à arte, mas por propaganda política. O 'Mecenas' era o investidor cultural da época, garantindo que pintores e escultores pudessem se dedicar integralmente às suas obras monumentais que adornariam igrejas e palácios.",
+      "highlight": "O Renascimento foi a primeira grande simbiose entre arte e capital burguês.",
+      "image": {
+        "url": "assets/images/lessons/renascimento/section_0.png",
+        "alt": "1. O Berço Italiano e o Mecenato",
+        "caption": "1. O Berço Italiano e o Mecenato"
+      }
+    },
+    {
+      "title": "2. Humanismo: O Resgate da Grécia e Roma",
+      "content": "Para os renascentistas, o período medieval foi um 'intermédio' de trevas. Eles buscavam na filosofia de Platão e Aristóteles as bases para uma vida baseada na lógica e no prazer terrenal (Hedonismo moderado). O Humanista era o intelectual que lia os clássicos em grego e latim originais, traduzindo as ideias de liberdade e política que haviam sido esquecidas nos mosteiros.",
+      "highlight": "O humanismo redescobriu que o homem é a medida de todas as coisas.",
+      "image": {
+        "url": "assets/images/lessons/renascimento/section_1.png",
+        "alt": "2. Humanismo: O Resgate da Grécia e Roma",
+        "caption": "2. Humanismo: O Resgate da Grécia e Roma"
+      }
+    },
+    {
+      "title": "3. A Revolução Científica e o Conflito com a Fé",
+      "content": "Galileu Galilei, usando o seu telescópio, viu que a lua não era perfeita e que Júpiter tinha suas próprias luas. Isso provava que a Igreja estava errada sobre a mecânica celeste. Galileu foi levado à Inquisição e forçado a negar suas descobertas para não ser queimado vivo. A ciência renascentista nasceu da coragem de observar a natureza para além dos dogmas religiosos.",
+      "highlight": "A razão científica travou sua primeira grande batalha contra o dogma teológico no Renascimento.",
+      "image": {
+        "url": "assets/images/lessons/renascimento/section_2.png",
+        "alt": "3. A Revolução Científica e o Conflito com a Fé",
+        "caption": "3. A Revolução Científica e o Conflito com a Fé"
+      }
+    },
+    {
+      "title": "4. Arte: Perspectiva e Realismo Anatômico",
+      "content": "Diferente das figuras planas e rígidas da Idade Média, a pintura renascentista introduziu a terceira dimensão (Perspectiva). Artistas como Michelangelo estudavam cadáveres escondidos para entender como os músculos funcionavam, refletindo esse realismo em obras como a Estátua de David. A beleza era vista como uma harmonia matemática perfeita.",
+      "highlight": "A pintura renascentista abriu uma janela tridimensional no mundo estático medieval."
+    },
+    {
+      "title": "5. O Legado: Imprensa e Alfabetização",
+      "content": "Gutenberg inventou os tipos móveis de metal. Isso permitiu imprimir centenas de cópias de um livro em dias. A Bíblia foi o primeiro grande livro impresso, mas logo panfletos científicos e sátiras políticas começaram a circular. A imprensa democratizou o saber, dificultando a censura e permitindo que as ideias humanistas preparassem o terreno para a Reforma Protestante e o Iluminismo posterior.",
+      "highlight": "O livro impresso foi a 'Internet' do Renascimento, espalhando a luz do conhecimento."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A transição do pensamento medieval para o pensamento renascentista é marcada por uma mudança na visão de mundo. Quais são esses dois conceitos de visão de mundo, respectivamente?",
+      "options": [
+        "A) Do Capitalismo para o Socialismo Marxista.",
+        "B) Do Teocentrismo (Deus como centro) para o Antropocentrismo (Homem como centro).",
+        "C) Do Panteísmo Indígena para o Budismo Japonês.",
+        "D) Da Democracia Direta para a Monarquia Absoluta de Direito Divino.",
+        "E) Da Ciência Atômica para a Alquimia de Metais Preciosos."
+      ],
+      "correctIndex": 1,
+      "explanation": "No Renascimento, as capacidades humanas se tornaram o centro das atenções Intelectuais.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "O Mecenato foi um elemento fundamental para a produção artística no Renascimento. O termo refere-se a:",
+      "options": [
+        "A) Uma técnica de pintura que usava areia no lugar de tinta.",
+        "B) O patrocínio e financiamento de artistas e cientistas por parte de burgueses, reis ou papas.",
+        "C) O hábito de artistas morarem em cavernas para se inspirarem.",
+        "D) A proibição de qualquer tipo de arte que não fosse católica.",
+        "E) O leilão de escravos para servirem de modelos aos pintores."
+      ],
+      "correctIndex": 1,
+      "explanation": "O incentivo financeiro dos mecenas garantiu a estabilidade necessária para a criação das grandes obras renascentistas.",
+      "source": "Simulado ENEM / Arte"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/renascimento/thumb.png",
+    "alt": "Renascimento: O Homem em Foco",
+    "caption": "Renascimento: O Homem em Foco"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Renascimento não foi apenas uma redescoberta da arte greco-romana, mas um movimento cultural e intelectual que colocou o ser humano e a razão no centro do universo (antropocentrismo). Segundo Peter Burke, o fenômeno deve ser entendido como uma revolução nas mentalidades, onde a curiosidade científica e o individualismo passaram a desafiar o monopólio dogmático da Igreja. O mecenato — o financiamento das artes por burgueses e papas — permitiu que gênios como Michelangelo e Da Vinci transformassem a estética europeia, criando obras que integravam a geometria e a anatomia com uma precisão inédita.",
+        "A invenção da imprensa por Gutenberg foi o motor tecnológico que permitiu a rápida difusão das ideias humanistas. Livros que antes eram exclusividade de mosteiros passaram a circular nas mãos de uma burguesia em ascensão, democratizando (ainda que de forma limitada) o acesso ao conhecimento. Este período marcou a transição da Idade Média para a Modernidade, onde a observação da natureza e a experimentação empírica lançaram as bases para a Revolução Científica que viria a seguir.",
+        "Para o Enem, é vital compreender como o Renascimento refletia os novos valores de uma sociedade comercial urbana que já não se sentia representada pela rigidez feudal. O humanismo, ao valorizar a virtude pessoal e o sucesso terreno, criou a base ética para o desenvolvimento do capitalismo. No entanto, o Renascimento foi um movimento profundamente elitista: enquanto as classes dominantes celebravam a beleza e a razão, a vasta massa da população camponesa ainda vivia sob o peso de tradições medievais e crises agrícolas."
+      ],
+      "source": "BURKE, Peter. O Renascimento Italiano: Cultura e Sociedade na Itália. Rio de Janeiro: Jorge Zahar, 1999."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A transição do pensamento medieval para o pensamento renascentista é marcada por uma mudança na visão de mundo. Quais são esses dois conceitos de visão de mundo, respectivamente?",
+        "back": "A) Do Capitalismo para o Socialismo Marxista.. No Renascimento, as capacidades humanas se tornaram o centro das atenções Intelectuais."
+      },
+      {
+        "front": "O Mecenato foi um elemento fundamental para a produção artística no Renascimento. O termo refere-se a:",
+        "back": "A) Uma técnica de pintura que usava areia no lugar de tinta.. O incentivo financeiro dos mecenas garantiu a estabilidade necessária para a criação das grandes obras renascentistas."
+      },
+      {
+        "front": "Onde ocorreu o Renascimento Cultural e Científico?",
+        "back": "Itália, em cidades-estado como Florença, Veneza e Roma."
+      },
+      {
+        "front": "Qual foi o conceito central do Renascimento?",
+        "back": "Humanismo, resgatando valores da Antiguidade Clássica."
+      },
+      {
+        "front": "Qual foi a transição mental ocorrida durante o Renascimento?",
+        "back": "Do Teocentrismo para o Antropocentrismo."
+      },
+      {
+        "front": "Quem são exemplos de grandes mestres do Renascimento?",
+        "back": "Leonardo da Vinci, representando o 'Homem Universal'."
+      },
+      {
+        "front": "Qual foi a invenção que permitiu a difusão das ideias do Renascimento?",
+        "back": "A Imprensa de Gutenberg, em 1450."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Do Capitalismo para o Socialismo Marxista..",
+        "is_true": true,
+        "explanation": "No Renascimento, as capacidades humanas se tornaram o centro das atenções Intelectuais."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Do Teocentrismo (Deus como centro) para o Antropocentrismo (Homem como centro)..",
+        "is_true": false,
+        "explanation": "Falso! No Renascimento, as capacidades humanas se tornaram o centro das atenções Intelectuais."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Uma técnica de pintura que usava areia no lugar de tinta..",
+        "is_true": true,
+        "explanation": "O incentivo financeiro dos mecenas garantiu a estabilidade necessária para a criação das grandes obras renascentistas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) O patrocínio e financiamento de artistas e cientistas por parte de burgueses, reis ou papas..",
+        "is_true": false,
+        "explanation": "Falso! O incentivo financeiro dos mecenas garantiu a estabilidade necessária para a criação das grandes obras renascentistas."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Humanismo",
+        "match": "Movimento que coloca o homem no centro do universo"
+      },
+      {
+        "concept": "Perspectiva",
+        "match": "Técnica artística de representar profundidade"
+      },
+      {
+        "concept": "Leonardo da Vinci",
+        "match": "Artista e cientista símbolo do Renascimento"
+      },
+      {
+        "concept": "Impressão de Gutenberg",
+        "match": "Prensa tipográfica que difundiu o conhecimento"
+      },
+      {
+        "concept": "Polímata",
+        "match": "Homem universal com múltiplos talentos renascentistas"
+      },
+      {
+        "concept": "Mecenas",
+        "match": "Patrocinador das artes e ciências no Renascimento"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Berço Italiano e o Mecenato",
+        "order": 1
+      },
+      {
+        "event": "2. Humanismo: O Resgate da Grécia e Roma",
+        "order": 2
+      },
+      {
+        "event": "3. A Revolução Científica e o Conflito com a Fé",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "RENASCIMENTO",
+      "hint": "O conceito-chave central ou termo associado à aula de Renascimento: O Homem em Foco."
+    }
+  }
+}

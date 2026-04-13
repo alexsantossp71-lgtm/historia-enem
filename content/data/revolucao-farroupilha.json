@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "id": "revolucao-farroupilha",
+    "title": "Guerra dos Farrapos: O Sul em Armas",
+    "period": "1835 - 1845",
+    "tags": [
+      "Farroupilha",
+      "Bento Gonçalves",
+      "Garibaldi",
+      "Charque",
+      "Republica"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução Farroupilha foi a maior e mais longa revolta do período regencial. Os gaúchos lutaram dez anos contra o Império para defender sua economia e seus ideais republicanos.",
+  "theory_content": "A **Revolução Farroupilha** (ou Guerra dos Farrapos) estourou no Rio Grande do Sul e se expandiu para Santa Catarina. O motivo principal era econômico: a elite dos estancieiros (criadores de gado) estava indignada com os altos impostos sobre o **Charque** (carne seca) gaúcho, que era mais caro que o charque importado do Uruguai e da Argentina. Além disso, os gaúchos queriam maior autonomia para a província e se opunham ao centralismo autoritário do governo regencial no Rio de Janeiro. \n\nEm 1836, os revoltosos proclamaram a **República Rio-Grandense** (ou República de Piratini) sob a liderança de Bento Gonçalves. O conflito contou com a participação do italiano Giuseppe Garibaldi e de sua esposa catarinense Anita Garibaldi, que ajudaram a fundar a República Juliana em Santa Catarina. Foi uma guerra de guerrilha, onde a cavalaria farroupilha levava vantagem nos campos dos pampas, mas falhava em tomar cidades fortificadas e portos dominados pela marinha imperial. A guerra terminou em 1845, já com D. Pedro II no trono, através do Tratado de **Paz de Poncho Verde** negociado pelo Barão de Caxias. O Império anistiou os rebeldes, incorporou os generais farroupilhas ao exército brasileiro e baixou os impostos sobre o charque nacional. O ENEM costuma cobrar as motivações econômicas, a questão do federalismo e o papel dos 'Lanceiros Negros' — escravizados que lutaram na guerra com a promessa de liberdade, mas foram traídos no fim do conflito.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a contradição entre a elite estancieira (que não queria o fim da escravidão) e os Lanceiros Negros (que lutavam por ela). O ENEM costuma cobrar a 'Paz de Poncho Verde' como exemplo de conciliação das elites brasileiras. Entenda que a Farroupilha não era uma revolta de pobres, mas de ricos contra o governo central. Saiba a importância do charque para o mercado interno colonial (era o alimento principal dos escravizados das minas e plantações).",
+  "sections": [
+    {
+      "title": "1. O Tributo ao Charque: O Pavio da Guerra",
+      "content": "O Rio Grande do Sul sustentava o Brasil escravocrata com sua carne seca (charque). Mas o governo imperial, em vez de proteger o produto nacional, cobrava impostos caríssimos, tornando o charque estrangeiro mais barato nos portos do Rio de Janeiro e Salvador. Os gaúchos sentiram-se traídos pela pátria e decidiram que era melhor ser uma República independente do que uma província explorada.",
+      "highlight": "A revolta começou por conta do imposto sobre a sobrevivência econômica do Sul.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-farroupilha/section_0.png",
+        "alt": "1. O Tributo ao Charque: O Pavio da Guerra",
+        "caption": "1. O Tributo ao Charque: O Pavio da Guerra"
+      }
+    },
+    {
+      "title": "2. Bento Gonçalves e os Ideais Liberais",
+      "content": "Bento Gonçalves era o líder carismático da elite gaúcha. Preso pelo Império, ele fugiu de modo espetacular do Forte do Mar em Salvador e voltou para comandar os exércitos rebeldes. Sua visão era de uma República Federativa, onde o poder estivesse nas mãos de quem produzisse a riqueza, e não em juízes nomeados no Rio de Janeiro. Ele simboliza o orgulho e a coragem da elite militar sulista.",
+      "highlight": "Bento Gonçalves foi o presidente herói da primeira grande república democrática do Sul.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-farroupilha/section_1.png",
+        "alt": "2. Bento Gonçalves e os Ideais Liberais",
+        "caption": "2. Bento Gonçalves e os Ideais Liberais"
+      }
+    },
+    {
+      "title": "3. Garibaldi e Anita: O Amor e a Revolução",
+      "content": "Giuseppe Garibaldi, fugindo da repressão na Itália, chegou ao Brasil para lutar pela liberdade. Em Santa Catarina, ele conheceu Anita, que abandonou tudo para lutar ao seu lado a cavalo, disparando canhões nas lagoas catarinenses. Juntos, eles expandiram a guerra para o norte e fundaram a República Juliana. Esse casal tornou-se o maior mito romântico de luta pela liberdade mundial.",
+      "highlight": "A Farroupilha foi a escola militar de Garibaldi para libertar a Itália futuramente.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-farroupilha/section_2.png",
+        "alt": "3. Garibaldi e Anita: O Amor e a Revolução",
+        "caption": "3. Garibaldi e Anita: O Amor e a Revolução"
+      }
+    },
+    {
+      "title": "4. O Massacre de Porongos e a Traição dos Negros",
+      "content": "O capítulo mais triste da guerra. O governo imperial não aceitava dar liberdade aos ex-escravizados que lutaram como 'Lanceiros Negros' pelos farrapos. Para facilitar a paz entre generais (todos brancos), os farroupilhas foram acusados de permitir que os negros fossem massacrados de surpresa em Porongos pelos imperiais. A promessa de liberdade terminou de forma covarde em nome da unificação das elites.",
+      "highlight": "A paz dos brancos foi selada com o sangue traído dos lanceiros negros."
+    },
+    {
+      "title": "5. A Paz de Poncho Verde: A Conciliação de Caxias",
+      "content": "O Barão de Caxias entendeu que uma guerra de extermínio no sul deixaria o Brasil vulnerável a ataques de vizinhos como o Uruguai. Ele ofereceu uma paz honrosa: o charque estrangeiro seria taxado em 25%, os escravos sobreviventes seriam mantidos livres (teoricamente) e os generais rebeldes manteriam seus postos. O Rio Grande voltou a ser brasileiro com o orgulho ferido, mas com a economia salva.",
+      "highlight": "Caxias transformou farrapos em brasileiros novamente sem perdedores humilhados."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A principal reivindicação econômica da elite gaúcha que levou ao início da Revolução Farroupilha em 1835 foi:",
+      "options": [
+        "A) A proibição de criar gado no território do Rio Grande do Sul.",
+        "B) A redução dos impostos de importação sobre o sal e o aumento das tarifas sobre o charque estrangeiro para proteger a produção local.",
+        "C) A entrega de todas as estâncias gaúchas para a coroa de Portugal.",
+        "D) A vontade de que o Rio Grande do Sul fosse transformado em um deserto gelado no inverno.",
+        "E) O cancelamento de todos os rodeios e festas gaúchas pelo imperador."
+      ],
+      "correctIndex": 1,
+      "explanation": "A proteção do mercado interno de charque era a base da riqueza dos estancieiros revoltosos.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O massacre de Porongos (1844) é um episódio marcante da Revolução Farroupilha que revela:",
+      "options": [
+        "A) A amizade profunda entre negros e brancos em todas as camadas da sociedade farroupilha.",
+        "B) A traição cometida contra os Lanceiros Negros, que foram desarmados e entregues ao massacre das tropas imperiais para facilitar o acordo de paz.",
+        "C) A entrega gratuita de terras gaúchas para todos os escravizados africanos.",
+        "D) O fim total das disputas por terra em Santa Catarina e Rio Grande do Sul.",
+        "E) A vontade deliberada de todos os gaúchos de serem reis de Portugal."
+      ],
+      "correctIndex": 1,
+      "explanation": "Porongos foi a solução violenta e covarde para 'limpar' a questão da liberdade negra na negociação de paz entre as elites.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o principal motivo econômico que levou à eclosão da Revolução Farroupilha?",
+      "options": [
+        "A) A elite dos estancieiros gaúchos estava insatisfeita com a falta de investimentos em infraestrutura",
+        "B) A elite dos estancieiros gaúchos estava indignada com os altos impostos sobre o charque gaúcho",
+        "C) A elite dos estancieiros gaúchos estava descontente com a concorrência do charque importado do Uruguai e da Argentina",
+        "D) A elite dos estancieiros gaúchos estava preocupada com a segurança das fronteiras da província",
+        "E) A elite dos estancieiros gaúchos estava insatisfeita com a política de comércio exterior do governo regencial"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado do Tratado de Paz de Poncho Verde, que encerrou a Revolução Farroupilha?",
+      "options": [
+        "A) A criação de uma república independente no Rio Grande do Sul",
+        "B) A anistia aos rebeldes e a incorporação dos generais farroupilhas ao exército brasileiro",
+        "C) A manutenção dos altos impostos sobre o charque gaúcho",
+        "D) A expulsão dos estrangeiros que participaram da revolta",
+        "E) A dissolução da província do Rio Grande do Sul"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o papel dos Lanceiros Negros na Revolução Farroupilha?",
+      "options": [
+        "A) Eles eram os líderes da revolta e lutaram pela independência do Rio Grande do Sul",
+        "B) Eles eram escravizados que lutaram na guerra com a promessa de liberdade, mas foram traídos no fim do conflito",
+        "C) Eles eram soldados do exército brasileiro que se juntaram à revolta",
+        "D) Eles eram estrangeiros que se juntaram à revolta em busca de aventura",
+        "E) Eles eram os principais produtores de charque gaúcho"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-farroupilha/thumb.png",
+    "alt": "Guerra dos Farrapos: O Sul em Armas",
+    "caption": "Guerra dos Farrapos: O Sul em Armas"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Guerra dos Farrapos (1835-1845) destaca-se na historiografia das rebeliões do século XIX não apenas por sua extrema longevidade, mas por sua constituição eminentemente elitista em contraponto às insurreições populares coevas. Conforme demonstra Spencer Vampré, a revolta rio-grandense teve suas bases fundamentadas na elite estancieira insatisfeita com a escorchante tributação central sobre o charque nacional, que perdia competitividade frente à isenção concedida ao produto estuarino e uruguaio.",
+        "Durante os dez anos do conflito gaúcho, instalou-se a República Rio-Grandense (e, transitoriamente, a República Juliana). Nela manifesta-se a complexidade da geopolítica platinense e o intervencionismo estancieiro, onde charqueadores mantinham fortíssimos elos mercantis com nações vizinhas. A participação dos Lanceiros Negros, escravizados a quem foi prometida alforria pela prestação militar, revelou a face conservadora dos líderes farrapos. Na Batalha de Porongos, o massacre dessa corporação atesta o cinismo aristocrático que jamais considerou incorporar os negros à cidadania republicana idealizada.",
+        "A abordagem do Exame Nacional do Ensino Médio sobre a Farroupilha comumente foca no término do conflito: o Tratado de Poncho Verde. Em flagrante contraste com a repressão executada (e dizimadora) na Cabanagem e na Revolta dos Malês, as lideranças sulistas não apenas foram perdoadas imperialmente; tiveram suas patentes reconhecidas e lucraram com a nova tarifa econômica alfandegária, escancarando que a centralização imperial brasileira punia com forca os miseráveis e premiava oligarquias que negociavam através das armas."
+      ],
+      "source": "PESAVENTO, Sandra Jatahy. A Revolução Farroupilha. São Paulo: Brasiliense, 1990."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A principal reivindicação econômica da elite gaúcha que levou ao início da Revolução Farroupilha em 1835 foi:",
+        "back": "A) A proibição de criar gado no território do Rio Grande do Sul.. A proteção do mercado interno de charque era a base da riqueza dos estancieiros revoltosos."
+      },
+      {
+        "front": "O massacre de Porongos (1844) é um episódio marcante da Revolução Farroupilha que revela:",
+        "back": "A) A amizade profunda entre negros e brancos em todas as camadas da sociedade farroupilha.. Porongos foi a solução violenta e covarde para 'limpar' a questão da liberdade negra na negociação de paz entre as elites."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A proibição de criar gado no território do Rio Grande do Sul..",
+        "is_true": true,
+        "explanation": "A proteção do mercado interno de charque era a base da riqueza dos estancieiros revoltosos."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A redução dos impostos de importação sobre o sal e o aumento das tarifas sobre o charque estrangeiro para proteger a produção local..",
+        "is_true": false,
+        "explanation": "Falso! A proteção do mercado interno de charque era a base da riqueza dos estancieiros revoltosos."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A amizade profunda entre negros e brancos em todas as camadas da sociedade farroupilha..",
+        "is_true": true,
+        "explanation": "Porongos foi a solução violenta e covarde para 'limpar' a questão da liberdade negra na negociação de paz entre as elites."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A traição cometida contra os Lanceiros Negros, que foram desarmados e entregues ao massacre das tropas imperiais para facilitar o acordo de paz..",
+        "is_true": false,
+        "explanation": "Falso! Porongos foi a solução violenta e covarde para 'limpar' a questão da liberdade negra na negociação de paz entre as elites."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Guerra dos Farrapos",
+        "match": "Revolução gaúcha de 1835 a 1845"
+      },
+      {
+        "concept": "Bento Gonçalves",
+        "match": "Líder farroupilha e presidente da República Rio-Grandense"
+      },
+      {
+        "concept": "Garibaldi",
+        "match": "Italiano que lutou pela causa farroupilha no Brasil"
+      },
+      {
+        "concept": "República Piratini",
+        "match": "Estado republicano criado pelos farrapos no sul"
+      },
+      {
+        "concept": "Anita Garibaldi",
+        "match": "Heroína gaúcha da revolução farroupilha"
+      },
+      {
+        "concept": "Poncho",
+        "match": "Símbolo cultural gaúcho que aparece nas batalhas dos farrapos"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Tributo ao Charque: O Pavio da Guerra",
+        "order": 1
+      },
+      {
+        "event": "2. Bento Gonçalves e os Ideais Liberais",
+        "order": 2
+      },
+      {
+        "event": "3. Garibaldi e Anita: O Amor e a Revolução",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "REPUBLICANOS",
+      "hint": "O conceito-chave central ou termo associado à aula de Guerra dos Farrapos: O Sul em Armas."
+    }
+  }
+}

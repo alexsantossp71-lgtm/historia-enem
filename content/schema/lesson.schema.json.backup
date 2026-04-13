@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ENEM History Lesson Schema",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "period": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "difficulty": { "type": "string", "enum": ["Fácil", "Médio", "Difícil"] },
+        "relevance": { "type": "integer", "minimum": 1, "maximum": 5 }
+      },
+      "required": ["id", "title", "period"]
+    },
+    "intro": { "type": "string" },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "content": { "type": "string" },
+          "image": {
+            "type": "object",
+            "properties": {
+              "url": { "type": "string" },
+              "caption": { "type": "string" },
+              "alt": { "type": "string" }
+            }
+          },
+          "highlight": { "type": "string" }
+        },
+        "required": ["title", "content"]
+      }
+    },
+    "quiz": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": { "type": "string" },
+          "options": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 4,
+            "maxItems": 5
+          },
+          "correctIndex": { "type": "integer" },
+          "explanation": { "type": "string" },
+          "source": { "type": "string" }
+        },
+        "required": ["question", "options", "correctIndex", "explanation"]
+      }
+    },
+    "flashcards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "front": { "type": "string" },
+          "back": { "type": "string" }
+        },
+        "required": ["front", "back"]
+      }
+    }
+  },
+  "required": ["metadata", "intro", "sections", "quiz"]
+}

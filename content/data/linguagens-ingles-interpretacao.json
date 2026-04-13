@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "id": "linguagens-ingles-interpretacao",
+    "title": "Inglês: Interpretação de Textos",
+    "period": "",
+    "tags": [
+      "Linguagens",
+      "Inglês",
+      "Interpretação",
+      "Leitura",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Linguagens",
+    "subject": "Inglês",
+    "visual_depth": "elite"
+  },
+  "intro": "A prova de Inglês do ENEM foca na interpretação de textos escritos, avaliando a capacidade de compreender o sentido global, identificar informações explícitas e implícitas, e inferir relações entre ideias.",
+  "theory_content": "Para interpretar textos em inglês no ENEM, é essencial desenvolver estratégias de leitura: 1) Pré-leitura: observar título, subtítulo, imagens e palavras-chave para ativar conhecimentos prévios. 2) Leitura rápida (skimming): identificar a ideia geral e a estrutura do texto. 3) Leitura cuidadosa (scanning): localizar informações específicas como datas, nomes, números. 4) Inferência: deduzir informações não explicitamente stated com base em pistas contextuais. 5) Vocabulário em contexto: deduzir o significado de palavras desconhecidas pelas palavras ao redor. Tipos de textos comuns: notícias, artigos de opinião, extratos de livros, entrevistas e materiais informativos. Estruturas linguísticas frequentes: verbos modais (can, must, should), condicionais (if clauses), voz passiva e conectores lógicos (however, moreover, therefore).",
+  "support_text": "No ENEM 2022, um texto sobre os efeitos das redes sociais na saúde mental de adolescentes foi cobrado. As perguntas exigiam identificar o argumento principal, a opinião do autor e inferir consequências não explicitamente mencionadas. Estudantes que praticaram a leitura ativa e a inferência contextual tiveram melhor desempenho.",
+  "sections": [
+    {
+      "title": "Estratégias de Leitura",
+      "content": "Pré-leitura: analisar elementos paratextuais (título, autor, fonte, imagens). Skimming: ler rapidamente para captar a ideia geral. Scanning: procurar informações específicas como nomes, datas, números. Detalhamento: ler com atenção para compreender argumentos e evidências.",
+      "highlight": "Combinar diferentes estratégias de leitura aumenta a eficiência e a compreensão.",
+      "image": {
+        "url": "assets/images/lessons/linguagens-ingles-interpretacao/section_0.png",
+        "alt": "Estratégias de Leitura",
+        "caption": "Estratégias de Leitura"
+      }
+    },
+    {
+      "title": "Vocabulário em Contexto",
+      "content": "Quando encontrar uma palavra desconhecida, observe: 1) Palavras próximas que podem indicar sinônimo ou antônimo. 2) Estrutura da frase (sujeito, verbo, objeto). 3) Pistas de formação (prefixos, sufixos, raízes). 4) Tom do texto (positivo, negativo, neutro). Exemplos: 'The policy was detrimental to small businesses' - 'detrimental' provavelmente significa prejudicial pelo contexto negativo.",
+      "highlight": "O contexto frequentemente fornece pistas suficientes para entender o significado sem dicionário.",
+      "image": {
+        "url": "assets/images/lessons/linguagens-ingles-interpretacao/section_1.png",
+        "alt": "Vocabulário em Contexto",
+        "caption": "Vocabulário em Contexto"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "No trecho 'Despite the challenges, the team persevered and achieved their goals', o que significa a palavra 'persevered'?",
+      "options": [
+        "A) Desistiu facilmente",
+        "B) Continuou tentando apesar das dificuldades",
+        "C) Evitou o desafio completamente",
+        "D) Criticou os desafios abertamente",
+        "E) Esperou que outros resolvessem o problema"
+      ],
+      "correctIndex": 1,
+      "explanation": "Despite indica contraste; a frase sugere que, embora houvesse desafios, a equipe continuou tentando e conseguiu seus objetivos. Persevered significa persistir, continuar firme apesar de dificuldades.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Ao ler um texto em inglês, qual é a principal finalidade da estratégia de pré-leitura?",
+      "options": [
+        "A) Identificar a ideia geral do texto",
+        "B) Localizar informações específicas como datas e nomes",
+        "C) Ativar conhecimentos prévios e entender o contexto",
+        "D) Deduzir o significado de palavras desconhecidas",
+        "E) Analisar a estrutura do texto"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o objetivo da leitura rápida (skimming) ao interpretar um texto em inglês?",
+      "options": [
+        "A) Localizar informações específicas como números e estatísticas",
+        "B) Identificar a ideia geral e a estrutura do texto",
+        "C) Deduzir o significado de palavras desconhecidas",
+        "D) Analisar a opinião do autor",
+        "E) Entender o contexto histórico do texto"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Ao ler um texto em inglês, qual é a função da inferência?",
+      "options": [
+        "A) Identificar a ideia geral do texto",
+        "B) Localizar informações específicas como datas e nomes",
+        "C) Deduzir informações não explicitamente mencionadas",
+        "D) Analisar a estrutura do texto",
+        "E) Entender o vocabulário do texto"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o benefício de usar o contexto para deduzir o significado de palavras desconhecidas em um texto em inglês?",
+      "options": [
+        "A) Melhorar a compreensão da estrutura do texto",
+        "B) Aumentar a velocidade de leitura",
+        "C) Deduzir o significado de palavras desconhecidas sem precisar de um dicionário",
+        "D) Identificar a opinião do autor",
+        "E) Entender o contexto histórico do texto"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "O que significa 'skimming' na leitura em inglês?",
+      "back": "Ler rapidamente para captar a ideia geral do texto."
+    },
+    {
+      "front": "Como identificar a ideia principal de um parágrafo?",
+      "back": "Procure a frase que resume o conteúdo geral, geralmente no início ou no final do parágrafo."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/linguagens-ingles-interpretacao/thumb.png",
+    "alt": "Inglês: Interpretação de Textos",
+    "caption": "Inglês: Interpretação de Textos"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "As competências da Língua Estrangeira no Ensino Médio abdicam de estritas regras de conjugações para focar agudamente nas habilidades de inferência discursiva e culturalização. A prova de Línguas Inglesas do Enem submete o candidato à interpretação densa de cartoons, críticas midiáticas, publicidades ou extratos acadêmicos que demandam fluência pragmática cultural globalizada.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "No trecho 'Despite the challenges, the team persevered and achieved their goals', o que significa a palavra 'persevered'?",
+        "back": "A) Desistiu facilmente. Despite indica contraste; a frase sugere que, embora houvesse desafios, a equipe continuou tentando e conseguiu seus objetivos. Persevered significa persistir, continuar firme apesar de dificuldades."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Desistiu facilmente.",
+        "is_true": true,
+        "explanation": "Despite indica contraste; a frase sugere que, embora houvesse desafios, a equipe continuou tentando e conseguiu seus objetivos. Persevered significa persistir, continuar firme apesar de dificuldades."
+      },
+      {
+        "statement": "Continuou tentando apesar das dificuldades.",
+        "is_true": false,
+        "explanation": "Mito! Despite indica contraste; a frase sugere que, embora houvesse desafios, a equipe continuou tentando e conseguiu seus objetivos. Persevered significa persistir, continuar firme apesar de dificuldades."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) Desistiu facilmente",
+        "match": "No trecho 'Despite the challenges, the team p..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Estratégias de Leitura",
+        "order": 1
+      },
+      {
+        "event": "Vocabulário em Contexto",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INTERPRETAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Inglês: Interpretação de Textos."
+    }
+  }
+}

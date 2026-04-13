@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "id": "pre-historia",
+    "title": "Pré-História: A Longa Caminhada Humana",
+    "period": "2,5 milhões a.C. - 3500 a.C.",
+    "tags": [
+      "Paleolítico",
+      "Neolítico",
+      "Agricultura",
+      "Revolução Urbana",
+      "Pintura Rupestre"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "thumbnail": "assets/images/lessons/pre-historia/thumb.png",
+    "visual_depth": "elite"
+  },
+  "intro": "A Pré-História não foi um tempo de ignorância, mas de descobertas monumentais: o fogo, a roda e o nascimento da agricultura, que mudaram o destino da nossa espécie para sempre.",
+  "theory_content": "A **Pré-História** é o período que vai do surgimento do gênero *Homo* até a invenção da escrita (cerca de 3500 a.C. na Suméria). Ela é dividida em três grandes marcos: \n\n1. No **Paleolítico** (Pedra Lascada), o ser humano era nômade, vivia da caça, pesca e coleta, e habitava cavernas para se proteger. A maior conquista foi o controle do **Fogo**, que permitiu cozinhar alimentos, espantar predadores e aquecer-se. \n\n2. No **Neolítico** (Pedra Polida), ocorreu a maior revolução da história humana: a **Revolução Agrícola**. O homem passou a cultivar o próprio alimento e a domesticar animais. Com a agricultura, veio o **Sedentarismo** (moradia fixa) e o aumento da população, gerando a necessidade de organizar as primeiras aldeias. \n\n3. Na **Idade dos Metais**, o homem aprendeu a fundir o cobre, o bronze e, por fim, o ferro. Isso permitiu criar ferramentas e armas mais resistentes, resultando na **Revolução Urbana** (nascimento das cidades) e na divisão técnica do trabalho e na hierarquia social (surgimento de líderes e chefes militares). O final desse período marca o início da História Antiga com o surgimento das civilizações hidráulicas (Egito e Mesopotâmia), que dependiam do controle dos rios para sobreviver. O ENEM costuma cobrar a relação entre o homem e a natureza, a importância da arte rupestre como forma de comunicação simbólica e os impactos da transição para a agricultura na organização social.",
+  "sections": [
+    {
+      "title": "1. O Paleolítico e a Idade do Fogo",
+      "content": "Pense no ser humano como um andarilho eterno. Sem agricultura, ele dependia do que a natureza oferecia. A invenção do fogo foi o nosso primeiro 'grande golpe' contra o destino natural. Com o calor, o cérebro humano pôde se desenvolver mais (carne cozida é melhor digerida), e as cavernas tornaram-se os primeiros 'clubes' sociais onde histórias e crenças eram compartilhadas através da arte rupestre.",
+      "highlight": "O fogo tirou a humanidade da escuridão e abriu as portas da civilização.",
+      "image": {
+        "url": "assets/images/lessons/pre-historia/section_0.png",
+        "alt": "Ilustração de 1. O Paleolítico e a Idade do Fogo",
+        "caption": "Interpretacao artistica: 1. O Paleolítico e a Idade do Fogo"
+      }
+    },
+    {
+      "title": "2. A Revolução Neolítica: O Fim do Nomadismo",
+      "content": "Por volta de 10.000 a.C., o clima da Terra mudou, permitindo a agricultura. Isso mudou TUDO. Ter comida estocada significava que nem todo mundo precisava caçar o dia inteiro. Pessoas podiam ser artesãos, sacerdotes ou inventores. O sedentarismo criou a ideia de propriedade, de território e de família nuclear. Foi o nascimento da sociedade complexa que vivemos hoje.",
+      "highlight": "A agricultura plantou as sementes da desigualdade e da abundância.",
+      "image": {
+        "url": "assets/images/lessons/pre-historia/section_1.png",
+        "alt": "Ilustração de 2. A Revolução Neolítica: O Fim do Nomadismo",
+        "caption": "Interpretacao artistica: 2. A Revolução Neolítica: O Fim do Nomadismo"
+      }
+    },
+    {
+      "title": "3. Idade dos Metais e as Cidades-Estado",
+      "content": "Ferro e bronze significavam arados melhores para a terra e espadas melhores para a guerra. As aldeias neolíticas cresceram e tornaram-se cidades muradas para proteger o estoque de grãos contra invasores. Surgiu a necessidade de um líder (Rei) para organizar a defesa e de impostos para sustentar os exércitos. Estava pronto o palco para o nascimento do Estado moderno.",
+      "highlight": "O metal deu aos homens o poder de moldar a terra e de dominar o próximo.",
+      "image": {
+        "url": "assets/images/lessons/pre-historia/section_2.png",
+        "alt": "Ilustração de 3. Idade dos Metais e as Cidades-Estado",
+        "caption": "Interpretacao artistica: 3. Idade dos Metais e as Cidades-Estado"
+      }
+    },
+    {
+      "title": "4. Arte Rupestre e Significado Simbólico",
+      "content": "Desenhar nas paredes não era 'arte por arte'. Era uma forma de registrar vitórias, de educar as crianças ou de realizar rituais para garantir que a próxima caçada fosse boa. Essas pinturas são as nossas primeiras bibliotecas, janelas para entender como os nossos antepassados viam o mundo, a morte e as forças da natureza.",
+      "highlight": "A pintura rupestre foi o Twitter e o diário da era glacial."
+    },
+    {
+      "title": "5. Pré-História no Brasil e as Lagoas Santas",
+      "content": "No Brasil, tivemos grandes civilizações pré-históricas. Desde os caçadores-coletores de Lagoa Santa (onde foi achada **Luzia**, a mulher mais antiga das Américas) até os povos dos **Sambaquis** (montanhas de conchas no litoral sul) e a cerâmica marajoara no Pará. Estudar a pré-história brasileira é essencial para quebrar o mito de que o Brasil só 'começou' em 1500.",
+      "highlight": "O Brasil já era habitado e fervilhava de culturas milênios antes das caravelas."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A descoberta da Agricultura, ocorrida no período Neolítico, trouxe mudanças profundas na organização social humana. Qual foi o principal efeito geográfico dessa descoberta?",
+      "options": [
+        "A) Aumentou o nomadismo, pois as pessoas tinham que viajar para vender alface.",
+        "B) Provocou o sedentarismo, fazendo com que as populações se fixassem em territórios específicos para cuidar das plantações.",
+        "C) O fim total das guerras por comida no mundo inteiro.",
+        "D) A proibição de morar perto dos rios para não molhar as sementes.",
+        "E) O surgimento das primeiras naves espaciais para levar as sementes para a lua."
+      ],
+      "correctIndex": 1,
+      "explanation": "A agricultura exige permanência na terra para plantar, cuidar e colher.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "A arte rupestre, encontrada em cavernas ao redor do mundo, é vista pelos historiadores contemporâneos como:",
+      "options": [
+        "A) Apenas rabiscos de crianças que não tinham brinquedos.",
+        "B) Uma evidência de que os dinossauros já sabiam desenhar.",
+        "C) Um complexo sistema de registro de rituais, educação e comunicação simbólica de grupos ancestrais.",
+        "D) A prova de que extraterrestres ensinaram os homens a pintar.",
+        "E) Uma forma de as cavernas ficarem mais bonitas para serem vendidas para imobiliárias."
+      ],
+      "correctIndex": 2,
+      "explanation": "As pinturas rupestres revelam a visão de mundo e a cultura complexa do homem pré-histórico.",
+      "source": "Simulado ENEM / Antropologia"
+    },
+    {
+      "question": "Qual foi a principal consequência do controle do fogo pelo ser humano durante o Paleolítico?",
+      "options": [
+        "A) Desenvolvimento da agricultura",
+        "B) Criação de ferramentas mais resistentes",
+        "C) Possibilidade de cozinhar alimentos, espantar predadores e aquecer-se",
+        "D) Surgimento das primeiras cidades",
+        "E) Domesticação de animais"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "O que caracterizou a Revolução Agrícola durante o Neolítico?",
+      "options": [
+        "A) Aprender a fundir metais",
+        "B) Desenvolver a caça e a pesca",
+        "C) Passar a cultivar o próprio alimento e a domesticar animais",
+        "D) Construir as primeiras cavernas",
+        "E) Desenvolver a arte rupestre"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da Revolução Urbana na Idade dos Metais?",
+      "options": [
+        "A) O retorno ao nomadismo",
+        "B) A diminuição da população",
+        "C) A criação de ferramentas mais resistentes e o nascimento das cidades",
+        "D) A perda da importância da agricultura",
+        "E) A extinção da arte rupestre"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": "assets/images/lessons/pre-historia/thumb.png",
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Revolução Neolítica, marcada pela transição do nomadismo para o sedentarismo, representou talvez a mudança mais radical na trajetória humana. Ao domesticar plantas e animais, o homem deixou de ser apenas um predador da natureza para tornar-se um produtor. Esse processo não ocorreu de forma simultânea em todo o globo, mas em 'focos' independentes, como no Crescente Fértil, na China e na Mesoamérica, alterando permanentemente a relação entre a humanidade e o meio ambiente.",
+        "A sedentarização permitiu o surgimento dos primeiros excedentes agrícolas, o que foi o catalisador para a especialização do trabalho e a estratificação social. Com a comida garantida, nem todos precisavam dedicar-se à coleta ou caça, permitindo o surgimento de artesãos, guerreiros e sacerdotes. Essa nova organização social exigiu formas mais complexas de controle e administração, levando ao nascimento das primeiras aldeias e, posteriormente, das cidades-estado que marcariam a Antiguidade.",
+        "O domínio do fogo e a invenção da escrita são frequentemente citados como os marcos de início e fim da Pré-História, mas essa cronologia é hoje vista com cautela. A arte rupestre, por exemplo, já demonstrava uma complexa capacidade simbólica e espiritual muito antes de qualquer sistema de escrita. Para o Enem, é vital entender a Pré-História não como uma fase de 'atraso', mas como um período de inovações tecnológicas e culturais que estabeleceram as bases de todas as civilizações posteriores."
+      ],
+      "source": "CHILDE, Gordon. A Evolução Cultural do Homem. Rio de Janeiro: Zahar, 1981."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A descoberta da Agricultura, ocorrida no período Neolítico, trouxe mudanças profundas na organização social humana. Qual foi o principal efeito geográfico dessa descoberta?",
+        "back": "A) Aumentou o nomadismo, pois as pessoas tinham que viajar para vender alface.. A agricultura exige permanência na terra para plantar, cuidar e colher."
+      },
+      {
+        "front": "A arte rupestre, encontrada em cavernas ao redor do mundo, é vista pelos historiadores contemporâneos como:",
+        "back": "A) Apenas rabiscos de crianças que não tinham brinquedos.. As pinturas rupestres revelam a visão de mundo e a cultura complexa do homem pré-histórico."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Aumentou o nomadismo, pois as pessoas tinham que viajar para vender alface..",
+        "is_true": true,
+        "explanation": "A agricultura exige permanência na terra para plantar, cuidar e colher."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Provocou o sedentarismo, fazendo com que as populações se fixassem em territórios específicos para cuidar das plantações..",
+        "is_true": false,
+        "explanation": "Falso! A agricultura exige permanência na terra para plantar, cuidar e colher."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Apenas rabiscos de crianças que não tinham brinquedos..",
+        "is_true": true,
+        "explanation": "As pinturas rupestres revelam a visão de mundo e a cultura complexa do homem pré-histórico."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Uma evidência de que os dinossauros já sabiam desenhar..",
+        "is_true": false,
+        "explanation": "Falso! As pinturas rupestres revelam a visão de mundo e a cultura complexa do homem pré-histórico."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Paleolítico",
+        "match": "Período da Pedra Lascada, caça e coleta"
+      },
+      {
+        "concept": "Neolítico",
+        "match": "Revolução agrícola e sedentarização"
+      },
+      {
+        "concept": "Homo sapiens",
+        "match": "Espécie humana moderna, surgida há 300 mil anos"
+      },
+      {
+        "concept": "Arte rupestre",
+        "match": "Pinturas nas cavernas com significado simbólico"
+      },
+      {
+        "concept": "Lagoa Santa",
+        "match": "Sítio arqueológico brasileiro com Luzia"
+      },
+      {
+        "concept": "Luzia",
+        "match": "Esqueleto mais antigo encontrado nas Américas"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Paleolítico e a Idade do Fogo",
+        "order": 1
+      },
+      {
+        "event": "2. A Revolução Neolítica: O Fim do Nomadismo",
+        "order": 2
+      },
+      {
+        "event": "3. Idade dos Metais e as Cidades-Estado",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "DESCOBERTAS",
+      "hint": "O conceito-chave central ou termo associado à aula de Pré-História: A Longa Caminhada Humana."
+    }
+  }
+}

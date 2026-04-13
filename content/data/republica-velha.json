@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "id": "republica-velha",
+    "title": "República Velha: O Domínio das Oligarquias (1889-1930)",
+    "period": "Século XIX ao XX",
+    "tags": [
+      "Coronelismo",
+      "Café com Leite",
+      "Canudos",
+      "Revolta da Vacina",
+      "Tenentismo"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A Primeira República foi um período de 'democracia de fachada'. Sob o domínio dos barões do café, o Brasil viveu uma modernização excludente que gerou profundas revoltas no campo e na cidade.",
+  "theory_content": "A República Velha (1889-1930) iniciou-se com a 'República da Espada' (1889-1894), período em que os marechais Deodoro da Fonseca e Floriano Peixoto consolidaram o novo regime através da força e de uma constituição federalista (1891). Esta constituição separou a Igreja do Estado, instituiu o casamento civil e o voto universal (embora excludente para analfabetos, mulheres e soldados). \n\nA partir de 1894, a 'República das Oligarquias' tomou forma. O sistema era uma pirâmide de poder sustentada pelo **Coronelismo** na base — onde os chefes políticos locais trocavam favores por votos (voto de cabresto) em eleições marcadas pela fraude institucionalizada. A **Política dos Governadores**, arquitetada por Campos Sales, selava o pacto entre o topo e a base: o governo federal não interferia nas fraudes estaduais e, em troca, recebia o apoio incondicional das bancadas dos governadores no Congresso Nacional. \n\nNo topo da economia, a **Política do Café com Leite** simbolizava o revezamento da presidência entre as elites paulista e mineira. O Estado brasileiro funcionava como um 'segurador de lucros' para o café, como visto no Convênio de Taubaté (1906), onde o governo tomava empréstimos externos para comprar o excedente da produção e queimar os sacos de café para manter os preços altos no mercado internacional. \n\nSocialmente, o Brasil era um vulcão. O sertão fervia com movimentos messiânicos (Canudos e Contestado), respostas desesperadas à miséria e ao mandonismo dos coronéis. No Rio de Janeiro, a urbanização autoritária de Pereira Passos gerou a Revolta da Vacina, enquanto na Marinha, negros e mulatos se rebelavam contra os açoites na Revolta da Chibata. O sistema só começaria a cair com o surgimento do Tenentismo e da Semana de Arte Moderna de 1922, que denunciavam a podridão de uma elite que olhava para a Europa mas ignorava o povo brasileiro.",
+  "sections": [
+    {
+      "title": "1. A República da Espada e a Constituição de 1891",
+      "content": "Deodoro da Fonseca proclamou a república, mas governou com punho de ferro. Floriano Peixoto, seu sucessor, enfrentou a Revolta da Armada e a Revolução Federalista para manter a unidade nacional. A Constituição de 1891 foi o documento que legalizou o federalismo, dando aos estados o direito de ter seus próprios impostos e exércitos (Polícias Militares), o que pavimentou o caminho para o poder dos governadores.",
+      "highlight": "Floriano Peixoto, o Marechal de Ferro, foi o verdadeiro 'consolidador' da república brasileira.",
+      "image": {
+        "url": "assets/images/lessons/republica-velha/section_0.png",
+        "alt": "1. A República da Espada e a Constituição de 1891",
+        "caption": "1. A República da Espada e a Constituição de 1891"
+      }
+    },
+    {
+      "title": "2. A Engrenagem do Poder: Coronelismo e Governadores",
+      "content": "O Coronel era o elo de ligação entre o povo e o Estado. Ele era o 'pai' que trazia o poço e a escola, mas exigia o voto aberto na seção eleitoral. A Política dos Governadores eliminou qualquer oposição real, pois as 'Comissões Verificadoras de Poderes' degolavam (cassavam) qualquer deputado eleito que não fosse aliado do governador. Era a ditadura dos governadores disfarçada de democracia parlamentar.",
+      "highlight": "O voto de cabresto era a base de sustentação de toda a pirâmide de poder oligárquico.",
+      "image": {
+        "url": "assets/images/lessons/republica-velha/section_1.png",
+        "alt": "2. A Engrenagem do Poder: Coronelismo e Governadores",
+        "caption": "2. A Engrenagem do Poder: Coronelismo e Governadores"
+      }
+    },
+    {
+      "title": "3. O Café e o Convênio de Taubaté",
+      "content": "O café representava 70% das exportações brasileiras. Quando o preço caía, os produtores paulistas usavam sua influência federal para forçar o Estado a comprar a produção excedente. Isso socializava as perdas (a dívida era paga por todos os brasileiros) e privatizava os lucros (os fazendeiros continuavam ricos). Foi o maior exemplo de intervenção estatal em benefício de uma elite na história do Brasil.",
+      "image": {
+        "url": "assets/images/lessons/republica-velha/section_2.png",
+        "alt": "3. O Café e o Convênio de Taubaté",
+        "caption": "3. O Café e o Convênio de Taubaté"
+      }
+    },
+    {
+      "title": "4. Revoltas no Campo e na Cidade: O Grito dos Excluídos",
+      "content": "Canudos (Antônio Conselheiro) e Contestado (José Maria) não foram movimentos 'atrasados', mas de resistência à tomada de terras e à fome. Na capital, o 'Bota-Abaixo' de Pereira Passos empurrou a população pobre para os morros, criando a favelização. A Revolta da Chibata (João Cândido, o Almirante Negro) mostrou que a Marinha ainda tratava marinheiros como escravos, 20 anos após a abolição. Eram as fraturas expostas de uma república que não cumpriu suas promessas de igualdade.",
+      "image": {
+        "url": "/assets/img/historia/revolta_vacina_rio.png",
+        "alt": "Conflito nas ruas do Rio",
+        "caption": "A Revolta da Vacina foi o ápice do descontentamento popular contra as reformas urbanas autoritárias."
+      }
+    },
+    {
+      "title": "5. O Fim da República Velha: Tenentismo e 1922",
+      "content": "O ano de 1922 foi o começo do fim. A Semana de Arte Moderna rompeu com os padrões europeus defendidos pelas oligarquias. O levantamento dos 18 do Forte de Copacabana marcou o início do Tenentismo — jovens oficiais que queriam o voto secreto e o fim do café com leite. A Coluna Prestes e a fundação do Partido Comunista (PCB) no mesmo ano mostravam que novos atores queriam participar do jogo político, culminando no golpe de 1930.",
+      "highlight": "A Aliança Liberal e a Revolução de 1930 foram a pá de cal no sistema oligárquico."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Política dos Governadores, instituída pelo presidente Campos Sales (1898-1902), tinha como principal objetivo:",
+      "options": [
+        "A) Promover a igualdade econômica entre os estados do Norte e do Sul.",
+        "B) Instituir o voto feminino e o voto de cabresto em todo o território.",
+        "C) Garantir a estabilidade política através da troca de favores e apoio entre os governos estaduais e o poder federal.",
+        "D) Acabar com a produção de café para priorizar a indústria têxtil.",
+        "E) Declarar guerra aos países que tentassem colonizar a Amazônia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Era um pacto de não-agressão: o governo federal apoiava as oligarquias estaduais em troca de apoio parlamentar estável.",
+      "source": "ENEM Oficial"
+    },
+    {
+      "question": "A Guerra de Canudos (1896-1897) foi retratada por Euclides da Cunha como uma luta entre o 'Brasil do Litoral' e o 'Brasil do Sertão'. Um fator determinante para o massacre da comunidade foi:",
+      "options": [
+        "A) O ataque dos sertanejos à cidade do Rio de Janeiro.",
+        "B) O apoio de Canudos à invasão argentina no Rio Grande do Sul.",
+        "C) O medo das autoridades republicanas de que Canudos fosse um foco de restauração monárquica.",
+        "D) A descoberta de grandes jazidas de ouro sob as casas de Belo Monte.",
+        "E) A proibição do catolicismo em todas as vilas do Nordeste."
+      ],
+      "correctIndex": 2,
+      "explanation": "Antônio Conselheiro criticava a República por ter separado Igreja do Estado, o que foi interpretado erroneamente como um plano militar para volta da monarquia.",
+      "source": "Simulado ENEM Literário"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/republica-velha/thumb.png",
+    "alt": "República Velha: O Domínio das Oligarquias (1889-1930)",
+    "caption": "República Velha: O Domínio das Oligarquias (1889-1930)"
+  },
+  "support_texts": [
+    {
+      "source": "CARVALHO, José Murilo de. Os Bestializados: O Rio de Janeiro e a República que não foi. Cia das Letras, 1987.",
+      "paragraphs": [
+        "A implantação da República brasileira em 1889 foi um golpe militar articulado pela elite agrária que excluiu maciçamente a participação popular. Segundo José Murilo de Carvalho, o povo assistiu à derrubada da monarquia 'bestializado', sem compreender ou participar do processo político desenhado nos quartéis e nas fazendas de café.",
+        "Durante a Primeira República (1889-1930), o acordo oligárquico (notadamente as repúblicas do 'Café com Leite') dominou a gestão macroeconômica, direcionando recursos públicos massivamente para a proteção e valorização do café, enquanto as nascentes indústrias e a precarizada classe operária urbana sofriam profunda negligência estatal.",
+        "Para o Exame, é essencial enxergar as contradições desse período: o discurso de modernidade (como a reconstrução de Pereira Passos no Rio) disfarçava o autoritarismo e a exclusão crônica dos miseráveis favelados, o que alimentou inúmeras revoltas urbanas e rurais contra uma República que governava apenas para poucos."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Política dos Governadores, instituída pelo presidente Campos Sales (1898-1902), tinha como principal objetivo:",
+        "back": "A) Promover a igualdade econômica entre os estados do Norte e do Sul.. Era um pacto de não-agressão: o governo federal apoiava as oligarquias estaduais em troca de apoio parlamentar estável."
+      },
+      {
+        "front": "A Guerra de Canudos (1896-1897) foi retratada por Euclides da Cunha como uma luta entre o 'Brasil do Litoral' e o 'Brasil do Sertão'. Um fator determinante para o massacre da comunidade foi:",
+        "back": "A) O ataque dos sertanejos à cidade do Rio de Janeiro.. Antônio Conselheiro criticava a República por ter separado Igreja do Estado, o que foi interpretado erroneamente como um plano militar para volta da monarquia."
+      },
+      {
+        "front": "Quem consolidou o novo regime republicano no Brasil?",
+        "back": "Marechais Deodoro da Fonseca e Floriano Peixoto"
+      },
+      {
+        "front": "O que instituiu a Constituição de 1891?",
+        "back": "Separação da Igreja do Estado, casamento civil e voto universal"
+      },
+      {
+        "front": "O que caracterizava o Coronelismo?",
+        "back": "Trocavam favores por votos em eleições marcadas pela fraude"
+      },
+      {
+        "front": "Qual era o objetivo da Política do Café com Leite?",
+        "back": "Revezamento da presidência entre as elites paulista e mineira"
+      },
+      {
+        "front": "Qual foi o evento que denunciou a podridão da elite brasileira?",
+        "back": "Semana de Arte Moderna de 1922 e o Tenentismo"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Promover a igualdade econômica entre os estados do Norte e do Sul..",
+        "is_true": true,
+        "explanation": "Era um pacto de não-agressão: o governo federal apoiava as oligarquias estaduais em troca de apoio parlamentar estável."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Instituir o voto feminino e o voto de cabresto em todo o território..",
+        "is_true": false,
+        "explanation": "Falso! Era um pacto de não-agressão: o governo federal apoiava as oligarquias estaduais em troca de apoio parlamentar estável."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) O ataque dos sertanejos à cidade do Rio de Janeiro..",
+        "is_true": true,
+        "explanation": "Antônio Conselheiro criticava a República por ter separado Igreja do Estado, o que foi interpretado erroneamente como um plano militar para volta da monarquia."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) O apoio de Canudos à invasão argentina no Rio Grande do Sul..",
+        "is_true": false,
+        "explanation": "Falso! Antônio Conselheiro criticava a República por ter separado Igreja do Estado, o que foi interpretado erroneamente como um plano militar para volta da monarquia."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Política do Café com Leite",
+        "match": "Alternância de poder entre São Paulo e Minas Gerais"
+      },
+      {
+        "concept": "Coronelismo",
+        "match": "Domínio político local pelos grandes proprietários"
+      },
+      {
+        "concept": "Voto de cabresto",
+        "match": "Controle dos votos pelos coronéis"
+      },
+      {
+        "concept": "Oligarquia",
+        "match": "Governo de poucos, das elites agrárias"
+      },
+      {
+        "concept": "Proclamação da República",
+        "match": "15 de novembro de 1889, queda do Império"
+      },
+      {
+        "concept": "Deodoro da Fonseca",
+        "match": "Primeiro presidente do Brasil republicano"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A República da Espada e a Constituição de 1891",
+        "order": 1
+      },
+      {
+        "event": "2. A Engrenagem do Poder: Coronelismo e Governadores",
+        "order": 2
+      },
+      {
+        "event": "3. O Café e o Convênio de Taubaté",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MODERNIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de República Velha: O Domínio das Oligarquias (1889-1930)."
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "era-maua",
+    "title": "A Era Mauá: O Primeiro Surto Industrial",
+    "period": "1844 - 1875",
+    "tags": [
+      "Barão de Mauá",
+      "Industrialização",
+      "Tarifa Alves Branco",
+      "D. Pedro II",
+      "Trabalho Livre"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "A Era Mauá foi um oásis de progresso em um Brasil rural e escravocrata. Irineu Evangelista de Sousa tentou transformar o país com ferrovias e bancos, enfrentando a fúria da elite agrária.",
+  "theory_content": "A **Era Mauá** ocorreu durante o Segundo Reinado (D. Pedro II) e foi impulsionada por fatores econômicos específicos. O principal deles foi a **Tarifa Alves Branco (1844)**, que aumentou o imposto de importação de produtos estrangeiros para até 60%, protegendo a indústria nacional nascente. Outro fator crucial foi a proibição do tráfico negreiro em 1850 (Lei Eusébio de Queirós), que liberou capitais que antes eram gastos na compra de seres humanos para serem investidos em ferrovias, estaleiros, iluminação a gás no Rio de Janeiro e bancos. \n\nO protagonista desse período foi o **Barão e depois Visconde de Mauá**. Ele foi o responsável pela primeira ferrovia do país (Estrada de Ferro Mauá), por fundar a primeira companhia de navegação a vapor do Amazonas e por instalar o cabo telegráfico submarino ligando o Brasil à Europa. Mauá defendia o fim da escravidão e o trabalho livre assalariado como base para o consumo de massa. No entanto, suas ideias batiam de frente com a elite dos cafeicultores e o conservadorismo de D. Pedro II. Em 1860, a **Tarifa Silva Ferraz** baixou novamente os impostos de importação, expondo a indústria de Mauá à concorrência desleal dos produtos ingleses. Mauá acabou falindo em 1875, vítima de uma política que preferiu manter o Brasil como uma 'fazenda do mundo' em vez de uma nação industrializada.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a contradição entre 'Mauá' e o 'Imperador'. O Imperador via as ferrovias apenas como forma de escoar o café, enquanto Mauá as via como motor de integração nacional. O ENEM costuma cobrar a relação entre o fim do tráfico de escravos (1850) e o início dos investimentos urbanos. Saiba que a Era Mauá foi um 'surto' (passagem rápida) e não um processo contínuo de industrialização.",
+  "sections": [
+    {
+      "title": "1. O Capital do Tráfico e a Modernização",
+      "content": "Com a Lei Eusébio de Queirós (1850), o dinheiro dos traficantes de escravos ficou 'sobrando' no mercado. Mauá percebeu que esse capital poderia financiar a modernização do Império. Ele multiplicou o crédito bancário e investiu pesado no porto do Rio de Janeiro. Pela primeira vez, o Brasil teve um empresário de visão global, que buscava criar uma economia de base industrial e financeira.",
+      "highlight": "O progresso de Mauá financiou-se no redirecionamento do lucro do tráfico proibido.",
+      "image": {
+        "url": "assets/images/lessons/era-maua/section_0.png",
+        "alt": "1. O Capital do Tráfico e a Modernização",
+        "caption": "1. O Capital do Tráfico e a Modernização"
+      }
+    },
+    {
+      "title": "2. Ferrovias e Telégrafo: Encurtando Distâncias",
+      "content": "As ferrovias de Mauá substituíram as tropas de mulas que levavam o café nas costas. Com o apoio inicial do governo, ele trouxe a tecnologia de trens e navios a vapor da Inglaterra. O cabo telegráfico foi outra revolução: as notícias da Europa que demoravam meses para chegar em caravelas, agora chegavam em minutos por impulsos elétricos no fundo do mar.",
+      "highlight": "O Barão de Mauá foi o homem que deu ao Brasil a velocidade do século XIX.",
+      "image": {
+        "url": "assets/images/lessons/era-maua/section_1.png",
+        "alt": "2. Ferrovias e Telégrafo: Encurtando Distâncias",
+        "caption": "2. Ferrovias e Telégrafo: Encurtando Distâncias"
+      }
+    },
+    {
+      "title": "3. O Conflito com a Elite Agrária",
+      "content": "Para os senhores de engenho e cafeicultores, Mauá era um 'intruso'. Sua defesa do trabalho livre irritava quem dependia da escravidão. Além disso, a elite parlamentar era ligada aos interesses ingleses, e Mauá tentava fabricar aqui o que o Brasil comprava de Londres. Essa elite conspirou para retirar o apoio do governo às fábricas dele, preferindo manter o pacto café-dependente com a Inglaterra.",
+      "highlight": "Mauá foi derrotado pelo conservadorismo de uma elite que temia o progresso industrial.",
+      "image": {
+        "url": "assets/images/lessons/era-maua/section_2.png",
+        "alt": "3. O Conflito com a Elite Agrária",
+        "caption": "3. O Conflito com a Elite Agrária"
+      }
+    },
+    {
+      "title": "4. Tarifa Alves Branco vs. Silva Ferraz",
+      "content": "Alves Branco foi o 'pai' da indústria brasileira por acidente: o governo precisava de dinheiro e subiu os impostos. Silva Ferraz foi o 'carrasco': sob pressão inglesa, ele baixou os impostos de peças e máquinas importadas, matando a produção nacional. Foi um exemplo clássico de desindustrialização precoce por decisão política da monarquia brasileira.",
+      "highlight": "Uma mudança na lei alfandegária foi o suficiente para quebrar o império industrial de Mauá."
+    },
+    {
+      "title": "5. O Legado e a Falência",
+      "content": "Mauá faliu como um homem honrado, pagando todas as suas dívidas com a venda de suas propriedades. Sua história serve para mostrar que o Brasil já teve projetos de desenvolvimento soberanos, mas que foram abortados em nome do modelo agrário exportador. A industrialização brasileira só seria retomada de fato quase cem anos depois, com Getúlio Vargas nos anos 1930.",
+      "highlight": "Mauá foi o 'visionário injustiçado' de um país que escolheu o campo em vez da fábrica."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O 'Surto Industrial' da Era Mauá (1844-1875) foi facilitado por uma mudança na legislação alfandegária brasileira do Segundo Reinado. Qual era o nome dessa tarifa portuária?",
+      "options": [
+        "A) Tarifa Bill Aberdeen.",
+        "B) Tarifa Alves Branco.",
+        "C) Tarifa de Exportação de Cana.",
+        "D) Tarifa da Mão de Obra Grátis.",
+        "E) Tarifa de Livre Comércio Geral."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Tarifa Alves Branco aumentou o custo dos importados, dando vantagem competitiva aos produtos fabricados por Mauá.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "Além da industrialização, Irineu Evangelista de Sousa (Barão de Mauá) defendia uma mudança social radical para a época, que era:",
+      "options": [
+        "A) A doação de terras brasileiras para a Alemanha.",
+        "B) A abolição da escravidão e a substituição pelo trabalho assalariado para criar mercado consumidor.",
+        "C) O fechamento de todas as escolas de latim do país.",
+        "D) A criação de uma nova monarquia liderada por ele mesmo.",
+        "E) O cancelamento de todos os voos internacionais no Brasil."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mauá via o trabalho livre não apenas como moral, mas como uma necessidade lógica para uma economia industrial de consumo.",
+      "source": "Simulado Mackenzie/ENEM"
+    },
+    {
+      "question": "Qual foi o principal fator econômico que impulsionou a Era Mauá durante o Segundo Reinado?",
+      "options": [
+        "A) Aumento do imposto de exportação de produtos nacionais",
+        "B) Tarifa Alves Branco, que aumentou o imposto de importação de produtos estrangeiros",
+        "C) Proibição do tráfico negreiro em 1850",
+        "D) Criação do primeiro banco nacional",
+        "E) Construção da primeira ferrovia do país"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quais foram as principais consequências da proibição do tráfico negreiro em 1850 para a Era Mauá?",
+      "options": [
+        "A) Aumento da importação de produtos estrangeiros e diminuição da indústria nacional",
+        "B) Liberação de capitais para investimento em ferrovias, estaleiros e bancos",
+        "C) Fim da escravidão e trabalho livre assalariado",
+        "D) Construção da primeira ferrovia do país e instalação do cabo telegráfico submarino",
+        "E) Falência de Mauá em 1875"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da Tarifa Silva Ferraz de 1860 para a indústria de Mauá?",
+      "options": [
+        "A) Aumento dos impostos de importação e proteção da indústria nacional",
+        "B) Diminuição dos impostos de importação e exposição da indústria à concorrência desleal",
+        "C) Criação de novas oportunidades de investimento para Mauá",
+        "D) Fim da escravidão e trabalho livre assalariado",
+        "E) Construção da primeira ferrovia do país"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/era-maua/thumb.png",
+    "alt": "A Era Mauá: O Primeiro Surto Industrial",
+    "caption": "A Era Mauá: O Primeiro Surto Industrial"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Era Mauá (1844-1875) representa um fugaz momento de industrialização e modernização no Brasil Imperial, personificado na figura de Irineu Evangelista de Sousa, o Barão de Mauá. Em um país dominado pelo latifúndio escravista, Mauá fundou as primeiras ferrovias, companhias de iluminação a gás e o estaleiro Ponta da Areia. Esse surto industrial foi estimulado pela Tarifa Alves Branco (1844), que aumentou os impostos sobre produtos importados, e pelo fim do tráfico negreiro, que liberou capitais para novos investimentos econômicos.",
+        "A mentalidade empreendedora de Mauá colidia frontalmente com a aristocracia rural brasileira, que via com desconfiança a modernização capitalista e o trabalho assalariado. A posterior Tarifa Silva Ferraz (1860), que reduziu as taxas de importação, e a falta de apoio do Estado brasileiro sabotaram os empreendimentos de Mauá, levando-o à falência. Esse episódio demonstra a resistência estrutural do Império ao desenvolvimento industrial e a preferência da elite pela manutenção de uma economia agrário-exportadora subordinada à Inglaterra.",
+        "Estudar Mauá para o Enem permite analisar as tensões entre o Brasil 'arcaico' (latifundiário) e o desejo de um Brasil 'moderno' (industrial). Suas iniciativas foram fundamentais para a integração territorial e a urbanização do país, lançando as bases de uma infraestrutura que seria aproveitada décadas depois. A trajetória de Mauá simboliza os desafios de inovação em sociedades periféricas e a complexa relação entre o capital privado e os interesses dos grandes proprietários de terra vinculados ao Estado."
+      ],
+      "source": "VIOTTI DA COSTA, Emília. Da Monarquia à República. São Paulo: UNESP, 2010."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O 'Surto Industrial' da Era Mauá (1844-1875) foi facilitado por uma mudança na legislação alfandegária brasileira do Segundo Reinado. Qual era o nome dessa tarifa portuária?",
+        "back": "A) Tarifa Bill Aberdeen.. A Tarifa Alves Branco aumentou o custo dos importados, dando vantagem competitiva aos produtos fabricados por Mauá."
+      },
+      {
+        "front": "Além da industrialização, Irineu Evangelista de Sousa (Barão de Mauá) defendia uma mudança social radical para a época, que era:",
+        "back": "A) A doação de terras brasileiras para a Alemanha.. Mauá via o trabalho livre não apenas como moral, mas como uma necessidade lógica para uma economia industrial de consumo."
+      },
+      {
+        "front": "Qual foi o principal fator econômico que impulsionou a Era Mauá?",
+        "back": "A Tarifa Alves Branco (1844)"
+      },
+      {
+        "front": "Quem foi o protagonista da Era Mauá?",
+        "back": "O Barão e depois Visconde de Mauá"
+      },
+      {
+        "front": "Qual foi o efeito da proibição do tráfico negreiro em 1850?",
+        "back": "Liberou capitais para investimentos em infraestrutura"
+      },
+      {
+        "front": "Qual foi o resultado da Tarifa Silva Ferraz em 1860?",
+        "back": "Baixou os impostos de importação, expondo a indústria à concorrência desleal"
+      },
+      {
+        "front": "Qual foi o ano em que Mauá acabou falindo?",
+        "back": "1875"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A abolição da escravidão e a substituição pelo trabalho assalariado para criar mercado consumidor.",
+        "is_true": false,
+        "explanation": "Mito! Mauá via o trabalho livre não apenas como moral, mas como uma necessidade lógica para uma economia industrial de consumo."
+      },
+      {
+        "statement": "A doação de terras brasileiras para a Alemanha.",
+        "is_true": true,
+        "explanation": "Mauá via o trabalho livre não apenas como moral, mas como uma necessidade lógica para uma economia industrial de consumo."
+      },
+      {
+        "statement": "Tarifa Alves Branco.",
+        "is_true": false,
+        "explanation": "Mito! A Tarifa Alves Branco aumentou o custo dos importados, dando vantagem competitiva aos produtos fabricados por Mauá."
+      },
+      {
+        "statement": "Tarifa Bill Aberdeen.",
+        "is_true": true,
+        "explanation": "A Tarifa Alves Branco aumentou o custo dos importados, dando vantagem competitiva aos produtos fabricados por Mauá."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Irineu Evangelista de Sousa",
+        "match": "Visconde de Mauá, industrial e banqueiro imperial"
+      },
+      {
+        "concept": "Estrada de Ferro Mauá",
+        "match": "Primeira ferrovia do Brasil, inaugurada em 1854"
+      },
+      {
+        "concept": "Banco do Brasil",
+        "match": "Banco que Mauá ajudou a fundar e depois entrou em conflito"
+      },
+      {
+        "concept": "Liberalismo econômico",
+        "match": "Ideologia de Mauá contra o protecionismo imperial"
+      },
+      {
+        "concept": "Falência de Mauá",
+        "match": "Crise causada por intervenção do Estado e concorrência inglesa"
+      },
+      {
+        "concept": "Industrialização brasileira",
+        "match": "Tentativa de Mauá de modernizar o Brasil"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Capital do Tráfico e a Modernização",
+        "order": 1
+      },
+      {
+        "event": "2. Ferrovias e Telégrafo: Encurtando Distâncias",
+        "order": 2
+      },
+      {
+        "event": "3. O Conflito com a Elite Agrária",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ESCRAVOCRATA",
+      "hint": "O conceito-chave central ou termo associado à aula de A Era Mauá: O Primeiro Surto Industrial."
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "operacao-condor-ditaduras",
+    "title": "Operação Condor: O Terror Coordenado",
+    "period": "1970 - 1980",
+    "tags": [
+      "Condor",
+      "Ditadura",
+      "Chile",
+      "Argentina",
+      "EUA"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Na década de 70, as ditaduras da América do Sul criaram um pacto secreto de morte. A Operação Condor permitia que oponentes fossem caçados e mortos em qualquer país do continente.",
+  "theory_content": "A **Operação Condor** foi uma aliança secreta entre os serviços de inteligência das ditaduras civis-militares do Cone Sul (Argentina, Brasil, Chile, Paraguai, Uruguai e Bolívia). Sob o pretexto da 'Doutrina de Segurança Nacional' da Guerra Fria e com o apoio tácito dos Estados Unidos (CIA), o objetivo era trocar informações e realizar operações conjuntas para sequestrar, torturar e assassinar opositores políticos que fugiam de um país para outro. \n\nO auge da violência ocorreu na Argentina (1976-1983), onde estima-se em 30 mil o número de 'desaparecidos políticos', e no Chile de **Augusto Pinochet**, após o golpe sangrento contra Salvador Allende em 1973. A Operação Condor foi o símbolo máximo do terrorismo de Estado transnacional, ignorando fronteiras e leis internacionais. Hoje, o tema é essencial para discutir a 'Justiça de Transição' e a importância da memória histórica para que tais regimes nunca mais se repitam. O ENEM costuma cobrar a violação dos direitos humanos, o contexto de influência dos EUA na América de Latina e a resistência de movimentos como as **Mães da Praça de Maio**.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a 'Doutrina de Segurança Nacional' como a justificativa ideológica (combate ao comunismo) para a tortura. O ENEM costuma cobrar a Operação Condor como um exemplo de transnacionalidade do crime de Estado. Entenda o papel dos 'Desaparecidos' na memória coletiva argentina. Saiba que a abertura dos 'Arquivos do Terror' no Paraguai revelou as provas físicas da cooperação entre os quartéis de todo o sul.",
+  "sections": [
+    {
+      "title": "1. O Pacto Secreto de Santiago",
+      "content": "A Operação Condor nasceu em 1975, no Chile, em uma reunião de chefes de inteligência convocada por Manuel Contreras, braço direito de Pinochet. Eles criaram um banco de dados compartilhado sobre 'subversivos' e um sistema de rádio secreto (Condortel). Se um brasileiro fugisse para a Argentina, os militares argentinos o prendiam e o entregavam para ser torturado e morto no Brasil, e vice-versa. As fronteiras viraram armadilhas mortais.",
+      "highlight": "A Condor foi a 'globalização' da tortura e do assassinato político.",
+      "image": {
+        "url": "assets/images/lessons/operacao-condor-ditaduras/section_0.png",
+        "alt": "1. O Pacto Secreto de Santiago",
+        "caption": "1. O Pacto Secreto de Santiago"
+      }
+    },
+    {
+      "title": "2. Argentina: O Vôo da Morte",
+      "content": "A ditadura argentina foi a mais cruel da região. Para não deixar rastros dos corpos, os militares criaram os 'vôos da morte': prisioneiros eram dopados e jogados vivos de aviões no Rio da Prata ou no oceano. Milhares de bebês, filhos de prisioneiras, foram roubados e entregues para famílias de militares, uma ferida que a Argentina ainda tenta curar através do DNA e da luta das Avós da Praça de Maio.",
+      "highlight": "A Argentina transformou o crime de Estado em um apagamento biológico de uma geração.",
+      "image": {
+        "url": "assets/images/lessons/operacao-condor-ditaduras/section_1.png",
+        "alt": "2. Argentina: O Vôo da Morte",
+        "caption": "2. Argentina: O Vôo da Morte"
+      }
+    },
+    {
+      "title": "3. Pinochet no Chile: O Estádio da Morte",
+      "content": "O golpe de 1973 no Chile foi transmitido ao vivo pela TV: o bombardeio do palácio presidencial por aviões da própria força aérea. Pinochet transformou o Estádio Nacional de Santiago em um campo de concentração e tortura. O Chile tornou-se o laboratório do neoliberalismo econômico radical de Milton Friedman, enquanto o povo vivia sob silêncio e medo. Pinochet governou até 1990 e morreu sem ser julgado por todos os seus crimes.",
+      "highlight": "O Chile de Pinochet foi o casamento entre a liberdade de mercado e a morte das liberdades políticas.",
+      "image": {
+        "url": "assets/images/lessons/operacao-condor-ditaduras/section_2.png",
+        "alt": "3. Pinochet no Chile: O Estádio da Morte",
+        "caption": "3. Pinochet no Chile: O Estádio da Morte"
+      }
+    },
+    {
+      "title": "4. O Papel dos Estados Unidos: Kissinger e a CIA",
+      "content": "Documentos desclassificados provaram que o governo americano sabia da existência da Operação Condor e a incentivava. Henry Kissinger, secretário de Estado dos EUA, via as ditaduras como 'males menores' necessários para impedir o avanço de Cuba e da URSS na América Latina. Os EUA forneceram treinamento em técnicas de interrogatório e inteligência (Escola das Américas), tornando-se cúmplices morais e técnicos do terror no Sul.",
+      "highlight": "O 'Condor' era uma águia americana que vigiava e punia os latinos que clamassem por democracia."
+    },
+    {
+      "title": "5. Memória e Verdade: Nunca Mais",
+      "content": "Com o fim das ditaduras nos anos 80, o continente começou a busca pela verdade. No Brasil, o livro 'Brasil: Nunca Mais' denunciou a tortura sistemática. Na Argentina, as Comissões da Verdade levaram generais à prisão perpétua. A Operação Condor hoje é estudada para que as novas gerações entendam que a democracia é um valor frágil que deve ser defendido contra qualquer tentativa de uso do Estado para o extermínio de quem pensa diferente.",
+      "highlight": "A verdade é o único antídoto contra o veneno do autoritarismo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Operação Condor, articulada na década de 1970 entre governos ditatoriais da América do Sul, consistia fundamentalmente em:",
+      "options": [
+        "A) Uma missão espacial para levar o primeiro sul-americano ao planeta Marte.",
+        "B) Uma rede de cooperação secreta entre os serviços de segurança das ditaduras do Cone Sul para repressão, sequestro e assassinato de opositores políticos transfronteiriços.",
+        "C) O fechamento de todas as praias do Chile para evitar a vinda de turistas da China.",
+        "D) Venda imediata de todo o vinho da Argentina para o governo dos Estados Unidos.",
+        "E) O cancelamento de todos os contratos de compra de café por ordem do Papa."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Condor foi uma internacional do terrorismo de Estado na América Latina durante a Guerra Fria.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A luta das 'Mães da Praça de Maio' na Argentina tornou-se um símbolo mundial de resistência por qual motivo principal?",
+      "options": [
+        "A) A vontade delas de que todas as mães do mundo recebessem flores gratuitamente.",
+        "B) A corajosa exigência pública por informações sobre o paradeiro de seus filhos e netos 'desaparecidos' durante a sanguinária ditadura militar argentina.",
+        "C) A decisão de transformar todas as praças da Argentina em grandes fábricas de pão.",
+        "D) O cancelamento de todos os jogos de futebol na Argentina durante as férias escolares.",
+        "E) O apoio à vinda de novos navios negreiros de Portugal para a Europa."
+      ],
+      "correctIndex": 1,
+      "explanation": "As mães foram as únicas que ousaram enfrentar o regime ostensivo em busca da verdade sobre seus parentes sumidos pelo Estado.",
+      "source": "Simulado ENEM / Ditaduras LatAm"
+    },
+    {
+      "question": "Qual foi o principal objetivo da Operação Condor?",
+      "options": [
+        "A) Promover a integração econômica entre os países do Cone Sul",
+        "B) Combater o terrorismo de Estado e proteger os direitos humanos",
+        "C) Trocar informações e realizar operações conjuntas para sequestrar, torturar e assassinar opositores políticos",
+        "D) Fortalecer as instituições democráticas e a justiça de transição",
+        "E) Reduzir a influência dos Estados Unidos na região"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o país onde ocorreu o auge da violência durante a Operação Condor?",
+      "options": [
+        "A) Brasil",
+        "B) Chile",
+        "C) Argentina",
+        "D) Uruguai",
+        "E) Paraguai"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o nome do movimento que resistiu ao regime militar na Argentina e é conhecido por sua luta em favor dos direitos humanos?",
+      "options": [
+        "A) Mães da Praça de Maio",
+        "B) Pais da Praça de Maio",
+        "C) Irmãos da Praça de Maio",
+        "D) Filhos da Praça de Maio",
+        "E) Avós da Praça de Maio"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/operacao-condor-ditaduras/thumb.png",
+    "alt": "Operação Condor: O Terror Coordenado",
+    "caption": "Operação Condor: O Terror Coordenado"
+  },
+  "support_texts": [
+    {
+      "source": "FICO, Carlos. Como Eles Agiam: Os subterrâneos da Ditadura Militar. Record, 2001.",
+      "paragraphs": [
+        "Nas sombras opressivas da bipolaridade geoestratégica hemisférica na década dos sombrios anos sententa transcorria sorrateiramente o acordo infame ultra-secreto estabelecido entre os mais sanguinários algozes de juntas ditatoriais do sul-americanas ditada pelos anais da 'Operação Condor'. Foi configurada o suprassumo letal da concertação do terrorismo militarizado internacional repressor na guerra infrene imposta perseguição da inteligência estadunidense e do cone sul americano.",
+        "Transpondo violentamente jurisdições legais das fronteiras platinas das ditaduras em coordenação uníssona sinistra dos generais Pinochetitas, argentinos e do comando repressivo brasileiro extinguiam e perseguiam simultaneamente defensores políticos operários exilados na conífera caçada macabra dos que pleiteavam resistência na Argentina, Bolívia Brasil Paraguai e vizinhos, mediante tenebrosos métodos crueis, torturas atrozes até execuções e do cruel arremesso no oceano nos malfadados Voos da inescrupulosa Morte.",
+        "Em âmbito didático, compreender a Condor evidencia não tratar dos regimes isolados nacionalistas contidos em suas próprias repúblicas, mas a formatação estrutural sistêmica que consolidou e sustentou uma máquina supranacional conjunta assassina no Terceiro Mundo sob patrocínio taciturno tolerante impulsionado do espectro intervencionista antissubversivo das doutrinas predatórias e da intervenção hemisférica das superpotências globais mundiais estadunidense impiedosos ao avanço e receio comunista."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Operação Condor, articulada na década de 1970 entre governos ditatoriais da América do Sul, consistia fundamentalmente em:",
+        "back": "A) Uma missão espacial para levar o primeiro sul-americano ao planeta Marte.. A Condor foi uma internacional do terrorismo de Estado na América Latina durante a Guerra Fria."
+      },
+      {
+        "front": "A luta das 'Mães da Praça de Maio' na Argentina tornou-se um símbolo mundial de resistência por qual motivo principal?",
+        "back": "A) A vontade delas de que todas as mães do mundo recebessem flores gratuitamente.. As mães foram as únicas que ousaram enfrentar o regime ostensivo em busca da verdade sobre seus parentes sumidos pelo Estado."
+      },
+      {
+        "front": "Qual foi o objetivo da Operação Condor?",
+        "back": "Trocar informações e realizar operações conjuntas para sequestrar, torturar e assassinar opositores políticos."
+      },
+      {
+        "front": "Quais países estavam envolvidos na Operação Condor?",
+        "back": "Argentina, Brasil, Chile, Paraguai, Uruguai e Bolívia."
+      },
+      {
+        "front": "Quem apoiou tacitamente a Operação Condor?",
+        "back": "Estados Unidos (CIA)."
+      },
+      {
+        "front": "Qual foi o período de auge da violência na Argentina?",
+        "back": "1976-1983."
+      },
+      {
+        "front": "Qual movimento é conhecido por resistir aos regimes autoritários?",
+        "back": "Mães da Praça de Maio."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A vontade delas de que todas as mães do mundo recebessem flores gratuitamente.",
+        "is_true": true,
+        "explanation": "As mães foram as únicas que ousaram enfrentar o regime ostensivo em busca da verdade sobre seus parentes sumidos pelo Estado."
+      },
+      {
+        "statement": "A corajosa exigência pública por informações sobre o paradeiro de seus filhos e netos 'desaparecidos' durante a sanguinária ditadura militar argentina.",
+        "is_true": false,
+        "explanation": "Mito! As mães foram as únicas que ousaram enfrentar o regime ostensivo em busca da verdade sobre seus parentes sumidos pelo Estado."
+      },
+      {
+        "statement": "Uma rede de cooperação secreta entre os serviços de segurança das ditaduras do Cone Sul para repressão, sequestro e assassinato de opositores políticos transfronteiriços.",
+        "is_true": false,
+        "explanation": "Mito! A Condor foi uma internacional do terrorismo de Estado na América Latina durante a Guerra Fria."
+      },
+      {
+        "statement": "Uma missão espacial para levar o primeiro sul-americano ao planeta Marte.",
+        "is_true": true,
+        "explanation": "A Condor foi uma internacional do terrorismo de Estado na América Latina durante a Guerra Fria."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Operação Condor",
+        "match": "Cooperação entre ditaduras latino-americanas para perseguir opositores"
+      },
+      {
+        "concept": "CIA",
+        "match": "Agência americana que apoiou as ditaduras na América Latina"
+      },
+      {
+        "concept": "Pinochet",
+        "match": "Ditador chileno que derrubou Allende em 1973"
+      },
+      {
+        "concept": "Desaparecidos políticos",
+        "match": "Vítimas das ditaduras que nunca foram encontradas"
+      },
+      {
+        "concept": "Comissão da Verdade",
+        "match": "Órgão criado para investigar crimes da ditadura"
+      },
+      {
+        "concept": "Direitos Humanos",
+        "match": "Conceito central da resistência democrática às ditaduras"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Pacto Secreto de Santiago",
+        "order": 1
+      },
+      {
+        "event": "2. Argentina: O Vôo da Morte",
+        "order": 2
+      },
+      {
+        "event": "3. Pinochet no Chile: O Estádio da Morte",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONTINENTE",
+      "hint": "O conceito-chave central ou termo associado à aula de Operação Condor: O Terror Coordenado."
+    }
+  }
+}

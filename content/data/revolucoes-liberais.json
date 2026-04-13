@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "id": "revolucoes-liberais",
+    "title": "Primavera dos Povos: O Fim do Absolutismo",
+    "period": "1830 - 1848",
+    "tags": [
+      "Liberalismo",
+      "Nacionalismo",
+      "Socialismo",
+      "Barricadas",
+      "Primavera dos Povos"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "As revoluções de 1830 e 1848 enterraram de vez os fantasmas do Antigo Regime. Foi o momento em que a Burguesia e o Povo operário tomaram as ruas para exigir constituição, voto e pão.",
+  "theory_content": "Após a queda de Napoleão Bonaparte (1815), as monarquias europeias tentaram restaurar o absolutismo no Congresso de Viena. No entanto, as ideias iluministas já haviam criado raízes profundas. Em **1830**, uma nova onda revolucionária começou em Paris, derrubando Carlos X e expandindo-se para a Bélgica e Polônia. Era a vitória do **Liberalismo** burguês. \n\nMas o grande sismo ocorreu em **1848**: a **Primavera dos Povos**. Pela primeira vez, a classe operária apareceu como protagonista, influenciada pelo nascente **Socialismo** (lançamento do Manifesto Comunista de Marx e Engels). As revoluções de 1848 exigiam não apenas liberdade política, mas direitos sociais e o fim da miséria industrial. Ao mesmo tempo, o **Nacionalismo** explodiu na Itália e Alemanha, que buscavam sua unificação, e no Império Austríaco, onde diversas etnias clamavam por independência. Embora muitas dessas revoluções tenham sido sufocadas militarmente pelos generais conservadores, o absolutismo nunca mais se recuperou: os reis foram obrigados a aceitar constituições e parlamentos. O ENEM costuma cobrar as motivações dessas revoltas e a herança ideológica (Liberalismo vs Socialismo) que definiria as tragédias e glórias do século XX.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a diferença entre as revoltas de 1830 (Burguesas) e 1848 (Operárias/Populares). O ENEM costuma cobrar o conceito de Revolução Liberal e de Nacionalismo. Entenda que a Primavera dos Povos foi o berço das futuras unificações da Itália e Alemanha. Saiba que no Brasil, a Revolução Praieira (1848) em Pernambuco foi um reflexo direto desse clima revolucionário europeu.",
+  "sections": [
+    {
+      "title": "1. Congresso de Viena e a Tentativa de Retrocesso",
+      "content": "Os reis da Áustria, Rússia e Prússia queriam apagar a Revolução Francesa. Eles criaram a Santa Aliança para sufocar revoltas em qualquer lugar da Europa. No entanto, a burguesia agora tinha o dinheiro (indústria) e não aceitava mais as amarras da nobreza. Essa tensão entre a 'velha ordem' e a 'nova economia' foi o combustível de todas as barricadas do século XIX.",
+      "highlight": "Tentaram parar o relógio da história no Congresso de Viena, mas a mola liberal já havia saltado.",
+      "image": {
+        "url": "assets/images/lessons/revolucoes-liberais/section_0.png",
+        "alt": "1. Congresso de Viena e a Tentativa de Retrocesso",
+        "caption": "1. Congresso de Viena e a Tentativa de Retrocesso"
+      }
+    },
+    {
+      "title": "2. 1830: O Triunfo da Alta Burguesia",
+      "content": "Em Paris, o 'rei burguês' Luís Filipe de Orléans assumiu o trono após três dias de luta nas ruas. A aristocracia de sangue perdeu para a aristocracia do dinheiro. A burguesia conquistou o direito de voto (censitário), mas deixou o povo operário de fora. Essa exclusão foi o fermento para o ódio social que explodiria 18 anos depois.",
+      "highlight": "Em 1830, a burguesia venceu os reis, mas esqueceu o povo.",
+      "image": {
+        "url": "assets/images/lessons/revolucoes-liberais/section_1.png",
+        "alt": "2. 1830: O Triunfo da Alta Burguesia",
+        "caption": "2. 1830: O Triunfo da Alta Burguesia"
+      }
+    },
+    {
+      "title": "3. 1848: A Primavera dos Povos e o Medo Vermelho",
+      "content": "O ano de 1848 foi o mais incendiário da história europeia. Em meio a uma crise agrícola e fome, revoltas explodiram simultaneamente em dezenas de cidades, de Paris a Berlim, de Viena a Roma. Pela primeira vez, as bandeiras vermelhas do socialismo apareceram nas ruas. A burguesia, assustada com a radicalização dos pobres, preferiu fazer acordos com os militares conservadores para restaurar a ordem.",
+      "highlight": "A Primavera dos Povos foi o primeiro ensaio geral da revolução operária.",
+      "image": {
+        "url": "assets/images/lessons/revolucoes-liberais/section_2.png",
+        "alt": "3. 1848: A Primavera dos Povos e o Medo Vermelho",
+        "caption": "3. 1848: A Primavera dos Povos e o Medo Vermelho"
+      }
+    },
+    {
+      "title": "4. Nacionalismo: O Despertar das Nações",
+      "content": "Em 1848, povos que viviam divididos ou sob controle de impérios estrangeiros começaram a lutar pela sua unificação. Na Alemanha, o parlamento de Frankfurt tentou criar um país unido; na Itália, heróis como Garibaldi começaram a sonhar com Roma. O nacionalismo tornou-se a nova 'religião' laica, onde o povo não jurava mais fidelidade ao Rei, mas à Pátria.",
+      "highlight": "A nação substituiu a coroa como símbolo de união sagrada."
+    },
+    {
+      "title": "5. O Legado: Constituições e Parlamento",
+      "content": "Mesmo com a volta de imperadores como Napoleão III, a política mundial mudou. O sufrágio universal masculino tornou-se uma meta, e as constituições limitaram para sempre o arbítrio real. O século XIX terminou com o triunfo do Estado Liberal-Burguês, pavimentando o caminho para a democracia representativa que conhecemos hoje.",
+      "highlight": "Das cinzas das barricadas de 1848 nasceu o mundo democrático moderno."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O ano de 1848 ficou conhecido como 'Primavera dos Povos'. Qual foi o principal fator que diferenciou as revoluções desse ano em relação às de 1830?",
+      "options": [
+        "A) A participação exclusiva da Igreja Católica nas barricadas.",
+        "B) A entrada em cena do proletariado (classe operária) com reivindicações sociais e socialistas.",
+        "C) A vontade de todos os europeus de se tornarem colônias dos Estados Unidos.",
+        "D) A proibição de qualquer tipo de comércio marítimo nas costas da França.",
+        "E) O fim de todas as guerras civis do mundo apenas usando a diplomacia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Em 1848, a 'Questão Social' (pobreza operária) tornou-se a pauta central das revoltas.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "A crise agrícola e a fome no continente europeu foram as causas imediatas da eclosão da Primavera dos Povos. Esse movimento foi guiado por dois grandes ideais políticos do século XIX. Quais eram eles?",
+      "options": [
+        "A) Absolutismo e Feudalismo.",
+        "B) Comunismo Soviético e Nazismo Alemão.",
+        "C) Liberalismo e Nacionalismo.",
+        "D) Mercantilismo e Capitalismo Financeiro Atômico.",
+        "E) Anarquismo Pastoral e Monarquia de Direito Divino."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liberalismo (liberdades individuais) e Nacionalismo (autodeterminação dos povos) foram as forças motoras de 1848.",
+      "source": "Simulado ENEM / História Geral"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucoes-liberais/thumb.png",
+    "alt": "Primavera dos Povos: O Fim do Absolutismo",
+    "caption": "Primavera dos Povos: O Fim do Absolutismo"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O ciclo de revoluções liberais que varreu a Europa entre 1830 e 1848 representou o fim definitivo da tentativa de restauração absolutista arquitetada no Congresso de Viena. Em 1830, a revolta em Paris consagrou a vitória da alta burguesia, limitando o poder real por meio de uma monarquia constitucional que beneficiava apenas os detentores de capital (voto censitário), frustrando abertamente as camadas populares que participaram das barricadas com o derramamento de seu sangue.",
+        "Contudo, o marco incontestável de ruptura foi a 'Primavera dos Povos' em 1848. Como avalia Eric Hobsbawm, essa onda revolucionária simultânea — atingindo de Paris a Viena — inseriu pela primeira vez a classe operária como protagonista social autônoma. Sob o impacto inicial das ideias socialistas e da difusão do Manifesto Comunista de Marx e Engels, 1848 expôs a ruptura entre os princípios liberais burgueses (defesa incondicional da propriedade e da ordem) e os anseios do novo proletariado por garantias laborais e auxílio estatal contra o pauperismo.",
+        "Para o candidato do Enem, as Revoluções de 1848 são o caldeirão onde se forjaram as ideologias do século XIX e XX. Elas evidenciaram que a burguesia, diante do 'espectro do comunismo', tenderia a aliar-se com forças militares e conservadoras para estancar radicalismos populares. Ademais, 1848 acendeu irreversivelmente a pólvora do nacionalismo (Itália, Alemanha e impérios multinacionais), provando que o conceito de 'nação' substituiria o 'rei' como agente legitimador do poder político."
+      ],
+      "source": "HOBSBAWM, Eric. A Era das Revoluções (1789-1848). Rio de Janeiro: Paz e Terra, 2012."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O ano de 1848 ficou conhecido como 'Primavera dos Povos'. Qual foi o principal fator que diferenciou as revoluções desse ano em relação às de 1830?",
+        "back": "A) A participação exclusiva da Igreja Católica nas barricadas.. Em 1848, a 'Questão Social' (pobreza operária) tornou-se a pauta central das revoltas."
+      },
+      {
+        "front": "A crise agrícola e a fome no continente europeu foram as causas imediatas da eclosão da Primavera dos Povos. Esse movimento foi guiado por dois grandes ideais políticos do século XIX. Quais eram eles?",
+        "back": "A) Absolutismo e Feudalismo.. Liberalismo (liberdades individuais) e Nacionalismo (autodeterminação dos povos) foram as forças motoras de 1848."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) A participação exclusiva da Igreja Católica nas barricadas..",
+        "is_true": true,
+        "explanation": "Em 1848, a 'Questão Social' (pobreza operária) tornou-se a pauta central das revoltas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A entrada em cena do proletariado (classe operária) com reivindicações sociais e socialistas..",
+        "is_true": false,
+        "explanation": "Falso! Em 1848, a 'Questão Social' (pobreza operária) tornou-se a pauta central das revoltas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Absolutismo e Feudalismo..",
+        "is_true": true,
+        "explanation": "Liberalismo (liberdades individuais) e Nacionalismo (autodeterminação dos povos) foram as forças motoras de 1848."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Comunismo Soviético e Nazismo Alemão..",
+        "is_true": false,
+        "explanation": "Falso! Liberalismo (liberdades individuais) e Nacionalismo (autodeterminação dos povos) foram as forças motoras de 1848."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Liberalismo econômico",
+        "match": "Doutrina do livre mercado e não-intervencionismo"
+      },
+      {
+        "concept": "Revolução de 1848",
+        "match": "Primavera dos Povos: onda revolucionária na Europa"
+      },
+      {
+        "concept": "Carta Magna",
+        "match": "Documento inglês de 1215 que limitou o poder real"
+      },
+      {
+        "concept": "Revolução Gloriosa",
+        "match": "Revolução inglesa de 1688 que estabeleceu a monarquia constitucional"
+      },
+      {
+        "concept": "Sufrágio universal",
+        "match": "Direito de voto para todos os cidadãos"
+      },
+      {
+        "concept": "Nação",
+        "match": "Conceito político moderno de povo soberano com identidade"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Congresso de Viena e a Tentativa de Retrocesso",
+        "order": 1
+      },
+      {
+        "event": "2. 1830: O Triunfo da Alta Burguesia",
+        "order": 2
+      },
+      {
+        "event": "3. 1848: A Primavera dos Povos e o Medo Vermelho",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONSTITUIÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Primavera dos Povos: O Fim do Absolutismo."
+    }
+  }
+}

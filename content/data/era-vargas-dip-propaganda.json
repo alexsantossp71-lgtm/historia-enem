@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "id": "vargas-dip-propaganda",
+    "title": "DIP e Propaganda: A Mente do Estado Novo",
+    "period": "1939 - 1945",
+    "tags": [
+      "Vargas",
+      "DIP",
+      "Censura",
+      "Hora do Brasil",
+      "Propaganda"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O DIP foi a fábrica de sonhos e de silêncios de Vargas. Ele criou a imagem do 'Líder' e calou qualquer voz que ousasse criticar o regime do Estado Novo.",
+  "theory_content": "O **DIP (Departamento de Imprensa e Propaganda)** foi criado em 1939 para ser o cérebro ideológico de Getúlio Vargas durante o Estado Novo. Inspirado nos modelos de propaganda nazifascistas de Goebbels, o DIP tinha dois papéis fundamentais: o **Elogio ao Líder** e a **Censura aos Opositores**. Através do rádio, que era o grande meio de massa da época, o governo criou o programa **'A Hora do Brasil'**, que entrava diariamente nas casas brasileiras para exaltar as obras do regime. \n\nA cultura também foi controlada: o samba de morro, antes marginalizado, foi 'limpado' e transformado em samba exaltativo (como 'Aquarela do Brasil'), celebrando as belezas e o trabalho do país. Walt Disney veio ao Brasil (política da boa vizinhança) e criou o Zé Carioca sob os auspícios do DIP. Jornais tinham censores dentro da redação, e qualquer crítica a Vargas resultava em fechamento do veículo ou prisão do jornalista. O ENEM costuma cobrar a construção da identidade nacional pelo Estado, a manipulação das massas através do rádio e a estética fascista da ordem e do trabalho na propaganda oficial.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o rádio como a 'internet' de Vargas: um contato direto com o povo analfabeto. O ENEM costuma cobrar o DIP como o criador da 'unidade nacional' forçada. Entenda que a censura não era apenas política, mas também moral (proibindo jogos de azar e controlando o cinema). Saiba que o DIP transformou Vargas num produto de consumo: sua imagem estava em cadernos, selos e quadros de repartições públicas.",
+  "sections": [
+    {
+      "title": "1. A Hora do Brasil: O Silêncio Obrigatório",
+      "content": "Às 19h, o Brasil parava. Todas as rádios eram obrigadas a transmitir a 'Hora do Brasil'. O locutor abria com o prefixo solene e começava a ler os decretos de Vargas como se fossem presentes para a nação. O rádio foi o 'fio invisível' que uniu o interior do Brasil à capital, mas era um rádio de via única: o governo falava e o povo escutava, sem direito a resposta ou debate.",
+      "highlight": "A Hora do Brasil foi o primeiro grande 'reality show' político do rádio mundial.",
+      "image": {
+        "url": "assets/images/lessons/era-vargas-dip-propaganda/section_0.png",
+        "alt": "1. A Hora do Brasil: O Silêncio Obrigatório",
+        "caption": "1. A Hora do Brasil: O Silêncio Obrigatório"
+      }
+    },
+    {
+      "title": "2. O Samba de Ordem: A Domesticação da Cultura",
+      "content": "Antes de Vargas, o samba falava de malandragem e boemia. O DIP incentivou (e censurou) os compositores a falarem de trabalho e patriotismo. O samba 'Aquarela do Brasil' é o exemplo máximo: um Brasil de 'coqueiros e pandeiros' pronto para o turismo. O DIP queria que o trabalhador visse a labuta como uma festa nacional, apagando a realidade dura das favelas e das baixas rendas da propaganda de exportação.",
+      "highlight": "Vargas trocou a navalha do malandro pela carteira de trabalho do sambista.",
+      "image": {
+        "url": "assets/images/lessons/era-vargas-dip-propaganda/section_1.png",
+        "alt": "2. O Samba de Ordem: A Domesticação da Cultura",
+        "caption": "2. O Samba de Ordem: A Domesticação da Cultura"
+      }
+    },
+    {
+      "title": "3. O DIP no Cinema: Disney no Brasil",
+      "content": "Durante a Segunda Guerra, os EUA queriam o apoio de Vargas. O DIP coordenou a visita de orquestras, diretores e do próprio Walt Disney ao Brasil. Disney criou o personagem 'Zé Carioca', o papagaio malandro, para suavizar a imagem do brasileiro para o mundo. O cinema educativo do DIP era obrigatório em todas as sessões, ensinando higiene, civismo e amor a Getúlio antes dos filmes de Hollywood.",
+      "highlight": "O DIP usou Hollywood para vender o Brasil de Vargas como um 'bom vizinho' democrático."
+    },
+    {
+      "title": "4. Censura: O Lápis Vermelho do Estado",
+      "content": "Dentro de cada grande jornal do Brasil, havia uma mesa para o censor do DIP. Nenhuma manchete saía sem o visto do governo. Críticas ao exército, ao preço da carne ou ao próprio presidente eram 'riscadas'. Livros eram recolhidos das livrarias se tivessem 'ideias subversivas'. Getúlio calava a inteligência para garantir que a maioria do povo visse apenas a 'luz' das suas obras públicas e monumentais.",
+      "highlight": "No Estado Novo, a verdade era o que o DIP imprimia no Diário Oficial."
+    },
+    {
+      "title": "5. A Imagem do Guia: O Culto à Personalidade",
+      "content": "O rosto de Getúlio estava em todo lugar. Havia concursos de redação para crianças sobre 'Pedro Álvares Cabral e Getúlio Vargas'. O DIP criou uma mitologia onde o presidente era o sucessor natural dos heróis históricos. Essa lavagem cerebral foi tão eficiente que, mesmo após a queda da ditadura em 1945, milhões de brasileiros continuaram amando Vargas por causa da 'lembrança feliz' construída pelos cartazes do DIP.",
+      "highlight": "Vargas foi o primeiro político brasileiro a se tornar um ícone pop e religioso ao mesmo tempo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Departamento de Imprensa e Propaganda (DIP), criado durante o Estado Novo varguista, exercia qual papel fundamental na sociedade brasileira?",
+      "options": [
+        "A) A distribuição gratuita de rádio para todos os índios do Xingu.",
+        "B) O controle da informação através da censura e a construção de uma imagem positiva do governo através da propaganda oficial.",
+        "C) A venda de todas as emissoras de rádio para investidores da Alemanha.",
+        "D) A proibição de cantar samba durante os dias de semana nas capitais.",
+        "E) O cancelamento de todos os desfiles de cavalos no Rio de Janeiro."
+      ],
+      "correctIndex": 1,
+      "explanation": "O DIP foi a ferramenta de controle ideológico e estético do regime de Getúlio Vargas.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "O programa de rádio 'A Hora do Brasil', instituído por Vargas, tinha como objetivo comunicacional:",
+      "options": [
+        "A) Transmitir apenas jogos de futebol de várzea do interior de Minas.",
+        "B) Criar um contato direto entre o presidente e as massas, divulgando as obras do governo e unificando o sentimento nacional.",
+        "C) Proibir o uso de qualquer língua que não fosse o latim nas transmissões.",
+        "D) Vender produtos importados da China para as donas de casa brasileiras.",
+        "E) O cancelamento de todas as músicas clássicas na programação matinal."
+      ],
+      "correctIndex": 1,
+      "explanation": "O rádio era o principal meio de atingir a população analfabeta e consolidar o projeto varguista.",
+      "source": "Simulado ENEM / Era Vargas"
+    },
+    {
+      "question": "Qual era o objetivo principal do DIP em relação à cultura durante o Estado Novo?",
+      "options": [
+        "A) Promover a diversidade cultural e artística",
+        "B) Controlar e manipular a cultura para exaltar as obras do regime",
+        "C) Desenvolver a educação e a literatura",
+        "D) Incentivar a crítica ao governo",
+        "E) Fomentar a arte e a música estrangeira"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o papel do rádio no contexto do DIP durante o Estado Novo?",
+      "options": [
+        "A) Veículo de oposição ao regime",
+        "B) Meio de comunicação alternativo",
+        "C) Instrumento de censura e controle",
+        "D) Fonte de entretenimento e lazer",
+        "E) Meio de massa utilizado para exaltar as obras do regime"
+      ],
+      "correct_answer": 4,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual era o tratamento dado aos jornais que criticavam o governo durante o Estado Novo?",
+      "options": [
+        "A) Eram premiados por sua coragem",
+        "B) Eram ignorados pelo governo",
+        "C) Tinham censores dentro da redação e podiam ser fechados",
+        "D) Podiam criticar livremente o governo",
+        "E) Eram comprados pelo governo para serem controlados"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/era-vargas-dip-propaganda/thumb.png",
+    "alt": "DIP e Propaganda: A Mente do Estado Novo",
+    "caption": "DIP e Propaganda: A Mente do Estado Novo"
+  },
+  "support_texts": [
+    {
+      "source": "SCHWARCZ, Lilia M.; STARLING, Heloisa M. Brasil: Uma Biografia. Cia das Letras, 2015.",
+      "paragraphs": [
+        "Para manutenção irrestrita e consolidação do violento cerceamento ditatorial varguista após o anoidecer autoritário fascista estabelecido na cartilha em 1937, instituiram nevrálgico tentáculo executor, o colossal Ministério repressor estético midiático; O temido e inescrupuloso DIP (Departamento de Imprensa e Propaganda) operando ativamente os corações como escudo férreo doutrinário na sustentação unânime irrefutável moral nacional.",
+        "Operante sob os rigores massificados modernos das cartilhas comunicacionais goebbelianas extremistas, o braço do DIP censurava amordaçava brutalmente irrefutavelmente a imprensa refratária de críticas livres, as artes literárias teatrais intelectuais inteiras modelavam na fabricação da apoteótica mitificação inatingível de Getúlio elevado messiânica ao epíteto patriarcal unânime idolatrado 'O Pai abnegado dos Pobres', onipresente glorioso exaltado e magnânimo salvador patriota indubitável do operariado na apoteótica 'A Hora do Brasil'.",
+        "Configura nos avaliativos analíticos cruciais da história identificar que a ditadura não lastreava seu jugo tirânico tão e solitariamente exclusivo através violenta prisão e eliminação dos refratários e 'subversivos' comunistas operada sumariamehte na temida filinto Muller policia, era necessário imperativamente de modo complementar domar e cativar profundamente e anestesiar subliminar as amplas bases massas obreiras e juventude atadas num torpor fascínio alienante através efusivo ufanista cultural esportista festividades."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Departamento de Imprensa e Propaganda (DIP), criado durante o Estado Novo varguista, exercia qual papel fundamental na sociedade brasileira?",
+        "back": "A) A distribuição gratuita de rádio para todos os índios do Xingu.. O DIP foi a ferramenta de controle ideológico e estético do regime de Getúlio Vargas."
+      },
+      {
+        "front": "O programa de rádio 'A Hora do Brasil', instituído por Vargas, tinha como objetivo comunicacional:",
+        "back": "A) Transmitir apenas jogos de futebol de várzea do interior de Minas.. O rádio era o principal meio de atingir a população analfabeta e consolidar o projeto varguista."
+      },
+      {
+        "front": "Qual foi o ano de criação do DIP?",
+        "back": "1939"
+      },
+      {
+        "front": "Qual era o papel fundamental do DIP?",
+        "back": "Elogio ao Líder e Censura aos Opositores"
+      },
+      {
+        "front": "Qual programa de rádio foi criado para exaltar as obras do regime?",
+        "back": "A Hora do Brasil"
+      },
+      {
+        "front": "Qual foi o resultado de críticas a Vargas na imprensa?",
+        "back": "Fechamento do veículo ou prisão do jornalista"
+      },
+      {
+        "front": "Quem criou o Zé Carioca sob os auspícios do DIP?",
+        "back": "Walt Disney"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A distribuição gratuita de rádio para todos os índios do Xingu.",
+        "is_true": true,
+        "explanation": "O DIP foi a ferramenta de controle ideológico e estético do regime de Getúlio Vargas."
+      },
+      {
+        "statement": "O controle da informação através da censura e a construção de uma imagem positiva do governo através da propaganda oficial.",
+        "is_true": false,
+        "explanation": "Mito! O DIP foi a ferramenta de controle ideológico e estético do regime de Getúlio Vargas."
+      },
+      {
+        "statement": "Transmitir apenas jogos de futebol de várzea do interior de Minas.",
+        "is_true": true,
+        "explanation": "O rádio era o principal meio de atingir a população analfabeta e consolidar o projeto varguista."
+      },
+      {
+        "statement": "Criar um contato direto entre o presidente e as massas, divulgando as obras do governo e unificando o sentimento nacional.",
+        "is_true": false,
+        "explanation": "Mito! O rádio era o principal meio de atingir a população analfabeta e consolidar o projeto varguista."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "DIP",
+        "match": "Departamento de Imprensa e Propaganda (1939)"
+      },
+      {
+        "concept": "Censura",
+        "match": "Controle de jornais, rádio e expressão cultural pelo DIP"
+      },
+      {
+        "concept": "Rádio Nacional",
+        "match": "Veículo governamental de propaganda do Estado Novo"
+      },
+      {
+        "concept": "Hora do Brasil",
+        "match": "Programa de rádio obrigatório com notícias do governo"
+      },
+      {
+        "concept": "Culto à personalidade",
+        "match": "Imagem de Vargas pai dos pobres e trabalhadores"
+      },
+      {
+        "concept": "Trabalhismo varguista",
+        "match": "Ideologia que associava Vargas à conquista dos direitos trabalhistas"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Hora do Brasil: O Silêncio Obrigatório",
+        "order": 1
+      },
+      {
+        "event": "2. O Samba de Ordem: A Domesticação da Cultura",
+        "order": 2
+      },
+      {
+        "event": "3. O DIP no Cinema: Disney no Brasil",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "SILÊNCIOS",
+      "hint": "O conceito-chave central ou termo associado à aula de DIP e Propaganda: A Mente do Estado Novo."
+    }
+  }
+}

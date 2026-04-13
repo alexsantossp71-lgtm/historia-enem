@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "brasil-imperio-primeiro-reinado",
+    "title": "Primeiro Reinado: A Coroa de D. Pedro I",
+    "period": "1822 - 1831",
+    "tags": [
+      "D. Pedro I",
+      "Constituição 1824",
+      "Poder Moderador",
+      "Cisplatina",
+      "Abdicação"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "D. Pedro I proclamou a independência, mas governou com punho de ferro. Seu reinado foi uma sucessão de crises que terminou com o imperador voltando para Portugal sob as vaias do povo brasileiro.",
+  "theory_content": "O **Primeiro Reinado** (1822-1831) foi marcado pela difícil tarefa de consolidar a união do território brasileiro após o Grito do Ipiranga. D. Pedro I, embora tenha defendido a independência, revelou-se um líder centralista. Em 1823, ele dissolveu a Assembleia Constituinte ('Noite da Agonia') e, em 1824, outorgou a nossa primeira **Constituição**, criando o **Poder Moderador**, que lhe dava o direito de intervir em todos os outros poderes da nação. \n\nA insatisfação com o autoritarismo imperial explodiu na **Confederação do Equador** em Pernambuco, que foi esmagada com violência (morte de Frei Caneca). Externamente, o Brasil perdeu a **Guerra da Cisplatina**, resultando na independência do Uruguai e em uma grave crise econômica nacional. Somado a isso, o imperador envolveu-se na disputa pelo trono de Portugal, o que o afastou dos interesses brasileiros. O clima ficou insustentável com a **Noite das Garrafadas** no Rio de Janeiro (briga entre portugueses e brasileiros) e levou à **Abdicação** em 7 de abril de 1831, deixando seu filho de 5 anos (futuro Pedro II) sob a guarda de regentes. O ENEM costuma cobrar a Constituição de 1824, a centralização do poder e as causas da impopularidade de Pedro I.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o Poder Moderador como a quarta roda do carro político do Império: o imperador era o árbitro final. O ENEM costuma cobrar o caráter censitário do voto (votava quem tinha dinheiro) na Constituição de 1824. Entenda a Confederação do Equador como uma reação liberal contra o trono. Saiba o impacto da Guerra da Cisplatina no prestígio do exército e nas finanças (falência do Banco do Brasil).",
+  "sections": [
+    {
+      "title": "1. A Noite da Agonia e o Golpe do Rei",
+      "content": "D. Pedro I disse que defenderia a Constituição 'se ela fosse digna de mim e do Brasil'. Em 1823, ele percebeu que os deputados queriam limitar seu poder. Ele mandou cercar a Assembleia com canhões, prendeu os deputados e dissolveu o governo legislativo. Esse ato de força foi a prova de que a independência não trazia a democracia, mas sim a troca de um rei europeu por um imperador local autoritário.",
+      "highlight": "O Império nasceu matando a democracia no berço com as baionetas da 'Noite da Agonia'.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_0.png",
+        "alt": "1. A Noite da Agonia e o Golpe do Rei",
+        "caption": "1. A Noite da Agonia e o Golpe do Rei"
+      }
+    },
+    {
+      "title": "2. Constituição de 1824: O Quarto Poder",
+      "content": "Outorgada (imposta) por D. Pedro I, foi a carta mais longeva do Brasil (65 anos). Criou quatro poderes: Executivo, Legislativo, Judiciário e o **Moderador**. Este último permitia ao Imperador anular qualquer lei ou demitir ministros a seu gosto. O voto era censitário (baseado na fortuna) e indireto, garantindo que apenas a elite rural tivesse voz no governo, mantendo o povo na plateia da história.",
+      "highlight": "O Poder Moderador era o 'seguro' de Pedro I contra qualquer vontade popular.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_1.png",
+        "alt": "2. Constituição de 1824: O Quarto Poder",
+        "caption": "2. Constituição de 1824: O Quarto Poder"
+      }
+    },
+    {
+      "title": "3. Confederação do Equador: O Fuzilamento de Frei Caneca",
+      "content": "Pernambuco, Ceará e Paraíba não aceitaram o autoritarismo de 1824. Proclamaram uma República no Nordeste, querendo separar-se do Império. D. Pedro I não hesitou: contratou mercenários ingleses e franceses e mandou tropas terrestres para massacrar os rebeldes. Frei Caneca, o herói intelectual do movimento, foi executado por fuzilamento após os carrascos se recusarem a enforcá-lo por respeito religioso.",
+      "highlight": "A Confederação do Equador provou que o Rio de Janeiro mandava no Brasil pelo sangue.",
+      "image": {
+        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_2.png",
+        "alt": "3. Confederação do Equador: O Fuzilamento de Frei Caneca",
+        "caption": "3. Confederação do Equador: O Fuzilamento de Frei Caneca"
+      }
+    },
+    {
+      "title": "4. Cisplatina: A Província Perdida",
+      "content": "O Brasil entrou em guerra contra a Argentina pela posse do que hoje é o Uruguai. Gastamos milhões, perdemos milhares de soldados e, no fim, a Inglaterra interferiu e criou o Uruguai como um 'Estado Tampão'. O povo brasileiro, faminto e endividado, culpou a incompetência de D. Pedro I pela derrota. Foi o início do fim do prestígio do imperador nos quartéis e nas ruas do Rio de Janeiro.",
+      "highlight": "A perda da Cisplatina foi o xeque-mate na competência militar do imperador."
+    },
+    {
+      "title": "5. A Noite das Garrafadas e o Adeus",
+      "content": "Brasileiros e portugueses brigavam nas ruas do Rio com garrafas e pedras. O clima de xenofobia era total. Ao perceber que não tinha mais apoio militar nem político (até os generais o abandonaram), D. Pedro I entregou a coroa a seu filho pequeno e partiu para a Europa na calada da noite. O 'brasileiro' D. Pedro I voltava a ser o 'português' D. Pedro IV. Começava o longo e instável Período Regencial.",
+      "highlight": "Em 1831, o excesso de autoritarismo expulsou o imperador do seu próprio reino."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O 'Poder Moderador', instituído pela Constituição de 1824 no Brasil, exercia qual função no sistema político imperial?",
+      "options": [
+        "A) Garantir que todos os brasileiros pudessem votar gratuitamente na Lua.",
+        "B) Permitir ao Imperador intervir nos demais poderes (executivo, legislativo e judiciário) e anular decisões para manter o equilíbrio nacional.",
+        "C) Proibir a venda de pão francês nos portos da Bahia.",
+        "D) Transformar o Rio de Janeiro em uma província comandada pelo rei de Portugal.",
+        "E) Declarar guerra mundial contra a Argentina por causa do preço do café."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Poder Moderador era exclusivo do monarca e garantia a sua autoridade suprema sobre as instituições.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A Confederação do Equador (1824), ocorrida no Nordeste brasileiro, teve como principal motivação:",
+      "options": [
+        "A) A vontade dos pernambucanos de reconstruírem as pirâmides do Egito.",
+        "B) A reação liberal e republicana contra o autoritarismo de D. Pedro I e a imposição da Constituição de 1824.",
+        "C) O desejo de todos os paraibanos de voltarem a falar apenas espanhol nas praias.",
+        "D) O cancelamento de todos os contratos de compra de açúcar pela Marinha Inglesa.",
+        "E) O apoio à vinda de novos navios negreiros de Portugal."
+      ],
+      "correctIndex": 1,
+      "explanation": "A elite e o povo do Nordeste não aceitaram a concentração de poder nas mãos do imperador no Rio de Janeiro.",
+      "source": "Simulado ENEM / História do Brasil"
+    },
+    {
+      "question": "Qual foi o evento que marcou a dissolução da Assembleia Constituinte pelo Imperador D. Pedro I?",
+      "options": [
+        "A) Noite das Garrafadas",
+        "B) Noite da Agonia",
+        "C) Confederação do Equador",
+        "D) Guerra da Cisplatina",
+        "E) Abdicação de D. Pedro I"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a consequência da Guerra da Cisplatina para o Brasil?",
+      "options": [
+        "A) Ganho de território",
+        "B) Independência do Uruguai e crise econômica",
+        "C) Fortalecimento do Poder Moderador",
+        "D) Fim da Confederação do Equador",
+        "E) Abdicação de D. Pedro I"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o fator que contribuiu para a impopularidade de D. Pedro I e levou à sua abdicação?",
+      "options": [
+        "A) Defesa da independência do Brasil",
+        "B) Criação do Poder Moderador",
+        "C) Disputa pelo trono de Portugal e autoritarismo",
+        "D) Vitória na Guerra da Cisplatina",
+        "E) Apoio à Confederação do Equador"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/thumb.png",
+    "alt": "Primeiro Reinado: A Coroa de D. Pedro I",
+    "caption": "Primeiro Reinado: A Coroa de D. Pedro I"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Primeiro Reinado (1822-1831) foi marcado pela instabilidade política e pela disputa entre o absolutismo de D. Pedro I e os interesses da elite agrária brasileira. A Constituição de 1824, outorgada pelo imperador após o fechamento da Assembleia Constituinte, instituiu o Poder Moderador, garantindo a D. Pedro autoridade absoluta sobre os demais poderes. Esse autoritarismo centralista, aliado à perda da Província Cisplatina e a crises financeiras constantes, gerou uma forte oposição liberal e provincial ao trono.",
+        "A Confederação do Equador (1824) foi a resposta revolucionária e republicana mais forte contra o centralismo imperial, unindo o Nordeste em uma luta pela autonomia. O reinado de D. Pedro I tornou-se insustentável com o envolvimento do imperador na sucessão do trono português e o assassinato do jornalista Líbero Badaró, que inflamou as ruas. A abdicação em 1831, em favor do filho de apenas cinco anos, não foi apenas uma derrota pessoal de Pedro I, mas a vitória provisória das elites brasileiras sobre o absolutismo lusitano.",
+        "O Enem costuma cobrar a outorga da Constituição de 1824 e o papel do Poder Moderador como elementos fundamentais da organização do Estado brasileiro. É essencial compreender que o Primeiro Reinado foi a 'prova de fogo' da unidade nacional, decidindo que o Brasil seguiria um modelo centralista e monárquico, em oposição à fragmentação republicana vista na América Espanhola. No entanto, foi um período de exclusão social profunda, onde a independência política não trouxe mudanças para a maioria negra e pobre."
+      ],
+      "source": "COSTA, Emília Viotti da. Da Monarquia à República. São Paulo: UNESP, 2010."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O 'Poder Moderador', instituído pela Constituição de 1824 no Brasil, exercia qual função no sistema político imperial?",
+        "back": "A) Garantir que todos os brasileiros pudessem votar gratuitamente na Lua.. O Poder Moderador era exclusivo do monarca e garantia a sua autoridade suprema sobre as instituições."
+      },
+      {
+        "front": "A Confederação do Equador (1824), ocorrida no Nordeste brasileiro, teve como principal motivação:",
+        "back": "A) A vontade dos pernambucanos de reconstruírem as pirâmides do Egito.. A elite e o povo do Nordeste não aceitaram a concentração de poder nas mãos do imperador no Rio de Janeiro."
+      },
+      {
+        "front": "Quem foi o líder durante o Primeiro Reinado?",
+        "back": "D. Pedro I"
+      },
+      {
+        "front": "O que foi a Noite da Agonia?",
+        "back": "Dissolução da Assembleia Constituinte em 1823"
+      },
+      {
+        "front": "Qual foi o resultado da Guerra da Cisplatina?",
+        "back": "Independência do Uruguai"
+      },
+      {
+        "front": "O que foi a Confederação do Equador?",
+        "back": "Levante em Pernambuco contra o autoritarismo imperial"
+      },
+      {
+        "front": "Por que D. Pedro I abdicou?",
+        "back": "Insatisfação popular e crise econômica"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A vontade dos pernambucanos de reconstruírem as pirâmides do Egito.",
+        "is_true": true,
+        "explanation": "A elite e o povo do Nordeste não aceitaram a concentração de poder nas mãos do imperador no Rio de Janeiro."
+      },
+      {
+        "statement": "Permitir ao Imperador intervir nos demais poderes (executivo, legislativo e judiciário) e anular decisões para manter o equilíbrio nacional.",
+        "is_true": false,
+        "explanation": "Mito! O Poder Moderador era exclusivo do monarca e garantia a sua autoridade suprema sobre as instituições."
+      },
+      {
+        "statement": "A reação liberal e republicana contra o autoritarismo de D. Pedro I e a imposição da Constituição de 1824.",
+        "is_true": false,
+        "explanation": "Mito! A elite e o povo do Nordeste não aceitaram a concentração de poder nas mãos do imperador no Rio de Janeiro."
+      },
+      {
+        "statement": "Garantir que todos os brasileiros pudessem votar gratuitamente na Lua.",
+        "is_true": true,
+        "explanation": "O Poder Moderador era exclusivo do monarca e garantia a sua autoridade suprema sobre as instituições."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Grito do Ipiranga",
+        "match": "Proclamação da independência às margens do Rio Ipiranga"
+      },
+      {
+        "concept": "Guerra da Cisplatina",
+        "match": "Conflito que resultou na independência do Uruguai"
+      },
+      {
+        "concept": "Confederação do Equador",
+        "match": "Revolta republicana de 1824 reprimida por D. Pedro I"
+      },
+      {
+        "concept": "Abdicação (1831)",
+        "match": "D. Pedro I renuncia em favor do filho Pedro II"
+      },
+      {
+        "concept": "Frei Caneca",
+        "match": "Líder da Confederação do Equador, executado em 1825"
+      },
+      {
+        "concept": "Assembleia Constituinte",
+        "match": "Convocada em 1823 e dissolvida por D. Pedro I"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Noite da Agonia e o Golpe do Rei",
+        "order": 1
+      },
+      {
+        "event": "2. Constituição de 1824: O Quarto Poder",
+        "order": 2
+      },
+      {
+        "event": "3. Confederação do Equador: O Fuzilamento de Frei Caneca",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "INDEPENDÊNCIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Primeiro Reinado: A Coroa de D. Pedro I."
+    }
+  }
+}

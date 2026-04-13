@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "escravidao-abolicao",
+    "title": "Escravidão e Abolição no Brasil: Sistema e Resistência",
+    "period": "1530 - 1888",
+    "tags": [
+      "Tráfico Negreiro",
+      "Quilombos",
+      "Abolicionismo",
+      "Lei Áurea",
+      "Resistência"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A escravidão foi a viga mestra da economia e da sociedade brasileira por mais de 300 anos. Compreender sua estrutura e as formas de luta negra é fundamental para entender as desigualdades e a cultura do Brasil hoje.",
+  "theory_content": "A escravidão africana no Brasil não foi um acidente, mas um sistema econômico global de exploração de corpos e almas. Entre os séculos XVI e XIX, estima-se que mais de 4 milhões de pessoas tenham sido trazidas à força do continente africano (Ambundos, Iorubás, Jejes, entre outros). O regime escravocrata era a base de sustentação do Brasil: no açúcar do Nordeste, no ouro de Minas e no café do Rio de Janeiro. \n\nO processo de 'coisificação' (reificação) do escravizado buscava apagar sua humanidade, nome e religião. Porém, a resistência foi incessante. Além do **Quilombo** (o refúgio político e militar, como Palmares), existiam as 'resistências invisíveis': a quebra proposital de ferramentas, o trabalho lento, o sincretismo religioso (onde orixás eram cultuados sob nomes de santos católicos) e as irmandades negras, que serviam como redes de ajuda mútua para comprar alforrias. \n\nO fim da escravidão foi um processo lento e relutante das elites. Pressionado pela Inglaterra (Lei Bill Aberdeen), o Brasil promulgou a **Lei Eusébio de Queirós (1850)**, proibindo o tráfico comercial. Seguiram-se leis 'graduais' como a do Ventre Livre (1871) e dos Sexagenários (1885), que serviam para adiar a libertação total enquanto garantiam o lucro dos fazendeiros. A **Lei Áurea (1888)** encerrou formalmente a instituição, mas não previu qualquer reparação, terra ou emprego para os novos libertos, resultando na marginalização e no racismo estrutural que definem a sociedade brasileira até o presente.",
+  "sections": [
+    {
+      "title": "1. O Tráfico Transatlântico: O Navio Negreiro",
+      "content": "O tráfico foi a atividade comercial mais lucrativa do Império Português. Milhões morriam na travessia (o 'Tumbeiro'). Chegando ao Brasil, as famílias eram separadas nos portos para evitar a organização de revoltas. A escravidão urbana era comum (escravos de ganho), permitindo que negros circulassem pelas cidades prestando serviços, mas sendo obrigados a entregar a maior parte do lucro aos seus senhores.",
+      "highlight": "O tráfico de pessoas foi o motor inicial do capitalismo mercantilista português.",
+      "image": {
+        "url": "assets/images/lessons/escravidao-abolicao/section_0.png",
+        "alt": "1. O Tráfico Transatlântico: O Navio Negreiro",
+        "caption": "1. O Tráfico Transatlântico: O Navio Negreiro"
+      }
+    },
+    {
+      "title": "2. Quilombo de Palmares: O Estado Negro",
+      "content": "Localizado na Serra da Barriga (AL), Palmares durou quase um século. Sob a liderança de Ganga Zumba e depois Zumbi, abrigou mais de 20 mil pessoas. Não era apenas um refúgio de escravos fugidos, mas uma sociedade com agricultura própria, comércio com vilas vizinhas e uma organização política sofisticada. Sua queda em 1694 exigiu uma megaexpedição comandada pelo bandeirante Domingos Jorge Velho.",
+      "highlight": "Palmares provou que o escravizado não aceitava passivamente sua condição.",
+      "image": {
+        "url": "assets/images/lessons/escravidao-abolicao/section_1.png",
+        "alt": "2. Quilombo de Palmares: O Estado Negro",
+        "caption": "2. Quilombo de Palmares: O Estado Negro"
+      }
+    },
+    {
+      "title": "3. O Movimento Abolicionista: Pressão e Luta",
+      "content": "A abolição foi fruto de três pressões: 1) Internacional (Inglaterra em busca de mercado consumidor livre); 2) Popular (campanhas de intelectuais negros como Luís Gama e José do Patrocínio); 3) Rebeldia (fugas em massa nas fazendas de café nos anos 1880). O abolicionismo foi o maior movimento social do século XIX, reunindo poetas (Castro Alves), mulheres e negros libertos.",
+      "highlight": "A abolição não foi um 'presente' da coroa, mas uma conquista arrancada por muita luta.",
+      "image": {
+        "url": "assets/images/lessons/escravidao-abolicao/section_2.png",
+        "alt": "3. O Movimento Abolicionista: Pressão e Luta",
+        "caption": "3. O Movimento Abolicionista: Pressão e Luta"
+      }
+    },
+    {
+      "title": "4. Leis Abolicionistas: O 'Para Inglês Ver'",
+      "content": "As leis graduais foram estratégias das elites para evitar o caos econômico. A Lei Eusébio de Queirós empurrou o capital do tráfico para as ferrovias e bancos (Mauá). A Lei do Ventre Livre deixava a criança 'livre' mas sob tutela do senhor até os 21 anos (trabalho forçado). A Lei dos Sexagenários libertava quem raramente chegava aos 60 anos pelo desgaste físico extremo do trabalho forçado.",
+      "highlight": "O Brasil foi o último país das Américas a abolir a escravidão formal."
+    },
+    {
+      "title": "5. O Pós-Abolição e o Racismo Estrutural",
+      "content": "A Lei Áurea de 13 de maio de 1888 teve apenas dois artigos e zero plano de integração. Sem indenização, sem moradia e sem acesso ao voto (já que o voto para analfabetos era proibido na República que viria logo depois), a população negra foi empurrada para as zonas periféricas e subempregos. O Estado usou o Código Penal para perseguir culturas negras (o samba e a capoeira foram proibidos) até o início do século XX.",
+      "highlight": "A falta de reforma agrária no pós-abolição perpetuou a exclusão racial no Brasil."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Lei Eusébio de Queirós, promulgada em 1850, proibiu o tráfico negreiro transatlântico. Qual foi uma das principais consequências econômicas imediatas dessa lei no Brasil Império?",
+      "options": [
+        "A) A falência total da cultura do café no Rio de Janeiro.",
+        "B) O redirecionamento de capitais que antes financiavam o tráfico para investimentos em infraestrutura (ferrovias e luz).",
+        "C) O fim automático da escravidão em todas as províncias.",
+        "D) A expulsão imediata de todos os ingleses que moravam no país.",
+        "E) A criação do primeiro sindicato de trabalhadores negros rurais."
+      ],
+      "correctIndex": 1,
+      "explanation": "O fim do tráfico gerou um capital excedente que o Barão de Mauá e outros usaram para modernizar o início da indústria e transportes.",
+      "source": "Enem 2011"
+    },
+    {
+      "question": "O Quilombo de Palmares é frequentemente citado como a principal forma de resistência à escravidão. Por que ele era visto como uma ameaça existencial ao sistema colonial?",
+      "options": [
+        "A) Porque os negros de Palmares tinham tecnologia para criar bombas atômicas.",
+        "B) Porque Palmares provava a possibilidade de uma organização política e econômica independente e bem-sucedida fora do controle português.",
+        "C) Porque Palmares impedia a religião católica de entrar no Brasil.",
+        "D) Porque Zumbi dos Palmares desejava ser o Rei de Portugal.",
+        "E) Porque o quilombo ficava localizado exatamente onde hoje é a capital Brasília."
+      ],
+      "correctIndex": 1,
+      "explanation": "Palmares era um modelo de sociedade alternativa que atraía outros escravizados, ameaçando a ordem colonial.",
+      "source": "Simulado ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/escravidao-abolicao/thumb.png",
+    "alt": "Escravidão e Abolição no Brasil: Sistema e Resistência",
+    "caption": "Escravidão e Abolição no Brasil: Sistema e Resistência"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A escravidão no Brasil não foi apenas um sistema de trabalho, mas a base sobre a qual se construiu toda a civilização brasileira por mais de trezentos anos. Diferente de outros sistemas coercitivos, o escravismo colonial transformou o ser humano em mercadoria (*res* ou coisa), privando o indivíduo de sua humanidade em prol do lucro da metrópole e dos proprietários locais. Esse 'pecado original' da história brasileira permeia nossas estruturas sociais até hoje, manifestando-se no racismo estrutural e na desigualdade profunda.",
+        "As formas de resistência negra foram variadas e constantes, desde o cotidiano de pequenas sabotagens e fugas até a formação de Quilombos, como o de Palmares. Os quilombos não eram apenas locais de refúgio, mas espaços de reconstituição da liberdade e da identidade africana em solo brasileiro. O abolicionismo, que ganhou força no século XIX, foi um movimento heterogêneo que uniu intelectuais negros como Luiz Gama e José do Patrocínio a setores da elite que viam a escravidão como um obstáculo à modernização capitalista do país.",
+        "A Lei Áurea (1888), embora celebrada como um ato de benevolência da Princesa Isabel, foi na verdade o resultado de uma pressão insustentável vinda de baixo (revoltas escravas) e de fora (pressão inglesa). No entanto, o fim formal da escravidão não veio acompanhado de políticas de integração do ex-escravizado na sociedade. Sem terra, sem educação e sem direitos políticos, os negros foram empurrados para a marginalidade, um processo que o historiador Jacob Gorender define como a transição do escravismo para um mercado de trabalho livre e excludente."
+      ],
+      "source": "GORENDER, Jacob. O Escravismo Colonial. São Paulo: Ática, 1978."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Lei Eusébio de Queirós, promulgada em 1850, proibiu o tráfico negreiro transatlântico. Qual foi uma das principais consequências econômicas imediatas dessa lei no Brasil Império?",
+        "back": "A) A falência total da cultura do café no Rio de Janeiro.. O fim do tráfico gerou um capital excedente que o Barão de Mauá e outros usaram para modernizar o início da indústria e transportes."
+      },
+      {
+        "front": "O Quilombo de Palmares é frequentemente citado como a principal forma de resistência à escravidão. Por que ele era visto como uma ameaça existencial ao sistema colonial?",
+        "back": "A) Porque os negros de Palmares tinham tecnologia para criar bombas atômicas.. Palmares era um modelo de sociedade alternativa que atraía outros escravizados, ameaçando a ordem colonial."
+      },
+      {
+        "front": "Qual foi o período em que ocorreu a escravidão africana no Brasil?",
+        "back": "Séculos XVI a XIX"
+      },
+      {
+        "front": "Quantas pessoas foram trazidas à força do continente africano?",
+        "back": "Mais de 4 milhões"
+      },
+      {
+        "front": "O que era o Quilombo?",
+        "back": "Refúgio político e militar"
+      },
+      {
+        "front": "Qual foi a lei que proibiu o tráfico comercial de escravos?",
+        "back": "Lei Eusébio de Queirós (1850)"
+      },
+      {
+        "front": "Qual foi a lei que encerrou formalmente a instituição da escravidão?",
+        "back": "Lei Áurea (1888)"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A falência total da cultura do café no Rio de Janeiro.",
+        "is_true": true,
+        "explanation": "O fim do tráfico gerou um capital excedente que o Barão de Mauá e outros usaram para modernizar o início da indústria e transportes."
+      },
+      {
+        "statement": "Porque Palmares provava a possibilidade de uma organização política e econômica independente e bem-sucedida fora do controle português.",
+        "is_true": false,
+        "explanation": "Mito! Palmares era um modelo de sociedade alternativa que atraía outros escravizados, ameaçando a ordem colonial."
+      },
+      {
+        "statement": "O redirecionamento de capitais que antes financiavam o tráfico para investimentos em infraestrutura (ferrovias e luz).",
+        "is_true": false,
+        "explanation": "Mito! O fim do tráfico gerou um capital excedente que o Barão de Mauá e outros usaram para modernizar o início da indústria e transportes."
+      },
+      {
+        "statement": "Porque os negros de Palmares tinham tecnologia para criar bombas atômicas.",
+        "is_true": true,
+        "explanation": "Palmares era um modelo de sociedade alternativa que atraía outros escravizados, ameaçando a ordem colonial."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Lei Eusébio de Queirós (1850)",
+        "match": "Lei que extinguiu o tráfico negreiro para o Brasil"
+      },
+      {
+        "concept": "Lei do Ventre Livre (1871)",
+        "match": "Liberdade para filhos de escravas nascidos após a lei"
+      },
+      {
+        "concept": "Lei dos Sexagenários (1885)",
+        "match": "Libertação dos escravos com mais de 60 anos"
+      },
+      {
+        "concept": "Lei Áurea (1888)",
+        "match": "Abolição total da escravidão no Brasil"
+      },
+      {
+        "concept": "Quilombo dos Palmares",
+        "match": "Maior resistência quilombola, liderada por Zumbi"
+      },
+      {
+        "concept": "Abolicionismo",
+        "match": "Movimento intelectual e social pela extinção da escravidão"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Tráfico Transatlântico: O Navio Negreiro",
+        "order": 1
+      },
+      {
+        "event": "2. Quilombo de Palmares: O Estado Negro",
+        "order": 2
+      },
+      {
+        "event": "3. O Movimento Abolicionista: Pressão e Luta",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "DESIGUALDADES",
+      "hint": "O conceito-chave central ou termo associado à aula de Escravidão e Abolição no Brasil: Sistema e Resistência."
+    }
+  }
+}

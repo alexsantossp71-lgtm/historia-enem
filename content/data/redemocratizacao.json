@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "redemocratizacao",
+    "title": "A Nova República: Democracia e Estabilização (1985-Hoje)",
+    "period": "Século XX e XXI",
+    "tags": [
+      "Constituição de 1988",
+      "Plano Real",
+      "Impeachment",
+      "Sarney",
+      "Lula",
+      "FHC"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "A Nova República é o período mais longo de democracia ininterrupta na história do Brasil. Marcado pela superação da hiperinflação e pela busca pela cidadania plena sob a Constituição de 1988.",
+  "theory_content": "A Nova República inicia-se em 1985 com a eleição indireta de Tancredo Neves. Após sua morte prematura, **José Sarney** assume a presidência com o desafio de pilotar a transição da Ditadura Militar para a Democracia. O grande marco desse período foi a Assembleia Constituinte, que resultou na **Constituição de 1988**. Conhecida como 'Constituição Cidadã', ela ampliou os direitos civis e sociais, tornando o SUS e a educação direitos universais e o racismo um crime inafiançável. Economicamente, o governo Sarney foi marcado pela hiperinflação e pelo fracasso do Plano Cruzado, que tentou congelar preços sem sucesso. \n\nEm 1989, o Brasil teve sua primeira eleição direta em 29 anos. **Fernando Collor de Mello** venceu com um discurso moralizador, mas seu governo foi marcado pelo confisco da poupança e por escândalos de corrupção, levando ao primeiro processo de **Impeachment** da história brasileira (1992). Seu vice, **Itamar Franco**, assumiu e, sob o comando do ministro Fernando Henrique Cardoso, lançou o **Plano Real** em 1994, que finalmente domou a inflação. \n\nA era **FHC (1995-2002)** consolidou a estabilidade econômica através de privatizações e reformas neoliberais. Em 2003, o operário **Luiz Inácio Lula da Silva** assume a presidência pela primeira vez, combinando a manutenção da estabilidade do Real com programas de transferência de renda (Bolsa Família) e expansão do crédito, o que gerou um período de grande crescimento econômico e redução da pobreza extrema. Contudo, a crise internacional de 2008 e o esgotamento desse modelo levaram o governo de **Dilma Roussef** a enfrentar grandes protestos em 2013, culminando em seu Impeachment em 2016. Desde então, o Brasil vive um período de intensa polarização política, crise institucional e novos desafios para a manutenção da jovem democracia brasileira diante das novas mídias e do cenário global.",
+  "sections": [
+    {
+      "title": "1. A Transição 'Lenta, Gradual e Segura'",
+      "content": "Os generais Geisel e Figueiredo planejaram uma saída dos quartéis que garantisse a anistia aos militares. O movimento 'Diretas Já' (1984) reuniu milhões de brasileiros nas ruas, mas a eleição de 1985 ainda foi indireta via Colégio Eleitoral. A morte de Tancredo Neves foi o primeiro grande teste da estabilidade democrática, com Sarney (um ex-apoiador do regime militar) assumindo para garantir a transição institucional.",
+      "highlight": "A Nova República nasceu de uma costura política tensa entre militares e civis.",
+      "image": {
+        "url": "assets/images/lessons/redemocratizacao/section_0.png",
+        "alt": "1. A Transição 'Lenta, Gradual e Segura'",
+        "caption": "1. A Transição 'Lenta, Gradual e Segura'"
+      }
+    },
+    {
+      "title": "2. A Constituição de 1988: O Novo Pacto Social",
+      "content": "Liderada por Ulysses Guimarães, a constituinte de 88 foi um exercício de cidadania. Pela primeira vez, grupos minoritários tiveram voz ativa na redação de leis. O resultado foi um texto que prioriza a dignidade humana. A autonomia dos estados e municípios foi reforçada, e os direitos à saúde (SUS) e à assistência social tornaram-se pilares do Estado brasileiro, rompendo com a visão de que política social era 'caridade'.",
+      "image": {
+        "url": "assets/images/lessons/redemocratizacao/section_1.png",
+        "alt": "2. A Constituição de 1988: O Novo Pacto Social",
+        "caption": "2. A Constituição de 1988: O Novo Pacto Social"
+      }
+    },
+    {
+      "title": "3. Do Choque de Collor ao Milagre do Real",
+      "content": "Os anos 80/90 foram a 'década perdida' economicamente. Collor tentou 'matar o tigre com uma bala só' confiscando a poupança, o que gerou revolta social e sua queda. O Plano Real foi diferente: ele criou uma moeda de transição (URV) e preparou o mercado para a estabilidade. O sucesso do Real transformou o Brasil de um país que sofria com 80% de inflação ao mês em uma economia estável e atraente para o capital estrangeiro.",
+      "highlight": "O Plano Real acabou com o 'câncer' da inflação que destruía o poder de compra do trabalhador.",
+      "image": {
+        "url": "assets/images/lessons/redemocratizacao/section_2.png",
+        "alt": "3. Do Choque de Collor ao Milagre do Real",
+        "caption": "3. Do Choque de Collor ao Milagre do Real"
+      }
+    },
+    {
+      "title": "4. Estabilidade, Crescimento e os Desafios Sociais",
+      "content": "FHC trouxe a responsabilidade fiscal. Lula trouxe o foco social. Entre 2003 e 2010, o Brasil viveu um 'boom de commodities' e milhões de cidadãos saíram da miséria. Contudo, problemas estruturais — como a dependência de exportação de soja e minério, a corrupção endêmica e o sistema político fragmentado — começaram a cobrar o preço, levando às manifestações de Junho de 2013, que pediam 'mais do que 20 centavos'.",
+      "highlight": "O crescimento econômico dos anos 2000 não foi acompanhado de reformas políticas profundas."
+    },
+    {
+      "title": "5. Polarização e Ciclo de Crises Recentes",
+      "content": "O Impeachment de Dilma em 2016 e a prisão de Lula abriram um vácuo de poder ocupado pela extrema-direita em 2018 com Jair Bolsonaro. A Nova República enfrenta hoje o seu maior desafio: a estabilidade das instituições (STF, Congresso) em um ambiente de desinformação digital e negação da ciência (visível na pandemia de COVID-19). A eleição de 2022 marcou o retorno de Lula ao poder, reafirmando a alternância democrática, mas mantendo o desafio de unificar um país ideologicamente cindido.",
+      "highlight": "A democracia brasileira está sendo testada por novas ondas de desinformação e polarização."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Constituição de 1988 é chamada de 'Constituição Cidadã' principalmente por que:",
+      "options": [
+        "A) Foi escrita apenas por cidadãos comuns, sem interferência de políticos.",
+        "B) Garantiu o direito à moradia gratuita para todos os cidadãos de forma imediata.",
+        "C) Ampliou os direitos sociais e individuais, prevendo proteções abrangentes contra abusos do Estado.",
+        "D) Tornou o Brasil o único país do mundo onde não existem mais crimes.",
+        "E) Declarou que apenas quem mora na cidade (cidadão) pode votar."
+      ],
+      "correctIndex": 2,
+      "explanation": "A Constituição focou na cidadania plena e nos direitos humanos após o período da ditadura.",
+      "source": "Simulado ENEM Legal"
+    },
+    {
+      "question": "O Plano Real, lançado em 1994, diferenciou-se dos planos anteriores (Cruzado, Bresser, Verão) porque:",
+      "options": [
+        "A) Proibiu o uso de dinheiro em papel em todo o Brasil.",
+        "B) Não utilizou congelamentos de preços, preferindo uma transição gradual e psicológica via URV.",
+        "C) Tomou todas as poupanças dos cidadãos para pagar a dívida externa.",
+        "D) Permitiu ao governo imprimir dinheiro sem limites para pagar os salários.",
+        "E) Estabeleceu que apenas o dólar seria aceito nas lojas."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Real foi um plano baseado na confiança e no ajuste fiscal, sem as canetadas autoritárias de congelamento.",
+      "source": "Enem 2018"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/redemocratizacao/thumb.png",
+    "alt": "A Nova República: Democracia e Estabilização (1985-Hoje)",
+    "caption": "A Nova República: Democracia e Estabilização (1985-Hoje)"
+  },
+  "support_texts": [
+    {
+      "source": "SKIDMORE, Thomas E. Brasil: De Castelo a Tancredo (1964-1985). Paz e Terra, 1988.",
+      "paragraphs": [
+        "O exaustivo desgastante crônico das ruínas nas entranhas da falência econômica inflacionárias hipertrofiadas nos calabouços de pressões externas irrefreáveis nas censuras desgastada impopular letárgica ditadura incitou inevitável e inexoravelmente o calvário doloroso desastroso lento recuo generalizado na asfixiada formatação controlada das anistias recuadas gradativas impostas transicionais controlada recuada da amnistia fracionada da branda recuada pacificada do famigerado 'Lenta, gradual e segura' transição golpista do engessado generalato desfalecido rumo aberturas políticas pactuadas temerosas nas aberturas dos asilos civis esvaziadas amarguradas no regresso fardado e lento do projeto militar falido em prantos na derrocada inflacionada insustetável do regime brutal dos 'Anos de Chumbo' recuados.",
+        "O emblemático e irrefutável contundente de euforia e frustrações do estonteante efervescente inigualável levante nacional avassalador em erupções formidável agigantadas nas multidões pintadas das imensuráveis unidas praças colossais amareladas do frisson em coro clamoro magistral das inigualáveis das históricas emblemáticas unânimes 'Diretas Já', acendeu inconteste frustrante a rejeição reacionária parlamentar da derrota formidável na emenda na frustrada desilusão da emenda popular as urnas não garantindo a ida popular suprema e sendo asfixiada inabilita pelos oponentes engrenagem dita indiretas nas transições fatiadas dos pactos coronelistas conservadores no colégião na transigente e amarga recusa aos clamores da unânime direta urnadas cívicas roubadas renegas frustrantes cívica estancando provisoriamente o júbilo apoteótico frustrado transigência.",
+        "O legado essencial basilar nas exigências prementes consolidadas a magna forja estrutural balizadora a reconstrução da fundacional magna e imaculada e resplandecida inconteste de pilares e resgate cívico de resgate avassaladoras de igualdade sociais inconteste libertárias fundações no apoteótico pacto majestoso constituinte inabalável da reluzente magnânima humanista apoteótica fundacional libertária consagrada de epíteto imorredouro unânime da promulgação aclamada da majestática da 'Constituição Cidadã dos anos 88'. Instituindo baluartes nas garantias inafastáveis civis fundações sociais inalienáveis do sus e do estado apaziguadora referendada laica antirracista englobantes indígenas libertárias do panteão democrático restabelecendo imaculada unânime a magna majestática das cartas de reerguer as luzes pátrias da escuridão exilar de vez os pesadelos discricionários exíguos dantescos amargurados torturosos para o iluminador democrático consolidador eterno plural cidadão dos povos tramas unificadores nacionais de todos."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Constituição de 1988 é chamada de 'Constituição Cidadã' principalmente por que:",
+        "back": "A) Foi escrita apenas por cidadãos comuns, sem interferência de políticos.. A Constituição focou na cidadania plena e nos direitos humanos após o período da ditadura."
+      },
+      {
+        "front": "O Plano Real, lançado em 1994, diferenciou-se dos planos anteriores (Cruzado, Bresser, Verão) porque:",
+        "back": "A) Proibiu o uso de dinheiro em papel em todo o Brasil.. O Real foi um plano baseado na confiança e no ajuste fiscal, sem as canetadas autoritárias de congelamento."
+      },
+      {
+        "front": "Quem foi eleito indiretamente em 1985?",
+        "back": "Tancredo Neves"
+      },
+      {
+        "front": "Qual foi o grande marco da Nova República?",
+        "back": "Assembleia Constituinte e a Constituição de 1988"
+      },
+      {
+        "front": "Quem assumiu a presidência após a morte de Tancredo Neves?",
+        "back": "José Sarney"
+      },
+      {
+        "front": "Qual foi o plano que finalmente domou a inflação em 1994?",
+        "back": "Plano Real"
+      },
+      {
+        "front": "Quem lançou o Plano Real em 1994?",
+        "back": "Fernando Henrique Cardoso, sob o comando de Itamar Franco"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Foi escrita apenas por cidadãos comuns, sem interferência de políticos..",
+        "is_true": true,
+        "explanation": "A Constituição focou na cidadania plena e nos direitos humanos após o período da ditadura."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Garantiu o direito à moradia gratuita para todos os cidadãos de forma imediata..",
+        "is_true": false,
+        "explanation": "Falso! A Constituição focou na cidadania plena e nos direitos humanos após o período da ditadura."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Proibiu o uso de dinheiro em papel em todo o Brasil..",
+        "is_true": true,
+        "explanation": "O Real foi um plano baseado na confiança e no ajuste fiscal, sem as canetadas autoritárias de congelamento."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Não utilizou congelamentos de preços, preferindo uma transição gradual e psicológica via URV..",
+        "is_true": false,
+        "explanation": "Falso! O Real foi um plano baseado na confiança e no ajuste fiscal, sem as canetadas autoritárias de congelamento."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Lei da Anistia (1979)",
+        "match": "Perdão político a exilados e presos políticos"
+      },
+      {
+        "concept": "Diretas Já (1984)",
+        "match": "Campanha pela eleição direta para presidente"
+      },
+      {
+        "concept": "Tancredo Neves",
+        "match": "Presidente eleito pelo Colégio Eleitoral, morreu antes de tomar posse"
+      },
+      {
+        "concept": "José Sarney",
+        "match": "Vice que assumiu como primeiro presidente civil pós-ditadura"
+      },
+      {
+        "concept": "Constituição de 1988",
+        "match": "Constituição Cidadã que restaurou a democracia no Brasil"
+      },
+      {
+        "concept": "Collor (1989)",
+        "match": "Primeira eleição direta presidencial após 29 anos"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Transição 'Lenta, Gradual e Segura'",
+        "order": 1
+      },
+      {
+        "event": "2. A Constituição de 1988: O Novo Pacto Social",
+        "order": 2
+      },
+      {
+        "event": "3. Do Choque de Collor ao Milagre do Real",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "HIPERINFLAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de A Nova República: Democracia e Estabilização (1985-Hoje)."
+    }
+  }
+}

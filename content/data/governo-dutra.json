@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "id": "governo-dutra",
+    "title": "Governo Dutra: Democracia e Guerra Fria",
+    "period": "1946 - 1951",
+    "tags": [
+      "Dutra",
+      "Guerra Fria",
+      "Plano SALTE",
+      "Constituição 1946",
+      "USA"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "Eurico Gaspar Dutra foi o primeiro presidente da redemocratização. Seu governo foi marcado pelo conservadorismo social e por um alinhamento cego aos Estados Unidos contra a União Soviética.",
+  "theory_content": "Com a queda de Vargas em 1945, o general Eurico Gaspar Dutra venceu as eleições com o apoio do próprio Getúlio (o herdeiro 'pelego'). Seu governo começou com a outorga da **Constituição de 1946**, que restaurou as liberdades civis, o pluripartidarismo e o voto direto (mas ainda excluía analfabetos). No campo externo, Dutra rompeu relações diplomáticas com a URSS e cassou o registro do **PCB (Partido Comunista Brasileiro)** em 1947, alegando que o partido era uma ferramenta russa. \n\nEconomicamente, Dutra adotou inicialmente uma postura **liberal**: abriu o mercado para produtos importados (o Brasil foi inundado por chicletes, geladeiras e TVs dos EUA), o que drenou rapidamente as reservas de moedas estrangeiras que o país guardara na guerra. Para tentar salvar a economia, ele lançou o **Plano SALTE (Saúde, Alimentação, Transporte e Energia)**, a primeira tentativa de planejamento estatal global, que fracassou por falta de verba e gestão. Dutra também é lembrado por proibir o jogo de azar (cassinos) no Brasil, sob pressão da Igreja e da sua esposa, a 'Dona Santinha'. No final de seu mandato, o povo via a inflação crescer e sentia falta da proteção social de Vargas, que voltaria vitorioso em 1950 nos braços do povo. O ENEM costuma cobrar o contexto da Guerra Fria influenciando a política interna brasileira e as consequências da abertura econômica precoce.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude a Constituição de 1946 como o símbolo da volta à ordem democrática liberal. O ENEM costuma cobrar a cassação do PCB como reflexo do McCarthismo (caça às bruxas anticomunista) nos EUA. Entenda a queima das reservas brasileiras por Dutra: o Brasil gastou seu ouro com futilidades importadas em vez de investir em indústrias. Saiba a importância do Plano SALTE como precursor do Plano de Metas de JK.",
+  "sections": [
+    {
+      "title": "1. A Constituição de 1946: A Liberdade Reencontrada",
+      "content": "Após 8 anos de ditadura varguista, o Brasil precisava de uma carta magna democrática. A Constituição de 46 garantiu o direito de greve, a liberdade de imprensa e o fim da censura. Ela foi escrita por parlamentares eleitos de diversos partidos (UDN, PSD, PTB), refletindo um Brasil que queria se livrar do fantasma do autoritarismo, embora ainda fosse conservadora em temas como o voto analfabeto.",
+      "highlight": "Em 1946, o Brasil trocou a lei do chicote pela lei da assembleia.",
+      "image": {
+        "url": "assets/images/lessons/governo-dutra/section_0.png",
+        "alt": "1. A Constituição de 1946: A Liberdade Reencontrada",
+        "caption": "1. A Constituição de 1946: A Liberdade Reencontrada"
+      }
+    },
+    {
+      "title": "2. O Beijo na Mão do Gigante: Alinhamento aos EUA",
+      "content": "Dutra foi o presidente mais 'americanófilo' de nossa história. Ele via nos Estados Unidos o modelo a ser seguido e o escudo contra o avanço do comunismo na América Latina. Essa submissão ideológica custou caro ao Brasil, que abriu as pernas para o capital estrangeiro sem exigir as contrapartidas industriais que Vargas sempre exigia. O Brasil virou o quintal de consumo das empresas americanas.",
+      "highlight": "Dutra foi o soldado brasileiro na linha de frente ideológica da Guerra Fria.",
+      "image": {
+        "url": "assets/images/lessons/governo-dutra/section_1.png",
+        "alt": "2. O Beijo na Mão do Gigante: Alinhamento aos EUA",
+        "caption": "2. O Beijo na Mão do Gigante: Alinhamento aos EUA"
+      }
+    },
+    {
+      "title": "3. O Fim dos Dados: A Proibição dos Cassinos",
+      "content": "Por trás do general durão, havia a influência religiosa de sua esposa, D. Carmela Dutra. Sob o argumento moralista de que o jogo destruía as famílias brasileiras, Dutra proibiu os cassinos por decreto em 1946. Grandes hotéis como o Copacabana Palace fecharam suas roletas, gerando desemprego em massa no setor de turismo e lazer, que nunca mais se recuperou totalmente dessa pancada moralista.",
+      "highlight": "A moralidade da 'Dona Santinha' ditou as regras da diversão nacional em 46.",
+      "image": {
+        "url": "assets/images/lessons/governo-dutra/section_2.png",
+        "alt": "3. O Fim dos Dados: A Proibição dos Cassinos",
+        "caption": "3. O Fim dos Dados: A Proibição dos Cassinos"
+      }
+    },
+    {
+      "title": "4. Plano SALTE: A Sigla das Boas Intenções",
+      "content": "A ideia era genial: focar em Saúde, Alimentação, Transporte e Energia para dar um salto de crescimento. Mas o governo Dutra gastou o dinheiro que não tinha nas importações de luxo e o SALTE ficou no papel. Foi um fracasso de execução, mas serviu de lição para Juscelino Kubitschek, que anos depois provaria que o planejamento estatal precisava de metas e de financiamento real.",
+      "highlight": "O Plano SALTE foi a primeira grande promessa tecnocrática da democracia brasileira."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Durante o governo de Eurico Gaspar Dutra (1946-1951), o Brasil adotou uma postura externa marcante em relação à Guerra Fria. Qual foi ela?",
+      "options": [
+        "A) Adoção de uma neutralidade total entre EUA e URSS.",
+        "B) Alinhamento incondicional aos Estados Unidos, com rompimento de relações com a União Soviética e cassação do PCB.",
+        "C) Entrega de todo o território nacional para a exploração da Sibéria.",
+        "D) Apoio militar total aos comunistas chineses de Mao Tsé-Tung.",
+        "E) Criação de uma moeda única para toda a América do Sul chamada SALTE-DÓLAR."
+      ],
+      "correctIndex": 1,
+      "explanation": "O governo Dutra foi a expressão brasileira da doutrina Truman de contenção do comunismo.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Qual foi a principal consequência econômica da política de abertura de importações adotada por Dutra logo no início de seu mandato?",
+      "options": [
+        "A) O Brasil tornou-se o país mais rico do mundo em ouro e diamantes.",
+        "B) A queima acelerada das reservas de moedas estrangeiras acumuladas durante a 2ª Guerra Mundial para a compra de bens de consumo supérfluos.",
+        "C) O fim de todas as dívidas externas do Brasil com a Inglaterra.",
+        "D) O fechamento de todas as fábricas americanas instaladas em São Paulo.",
+        "E) A proibição de vender Coca-Cola e pneus nas capitais brasileiras."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ao facilitar a entrada de produtos estrangeiros, Dutra sabotou a balança comercial e as indústrias nacionais incipientes.",
+      "source": "Simulado ENEM / História do Brasil"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/governo-dutra/thumb.png",
+    "alt": "Governo Dutra: Democracia e Guerra Fria",
+    "caption": "Governo Dutra: Democracia e Guerra Fria"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O governo de Eurico Gaspar Dutra (1946-1951) marcou a primeira experiência democrática pós-Estado Novo, em um contexto de início da Guerra Fria. Sob o alinhamento incondicional aos Estados Unidos, o governo rompeu relações diplomáticas com a União Soviética e colocou o PCB (Partido Comunista Brasileiro) na ilegalidade. Economicamente, Dutra adotou inicialmente uma política liberal de queima de reservas em moeda estrangeira (acumuladas durante a Segunda Guerra), o que resultou em inflação e o posterior retorno a medidas de controle cambial.",
+        "O Plano SALTE (Saúde, Alimentação, Transporte e Energia) foi a principal tentativa de coordenação econômica do período, embora tenha tido pouco sucesso prático devido à falta de investimentos. A promulgação da Constituição de 1946 reestabeleceu as liberdades civis e a divisão dos três poderes, mas manteve a proibição de greves em setores 'fundamentais', refletindo o caráter conservador da elite política que sucedeu Vargas. Foi um período de tensões entre o desejo de modernização e a manutenção de estruturas sociais tradicionais.",
+        "Compreender o governo Dutra é essencial para analisar a transição entre as ditaduras de Vargas e o período de estabilidade democrática que viria com JK. O Enem frequentemente cobra a mudança na política econômica — do estatismo de Vargas para o liberalismo de Dutra — e as consequências sociais dessa abertura para os trabalhadores. Este período revela como a política interna brasileira foi profundamente influenciada pelo cenário geopolítico mundial após a Segunda Guerra Mundial."
+      ],
+      "source": "SKIDMORE, Thomas. Brasil: de Castelo a Tancredo. Rio de Janeiro: Paz e Terra, 2003."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Durante o governo de Eurico Gaspar Dutra (1946-1951), o Brasil adotou uma postura externa marcante em relação à Guerra Fria. Qual foi ela?",
+        "back": "A) Adoção de uma neutralidade total entre EUA e URSS.. O governo Dutra foi a expressão brasileira da doutrina Truman de contenção do comunismo."
+      },
+      {
+        "front": "Qual foi a principal consequência econômica da política de abertura de importações adotada por Dutra logo no início de seu mandato?",
+        "back": "A) O Brasil tornou-se o país mais rico do mundo em ouro e diamantes.. Ao facilitar a entrada de produtos estrangeiros, Dutra sabotou a balança comercial e as indústrias nacionais incipientes."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "A queima acelerada das reservas de moedas estrangeiras acumuladas durante a 2ª Guerra Mundial para a compra de bens de consumo supérfluos.",
+        "is_true": false,
+        "explanation": "Mito! Ao facilitar a entrada de produtos estrangeiros, Dutra sabotou a balança comercial e as indústrias nacionais incipientes."
+      },
+      {
+        "statement": "O Brasil tornou-se o país mais rico do mundo em ouro e diamantes.",
+        "is_true": true,
+        "explanation": "Ao facilitar a entrada de produtos estrangeiros, Dutra sabotou a balança comercial e as indústrias nacionais incipientes."
+      },
+      {
+        "statement": "Alinhamento incondicional aos Estados Unidos, com rompimento de relações com a União Soviética e cassação do PCB.",
+        "is_true": false,
+        "explanation": "Mito! O governo Dutra foi a expressão brasileira da doutrina Truman de contenção do comunismo."
+      },
+      {
+        "statement": "Adoção de uma neutralidade total entre EUA e URSS.",
+        "is_true": true,
+        "explanation": "O governo Dutra foi a expressão brasileira da doutrina Truman de contenção do comunismo."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Eurico Gaspar Dutra",
+        "match": "Presidente conservador de 1946 a 1950"
+      },
+      {
+        "concept": "Constituição de 1946",
+        "match": "Redemocratização após o Estado Novo"
+      },
+      {
+        "concept": "Cassação do PCB",
+        "match": "Partido Comunista proibido em 1947 na Guerra Fria"
+      },
+      {
+        "concept": "Plano SALTE",
+        "match": "Programa de saúde, alimentação, transporte e energia de Dutra"
+      },
+      {
+        "concept": "Alinhamento com os EUA",
+        "match": "Política externa Dutra alinhada à Guerra Fria"
+      },
+      {
+        "concept": "Reabertura democrática",
+        "match": "Eleições livres voltaram após 1945 com fim do Estado Novo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. A Constituição de 1946: A Liberdade Reencontrada",
+        "order": 1
+      },
+      {
+        "event": "2. O Beijo na Mão do Gigante: Alinhamento aos EUA",
+        "order": 2
+      },
+      {
+        "event": "3. O Fim dos Dados: A Proibição dos Cassinos",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "REDEMOCRATIZAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Governo Dutra: Democracia e Guerra Fria."
+    }
+  }
+}

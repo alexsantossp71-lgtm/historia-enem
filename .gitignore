@@ -1,0 +1,12 @@
+# Ignorar o cache do npm que fica mapeado no TEMP
+%TEMP%/
+node_modules/
+npm-cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build local temp
+*.log

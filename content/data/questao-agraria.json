@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "id": "questao-agraria",
+    "title": "A Questão Agrária no Brasil: Histórias de Concentração e Luta",
+    "period": "1530 - Hoje",
+    "tags": [
+      "Reforma Agrária",
+      "Lei de Terras 1850",
+      "MST",
+      "Agronegócio",
+      "Conflitos"
+    ],
+    "difficulty": "Experiente",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "O Brasil é um dos países com a maior concentração de terras do mundo. Estudar a questão agrária é entender como a posse da terra define a desigualdade social e política no nosso país desde o período colonial.",
+  "theory_content": "A má distribuição de terras no Brasil tem raízes históricas profundas. Tudo começou com as **Sesmarias**, sistema de concessão de grandes latifúndios pela Coroa Portuguesa a quem tivesse recursos para produzir. Isso criou uma elite agrária que via a terra não como um direito social, mas como um título de nobreza e poder. Em 1850, um ano crucial, foi promulgada a **Lei de Terras (Lei nº 601)**. Ela determinava que as terras devolutas só poderiam ser adquiridas por compra, e não mais por posse ou doação. O objetivo era claro: impedir que os escravizados (que seriam libertos futuramente) e os imigrantes europeus pobres tivessem acesso à terra, garantindo que continuassem sendo mão de obra barata para os grandes fazendeiros de café. \n\nA tentativa mais séria de reforma veio no governo de João Goulart, com as **Reformas de Base** (1964), que foram o estopim para o golpe militar. Paradoxalmente, a Ditadura Militar criou o **Estatuto da Terra (1964)**, um documento progressista que definia a Função Social da Propriedade (a terra deve produzir e gerar bem-estar), mas que nunca foi aplicado para realizar a reforma agrária de fato. Ao contrário, o regime incentivou a 'Modernização Dolorosa' do campo através do agronegócio exportador, o que expulsou milhões de pequenos agricultores para as favelas urbanas (êxodo rural). \n\nEm resposta a esse cenário de exclusão, nos anos 80, surgiu o **MST (Movimento dos Trabalhadores Rurais Sem Terra)**, que utiliza a ocupação de terras improdutivas como ferramenta política para forçar o Estado a cumprir a Constituição. O embate entre o agronegócio (altamente tecnológico e motor do PIB brasileiro) e os movimentos sociais de base familiar é o centro das tensões rurais atuais, envolvendo questões como o uso de agrotóxicos, o desmatamento da Amazônia e os assassinatos de lideranças camponesas como o massacre de Eldorado dos Carajás.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Aprenda a diferença entre 'Latifúndio' (grande terra improdutiva) e 'Agronegócio' (grande terra produtiva). O ENEM costuma cobrar a 'Função Social da Terra': para ser legal, a terra deve produzir, respeitar leis trabalhistas e preservar o meio ambiente. Se um desses pilares falha, a terra pode ser desapropriada para reforma agrária por decisão da União. Estude também o papel das Ligas Camponesas no Nordeste dos anos 50/60.",
+  "sections": [
+    {
+      "title": "1. O Início de Tudo: Sesmarias e Latifúndios",
+      "content": "As sesmarias eram faixas de terra gigantescas dadas a um 'Sesmeiro' para produzir. O problema é que muito dessas terras ficava abandonada, mas ainda era de propriedade de uma única família. Esse sistema criou o 'Mandonismo Local': o dono da terra era o dono da justiça e da política em sua região, base do que seria o Coronelismo no futuro.",
+      "highlight": "O Brasil nasceu como um arquipélago de latifúndios sem povoamento real.",
+      "image": {
+        "url": "assets/images/lessons/questao-agraria/section_0.png",
+        "alt": "1. O Início de Tudo: Sesmarias e Latifúndios",
+        "caption": "1. O Início de Tudo: Sesmarias e Latifúndios"
+      }
+    },
+    {
+      "title": "2. Lei de Terras de 1850: O Excludente Colonial",
+      "content": "Até 1850, você podia ocupar uma terra e dizer que era sua (posse). Depois da lei, só quem tinha dinheiro podia comprar. Isso foi feito exatamente quando o fim do tráfico negreiro estava próximo: os fazendeiros não queriam que o ex-escravizado fosse seu vizinho e competisse na produção; queriam que ele passasse da 'senzala' para o trabalho assalariado precário na mesma fazenda.",
+      "highlight": "A Lei de Terras foi a maior ferramenta de exclusão social e racial do século XIX.",
+      "image": {
+        "url": "assets/images/lessons/questao-agraria/section_1.png",
+        "alt": "2. Lei de Terras de 1850: O Excludente Colonial",
+        "caption": "2. Lei de Terras de 1850: O Excludente Colonial"
+      }
+    },
+    {
+      "title": "3. Estatuto da Terra e a Modernização Conservadora",
+      "content": "Durante a Ditadura, o governo buscou modernizar o campo com tratores e venenos, mas sem mexer na estrutura da propriedade. O 'Estatuto da Terra' serviu apenas para acalmar os ânimos rurais após a perseguição às Ligas Camponesas. O resultado foi a concentração de renda no campo e a explosão urbana das cidades, que não estavam prontas para receber milhões de migrantes rurais.",
+      "highlight": "A ditadura militar industrializou o campo mas concentrou ainda mais a terra.",
+      "image": {
+        "url": "assets/images/lessons/questao-agraria/section_2.png",
+        "alt": "3. Estatuto da Terra e a Modernização Conservadora",
+        "caption": "3. Estatuto da Terra e a Modernização Conservadora"
+      }
+    },
+    {
+      "title": "4. O MST e as Ocupações de Terras",
+      "content": "O MST defende que 'terra para quem nela trabalha'. Suas ocupações visam terras que não cumprem sua função social (que são improdutivas ou têm crimes ambientais/trabalhistas). O movimento é o maior produtor de arroz orgânico da América Latina, mostrando que a reforma agrária não é apenas sobre justiça, mas sobre segurança alimentar para a população urbana.",
+      "image": {
+        "url": "/assets/img/historia/reforma_agraria.png",
+        "alt": "Acampamento de reforma agrária com bandeiras",
+        "caption": "A luta pela terra no Brasil envolve ocupações, acampamentos e uma longa disputa jurídica contra o latifúndio improdutivo."
+      }
+    },
+    {
+      "title": "5. Agronegócio vs. Agricultura Familiar",
+      "content": "O agronegócio é o motor das exportações de soja, milho e carne. Já a agricultura familiar é responsável por 70% da comida que chega à mesa do brasileiro (feijão, mandioca, hortaliças). O conflito surge quando o agronegócio avança sobre terras indígenas ou áreas de preservação, gerando o chamado 'Arco do Desmatamento'. A solução da questão agrária passa pelo equilíbrio entre a riqueza externa e a justiça social interna.",
+      "highlight": "O agronegócio gera dólares para o país; a agricultura familiar gera o alimento do povo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A Lei de Terras de 1850 determinou que as terras devolutas no Brasil só poderiam ser adquiridas através da compra. Qual era o principal objetivo implícito dos legisladores da época?",
+      "options": [
+        "A) Estimular a agricultura urbana no Rio de Janeiro e em São Paulo.",
+        "B) Impedir o acesso à propriedade por parte de imigrantes pobres e ex-escravizados, garantindo mão de obra para os latifúndios.",
+        "C) Proteger a Amazônia contra o desmatamento industrial.",
+        "D) Criar um imposto de renda proporcional à quantidade de terra de cada cidadão.",
+        "E) Transformar o Brasil em uma colônia russa com fazendas coletivas."
+      ],
+      "correctIndex": 1,
+      "explanation": "A lei foi uma resposta estratégica para privar as camadas populares do acesso à posse da terra.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "De acordo com o Estatuto da Terra (1964) e a Constituição de 1988, para que uma propriedade rural cumpra sua Função Social, ela deve preencher requisitos de:",
+      "options": [
+        "A) Apenas produtividade econômica máxima em qualquer condição.",
+        "B) Uso de armas por parte dos proprietários contra invasores.",
+        "C) Aproveitamento racional, preservação do meio ambiente e respeito às leis trabalhistas.",
+        "D) Possuir mais de um milhão de hectares em um único estado.",
+        "E) Plantar apenas produtos destinados ao mercado japonês."
+      ],
+      "correctIndex": 2,
+      "explanation": "A Função Social da propriedade é um pilar constitucional que exige produtividade ética, ambiental e trabalhista.",
+      "source": "Simulado ENEM / MST"
+    },
+    {
+      "question": "Qual foi o principal objetivo da Lei de Terras de 1850 no Brasil?",
+      "options": [
+        "A) Promover a distribuição de terras para os escravizados e imigrantes pobres",
+        "B) Estabelecer um sistema de concessão de terras para pequenos agricultores",
+        "C) Impedir que os escravizados e imigrantes europeus pobres tivessem acesso à terra",
+        "D) Criar um mercado de terras para fins de especulação",
+        "E) Reduzir a influência da Coroa Portuguesa sobre a distribuição de terras"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado paradoxal da Ditadura Militar em relação à reforma agrária?",
+      "options": [
+        "A) A criação de um estatuto que definia a função social da propriedade, mas que foi amplamente aplicado",
+        "B) A expulsão de milhões de pequenos agricultores para as favelas urbanas",
+        "C) A criação de um estatuto que definia a função social da propriedade, mas que nunca foi aplicado",
+        "D) A promoção de uma reforma agrária que beneficiou os pequenos agricultores",
+        "E) A redução do poder do agronegócio no Brasil"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual é o principal objetivo do Movimento dos Trabalhadores Rurais Sem Terra (MST)?",
+      "options": [
+        "A) Promover a modernização do agronegócio no Brasil",
+        "B) Reduzir a influência dos movimentos sociais no campo",
+        "C) Forçar o Estado a cumprir a Constituição e realizar a reforma agrária",
+        "D) Criar um mercado de terras para fins de especulação",
+        "E) Estabelecer um sistema de concessão de terras para grandes fazendeiros"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/questao-agraria/thumb.png",
+    "alt": "A Questão Agrária no Brasil: Histórias de Concentração e Luta",
+    "caption": "A Questão Agrária no Brasil: Histórias de Concentração e Luta"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A questão agrária no Brasil é caracterizada por uma das maiores concentrações fundiárias do mundo, cujas raízes remontam ao sistema de Sesmarias da era colonial. Segundo José de Souza Martins, a terra no Brasil foi historicamente tratada como um 'cativeiro', onde a posse servia mais para imobilizar a mão de obra do que para a produção democrática. A Lei de Terras de 1850 consolidou esse modelo ao transformar a terra em mercadoria acessível apenas por compra, justamente no momento em que a escravidão entrava em declínio.",
+        "O Estatuto da Terra, promulgado ironicamente no início da Ditadura Militar, definiu a 'Função Social da Propriedade', estabelecendo que a terra deve produzir e respeitar critérios ambientais e trabalhistas para ser legítima. No entanto, o incentivo estatal ao agronegócio exportador e à 'modernização conservadora' aprofundou as desigualdades rurais. Esse cenário deu origem a movimentos sociais de base, como as Ligas Camponesas e, posteriormente, o MST (Movimento dos Sem Terra), que colocaram a luta pela reforma agrária no centro do debate político brasileiro.",
+        "Para o Enem, a questão agrária deve ser analisada sob a ótica da desigualdade social e do impacto ambiental. O embate entre o agronegócio de alta produtividade e a agricultura familiar (responsável por 70% da alimentação interna) revela as contradições do desenvolvimento econômico nacional. A compreensão dessas tensões é fundamental para interpretar conflitos contemporâneos envolvendo terras indígenas, desmatamento e a segurança alimentar da população urbana."
+      ],
+      "source": "MARTINS, José de Souza. O Cativeiro da Terra. São Paulo: Contexto, 2013."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A Lei de Terras de 1850 determinou que as terras devolutas no Brasil só poderiam ser adquiridas através da compra. Qual era o principal objetivo implícito dos legisladores da época?",
+        "back": "A) Estimular a agricultura urbana no Rio de Janeiro e em São Paulo.. A lei foi uma resposta estratégica para privar as camadas populares do acesso à posse da terra."
+      },
+      {
+        "front": "De acordo com o Estatuto da Terra (1964) e a Constituição de 1988, para que uma propriedade rural cumpra sua Função Social, ela deve preencher requisitos de:",
+        "back": "A) Apenas produtividade econômica máxima em qualquer condição.. A Função Social da propriedade é um pilar constitucional que exige produtividade ética, ambiental e trabalhista."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Estimular a agricultura urbana no Rio de Janeiro e em São Paulo..",
+        "is_true": true,
+        "explanation": "A lei foi uma resposta estratégica para privar as camadas populares do acesso à posse da terra."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Impedir o acesso à propriedade por parte de imigrantes pobres e ex-escravizados, garantindo mão de obra para os latifúndios..",
+        "is_true": false,
+        "explanation": "Falso! A lei foi uma resposta estratégica para privar as camadas populares do acesso à posse da terra."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Apenas produtividade econômica máxima em qualquer condição..",
+        "is_true": true,
+        "explanation": "A Função Social da propriedade é um pilar constitucional que exige produtividade ética, ambiental e trabalhista."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Uso de armas por parte dos proprietários contra invasores..",
+        "is_true": false,
+        "explanation": "Falso! A Função Social da propriedade é um pilar constitucional que exige produtividade ética, ambiental e trabalhista."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Latifúndio",
+        "match": "Grande propriedade de terra improdutiva no Brasil"
+      },
+      {
+        "concept": "MST",
+        "match": "Movimento dos Trabalhadores Rurais Sem Terra"
+      },
+      {
+        "concept": "Lei de Terras de 1850",
+        "match": "Estabeleceu que terra só se adquire por compra"
+      },
+      {
+        "concept": "Grilagem",
+        "match": "Fraude documental para apropriação de terras alheias"
+      },
+      {
+        "concept": "Reforma Agrária",
+        "match": "Redistribuição de terras para reduzir desigualdade rural"
+      },
+      {
+        "concept": "Boias-frias",
+        "match": "Trabalhadores rurais contratados temporariamente"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Início de Tudo: Sesmarias e Latifúndios",
+        "order": 1
+      },
+      {
+        "event": "2. Lei de Terras de 1850: O Excludente Colonial",
+        "order": 2
+      },
+      {
+        "event": "3. Estatuto da Terra e a Modernização Conservadora",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONCENTRAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de A Questão Agrária no Brasil: Histórias de Concentração e Luta."
+    }
+  }
+}

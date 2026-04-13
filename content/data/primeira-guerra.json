@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "id": "primeira-guerra",
+    "title": "A Grande Guerra: Impérios em Colapso (1914-1918)",
+    "period": "Século XX",
+    "tags": [
+      "Imperialismo",
+      "Trincheiras",
+      "Versalhes",
+      "Belle Époque",
+      "Sarajevo"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "A Primeira Guerra Mundial foi o choque brutal entre o otimismo tecnológico do século XIX e a realidade industrial da morte em massa. Ela redesenhou o mapa da Europa e do Oriente Médio.",
+  "theory_content": "A **Grande Guerra** (como era chamada na época) não começou por acaso em 1914. Ela foi o resultado de décadas de disputas imperiais por mercados na África e Ásia (Neocolonialismo), o nacionalismo exacerbado (pan-eslavismo e pangermanismo) e a 'Paz Armada' — um período em que as nações europeias investiam pesadamente em armas enquanto sorriam na *Belle Époque*. O estopim foi o assassinato do arquiduque Francisco Ferdinando, herdeiro do Império Austro-Húngaro, em Sarajevo, por um nacionalista sérvio. \n\nO conflito dividiu-se em dois blocos: a **Tríplice Aliança** (Alemanha, Áustria-Hungria e Itália — que depois mudou de lado) e a **Tríplice Entente** (Inglaterra, França e Rússia). A guerra passou por duas grandes fases: 1) Guerra de Movimento (1914), com avanços rápidos; 2) **Guerra de Trincheiras (1915-1917)**, um período de estagnação onde milhões de soldados viviam em buracos no chão, cercados por lama, ratos e gases venenosos. Em 1917, dois eventos mudaram o rumo do conflito: a saída da Rússia devido à **Revolução Bolchevique** e a entrada dos EUA ao lado da Entente, trazendo fôlego econômico e militar. \n\nA guerra terminou em 1918 com a vitória dos Aliados. O **Tratado de Versalhes (1919)** impôs condições humilhantes à Alemanha: perda de territórios, proibição de ter exército forte e multas impagáveis. A Liga das Nações foi criada para evitar novos conflitos, mas nasceu fraca e sem o apoio dos EUA. O legado da guerra foi a queda de quatro grandes impérios (Alemão, Austro-Húngaro, Otomano e Russo) e o início da hegemonia americana no mundo ocidental. O ENEM costuma cobrar a mudança no papel da mulher (que passou a trabalhar nas fábricas enquanto os homens estavam no front) e o desenvolvimento da aviação e cirurgia plástica reconstrutiva.",
+  "support_text": "VOLUME E ESTRATÉGIA PARA O ENEM: Estude a 'Guerra Química' e o impacto psicológico da tecnologia sobre o homem (as chamadas 'neuroses de guerra'). O ENEM costuma cobrar a relação entre a I Guerra e o Imperialismo do século XIX. Não esqueça que o Brasil participou enviando uma missão médica e patrulhando o Atlântico após navios mercantes brasileiros serem torpedeados por alemães.",
+  "sections": [
+    {
+      "title": "1. Belle Époque e a Paz Armada",
+      "content": "A Europa vivia uma ilusão. Em Paris, as pessoas celebravam o progresso, a eletricidade e o cinema. Mas, nos bastidores, os governos assinavam pactos secretos de defesa. Qualquer faísca poderia incendiar o continente. A 'Paz Armada' foi o período em que a corrida armamentista industrial atingiu seu auge, transformando a ciência em uma ferramenta de morte em escala industrial.",
+      "highlight": "A Belle Époque foi o luxo que financiou a barbárie.",
+      "image": {
+        "url": "assets/images/lessons/primeira-guerra/section_0.png",
+        "alt": "1. Belle Époque e a Paz Armada",
+        "caption": "1. Belle Époque e a Paz Armada"
+      }
+    },
+    {
+      "title": "2. O Horror das Trincheiras",
+      "content": "A tecnologia de metralhadoras e artilharia forçou os exércitos a se enterrarem. Por anos, as frentes de batalha quase não se mexiam. Avançar 100 metros custava a vida de milhares de jovens. Foi nessa fase que surgiram os gases químicos (mostarda e cloro) e os primeiros tanques de guerra britânicos, tentando romper o impasse da lama e do arame farpado.",
+      "highlight": "Na trincheira, a dignidade humana foi enterrada pela lama e pelo terror químico."
+    },
+    {
+      "title": "3. 1917: O Ano que o Mundo Girou",
+      "content": "Dois fatos mudaram a história. A Rússia, exausta e faminta, viu o povo derrubar o Czar e abraçar o Socialismo, saindo da guerra para resolver seus problemas internos. Ao mesmo tempo, os alemães afundaram navios mercantes americanos, forçando os EUA a enviarem milhões de tropas e suprimentos para a Europa, garantindo a vitória final da França e Inglaterra.",
+      "highlight": "1917 foi o nascimento oficial da União Soviética e da liderança global dos EUA.",
+      "image": {
+        "url": "assets/images/lessons/primeira-guerra/section_2.png",
+        "alt": "3. 1917: O Ano que o Mundo Girou",
+        "caption": "3. 1917: O Ano que o Mundo Girou"
+      }
+    },
+    {
+      "title": "4. O Papel das Mulheres na Retaguarda",
+      "content": "Com os homens nas trincheiras, as mulheres ocuparam as fábricas de munição, os bondes e os escritórios. Isso mudou permanentemente a estrutura social e deu força ao movimento **Sufragista** (pelo direito ao voto feminino). A guerra provou que a economia não poderia mais funcionar sem a participação ativa e profissional das mulheres fora de casa.",
+      "highlight": "A liberdade feminina do século XX nasceu nas fábricas de guerra de 1914."
+    },
+    {
+      "title": "5. O Tratado de Versalhes: Paz ou Vingança?",
+      "content": "Muitos historiadores dizem que a I Guerra só terminou em 1945. Versalhes não foi um tratado de paz, mas um 'Diktat' (ditado) de vingança francesa contra a Alemanha. Ao quebrar a economia alemã e ferir o orgulho nacional, o tratado criou o ressentimento perfeito para a ascensão de Adolf Hitler 14 anos depois. A semente da II Guerra foi plantada no Salão dos Espelhos de Versalhes.",
+      "highlight": "Uma paz imposta pelo ódio é apenas uma pausa para a próxima guerra."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Tratado de Versalhes, assinado em 1919 após o fim da Primeira Guerra Mundial, impôs condições severas à Alemanha. Qual foi um dos efeitos desse tratado a longo prazo?",
+      "options": [
+        "A) O fortalecimento da democracia plena e da paz eterna na Europa.",
+        "B) A ascensão do sentimento nacionalista e do revanchismo alemão, que facilitou a subida do nazismo ao poder.",
+        "C) O cancelamento de todas as indústrias alemãs para que o país voltasse a ser apenas agrário.",
+        "D) A união total entre a Alemanha e a França para criar um único país europeu.",
+        "E) A proibição de que os alemães falassem sua própria língua."
+      ],
+      "correctIndex": 1,
+      "explanation": "A humilhação de Versalhes foi o combustível emocional para o discurso de Hitler nos anos 20 e 30.",
+      "source": "Enem 2011 Especial"
+    },
+    {
+      "question": "Durante a Primeira Guerra Mundial, a entrada dos Estados Unidos (1917) foi decisiva para o desfecho do conflito. O principal motivo para a entrada dos EUA na guerra foi:",
+      "options": [
+        "A) O desejo de colonizar a Rússia e o Japão.",
+        "B) Os constantes ataques de submarinos alemães a navios mercantes americanos e os laços econômicos com a Entente.",
+        "C) Uma ordem direta do Papa para que as tropas americanas protegessem o Vaticano.",
+        "D) O sequestro do presidente americano por tropas francesas no dia de Natal.",
+        "E) A vontade de testar a primeira bomba atômica da história."
+      ],
+      "correctIndex": 1,
+      "explanation": "Os EUA tinham interesses financeiros na vitória de Inglaterra e França e reagiram aos ataques marítimos alemães.",
+      "source": "Simulado ENEM / Mackenzie"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/primeira-guerra/thumb.png",
+    "alt": "A Grande Guerra: Impérios em Colapso (1914-1918)",
+    "caption": "A Grande Guerra: Impérios em Colapso (1914-1918)"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "A Primeira Guerra Mundial (1914-1918) foi o resultado explosivo de décadas de tensões imperialistas, nacionalismos extremados e um complexo sistema de alianças militares. Conhecida como a 'Grande Guerra', ela marcou o fim da relativa estabilidade europeia do século XIX e introduziu a 'Guerra Total', onde toda a economia e a população civil foram mobilizadas para o conflito. A guerra de trincheiras simbolizou o horror e a estagnação militar, onde milhões de homens morriam por poucos metros de terra conquistada.",
+        "O Tratado de Versalhes (1919), ao impor condições humilhantes à Alemanha — incluindo a perda de territórios, desarmamento e pesadas indenizações — lançou as sementes do ressentimento que alimentaria o nazismo décadas depois. A guerra também provocou a queda de grandes impérios (Alemão, Austro-Húngaro, Otomano e Russo) e o surgimento de novas nações no Leste Europeu e no Oriente Médio, redesenhando permanentemente o mapa global e deslocando o centro do poder para os Estados Unidos.",
+        "O impacto social da guerra incluiu a entrada definitiva das mulheres no mercado de trabalho e o colapso da fé absoluta no progresso científico, que se mostrou capaz de criar armas químicas e destruição em massa. Para o Enem, é essencial analisar como a Primeira Guerra funcionou como o prelúdio para a Revolução Russa e para a crise das democracias liberais, abrindo caminho para a instabilidade que culminaria na Segunda Guerra Mundial."
+      ],
+      "source": "HOBSBAWM, Eric. A Era dos Extremos: O Breve Século XX. São Paulo: Companhia das Letras, 1995."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Tratado de Versalhes, assinado em 1919 após o fim da Primeira Guerra Mundial, impôs condições severas à Alemanha. Qual foi um dos efeitos desse tratado a longo prazo?",
+        "back": "A) O fortalecimento da democracia plena e da paz eterna na Europa.. A humilhação de Versalhes foi o combustível emocional para o discurso de Hitler nos anos 20 e 30."
+      },
+      {
+        "front": "Durante a Primeira Guerra Mundial, a entrada dos Estados Unidos (1917) foi decisiva para o desfecho do conflito. O principal motivo para a entrada dos EUA na guerra foi:",
+        "back": "A) O desejo de colonizar a Rússia e o Japão.. Os EUA tinham interesses financeiros na vitória de Inglaterra e França e reagiram aos ataques marítimos alemães."
+      },
+      {
+        "front": "O que foi o estopim da Grande Guerra?",
+        "back": "O assassinato do arquiduque Francisco Ferdinando."
+      },
+      {
+        "front": "Quais foram os dois blocos da Grande Guerra?",
+        "back": "Tríplice Aliança e Tríplice Entente."
+      },
+      {
+        "front": "O que foi a Guerra de Trincheiras?",
+        "back": "Um período de estagnação com soldados vivendo em buracos no chão."
+      },
+      {
+        "front": "Qual foi o resultado da Revolução Bolchevique na guerra?",
+        "back": "A saída da Rússia do conflito."
+      },
+      {
+        "front": "Qual foi o tratado que impôs condições à Alemanha após a guerra?",
+        "back": "O Tratado de Versalhes."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) O fortalecimento da democracia plena e da paz eterna na Europa..",
+        "is_true": true,
+        "explanation": "A humilhação de Versalhes foi o combustível emocional para o discurso de Hitler nos anos 20 e 30."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A ascensão do sentimento nacionalista e do revanchismo alemão, que facilitou a subida do nazismo ao poder..",
+        "is_true": false,
+        "explanation": "Falso! A humilhação de Versalhes foi o combustível emocional para o discurso de Hitler nos anos 20 e 30."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) O desejo de colonizar a Rússia e o Japão..",
+        "is_true": true,
+        "explanation": "Os EUA tinham interesses financeiros na vitória de Inglaterra e França e reagiram aos ataques marítimos alemães."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Os constantes ataques de submarinos alemães a navios mercantes americanos e os laços econômicos com a Entente..",
+        "is_true": false,
+        "explanation": "Falso! Os EUA tinham interesses financeiros na vitória de Inglaterra e França e reagiram aos ataques marítimos alemães."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Tríplice Aliança",
+        "match": "Alemanha, Áustria-Hungria e Itália"
+      },
+      {
+        "concept": "Tríplice Entente",
+        "match": "França, Inglaterra e Rússia"
+      },
+      {
+        "concept": "Guerra de trincheiras",
+        "match": "Tática defensiva que caracterizou a Primeira Guerra"
+      },
+      {
+        "concept": "Tratado de Versalhes",
+        "match": "Acordo que culpou a Alemanha pela guerra"
+      },
+      {
+        "concept": "Atentado de Sarajevo",
+        "match": "Assassinato do arquiduque Francisco Ferdinando"
+      },
+      {
+        "concept": "Armistício de 1918",
+        "match": "Acordo de cessar-fogo que encerrou a Primeira Guerra"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Belle Époque e a Paz Armada",
+        "order": 1
+      },
+      {
+        "event": "2. O Horror das Trincheiras",
+        "order": 2
+      },
+      {
+        "event": "3. 1917: O Ano que o Mundo Girou",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "TECNOLÓGICO",
+      "hint": "O conceito-chave central ou termo associado à aula de A Grande Guerra: Impérios em Colapso (1914-1918)."
+    }
+  }
+}

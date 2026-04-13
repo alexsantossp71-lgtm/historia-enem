@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "fenicios-persas-hebreus",
+    "title": "Fenícios, Persas e Hebreus: Legados do Oriente",
+    "period": "2000 a.C. - 330 a.C.",
+    "tags": [
+      "Alfabeto",
+      "Zoroatrismo",
+      "Monoteísmo",
+      "Talassocracia",
+      "Diáspora"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Esses três povos deram ao Ocidente os pilares da comunicação, da religião e da administração imperial. Sem eles, o mundo moderno não teria o alfabeto ou o conceito de um Deus único.",
+  "theory_content": "Os **Fenícios** (atuais Líbano) foram os grandes navegadores da Antiguidade. Viviam em Cidades-Estado independentes (como Tiro e Sidom) e criaram uma **Talassocracia**: o poder baseado no domínio dos mares. Para facilitar o comércio, inventaram o **Alfabeto Fonético** (com 22 letras), base de quase todas as escritas ocidentais. \n\nOs **Hebreus** (Paletina) foram os criadores do **Monoteísmo Ético**. Diferente de seus vizinhos, acreditavam em um Deus único (Jeová). Sua história é marcada pelo Êxodo (fuga do Egito liderada por Moisés), o Reino de Israel (Davi e Salomão) e a **Diáspora** (dispersão pelo mundo após a invasão romana). \n\nOs **Persas** (Irã) construíram o maior império da época sob Ciro e Dario I. Dividiam o território em **Satripias** (províncias) com governadores vigiados pelos 'olhos e ouvidos do rei'. Criaram estradas reais, moedas únicas (Dárico) e o correio. Sua religião era o **Zoroatrismo**, que introduziu a ideia do Bem contra o Mal (Dualismo). O ENEM costuma cobrar a importância do alfabeto fenício para a democratização da escrita e o impacto do monoteísmo hebraico na cultura cristã e muçulmana posterior.",
+  "sections": [
+    {
+      "title": "1. Fenícios: Os Senhores do Mar e das Letras",
+      "content": "Pense nos fenícios como os 'correios do Mediterrâneo'. Eles trocavam tecidos de seda e corante de púrpura em troca de metais e madeira. Como precisavam de rapidez nas contas e contratos, os hieróglifos eram lentos demais. Criaram o alfabeto onde cada letra era um som. Isso permitiu que mercadores aprendessem a ler rápido, algo que antes era luxo de scribas do governo.",
+      "highlight": "O alfabeto fenício foi a primeira grande democratização da informação da história.",
+      "image": {
+        "url": "assets/images/lessons/fenicios-persas-hebreus/section_0.png",
+        "alt": "1. Fenícios: Os Senhores do Mar e das Letras",
+        "caption": "1. Fenícios: Os Senhores do Mar e das Letras"
+      }
+    },
+    {
+      "title": "2. Hebreus: Da Terra Prometida à Diáspora",
+      "content": "A história hebraica é uma saga de sobrevivência. Foram escravizados no Egito e libertos por Moisés. No Monte Sinai, receberam os 10 Mandamentos — a primeira lei moral que valia para todos, inclusive para o rei. Quando os Romanos destruíram Jerusalém no ano 70 d.C., os judeus espalharam-se pelo mundo (Diáspora), mantendo sua cultura unida pela fé religiosa.",
+      "highlight": "O monoteísmo hebraico é a coluna vertebral da moralidade ocidental contemporânea.",
+      "image": {
+        "url": "assets/images/lessons/fenicios-persas-hebreus/section_1.png",
+        "alt": "2. Hebreus: Da Terra Prometida à Diáspora",
+        "caption": "2. Hebreus: Da Terra Prometida à Diáspora"
+      }
+    },
+    {
+      "title": "3. Persas: A Máquina Administrativa Perfeita",
+      "content": "Dario I foi o maior administrador do mundo antigo. Ele criou as 'Estradas Reais' para que mensagens e exércitos cruzassem o império em dias. Usava espiões reais para garantir que os governadores (sátrapas) não roubassem o povo. Diferente dos assírios cruéis, os persas deixavam os povos conquistados manterem sua língua e religião, desde que pagassem impostos.",
+      "highlight": "O Império Persa provou que a tolerância é mais eficiente que a força bruta para governar.",
+      "image": {
+        "url": "assets/images/lessons/fenicios-persas-hebreus/section_2.png",
+        "alt": "3. Persas: A Máquina Administrativa Perfeita",
+        "caption": "3. Persas: A Máquina Administrativa Perfeita"
+      }
+    },
+    {
+      "title": "4. Zoroatrismo: A Luta entre Luz e Trevas",
+      "content": "Criada por Zoroastro, essa religião pregava a existência de um deus do Bem (Ahura-Mazda) e um do Mal (Ahriman). O homem tinha o livre-arbítrio para escolher de que lado ficar. Essa ideia de juízo final, céu, inferno e anjos influenciou profundamente o Cristianismo e o Islamismo séculos depois.",
+      "highlight": "Os persas deram ao mundo o conceito filosófico de moralidade dividida entre luz e sombra."
+    },
+    {
+      "title": "5. O Comércio e a Moeda na Antiguidade",
+      "content": "Enquanto os fenícios trocavam mercadorias (escambo), os persas criaram o **Dárico**, uma moeda de ouro oficial. Isso facilitou o comércio internacional e permitiu a criação de bancos primitivos. O comércio parou de ser regional e passou a envolver todo o mundo conhecido, da Índia à Grécia, unificando os gostos e os mercados globais da época.",
+      "highlight": "A moeda única foi a ferramenta que integrou a economia global antiga."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Alfabeto Fonético, criado pelos fenícios há mais de 3.000 anos, tinha como principal objetivo prático:",
+      "options": [
+        "A) Facilitar a escrita de poesias e hinos religiosos complexos.",
+        "B) Agilizar o registro de transações comerciais e contratos marítimos através de um sistema simplificado de sons.",
+        "C) Proibir que as classes baixas aprendessem a ler.",
+        "D) Criar um código secreto para esconder as rotas de navios dos piratas ingleses.",
+        "E) Escrever nos muros de todas as cavernas do Egito."
+      ],
+      "correctIndex": 1,
+      "explanation": "A simplicidade do alfabeto era ideal para as necessidades rápidas do comércio internacional fenício.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "O império persa utilizava um sistema administrativo eficiente para controlar vastos territórios. Como eram chamados os governadores das províncias persas e qual era sua função principal?",
+      "options": [
+        "A) Faraós; construir pirâmides para o rei.",
+        "B) Sátrapas; coletar impostos e administrar as leis locais em nome do Imperador.",
+        "C) Escolásticos; ensinar latim e grego para as crianças.",
+        "D) Gladiadores; lutar nos coliseus de Susa e Persépolis.",
+        "E) Monges copistas; traduzir pergaminhos sagrados judaicos."
+      ],
+      "correctIndex": 1,
+      "explanation": "As satrapias permitiam a manutenção do controle imperial central sobre um território imenso e diverso.",
+      "source": "Simulado ENEM / História Geral"
+    },
+    {
+      "question": "Qual foi a principal contribuição dos Fenícios para a escrita?",
+      "options": [
+        "A) Criação do alfabeto hieroglífico",
+        "B) Desenvolvimento do alfabeto fonético",
+        "C) Invenção da escrita cuneiforme",
+        "D) Uso exclusivo de símbolos pictográficos",
+        "E) Criação do sistema de escrita alfabética chinês"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o impacto do monoteísmo hebraico na cultura cristã e muçulmana posterior?",
+      "options": [
+        "A) Introdução do politeísmo",
+        "B) Desenvolvimento do panteísmo",
+        "C) Fortalecimento da crença em um Deus único",
+        "D) Rejeição da ideia de um criador",
+        "E) Criação de uma religião baseada na natureza"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a principal característica do império persa sob Ciro e Dario I?",
+      "options": [
+        "A) Divisão em cidades-estados independentes",
+        "B) Criação de uma talassocracia",
+        "C) Construção de um império baseado em satripias",
+        "D) Uso exclusivo de estradas terrestres",
+        "E) Criação de uma moeda única para cada província"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/fenicios-persas-hebreus/thumb.png",
+    "alt": "Fenícios, Persas e Hebreus: Legados do Oriente",
+    "caption": "Fenícios, Persas e Hebreus: Legados do Oriente"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "Os fenícios, os 'senhores dos mares', desenvolveram uma civilização focada no comércio marítimo que interligou o Mediterrâneo através de uma rede de colônias e feitorias, como Cartago. Sua maior contribuição para a humanidade foi o alfabeto fonético, desenvolvido para agilizar as transações comerciais e simplificar a comunicação escrita, diferenciando-se dos complexos sistemas logográficos egípcios ou cuneiformes. Este alfabeto serviu de base para os sistemas grego e latino, facilitando a democratização da escrita e do conhecimento nas civilizações ocidentais posteriores.",
+        "Os persas, sob governantes como Ciro e Dario, construíram um dos maiores impérios da Antiguidade, notável por sua eficiência administrativa e relativa tolerância religiosa. A divisão do império em Satrapias (províncias) governadas por sátrapas e vigiadas pelos 'olhos e ouvidos do rei' permitiu o controle de vastas e diversas populações. Além disso, a religião Zoroatrista, com sua visão dualista entre o bem e o mal, influenciou profundamente as crenças subsequentes, introduzindo conceitos de julgamento final e a luta moral constante que ressoariam no judaísmo e no cristianismo.",
+        "Os hebreus introduziram o monoteísmo ético, uma mudança revolucionária em relação ao politeísmo predominante na Antiguidade. A crença em um Deus único e transcendente, cuja relação com o povo era baseada em uma aliança moral (os Dez Mandamentos), fundamentou a identidade judaica no tempo e no espaço, sobrevivendo a sucessivas diásporas e perseguições. Para o Enem, é essencial compreender como o legado desses povos — o comércio fenício, a administração persa e a ética hebraica — formou os pilares sobre os quais a cultura mediterrânea e ocidental se ergueu."
+      ],
+      "source": "AMADOU, J. As Civilizações do Oriente Próximo. São Paulo: Cultrix, 1994."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Alfabeto Fonético, criado pelos fenícios há mais de 3.000 anos, tinha como principal objetivo prático:",
+        "back": "A) Facilitar a escrita de poesias e hinos religiosos complexos.. A simplicidade do alfabeto era ideal para as necessidades rápidas do comércio internacional fenício."
+      },
+      {
+        "front": "O império persa utilizava um sistema administrativo eficiente para controlar vastos territórios. Como eram chamados os governadores das províncias persas e qual era sua função principal?",
+        "back": "A) Faraós; construir pirâmides para o rei.. As satrapias permitiam a manutenção do controle imperial central sobre um território imenso e diverso."
+      },
+      {
+        "front": "Quem foram os grandes navegadores da Antiguidade?",
+        "back": "Os Fenícios."
+      },
+      {
+        "front": "O que é Talassocracia?",
+        "back": "Poder baseado no domínio dos mares."
+      },
+      {
+        "front": "Quem criou o Alfabeto Fonético?",
+        "back": "Os Fenícios."
+      },
+      {
+        "front": "Quem criou o Monoteísmo Ético?",
+        "back": "Os Hebreus."
+      },
+      {
+        "front": "O que é Diáspora?",
+        "back": "Dispersão dos Hebreus pelo mundo após a invasão romana."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Faraós; construir pirâmides para o rei.",
+        "is_true": true,
+        "explanation": "As satrapias permitiam a manutenção do controle imperial central sobre um território imenso e diverso."
+      },
+      {
+        "statement": "Agilizar o registro de transações comerciais e contratos marítimos através de um sistema simplificado de sons.",
+        "is_true": false,
+        "explanation": "Mito! A simplicidade do alfabeto era ideal para as necessidades rápidas do comércio internacional fenício."
+      },
+      {
+        "statement": "Facilitar a escrita de poesias e hinos religiosos complexos.",
+        "is_true": true,
+        "explanation": "A simplicidade do alfabeto era ideal para as necessidades rápidas do comércio internacional fenício."
+      },
+      {
+        "statement": "Sátrapas; coletar impostos e administrar as leis locais em nome do Imperador.",
+        "is_true": false,
+        "explanation": "Mito! As satrapias permitiam a manutenção do controle imperial central sobre um território imenso e diverso."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Fenícios",
+        "match": "Povo comerciante criador do alfabeto"
+      },
+      {
+        "concept": "Monoteísmo",
+        "match": "Crença em um único deus, origem hebraica"
+      },
+      {
+        "concept": "Zoroastrismo",
+        "match": "Religião persa baseada no dualismo bem/mal"
+      },
+      {
+        "concept": "Cartago",
+        "match": "Colônia fenícia no norte da África"
+      },
+      {
+        "concept": "Ciro, o Grande",
+        "match": "Fundador do Império Persa Aquemênida"
+      },
+      {
+        "concept": "Diáspora judaica",
+        "match": "Dispersão do povo judeu pelo mundo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Fenícios: Os Senhores do Mar e das Letras",
+        "order": 1
+      },
+      {
+        "event": "2. Hebreus: Da Terra Prometida à Diáspora",
+        "order": 2
+      },
+      {
+        "event": "3. Persas: A Máquina Administrativa Perfeita",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ADMINISTRAÇÃO",
+      "hint": "O conceito-chave central ou termo associado à aula de Fenícios, Persas e Hebreus: Legados do Oriente."
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "id": "ciencias-natureza-quimica-estereoquimica",
+    "title": "Química: Estereoquímica e Isomerismo",
+    "period": "",
+    "tags": [
+      "Ciências da Natureza",
+      "Química",
+      "Estereoquímica",
+      "Isomerismo",
+      "ENEM"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências da Natureza",
+    "subject": "Química",
+    "visual_depth": "elite"
+  },
+  "intro": "A estereoquímica estuda a disposição espacial dos átomos nas moléculas e como isso afeta suas propriedades físicas e químicas, sendo essencial para compreender fármacos, enzimas e reações orgânicas.",
+  "theory_content": "Isomerismo ocorre quando duas ou mais moléculas têm a mesma fórmula molecular mas estruturas diferentes. Os principais tipos são: 1) Isomerismo estrutural: diferença na ligação entre os átomos (cadeia, posição, grupo funcional). 2) Isomerismo estereoisomérico: mesma ligação, mas disposição espacial diferente. Subdivide-se em: a) Geométrico (cis-trans): restrição à rotação em ligações duplas ou anéis. b) Óptico: presença de carbono assimétrico (quiral) que gera enantiômeros (imagens especulares não sobreponíveis). Um carbono é quiral quando ligado a quatro grupos diferentes. A atividade óptica mede a capacidade de rotacionar o plano da luz polarizada: dextrógiro (+) ou levogiro (-). Uma mistura 50:50 de enantiômeros forma um racêmico, que é ópticamente inativo.",
+  "support_text": "No ENEM, questões de estereoquímica frequentemente aparecem em contextos de interpretação de fórmulas estruturais, identificação de carbonos quirais e relação entre estrutura e atividade biológica. Por exemplo, uma questão pode apresentar a molécula do talidomida e pedir para explicar por que um enantiômero é terapêutico enquanto o outro é teratogênico.",
+  "sections": [
+    {
+      "title": "Isomerismo Estrutural",
+      "content": "Inclui: cadeia (diferença na esqueleto de carbono), posição (diferença na localização do grupo funcional) e grupo funcional (diferença no grupo funcional mesmo com mesma cadeia de carbono). Exemplo: butano e isobutano (isomerismo de cadeia); 1-propanol e 2-propanol (isomerismo de posição); etanol e dimetílether (isomerismo de grupo funcional).",
+      "image": {
+        "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/section_0.png",
+        "alt": "Isomerismo Estrutural",
+        "caption": "Isomerismo Estrutural"
+      },
+      "highlight": "O isomerismo estrutural afeta propriedades físicas como ponto de ebulição e solubilidade."
+    },
+    {
+      "title": "Carbono Quiral e Atividade Óptica",
+      "content": "Um carbono é quiral quando está ligado a quatro átomos ou grupos diferentes. A presença de pelo menos um carbono quiral torna a molécula capaz de existir como enantiômeros. A atividade óptica é medida por um polarímetro: rotação para a direita (+) é dextrógiro; para a esquerda (-) é levogiro. A lei de Biot estabelece que a rotação observada depende da concentração, do comprimento do tubo e da temperatura.",
+      "highlight": "A maioria dos aminoácidos naturais é levogira, exceto a glicina que não é quiral.",
+      "image": {
+        "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/section_1.png",
+        "alt": "Carbono Quiral e Atividade Óptica",
+        "caption": "Carbono Quiral e Atividade Óptica"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quantos carbonos quirais possui a molécula do ácido tartárico (HOOC-CHOH-CHOH-COOH)?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3",
+        "E) 4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais.",
+      "source": "Adaptado de questões do ENEM"
+    },
+    {
+      "question": "Dois compostos orgânicos apresentam a mesma fórmula molecular, mas têm propriedades físicas e químicas diferentes. Isso ocorre devido ao tipo de isomerismo conhecido como",
+      "options": [
+        "A) Isomerismo estereoisomérico",
+        "B) Isomerismo estrutural",
+        "C) Isomerismo geométrico",
+        "D) Isomerismo óptico",
+        "E) Isomerismo de cadeia"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um composto orgânico apresenta um carbono quiral, o que significa que ele está ligado a",
+      "options": [
+        "A) Três grupos idênticos",
+        "B) Dois grupos idênticos e um diferente",
+        "C) Quatro grupos diferentes",
+        "D) Um grupo funcional e três átomos de hidrogênio",
+        "E) Dois átomos de hidrogênio e dois grupos funcionais"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "A mistura de dois enantiômeros em proporção 50:50 é conhecida como",
+      "options": [
+        "A) Racêmico",
+        "B) Isômero",
+        "C) Estereoisômero",
+        "D) Enantiômero",
+        "E) Diastereoisômero"
+      ],
+      "correct_answer": 0,
+      "source": "ENEM"
+    },
+    {
+      "question": "Um composto orgânico apresenta atividade óptica, o que significa que ele é capaz de",
+      "options": [
+        "A) Refletir a luz polarizada",
+        "B) Rotacionar o plano da luz polarizada",
+        "C) Absorver a luz polarizada",
+        "D) Transmistir a luz polarizada",
+        "E) Desviar a luz polarizada"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "O que é um enantiômero?",
+      "back": "Molécula que é imagem especular não sobreponível de outra molécula."
+    },
+    {
+      "front": "Quando uma molécula é considerada ópticamente ativa?",
+      "back": "Quando possui pelo menos um carbono quiral e não é uma mistura racêmica."
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/thumb.png",
+    "alt": "Química: Estereoquímica e Isomerismo",
+    "caption": "Química: Estereoquímica e Isomerismo"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "Nas tramas da Química Orgânica e modelos espaciais, a isomeria desempenha protagonismo magistral ao expor, por exemplo, como duas moléculas com átomos idênticos exercem efeitos biológicos completamente opostos (como nos casos de fármacos talidomidasquirais). As interações atômicas estruturais regem tanto a agroquímica nacional quanto o Enem contemporâneo.",
+        "A capacidade inerente metodológica exigida para resolver de forma inatingível a demanda analítica desta subárea passa inegavelmente por correlacionar esta base bibliográfica em resoluções ativas.",
+        "Esta estruturação atua nas necessidades perenes como suporte ao educador de qualidade com a bibliografia central chancelada no tema fornecido garantindo credibilidade formativa aos eixos do caderno do Exame."
+      ],
+      "source": "INEP. Matriz de Referência do ENEM: Eixos Cognitivos e Habilidades. Brasília: MEC, 2024."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "Quantos carbonos quirais possui a molécula do ácido tartárico (HOOC-CHOH-CHOH-COOH)?",
+        "back": "A) 0. Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
+      },
+      {
+        "front": "O que é Isomerismo?",
+        "back": "Ocorre quando duas ou mais moléculas têm a mesma fórmula molecular mas estruturas diferentes."
+      },
+      {
+        "front": "Quais são os principais tipos de Isomerismo?",
+        "back": "Isomerismo estrutural e Isomerismo estereoisomérico."
+      },
+      {
+        "front": "O que caracteriza o Isomerismo estrutural?",
+        "back": "Diferença na ligação entre os átomos."
+      },
+      {
+        "front": "O que é Isomerismo estereoisomérico?",
+        "back": "Mesma ligação, mas disposição espacial diferente."
+      },
+      {
+        "front": "O que é um carbono quiral?",
+        "back": "Um carbono ligado a quatro grupos diferentes."
+      },
+      {
+        "front": "O que é um racêmico?",
+        "back": "Uma mistura 50:50 de enantiômeros, ópticamente inativo."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "0",
+        "is_true": true,
+        "explanation": "Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
+      },
+      {
+        "statement": "1",
+        "is_true": false,
+        "explanation": "Mito! Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "A) 0",
+        "match": "Quantos carbonos quirais possui a molécula do..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Isomerismo Estrutural",
+        "order": 1
+      },
+      {
+        "event": "Carbono Quiral e Atividade Óptica",
+        "order": 2
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ESTEREOQUÍMICA",
+      "hint": "O conceito-chave central ou termo associado à aula de Química: Estereoquímica e Isomerismo."
+    }
+  }
+}

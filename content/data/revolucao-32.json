@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "id": "revolucao-32",
+    "title": "Revolução de 1932: O Levante Paulista",
+    "period": "1932",
+    "tags": [
+      "São Paulo",
+      "Vargas",
+      "MMDC",
+      "Constituição",
+      "9 de Julho"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "A Revolução de 1932 foi o choque frontal entre o orgulho ferido de São Paulo e o poder crescente de Getúlio Vargas. São Paulo pegou em armas para exigir de volta a democracia e a sua liderança política.",
+  "theory_content": "Após a Revolução de 1930, Getúlio Vargas governava o Brasil por meio de decretos, sem uma Constituição e sem um Parlamento. São Paulo, a elite cafeeira 'perdedora' de 1930, estava profundamente incomodada com a nomeação de interventores 'estrangeiros' (de fora do estado) por Vargas. O estopim para a revolta armada foi o assassinato de quatro estudantes (Martins, Miragaia, Dráusio e Camargo) durante uma manifestação contra Getúlio, dando origem ao movimento **MMDC**. Em **9 de julho de 1932**, São Paulo iniciou a guerra civil, mobilizando milhares de voluntários e usando trens blindados e aviões 'Vermelhinhos'. \n\nOs paulistas esperavam o apoio de Minas Gerais e do Rio Grande do Sul, mas foram isolados pelas tropas de Vargas. Durante três meses, São Paulo resistiu bravamente, mas a falta de recursos e o bloqueio naval levaram à rendição militar paulista em outubro. No entanto, Getúlio Vargas foi esperto: percebeu que não poderia governar o Brasil com São Paulo (o motor econômico do país) contra ele. Ele anistiou os rebeldes e convocou a **Assembleia Nacional Constituinte**, que daria ao país a democrática Constituição de 1934. Assim, São Paulo perdeu no campo de batalha, mas ganhou no campo das ideias políticas. O ENEM costuma cobrar as motivações das elites paulistas e o papel da propaganda na mobilização da população civil de São Paulo (o famoso cartaz 'Você tem um dever a cumprir').",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o significado do MMDC. O ENEM costuma cobrar a transição da derrota militar paulista para a vitória política constitucional. Entenda que a revolta foi liderada pela elite, mas contou com enorme apoio popular e de classe média em São Paulo. Saiba que a Constituição de 1934 foi a primeira a garantir o voto feminino e as leis trabalhistas no Brasil.",
+  "sections": [
+    {
+      "title": "1. O Interventor 'Forasteiro' e a Fúria Paulista",
+      "content": "Para humilhar São Paulo após 1930, Vargas nomeou o coronel João Alberto (pernambucano) como interventor do estado. Para os barões do café e os industriais de SP, isso era um insulto inaceitável. Eles exigiam um interventor paulista e civil. O ódio ao centralismo de Vargas crescia nas universidades e nos clubes de elite, fervendo até o derramamento de sangue.",
+      "highlight": "São Paulo via-se como uma locomotiva puxando 20 vagões vazios e desprezados.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-32/section_0.png",
+        "alt": "1. O Interventor 'Forasteiro' e a Fúria Paulista",
+        "caption": "1. O Interventor 'Forasteiro' e a Fúria Paulista"
+      }
+    },
+    {
+      "title": "2. MMDC: O Sangue que Batizou a Revolução",
+      "content": "Em 23 de maio de 1932, uma multidão tentou invadir uma sede do governo em SP. A polícia fuzilou quatro estudantes: Martins, Miragaia, Dráusio e Camargo. Suas iniciais (MMDC) viraram a sigla de uma organização secreta armada. A partir dali, a revolta não era mais apenas política; era uma questão de honra paulista para vingar seus jovens mortos pela ditadura de Vargas.",
+      "highlight": "O MMDC foi o grito de guerra que uniu estudantes, operários e empresários em SP.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-32/section_1.png",
+        "alt": "2. MMDC: O Sangue que Batizou a Revolução",
+        "caption": "2. MMDC: O Sangue que Batizou a Revolução"
+      }
+    },
+    {
+      "title": "3. O 9 de Julho e os Voluntários da Pátria",
+      "content": "A mobilização santista e paulistana foi total. Mulheres doavam joias ('Ouro para o bem de São Paulo') e homens de todas as classes alistavam-se para lutar nas trincheiras contra o resto do Brasil. Como o exército nacional estava com Vargas, os paulistas tiveram que improvisar: criaram tanques com tratores e transformaram fábricas em indústrias de munição. Foi o maior esforço de guerra interna do Brasil.",
+      "highlight": "Em 1932, São Paulo foi um país independente em guerra contra o seu próprio governo central.",
+      "image": {
+        "url": "assets/images/lessons/revolucao-32/section_2.png",
+        "alt": "3. O 9 de Julho e os Voluntários da Pátria",
+        "caption": "3. O 9 de Julho e os Voluntários da Pátria"
+      }
+    },
+    {
+      "title": "4. O Isolamento Militar e a Rendição",
+      "content": "A estratégia paulista dependia de revoltas simultâneas em Minas e no Rio Grande do Sul. Mas Vargas comprou as elites desses estados com promessas de poder. São Paulo ficou sozinha. A Marinha brasileira bloqueou o Porto de Santos, cortando toda a comida e combustível. Em outubro, vendo que a resistência levaria ao massacre de civis, os generais de SP assinaram a rendição honrosa.",
+      "highlight": "São Paulo caiu de joelhos diante do poder central, mas com o queixo erguido."
+    },
+    {
+      "title": "5. A Constituição de 1934: A Vitória Adiada",
+      "content": "Vargas percebeu que silenciar São Paulo pela força não resolveria o problema do Brasil. Para pacificar o país, ele cedeu à principal exigência paulista: uma nova Constituição. A carta de 1934 foi avançadíssima, trazendo o voto secreto, o voto feminino e a criação da Justiça do Trabalho. São Paulo provou que, mesmo perdendo a guerra, era impossível governar o Brasil ignorando a força da lei.",
+      "highlight": "A Constituição de 1934 foi o armistício legal que garantiu a paz nacional."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A sigla MMDC tornou-se o símbolo da Revolução Constitucionalista de 1932. O que ela representava?",
+      "options": [
+        "A) Movimento Monarquista pela Democracia Cristã.",
+        "B) As iniciais de quatro estudantes paulistas mortos em um conflito contra as forças de Vargas.",
+        "C) Uma receita de pão de queijo mineiro usada pelos espiões.",
+        "D) Máquinas Metalúrgicas de Defesa Civil.",
+        "E) Mulheres Mobilizadas pelo Direito Constitucional."
+      ],
+      "correctIndex": 1,
+      "explanation": "O assassinato de Martins, Miragaia, Dráusio e Camargo foi o estopim moral para o levante armado de São Paulo.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Embora derrotada militarmente, São Paulo obteve uma conquista política fundamental após a revolução de 1932. Qual foi ela?",
+      "options": [
+        "A) O direito de São Paulo ser a capital do Brasil para sempre.",
+        "B) A convocação de uma Assembleia Nacional Constituinte que elaborou a Constituição de 1934.",
+        "C) O fim de todas as fazendas de café do mundo.",
+        "D) A proibição de gaúchos entrarem no estado por 50 anos.",
+        "E) O cancelamento de todos os impostos de importação para as indústrias santistas."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vargas entendeu que precisava dar uma base legal ao seu governo para acalmar os ânimos paulistas.",
+      "source": "Simulado ENEM / Era Vargas"
+    },
+    {
+      "question": "Qual foi o evento que desencadeou a Revolta Constitucionalista de 1932 em São Paulo?",
+      "options": [
+        "A) A nomeação de interventores 'estrangeiros' por Getúlio Vargas",
+        "B) O assassinato de quatro estudantes durante uma manifestação contra Getúlio",
+        "C) A convocação da Assembleia Nacional Constituinte",
+        "D) A promulgação da Constituição de 1934",
+        "E) A criação do movimento MMDC"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o resultado da Revolta Constitucionalista de 1932 em termos de governança do país?",
+      "options": [
+        "A) Getúlio Vargas foi deposto e um novo governo foi estabelecido",
+        "B) São Paulo se tornou um estado independente",
+        "C) A Assembleia Nacional Constituinte foi convocada, resultando na Constituição de 1934",
+        "D) O Brasil se tornou uma monarquia",
+        "E) O país foi dividido em duas repúblicas"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi a estratégia de Getúlio Vargas após a derrota militar de São Paulo em 1932?",
+      "options": [
+        "A) Executar os líderes da revolta e impor uma ditadura",
+        "B) Anistiar os rebeldes e convocar a Assembleia Nacional Constituinte",
+        "C) Estabelecer um governo militar em São Paulo",
+        "D) Promover a industrialização do país",
+        "E) Realizar eleições presidenciais imediatas"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/revolucao-32/thumb.png",
+    "alt": "Revolução de 1932: O Levante Paulista",
+    "caption": "Revolução de 1932: O Levante Paulista"
+  },
+  "support_texts": [
+    {
+      "source": "FAUSTO, Boris. A Revolução de 1930: Historiografia e História. Brasiliense, 1997.",
+      "paragraphs": [
+        "A Revolução Constitucionalista de 1932 foi o esforço da oligarquia decadente paulista e de vastos setores da classe média intelectualizada do PRP para resgatar o protagonismo político perdido após a Revolução Varguista de 1930. Demandavam uma nova Constituição, o fim dos interventores militares federais e a restauração da autonomia administrativa do estado de São Paulo.",
+        "Valendo-se da mobilização de milhares de universitários civis engajados ideologicamente à bandeira MMDC e utilizando-se fortemente do ufanismo belicista anti-centralista frente à nação, iniciaram as batalhas armadas isoladamente sendo subsequentemente massacrados logisticamente pelo amplo poderio militar ditatorial dos exércitos apoiadores de Getúlio Vargas.",
+        "O legado de '32 e sua incidência didática (recorrente no Enem) expõem que seu término trouxe a consolidação hegemônica getulista. De modo paradoxal contudo, obteve sucesso institucional político indireto – Vargas vitoriosamente esmagou os rebeldes militares, no entanto, para não fustigar permanentemente o poderoso empresariado bandeirante, promulgou concomitantemente as regras eleitorais consagradas nacionalmente à Assembleia de 1934."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A sigla MMDC tornou-se o símbolo da Revolução Constitucionalista de 1932. O que ela representava?",
+        "back": "A) Movimento Monarquista pela Democracia Cristã.. O assassinato de Martins, Miragaia, Dráusio e Camargo foi o estopim moral para o levante armado de São Paulo."
+      },
+      {
+        "front": "Embora derrotada militarmente, São Paulo obteve uma conquista política fundamental após a revolução de 1932. Qual foi ela?",
+        "back": "A) O direito de São Paulo ser a capital do Brasil para sempre.. Vargas entendeu que precisava dar uma base legal ao seu governo para acalmar os ânimos paulistas."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Movimento Monarquista pela Democracia Cristã..",
+        "is_true": true,
+        "explanation": "O assassinato de Martins, Miragaia, Dráusio e Camargo foi o estopim moral para o levante armado de São Paulo."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) As iniciais de quatro estudantes paulistas mortos em um conflito contra as forças de Vargas..",
+        "is_true": false,
+        "explanation": "Falso! O assassinato de Martins, Miragaia, Dráusio e Camargo foi o estopim moral para o levante armado de São Paulo."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) O direito de São Paulo ser a capital do Brasil para sempre..",
+        "is_true": true,
+        "explanation": "Vargas entendeu que precisava dar uma base legal ao seu governo para acalmar os ânimos paulistas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) A convocação de uma Assembleia Nacional Constituinte que elaborou a Constituição de 1934..",
+        "is_true": false,
+        "explanation": "Falso! Vargas entendeu que precisava dar uma base legal ao seu governo para acalmar os ânimos paulistas."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "O Interventor 'Forasteiro' e a Fúria ...",
+        "match": "Para humilhar São Paulo após 1930, Vargas nomeou o coronel João Alberto (pern..."
+      },
+      {
+        "concept": "MMDC: O Sangue que Batizou a Revolução",
+        "match": "Em 23 de maio de 1932, uma multidão tentou invadir uma sede do governo em SP"
+      },
+      {
+        "concept": "O 9 de Julho e os Voluntários da Pátria",
+        "match": "A mobilização santista e paulistana foi total"
+      },
+      {
+        "concept": "O Isolamento Militar e a Rendição",
+        "match": "A estratégia paulista dependia de revoltas simultâneas em Minas e no Rio Gran..."
+      },
+      {
+        "concept": "A Constituição de 1934: A Vitória Adiada",
+        "match": "Vargas percebeu que silenciar São Paulo pela força não resolveria o problema ..."
+      },
+      {
+        "concept": "São Paulo",
+        "match": "São Paulo, a elite cafeeira 'perdedora' de 1930, estava profundamente incomod..."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Interventor 'Forasteiro' e a Fúria Paulista",
+        "order": 1
+      },
+      {
+        "event": "2. MMDC: O Sangue que Batizou a Revolução",
+        "order": 2
+      },
+      {
+        "event": "3. O 9 de Julho e os Voluntários da Pátria",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "DEMOCRACIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Revolução de 1932: O Levante Paulista."
+    }
+  }
+}

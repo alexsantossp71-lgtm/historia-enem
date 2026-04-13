@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "id": "iluminismo",
+    "title": "Iluminismo: A Razão contra as Trevas",
+    "period": "Século XVIII",
+    "tags": [
+      "Razão",
+      "Liberalismo",
+      "Montesquieu",
+      "Rousseau",
+      "Voltaire"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "Filosofia e História",
+    "visual_depth": "elite"
+  },
+  "intro": "O Iluminismo foi o abalo sísmico que destruiu o Antigo Regime. Ele colocou a razão humana acima da fé e da tradição, definindo que o poder emana do povo e não de Deus.",
+  "theory_content": "O **Iluminismo** (ou Ilustração) foi um movimento intelectual europeu que atingiu seu auge no século XVIII. Sua base era a crença no poder da **Razão** para libertar a humanidade da ignorância e do fanatismo religioso. Os iluministas atacavam o **Absolutismo Monárquico**, o Mercantilismo e a influência política da Igreja Católica. Eles propunham um mundo baseado na liberdade individual, na igualdade jurídica e no direito à propriedade privada. \n\nOs principais pilares teóricos foram construídos por gigantes do pensamento: **Montesquieu** propôs a divisão do poder em três esferas independentes (Executivo, Legislativo e Judiciário) para evitar a tirania; **Voltaire** foi o defensor feroz da liberdade de expressão e da tolerância religiosa, combatendo o mofo intelectual da época; **Rousseau** defendeu o 'Contrato Social', onde a vontade geral do povo é a única fonte legítima de poder; e **Adam Smith** (Liberalismo Econômico) pregou a 'mão invisível' do mercado e o fim do controle estatal sobre a economia. A disseminação dessas ideias foi feita através da **Enciclopédia** de Diderot e D'Alembert, uma obra monumental que buscava reunir todo o saber humano sob a luz da ciência. As ideias iluministas inspiraram as Independências das Américas, a Revolução Francesa e as Revoltas Separatistas no Brasil, mudando para sempre o curso da história ocidental.",
+  "sections": [
+    {
+      "title": "1. Sapere Aude: Atreva-se a Saber",
+      "content": "O filósofo Immanuel Kant resumiu o iluminismo no lema 'Ouse Saber'. Era o fim da infância da humanidade. O homem não deveria mais aceitar ordens de um rei ou de um padre apenas por tradição, mas deveria usar seu próprio intelecto para julgar o que era certo e o que era errado. A luz da razão era a única cura para a cegueira do dogma medieval.",
+      "highlight": "O iluminismo foi a maioridade intelectual da humanidade.",
+      "image": {
+        "url": "assets/images/lessons/iluminismo/section_0.png",
+        "alt": "1. Sapere Aude: Atreva-se a Saber",
+        "caption": "1. Sapere Aude: Atreva-se a Saber"
+      }
+    },
+    {
+      "title": "2. Montesquieu e a Divisão dos Poderes",
+      "content": "Para Montesquieu, todo homem que tem poder sente a tentação de abusar dele. Por isso, 'o poder deve frear o poder'. Sua ideia de tripartição (Executivo, Legislativo e Judiciário) é a base de quase todas as democracias atuais. Se o Rei faz as leis, executa as leis e julga quem desrespeita as leis, ele é um tirano. A divisão garante que ninguém seja maior que a Lei.",
+      "highlight": "Montesquieu criou as mordaças legais necessárias para conter a tirania.",
+      "image": {
+        "url": "assets/images/lessons/iluminismo/section_1.png",
+        "alt": "2. Montesquieu e a Divisão dos Poderes",
+        "caption": "2. Montesquieu e a Divisão dos Poderes"
+      }
+    },
+    {
+      "title": "3. Rousseau e a Vontade Geral",
+      "content": "Diferente de outros iluministas que focavam na elite, Jean-Jacques Rousseau focava no povo. Para ele, o homem nasce bom, mas a sociedade o corrompe (o mito do 'bom selvagem'). No Contrato Social, o povo é o verdadeiro soberano, e o governo é apenas um funcionário do povo. Essa ideia alimentou o lado mais radical da Revolução Francesa e as democracias modernas.",
+      "highlight": "Rousseau nos ensinou que toda autoridade política nasce do consentimento do povo.",
+      "image": {
+        "url": "assets/images/lessons/iluminismo/section_2.png",
+        "alt": "3. Rousseau e a Vontade Geral",
+        "caption": "3. Rousseau e a Vontade Geral"
+      }
+    },
+    {
+      "title": "4. Adam Smith e o Laissez-faire",
+      "content": "Na economia, o misticismo do Rei que controlava preços foi substituído pela lei da oferta e procura. Adam Smith pregava que se cada um buscasse sua própria riqueza individual, uma 'mão invisível' acabaria gerando prosperidade para toda a sociedade. Foi o fim do Mercantilismo e do monopólio comercial, permitindo que a burguesia acumulasse o capital necessário para as revoluções industriais.",
+      "highlight": "Adam Smith deu à burguesia a justificativa teórica para o livre mercado."
+    },
+    {
+      "title": "5. Despotismo Esclarecido no Brasil",
+      "content": "No Brasil Colonial, o exemplo mais claro foi o Marquês de Pombal. Ele usou a razão iluminista para centralizar a administração de Portugal, expulsou os jesuítas (que tinham muito poder sobre a educação) e criou companhias de comércio. Foi um iluminista no método (razão e ciência), mas um absolutista na política (manteve o poder total do Rei).",
+      "highlight": "O despotismo esclarecido foi o uso da luz da razão para manter o brilho do trono absoluto."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A tripartição do poder em Executivo, Legislativo e Judiciário, proposta por Montesquieu, tem como objetivo fundamental:",
+      "options": [
+        "A) Garantir que o Rei tenha três coroas diferentes para usar cada dia da semana.",
+        "B) Impedir a concentração de poder nas mãos de um único indivíduo ou grupo, permitindo o equilíbrio e a mútua fiscalização entre as esferas.",
+        "C) Proibir que o povo discuta política nas calçadas das cidades.",
+        "D) Unificar todas as leis do mundo sob o comando da Igreja Católica.",
+        "E) Declarar que os militares são os únicos que podem julgar crimes de corrupção."
+      ],
+      "correctIndex": 1,
+      "explanation": "A divisão de poderes é a maior garantia contra o arbítrio e a ditadura absoluta.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "O pensamento iluminista de Adam Smith ficou conhecido por defender a 'não intervenção do Estado na economia'. Qual termo francês resumia essa filosofia?",
+      "options": [
+        "A) Laissez-faire (Deixai fazer).",
+        "B) Déjà-vu (Já visto antes).",
+        "C) Tour de France (Giro da França).",
+        "D) Voilà (Pronto).",
+        "E) État c'est moi (O Estado sou eu)."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laissez-faire, laissez-passer era o lema da liberdade econômica do século XVIII.",
+      "source": "Simulado ENEM / Economia"
+    },
+    {
+      "question": "Qual foi o principal objetivo do movimento Iluminista no século XVIII?",
+      "options": [
+        "A) Estabelecer uma nova ordem religiosa",
+        "B) Promover a expansão colonial europeia",
+        "C) Libertar a humanidade da ignorância e do fanatismo religioso",
+        "D) Fortalecer o Absolutismo Monárquico",
+        "E) Reduzir a influência da Igreja Católica apenas na política"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Quem propôs a divisão do poder em três esferas independentes para evitar a tirania?",
+      "options": [
+        "A) Voltaire",
+        "B) Rousseau",
+        "C) Adam Smith",
+        "D) Montesquieu",
+        "E) Diderot"
+      ],
+      "correct_answer": 3,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o papel da Enciclopédia de Diderot e D'Alembert no movimento Iluminista?",
+      "options": [
+        "A) Combater a liberdade de expressão",
+        "B) Promover a expansão colonial",
+        "C) Reunir todo o saber humano sob a luz da ciência",
+        "D) Fortalecer o controle estatal sobre a economia",
+        "E) Reduzir a influência da Igreja Católica apenas na sociedade"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/iluminismo/thumb.png",
+    "alt": "Iluminismo: A Razão contra as Trevas",
+    "caption": "Iluminismo: A Razão contra as Trevas"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O Iluminismo, ou o Século das Luzes, foi um movimento intelectual que elegeu a Razão como a única ferramenta capaz de libertar o homem das 'trevas' da ignorância e da superstição religiosa. Immanuel Kant, em seu ensaio 'O que é o Esclarecimento?', definiu o movimento como a saída do homem de sua menoridade intelectual. Os iluministas atacavam frontalmente os pilares do Antigo Regime: o absolutismo monárquico, os privilégios da nobreza e o controle da Igreja sobre a educação e a vida pública.",
+        "Os filósofos como Montesquieu (tripartição dos poderes), Rousseau (contrato social e soberania popular) e Voltaire (liberdade de expressão) forneceram o arcabouço teórico para as revoluções liberais que redesenhariam o mapa político mundial. Na economia, Adam Smith criticava o mercantilismo estatal, propondo a liberdade de mercado (liberalismo econômico) como o caminho para o progresso das nações. Foi um período de crença inabalável no progresso científico como motor para a felicidade humana.",
+        "O Despotismo Esclarecido foi a tentativa de alguns monarcas europeus de conciliar a autoridade real com as reformas iluministas, buscando modernizar seus estados sem abrir mão do poder. No entanto, o legado mais duradouro do iluminismo foi a Declaração dos Direitos do Homem e do Cidadão, que estabeleceu que todos os homens nascem livres e iguais em direitos. Para o Enem, é essencial entender o Iluminismo como a base ideológica da democracia moderna e dos direitos humanos contemporâneos."
+      ],
+      "source": "KANT, Immanuel. Resposta à pergunta: Que é o Esclarecimento? In: Textos Seletos. Petrópolis: Vozes, 1985."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A tripartição do poder em Executivo, Legislativo e Judiciário, proposta por Montesquieu, tem como objetivo fundamental:",
+        "back": "A) Garantir que o Rei tenha três coroas diferentes para usar cada dia da semana.. A divisão de poderes é a maior garantia contra o arbítrio e a ditadura absoluta."
+      },
+      {
+        "front": "O pensamento iluminista de Adam Smith ficou conhecido por defender a 'não intervenção do Estado na economia'. Qual termo francês resumia essa filosofia?",
+        "back": "A) Laissez-faire (Deixai fazer).. Laissez-faire, laissez-passer era o lema da liberdade econômica do século XVIII."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Garantir que o Rei tenha três coroas diferentes para usar cada dia da semana.",
+        "is_true": true,
+        "explanation": "A divisão de poderes é a maior garantia contra o arbítrio e a ditadura absoluta."
+      },
+      {
+        "statement": "Impedir a concentração de poder nas mãos de um único indivíduo ou grupo, permitindo o equilíbrio e a mútua fiscalização entre as esferas.",
+        "is_true": false,
+        "explanation": "Mito! A divisão de poderes é a maior garantia contra o arbítrio e a ditadura absoluta."
+      },
+      {
+        "statement": "Laissez-faire (Deixai fazer).",
+        "is_true": true,
+        "explanation": "Laissez-faire, laissez-passer era o lema da liberdade econômica do século XVIII."
+      },
+      {
+        "statement": "Déjà-vu (Já visto antes).",
+        "is_true": false,
+        "explanation": "Mito! Laissez-faire, laissez-passer era o lema da liberdade econômica do século XVIII."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Razão",
+        "match": "Principal instrumento iluminista de conhecimento"
+      },
+      {
+        "concept": "Montesquieu",
+        "match": "Criador da teoria da separação dos poderes"
+      },
+      {
+        "concept": "Voltaire",
+        "match": "Iluminista que criticou a Igreja e o fanatismo"
+      },
+      {
+        "concept": "Rousseau",
+        "match": "Filósofo do contrato social e soberania popular"
+      },
+      {
+        "concept": "Enciclopédia",
+        "match": "Grande obra que reuniu o conhecimento iluminista"
+      },
+      {
+        "concept": "Despotismo esclarecido",
+        "match": "Monarquia influenciada pelo Iluminismo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Sapere Aude: Atreva-se a Saber",
+        "order": 1
+      },
+      {
+        "event": "2. Montesquieu e a Divisão dos Poderes",
+        "order": 2
+      },
+      {
+        "event": "3. Rousseau e a Vontade Geral",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "ILUMINISMO",
+      "hint": "O conceito-chave central ou termo associado à aula de Iluminismo: A Razão contra as Trevas."
+    }
+  }
+}

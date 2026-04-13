@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "reinos-africa",
+    "title": "Grandes Reinos da África: Gana, Mali e Songai",
+    "period": "Séculos IV - XVI",
+    "tags": [
+      "Mali",
+      "Mansa Musa",
+      "Timbuktu",
+      "Griots",
+      "Ouro"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "Longe do mito do continente primitivo, a África abrigou impérios mais ricos e cultos que muitos reinos europeus. Timbuktu era a Harvard do deserto.",
+  "theory_content": "Os reinos de **Gana, Mali e Songai** floresceram na região do Sahel africano graças ao controle das rotas comerciais transarianas de **Ouro e Sal**. O Império de Gana ('Terra do Ouro') foi o primeiro a centralizar o poder através da taxação do comércio. O seu sucessor, o Império do **Mali**, atingiu o auge com **Mansa Musa**, que realizou uma peregrinação a Meca tão luxuosa que o valor do ouro caiu no Egito devido à sua generosidade. \n\nMusa transformou a cidade de **Timbuktu** em um centro intelectual global, com a Universidade de Sankoré e milhares de manuscritos sobre astronomia, medicina e direito. O Império **Songai** expandiu ainda mais essas fronteiras, criando uma administração burocrática eficiente até ser desestabilizado por invasões marroquinas. A sociedade era organizada de forma complexa, com a figura dos **Griots** (poetas e historiadores orais) sendo essencial para manter a linhagem e as leis. O ENEM costuma cobrar a valorização das culturas africanas pré-coloniais, a importância do comércio transariano e o papel das cidades de saber na formação da identidade africana islâmica.",
+  "sections": [
+    {
+      "title": "1. Gana: A Primeira Terra do Ouro",
+      "content": "Gana não era o nome do país, mas o título de seu rei ('Senhor do Ouro'). O reino era tão rico que até os cachorros dos reis usavam coleiras de ouro. Eles controlavam o ponto de encontro entre os árabes que traziam sal do norte e os negros que extraíam ouro do sul. Sem minas próprias, Gana enriquecia apenas cobrando impostos de quem passava. Foi o primeiro Estado organizado da África Ocidental com um exército de 200 mil homens.",
+      "highlight": "Gana transformou o pedágio do deserto na fundação de um império.",
+      "image": {
+        "url": "assets/images/lessons/reinos-africa/section_0.png",
+        "alt": "1. Gana: A Primeira Terra do Ouro",
+        "caption": "1. Gana: A Primeira Terra do Ouro"
+      }
+    },
+    {
+      "title": "2. Mansa Musa e o Mali: O Bilionário Peregrino",
+      "content": "Mansa Musa é considerado o homem mais rico que já existiu. Em 1324, ele foi a Meca com uma caravana de 60 mil pessoas e quilos de ouro em cada camelo. Ele deu tanto ouro de presente no Cairo que a inflação durou 10 anos na região. Musa não era apenas rico, era um visionário: trouxe arquitetos e poetas do mundo árabe para construir mesquitas e bibliotecas no Mali, colocando a África no mapa da alta cultura medieval.",
+      "highlight": "Mansa Musa fez o mundo inteiro olhar para a África com admiração e inveja.",
+      "image": {
+        "url": "assets/images/lessons/reinos-africa/section_1.png",
+        "alt": "2. Mansa Musa e o Mali: O Bilionário Peregrino",
+        "caption": "2. Mansa Musa e o Mali: O Bilionário Peregrino"
+      }
+    },
+    {
+      "title": "3. Timbuktu: A Capital do Conhecimento",
+      "content": "Esqueça a ideia de que a África era analfabeta. Em Timbuktu, no século XIV, um livro valia mais que o seu peso em ouro. A Universidade de Sankoré tinha 25 mil alunos de todo o mundo. Eles estudavam medicina (cirurgias de catarata eram comuns), direito e geografia. Quando os europeus chegaram, ficaram chocados ao encontrar bibliotecas privadas no deserto com milhares de manuscritos escritos por negros africanos séculos antes.",
+      "highlight": "Timbuktu foi a biblioteca do mundo quando a Europa mal sabia escrever.",
+      "image": {
+        "url": "assets/images/lessons/reinos-africa/section_2.png",
+        "alt": "3. Timbuktu: A Capital do Conhecimento",
+        "caption": "3. Timbuktu: A Capital do Conhecimento"
+      }
+    },
+    {
+      "title": "4. Griots: Os Guardiões da Palavra",
+      "content": "Como guardar a história sem papel para todos? Através dos Griots. Eles eram os conselheiros dos reis e os contadores de histórias do povo. Um Griot decorava a linhagem de mil anos de uma família. Eles diziam: 'Quando um ancião morre na África, é uma biblioteca que se queima'. A palavra falada era sagrada e tinha força de lei. Até hoje, a cultura brasileira herda essa tradição oral nas rodas de samba e de capoeira.",
+      "highlight": "O Griot era a memória viva que impedia o passado de morrer."
+    },
+    {
+      "title": "5. O Legado Africano: Muito Além da Escravidão",
+      "content": "O ENEM quer que você saiba que a África não começou na escravidão. Os africanos trazidos para o Brasil eram engenheiros, mineradores, agricultores e sábios que conheciam técnicas de metalurgia e irrigação superiores às dos portugueses. Estudar os reinos de Mali e Gana é reconhecer que a base da riqueza do Brasil e do mundo foi construída por pessoas que vinham de civilizações brilhantes e complexas.",
+      "highlight": "A África deu ao mundo o ouro, o sal e a inteligência que construíram o Brasil."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A cidade de Timbuktu, no Império do Mali (século XIV), tornou-se mundialmente famosa por qual motivo principal?",
+      "options": [
+        "A) Ser o único local do mundo onde chovia ouro e prata todos os dias.",
+        "B) Ser um dos maiores centros intelectuais e universitários do mundo, atraindo sábios e estudantes para suas bibliotecas e mesquitas monumentais.",
+        "C) Proibir a entrada de qualquer pessoa que não soubesse nadar no deserto.",
+        "D) Venda imediata de todo o sal do deserto para o governo da China em troca de guarda-chuvas.",
+        "E) O cancelamento de todas as aulas de história por ordem do Imperador de Gana."
+      ],
+      "correctIndex": 1,
+      "explanation": "Timbuktu foi o farol do saber na África Ocidental, com centros de estudos avançados em diversas áreas.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "Os 'Griots', figuras fundamentais em diversas sociedades da África Ocidental antiga, exerciam a função social de:",
+      "options": [
+        "A) Guerreiros mercenários que só comiam carne de jacaré.",
+        "B) Poetas e cantores responsáveis pela preservação e transmissão da história, genealogia e tradições orais das suas comunidades.",
+        "C) Proibir o uso de tambores em todas as festas de casamento da tribo.",
+        "D) Venda de todas as cabras da vila para arrecadar dinheiro do Vaticano.",
+        "E) O cancelamento de todas as viagens de barco pelo rio Nilo."
+      ],
+      "correctIndex": 1,
+      "explanation": "A oralidade era o principal meio de registro e os Griots eram os bibliotecários vivos dessas culturas.",
+      "source": "Simulado ENEM / História da África"
+    },
+    {
+      "question": "Qual foi o principal fator que contribuiu para o florescimento dos reinos de Gana, Mali e Songai na região do Sahel africano?",
+      "options": [
+        "A) A agricultura intensiva",
+        "B) O controle das rotas comerciais transarianas de Ouro e Sal",
+        "C) A pesca no rio Nilo",
+        "D) A mineração de diamantes",
+        "E) A criação de gado"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual foi o legado de Mansa Musa, o líder do Império do Mali, em relação à cidade de Timbuktu?",
+      "options": [
+        "A) Ele a destruiu durante uma batalha",
+        "B) Ele a transformou em um centro militar",
+        "C) Ele a converteu em um centro intelectual global",
+        "D) Ele a abandonou devido à seca",
+        "E) Ele a vendeu para os marroquinos"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual era o papel dos Griots na sociedade dos reinos de Gana, Mali e Songai?",
+      "options": [
+        "A) Eram guerreiros responsáveis pela defesa do reino",
+        "B) Eram mercadores que controlavam o comércio de Ouro e Sal",
+        "C) Eram poetas e historiadores orais responsáveis por manter a linhagem e as leis",
+        "D) Eram líderes religiosos que interpretavam o Alcorão",
+        "E) Eram escravos que trabalhavam nas minas de ouro"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/reinos-africa/thumb.png",
+    "alt": "Grandes Reinos da África: Gana, Mali e Songai",
+    "caption": "Grandes Reinos da África: Gana, Mali e Songai"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "Os impérios da savana africana, como Gana, Mali e Songai, foram centros de sofisticação intelectual e econômica muito antes da chegada massiva dos europeus. O controle das rotas comerciais transarianas, que ligavam o ouro do sul ao sal e tecidos do norte, permitiu o surgimento de cidades como Timbuktu, que abrigava universidades e vastas bibliotecas. A figura de Mansa Musa, o imperador do Mali, cujas peregrinações a Meca desestabilizavam o valor do ouro na região pelo volume de suas doações, simboliza a opulência dessas civilizações.",
+        "Diferente da visão eurocêntrica que retrata a África como um continente imutável até a colonização, as sociedades africanas possuíam estruturas políticas dinâmicas. Os Griots, contadores de histórias e guardiões da memória, desempenhavam um papel central na preservação das tradições e na legitimação dos governantes através da oralidade. A história africana é marcada por uma profunda integração com o mundo islâmico, ao mesmo tempo que preservava ritos e sistemas de parentesco locais, criando sínteses culturais únicas no mundo pré-moderno.",
+        "Compreender a história da pré-colônia africana é fundamental para o Enem, pois desconstrói o mito da África como um território sem história. O intercâmbio comercial e cultural no Oceano Índico e no Sahel demonstra que o continente estava perfeitamente integrado às redes globais de troca. O estudo dos reinos do Congo e do Benin, por exemplo, revela avanços na metalurgia e nas artes que desafiam as narrativas coloniais que justificavam a escravidão por uma suposta 'missão civilizatória' eurpeia."
+      ],
+      "source": "COSTA E SILVA, Alberto da. A Enxada e a Lança: A África antes dos Portugueses. Rio de Janeiro: Nova Fronteira, 2011."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "A cidade de Timbuktu, no Império do Mali (século XIV), tornou-se mundialmente famosa por qual motivo principal?",
+        "back": "A) Ser o único local do mundo onde chovia ouro e prata todos os dias.. Timbuktu foi o farol do saber na África Ocidental, com centros de estudos avançados em diversas áreas."
+      },
+      {
+        "front": "Os 'Griots', figuras fundamentais em diversas sociedades da África Ocidental antiga, exerciam a função social de:",
+        "back": "A) Guerreiros mercenários que só comiam carne de jacaré.. A oralidade era o principal meio de registro e os Griots eram os bibliotecários vivos dessas culturas."
+      },
+      {
+        "front": "Qual foi o primeiro império a centralizar o poder na região do Sahel africano?",
+        "back": "Gana"
+      },
+      {
+        "front": "Quem foi o líder do Império do Mali que realizou uma peregrinação a Meca?",
+        "back": "Mansa Musa"
+      },
+      {
+        "front": "Qual cidade se tornou um centro intelectual global durante o Império do Mali?",
+        "back": "Timbuktu"
+      },
+      {
+        "front": "Qual foi o império que expandiu as fronteiras do Mali e criou uma administração burocrática eficiente?",
+        "back": "Songai"
+      },
+      {
+        "front": "Qual era o papel dos Griots na sociedade africana pré-colonial?",
+        "back": "Poetas e historiadores orais"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Ser o único local do mundo onde chovia ouro e prata todos os dias..",
+        "is_true": true,
+        "explanation": "Timbuktu foi o farol do saber na África Ocidental, com centros de estudos avançados em diversas áreas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Ser um dos maiores centros intelectuais e universitários do mundo, atraindo sábios e estudantes para suas bibliotecas e mesquitas monumentais..",
+        "is_true": false,
+        "explanation": "Falso! Timbuktu foi o farol do saber na África Ocidental, com centros de estudos avançados em diversas áreas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é correto afirmar que: A) Guerreiros mercenários que só comiam carne de jacaré..",
+        "is_true": true,
+        "explanation": "A oralidade era o principal meio de registro e os Griots eram os bibliotecários vivos dessas culturas."
+      },
+      {
+        "statement": "Verdade ou Mito: Sobre o tema, é historiograficamente aceito que: B) Poetas e cantores responsáveis pela preservação e transmissão da história, genealogia e tradições orais das suas comunidades..",
+        "is_true": false,
+        "explanation": "Falso! A oralidade era o principal meio de registro e os Griots eram os bibliotecários vivos dessas culturas."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Grande Zimbábue",
+        "match": "Cidade de pedra símbolo da civilização africana medieval"
+      },
+      {
+        "concept": "Mali",
+        "match": "Império africano rico em ouro e com cidade de Tombuctu"
+      },
+      {
+        "concept": "Kush / Núbia",
+        "match": "Reino africano que chegou a dominar o Egito"
+      },
+      {
+        "concept": "Swahili",
+        "match": "Civilização costeira africana com séculos de comércio"
+      },
+      {
+        "concept": "Tráfico de escravos",
+        "match": "Sistema que desestabilizou a África por séculos"
+      },
+      {
+        "concept": "Sundjata Keita",
+        "match": "Fundador do Império do Mali no século XIII"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Gana: A Primeira Terra do Ouro",
+        "order": 1
+      },
+      {
+        "event": "2. Mansa Musa e o Mali: O Bilionário Peregrino",
+        "order": 2
+      },
+      {
+        "event": "3. Timbuktu: A Capital do Conhecimento",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "CONTINENTE",
+      "hint": "O conceito-chave central ou termo associado à aula de Grandes Reinos da África: Gana, Mali e Songai."
+    }
+  }
+}

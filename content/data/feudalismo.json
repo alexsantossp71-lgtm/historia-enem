@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "feudalismo",
+    "title": "Idade Média: O Sistema Feudal",
+    "period": "Século V - XV",
+    "tags": [
+      "Feudalismo",
+      "Igreja Católica",
+      "Cruzadas",
+      "Suserania",
+      "Peste Negra"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "visual_depth": "elite"
+  },
+  "intro": "A Idade Média não foi um 'período de trevas'. Foi uma era de intensas disputas de honra, de um poder religioso absoluto e da formação das línguas e nações que hoje compõem o Ocidente.",
+  "theory_content": "O **Feudalismo** nasceu do colapso do Império Romano (476 d.C.) e das invasões bárbaras que forçaram a população a fugir das cidades para o campo em busca de proteção (Ruralização). O sistema baseava-se na posse da terra no **Feudo**, uma unidade econômica autossuficiente e militarmente fortificada. A sociedade era estamental, dividida em três grupos principais: os **Oratores** (Clero, quem reza e dita a moral), os **Bellatores** (Nobreza, quem luta e protege) e os **Laboratores** (Camponeses e Servos, quem trabalha para sustentar todos). \n\nAs relações políticas eram marcadas pela **Suserania e Vassalagem**: um nobre (suserano) doava terra a outro nobre (vassalo) em troca de fidelidade militar e auxílio jurídico. Era um sistema de poder fragmentado, onde os Reis possuíam pouco poder real frente aos grandes senhores feudais. A **Igreja Católica** era a única instituição universal, controlando o pensamento, a arte e a educação sob a ótica do **Teocentrismo** (Deus no centro de Tudo). \n\nA partir do século XI (Baixa Idade Média), o sistema começou a mudar com as **Cruzadas**, expedições militares para retomar a Terra Santa que acabaram reabrindo as rotas comerciais com o Oriente. Isso gerou o Renascimento Comercial e o surgimento da **Burguesia** nas cidades (Burgos). O fim definitivo do feudalismo foi precipitado pela **Crise do Século XIV**, um tripé de horror composto pela Grande Fome, pela Guerra dos Cem Anos e pela devastadora **Peste Negra**, que dizimou um terço da população europeia, desorganizando a produção servil e forçando o nascimento do Estado Moderno e do Capitalismo Mercantil.",
+  "sections": [
+    {
+      "title": "1. Suserania e Vassalagem: Laços de Honra",
+      "content": "A política feudal era um contrato verbal e sagrado entre nobres. O suserano (superior) oferecia o feudo (benefício) ao vassalo (inferior). Em troca, o vassalo jurava apoio militar e presença na corte. Se um rei fosse suserano de muitos vassalos, ele tinha força; se não doasse terras, perdia o controle. Não havia um governo central forte; o poder estava espalhado por milhares de castelos independentes.",
+      "highlight": "Na Idade Média, a palavra de um nobre valia mais que qualquer lei escrita.",
+      "image": {
+        "url": "assets/images/lessons/feudalismo/section_0.png",
+        "alt": "1. Suserania e Vassalagem: Laços de Honra",
+        "caption": "1. Suserania e Vassalagem: Laços de Honra"
+      }
+    },
+    {
+      "title": "2. A Vida no Mansos: O Trabalho Servil",
+      "content": "O feudo era dividido em Manso Senhorial (terras exclusivas do senhor), Manso Servil (onde o servo morava e produzia para si e para o senhor) e Manso Comunal (bosques e pastos comuns). O servo era um camponês que oferecia seu suor em troca de proteção contra bárbaros e piratas. Ele pagava a Talha (metade do que colhia) e a Corveia (trabalhava de graça no campo do senhor alguns dias por semana).",
+      "highlight": "O trabalho era o motor invisível que sustentava o luxo da nobreza guerreira.",
+      "image": {
+        "url": "assets/images/lessons/feudalismo/section_1.png",
+        "alt": "2. A Vida no Mansos: O Trabalho Servil",
+        "caption": "2. A Vida no Mansos: O Trabalho Servil"
+      }
+    },
+    {
+      "title": "3. A Igreja Católica: O Monopólio da Verdade",
+      "content": "Se o nobre era o rei da terra, a Igreja era a rainha das almas. O Papa tinha o poder de excomungar reis, isolando-os politicamente. Os mosteiros eram os únicos lugares onde se preservava o conhecimento clássico (monges copistas), mas a ciência era vista com desconfiança se questionasse as escrituras. A cultura medieval era profundamente simbólica e voltada para a vida após a morte (Estratégia do Medo do Inferno).",
+      "highlight": "A Igreja era o cimento social que unia uma Europa politicamente fragmentada.",
+      "image": {
+        "url": "assets/images/lessons/feudalismo/section_2.png",
+        "alt": "3. A Igreja Católica: O Monopólio da Verdade",
+        "caption": "3. A Igreja Católica: O Monopólio da Verdade"
+      }
+    },
+    {
+      "title": "4. As Cruzadas e o Renascimento das Cidades",
+      "content": "Atendendo ao chamado do Papa Urbano II, milhares de cavaleiros partiram para Jerusalém. Embora tenham fracassado militarmente, as Cruzadas trouxeram especiarias, tecidos e livros do Oriente. Isso estimulou o comércio no Mediterrâneo (liderado por Veneza e Gênova) e permitiu que o camponês fugisse do feudo para vender mercadorias nas feiras urbanas. Era o início do fim da autossuficiência feudal.",
+      "highlight": "As Cruzadas foram a primeira globalização forçada da Idade Média."
+    },
+    {
+      "title": "5. A Peste Negra e o Fim do Mundo",
+      "content": "Em 1347, pulgas de ratos vindas do Oriente trouxeram a Peste Bubônica. Sem higiene e ciência, a doença matou 25 milhões de europeus em cinco anos. A morte não escolhia classe social, o que abalou a fé cega na Igreja e na proteção dos nobres. Com menos gente para trabalhar, os servos sobreviventes passaram a exigir melhores condições, gerando revoltas camponesas sangrentas (Jacqueries) que destruíram a estrutura do feudo.",
+      "highlight": "A peste negra agoniava o corpo medieval e abria espaço para a luz do Renascimento."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O sistema feudal era caracterizado por uma sociedade estamental e politicamente descentralizada. Qual era o principal laço que unia a classe da nobreza guerreira?",
+      "options": [
+        "A) O voto secreto em eleições nacionais organizadas pelo Papa.",
+        "B) A relação de suserania e vassalagem, baseada na doação de terras em troca de fidelidade militar.",
+        "C) O pagamento de salários em ouro para todos os cavaleiros das cidades.",
+        "D) A amizade eterna com os invasores bárbaros vikings.",
+        "E) A proibição de casamentos entre membros de diferentes famílias reais."
+      ],
+      "correctIndex": 1,
+      "explanation": "A vassalagem criava uma rede de dependência mútua entre os senhores feudais.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "A crise do século XIV foi composta por três grandes fatores que desestruturaram a Europa Medieval. Quais foram eles?",
+      "options": [
+        "A) O descobrimento da América, a invenção da Internet e a queda da Lua.",
+        "B) A Peste Negra, a Grande Fome e as crises militares como a Guerra dos Cem Anos.",
+        "C) A volta do Império Romano e o fim da Igreja Católica.",
+        "D) A proibição do Cristianismo e a invasão total da China.",
+        "E) O aumento da produção de alimentos e o fim da pobreza na Europa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Esses três fatores combinados reduziram drasticamente a população e forçaram mudanças na economia servil.",
+      "source": "Simulado ENEM / História Geral"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/feudalismo/thumb.png",
+    "alt": "Idade Média: O Sistema Feudal",
+    "caption": "Idade Média: O Sistema Feudal"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O feudalismo não foi um sistema uniforme em toda a Europa, mas uma resposta descentralizada e agrária ao colapso das estruturas estatais romanas e às invasões do século IX. A base do sistema era o contrato de suserania e vassalagem, uma rede de fidelidade militar entre nobres. Em troca de proteção e da concessão de terras (feudos), o vassalo devia auxílio militar ao suserano. Essa fragmentação do poder político significava que o 'rei' era apenas o primeiro entre pares, possuindo autoridade limitada fora de seus próprios domínios diretos.",
+        "A sociedade feudal era rigidamente estamental, dividida entre 'os que oram' (clero), 'os que lutam' (nobreza) e 'os que trabalham' (camponeses e servos). A Igreja Católica desempenhava o papel de principal força unificadora da cristandade ocidental, detendo o monopólio do conhecimento e ditando as normas morais e sociais. Para o servo, a vida estava ligada à terra por obrigações como a corveia e a talha, em um regime que não era de escravidão total, mas de uma falta de liberdade jurídica e espacial que amarrava o indivíduo ao senhor feudal.",
+        "O renascimento urbano e comercial, a partir do século XI, marcou o início da crise do sistema feudal. O crescimento das cidades (burgos) e o surgimento de uma nova classe de mercadores criaram tensões com os senhores feudais, que viam o comércio como uma ameaça à ordem agrária tradicional. Esse processo, aliado à crise do século XIV (Peste Negra, fome e revoltas camponesas), enfraqueceu os antigos laços de servidão e abriu caminho para a centralização monárquica, transformando o feudalismo no substrato sobre o qual nasceriam os Estados Nacionais Modernos."
+      ],
+      "source": "BLOCH, Marc. A Sociedade Feudal. Lisboa: Edições 70, 1982."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O sistema feudal era caracterizado por uma sociedade estamental e politicamente descentralizada. Qual era o principal laço que unia a classe da nobreza guerreira?",
+        "back": "A) O voto secreto em eleições nacionais organizadas pelo Papa.. A vassalagem criava uma rede de dependência mútua entre os senhores feudais."
+      },
+      {
+        "front": "A crise do século XIV foi composta por três grandes fatores que desestruturaram a Europa Medieval. Quais foram eles?",
+        "back": "A) O descobrimento da América, a invenção da Internet e a queda da Lua.. Esses três fatores combinados reduziram drasticamente a população e forçaram mudanças na economia servil."
+      },
+      {
+        "front": "O que foi o Feudalismo?",
+        "back": "Um sistema baseado na posse da terra no Feudo, uma unidade econômica autossuficiente e militarmente fortificada."
+      },
+      {
+        "front": "Quais eram os três grupos principais da sociedade feudal?",
+        "back": "Os Oratores (Clero), os Bellatores (Nobreza) e os Laboratores (Camponeses e Servos)."
+      },
+      {
+        "front": "O que era a Suserania e Vassalagem?",
+        "back": "Um sistema de relações políticas onde um nobre doava terra a outro nobre em troca de fidelidade militar e auxílio jurídico."
+      },
+      {
+        "front": "Qual foi o evento que precipitou o fim do feudalismo?",
+        "back": "A Crise do Século XIV, composta pela Grande Fome, pela Guerra dos Cem Anos e pela Peste Negra."
+      },
+      {
+        "front": "Qual foi o resultado do fim do feudalismo?",
+        "back": "O nascimento do Estado Moderno e do Capitalismo Mercantil."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O descobrimento da América, a invenção da Internet e a queda da Lua.",
+        "is_true": true,
+        "explanation": "Esses três fatores combinados reduziram drasticamente a população e forçaram mudanças na economia servil."
+      },
+      {
+        "statement": "A Peste Negra, a Grande Fome e as crises militares como a Guerra dos Cem Anos.",
+        "is_true": false,
+        "explanation": "Mito! Esses três fatores combinados reduziram drasticamente a população e forçaram mudanças na economia servil."
+      },
+      {
+        "statement": "A relação de suserania e vassalagem, baseada na doação de terras em troca de fidelidade militar.",
+        "is_true": false,
+        "explanation": "Mito! A vassalagem criava uma rede de dependência mútua entre os senhores feudais."
+      },
+      {
+        "statement": "O voto secreto em eleições nacionais organizadas pelo Papa.",
+        "is_true": true,
+        "explanation": "A vassalagem criava uma rede de dependência mútua entre os senhores feudais."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Feudo",
+        "match": "Terra cedida pelo suserano ao vassalo"
+      },
+      {
+        "concept": "Servidão",
+        "match": "Condição do servo preso à terra do senhor"
+      },
+      {
+        "concept": "Suserano e vassalo",
+        "match": "Relação de proteção e fidelidade feudal"
+      },
+      {
+        "concept": "Clero",
+        "match": "Primeiro estado com poder espiritual na Idade Média"
+      },
+      {
+        "concept": "Cruzadas",
+        "match": "Guerras religiosas para reconquistar a Terra Santa"
+      },
+      {
+        "concept": "Guilds",
+        "match": "Associações de artesãos e comerciantes medievais"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Suserania e Vassalagem: Laços de Honra",
+        "order": 1
+      },
+      {
+        "event": "2. A Vida no Mansos: O Trabalho Servil",
+        "order": 2
+      },
+      {
+        "event": "3. A Igreja Católica: O Monopólio da Verdade",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "RELIGIOSO",
+      "hint": "O conceito-chave central ou termo associado à aula de Idade Média: O Sistema Feudal."
+    }
+  }
+}

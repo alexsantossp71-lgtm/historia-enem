@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "id": "governo-jk",
+    "title": "Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)",
+    "period": "Século XX",
+    "tags": [
+      "JK",
+      "Brasília",
+      "Plano de Metas",
+      "Desenvolvimentismo",
+      "50 anos em 5"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História",
+    "visual_depth": "elite"
+  },
+  "intro": "Juscelino Kubitschek governou com o lema '50 anos em 5'. Seu governo foi o auge do desenvolvimentismo brasileiro, trazendo a indústria automobilística e a construção de uma nova capital no coração do Cerrado.",
+  "theory_content": "O governo de Juscelino Kubitschek (1956-1961) foi marcado por uma estabilidade política rara na época (seguindo o suicídio de Vargas e a crise de 1954). Seu projeto mestre foi o **Plano de Metas**, que focava em cinco setores estratégicos: Energia, Transportes, Indústria de Base, Alimentação e Educação. No entanto, os investimentos reais concentraram-se nos três primeiros. O objetivo era atrair o capital estrangeiro para acelerar a industrialização brasileira, o que permitiu a chegada de multinacionais, como a Volkswagen e a Ford, transformando o Brasil em um país motorizado. \n\nA joia da coroa de JK foi a **Meta Síntese: a construção de Brasília**. Projetada por Oscar Niemeyer e Lúcio Costa, a nova capital buscava o 'interiorismo' — deslocar o eixo do poder do litoral (Rio de Janeiro) para o centro do continente, integrando as regiões Norte e Centro-Oeste. Isso foi feito em tempo recorde (1956-1960) com o suor dos **Candangos**, trabalhadores vindos majoritariamente do Nordeste, que viviam em condições precárias enquanto erguiam os palácios modernistas. \n\nSocialmente, foi o período da 'Bossa Nova' e da conquista do primeiro título mundial de futebol (1958), gerando um clima de euforia e modernidade. Contudo, o custo do desenvolvimento foi alto: para financiar o Plano de Metas, JK emitiu moeda em massa e tomou empréstimos externos, o que gerou um surto inflacionário e um endividamento que seriam herdados pelos governos seguintes e que contribuiriam para a crise política dos anos 60. O ENEM costuma cobrar a contradição entre a 'modernidade de Brasília' e a 'pobreza dos subúrbios', além do impacto ambiental da interiorização rodoviária.",
+  "sections": [
+    {
+      "title": "1. O Plano de Metas e os '50 Anos em 5'",
+      "content": "Juscelino prometeu acelerar o tempo. Seu plano era técnico e ambicioso. Ele acreditava que o Estado deveria dar as condições de infraestrutura (energia e estradas) para que as empresas estrangeiras viessem produzir aqui bens de consumo duráveis (carros, TVs, geladeiras). Isso mudou a face das cidades brasileiras, que começaram a ser desenhadas para os automóveis, abandonando os bondes e as ferrovias.",
+      "highlight": "JK foi o 'Presidente Automóvel', transformando o Brasil em uma sociedade de consumo industrializado.",
+      "image": {
+        "url": "assets/images/lessons/governo-jk/section_0.png",
+        "alt": "1. O Plano de Metas e os '50 Anos em 5'",
+        "caption": "1. O Plano de Metas e os '50 Anos em 5'"
+      }
+    },
+    {
+      "title": "2. Brasília: A Meta Síntese",
+      "content": "Brasília nasceu como um símbolo de modernidade e descontinuidade com o passado colonial do Rio. No meio do nada, surgiu o 'Plano Piloto' com formato de avião (ou cruz). A transferência da capital para o Centro-Oeste tinha fins estratégicos de defesa e geopolítica, buscando forçar a ocupação de terras para o agronegócio futuro. Foi uma das maiores obras de engenharia do século XX mundial.",
+      "highlight": "A construção de Brasília foi o maior símbolo do otimismo desenvolvimentista de JK.",
+      "image": {
+        "url": "assets/images/lessons/governo-jk/section_1.png",
+        "alt": "2. Brasília: A Meta Síntese",
+        "caption": "2. Brasília: A Meta Síntese"
+      }
+    },
+    {
+      "title": "3. Os Candangos e a Luta Invisível",
+      "content": "Quem construiu Brasília não foram os engenheiros heróis, mas os 'Candangos'. Fugindo da seca e da miséria no Nordeste, milhares de migrantes viviam na 'Cidade Livre' (Núcleo Bandeirante) em condições sub-humanas. Massacre de trabalhadores em canteiros de obras foram registrados mas abafados pela propaganda oficial, expondo a ferida social de um desenvolvimento que não chegava para todos.",
+      "highlight": "Os candangos construíram o luxo da capital enquanto viviam em favelas provisórias.",
+      "image": {
+        "url": "assets/images/lessons/governo-jk/section_2.png",
+        "alt": "3. Os Candangos e a Luta Invisível",
+        "caption": "3. Os Candangos e a Luta Invisível"
+      }
+    },
+    {
+      "title": "4. Economia: Crescimento com Inflação",
+      "content": "O Brasil crescia 7% ao ano, mas a conta era paga com inflação. JK rompeu com o FMI (Fundo Monetário Internacional) após este exigir cortes de gastos sociais. Juscelino preferiu manter as obras e imprimir dinheiro, o que agradou as elites industriais mas começou a corroer o salário dos trabalhadores mais pobres no final do seu mandato em 1961.",
+      "highlight": "O desenvolvimentismo de JK gerou estabilidade política ao preço da instabilidade econômica futura."
+    },
+    {
+      "title": "5. O Pós-JK e a Herança Política",
+      "content": "JK saiu do governo como o 'Presidente Sorriso', mas deixou a inflação subindo e o país em dívida. Seu sucessor, Jânio Quadros, herdou uma economia em frangalhos e um Congresso Nacional dividido entre partidários do desenvolvimento desenfreado e conservadores que queriam o controle das contas públicas. O governo JK é considerado o último respiro democrático pleno antes do golpe de 1964.",
+      "highlight": "O período JK foi marcado pela crença de que o Brasil finalmente se tornaria uma potência mundial."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O governo Juscelino Kubitschek é associado ao lema '50 anos em 5'. Qual foi a principal ferramenta de planejamento econômico desse período?",
+      "options": [
+        "A) A Reforma Agrária total em todo o Brasil.",
+        "B) O Plano de Metas, focado em setores de infraestrutura e indústria pesada.",
+        "C) A proibição de qualquer tipo de importação dos Estados Unidos.",
+        "D) O fechamento de todas as rodovias para priorizar as ferrovias.",
+        "E) O cancelamento total da construção de Brasília."
+      ],
+      "correctIndex": 1,
+      "explanation": "O Plano de Metas definiu os 31 objetivos prioritários para o desenvolvimento industrial brasileiro.",
+      "source": "Enem 2014 Oficial"
+    },
+    {
+      "question": "A transferência da capital do Rio de Janeiro para Brasília teve como um de seus objetivos estratégicos:",
+      "options": [
+        "A) Facilitar o acesso das praias para o povo de Goiás.",
+        "B) Isolar o governo de pressões populares diretas e integrar o interior do país.",
+        "C) Estar mais perto de Portugal por motivos históricos.",
+        "D) Transformar o Brasil em um país desértico em 10 anos.",
+        "E) Criar um porto seguro no meio do continente para submarinos."
+      ],
+      "correctIndex": 1,
+      "explanation": "A interiorização capital visava a integração nacional e a segurança estratégica do comando federal.",
+      "source": "Simulado Mackenzie/ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/governo-jk/thumb.png",
+    "alt": "Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)",
+    "caption": "Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "O governo de Juscelino Kubitschek (1956-1961), sintetizado no lema '50 anos em 5', marcou o ápice do nacional-desenvolvimentismo no Brasil. Através do Plano de Metas, o governo focou pesadamente em infraestrutura, com destaque para a construção de Brasília e a implantação da indústria automobilística. JK abriu a economia ao capital estrangeiro, estabelecendo parcerias que transformaram o parque industrial brasileiro de uma base leve para uma base pesada e de bens de consumo duráveis.",
+        "A construção da nova capital, Brasília, simbolizou o desejo de interiorização e modernidade do país, afastando o centro administrativo do litoral. No entanto, o custo desse crescimento acelerado foi o aumento da inflação e o crescimento descontrolado da dívida externa. Além disso, a prioridade dada ao sistema rodoviário em detrimento do ferroviário moldaria permanentemente a logística ineficiente do Brasil. Apesar da atmosfera de 'anos dourados', as desigualdades regionais se agravaram, com o Nordeste perdendo espaço para o Sudeste industrializado.",
+        "Compreender a era JK para o Enem exige analisar as contradições da modernização brasileira. É necessário discutir como a atração de multinacionais mudou o mercado de trabalho e as relações internacionais do país. O governo Kubitschek representou um momento de rara estabilidade democrática e otimismo cultural, mas as dívidas sociais contraídas nesse período alimentariam as crises inflacionárias e políticas que desaguariam na queda da democracia na década seguinte."
+      ],
+      "source": "BENEVIDES, Maria Victoria. O Governo Kubitschek: Desenvolvimento Econômico e Estabilidade Política. Rio de Janeiro: Paz e Terra, 1979."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O governo Juscelino Kubitschek é associado ao lema '50 anos em 5'. Qual foi a principal ferramenta de planejamento econômico desse período?",
+        "back": "A) A Reforma Agrária total em todo o Brasil.. O Plano de Metas definiu os 31 objetivos prioritários para o desenvolvimento industrial brasileiro."
+      },
+      {
+        "front": "A transferência da capital do Rio de Janeiro para Brasília teve como um de seus objetivos estratégicos:",
+        "back": "A) Facilitar o acesso das praias para o povo de Goiás.. A interiorização capital visava a integração nacional e a segurança estratégica do comando federal."
+      },
+      {
+        "front": "Quem foi o presidente do Brasil de 1956 a 1961?",
+        "back": "Juscelino Kubitschek"
+      },
+      {
+        "front": "Qual foi o projeto mestre do governo de Juscelino Kubitschek?",
+        "back": "Plano de Metas"
+      },
+      {
+        "front": "Quais setores estratégicos foram focados no Plano de Metas?",
+        "back": "Energia, Transportes, Indústria de Base, Alimentação e Educação"
+      },
+      {
+        "front": "Qual foi a 'Meta Síntese' do governo de Juscelino Kubitschek?",
+        "back": "Construção de Brasília"
+      },
+      {
+        "front": "Quem projetou a cidade de Brasília?",
+        "back": "Oscar Niemeyer e Lúcio Costa"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "O Plano de Metas, focado em setores de infraestrutura e indústria pesada.",
+        "is_true": false,
+        "explanation": "Mito! O Plano de Metas definiu os 31 objetivos prioritários para o desenvolvimento industrial brasileiro."
+      },
+      {
+        "statement": "Facilitar o acesso das praias para o povo de Goiás.",
+        "is_true": true,
+        "explanation": "A interiorização capital visava a integração nacional e a segurança estratégica do comando federal."
+      },
+      {
+        "statement": "Isolar o governo de pressões populares diretas e integrar o interior do país.",
+        "is_true": false,
+        "explanation": "Mito! A interiorização capital visava a integração nacional e a segurança estratégica do comando federal."
+      },
+      {
+        "statement": "A Reforma Agrária total em todo o Brasil.",
+        "is_true": true,
+        "explanation": "O Plano de Metas definiu os 31 objetivos prioritários para o desenvolvimento industrial brasileiro."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Juscelino Kubitschek",
+        "match": "Presidente que prometeu 50 anos em 5 com desenvolvimentismo"
+      },
+      {
+        "concept": "Plano de Metas",
+        "match": "31 objetivos de desenvolvimento industrial de JK"
+      },
+      {
+        "concept": "Brasília",
+        "match": "Nova capital federal inaugurada em 1960"
+      },
+      {
+        "concept": "Indústria automobilística",
+        "match": "Volkswagen, Ford e GM instalaram-se no Brasil em JK"
+      },
+      {
+        "concept": "Inflação",
+        "match": "Consequência econômica negativa do governo JK"
+      },
+      {
+        "concept": "Operação Pan-americana",
+        "match": "Iniciativa de JK para o desenvolvimento latino-americano"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Plano de Metas e os '50 Anos em 5'",
+        "order": 1
+      },
+      {
+        "event": "2. Brasília: A Meta Síntese",
+        "order": 2
+      },
+      {
+        "event": "3. Os Candangos e a Luta Invisível",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "DESENVOLVIMENTISMO",
+      "hint": "O conceito-chave central ou termo associado à aula de Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)."
+    }
+  }
+}

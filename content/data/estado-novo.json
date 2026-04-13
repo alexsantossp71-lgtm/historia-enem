@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "id": "estado-novo",
+    "title": "Estado Novo: A Ditadura de Vargas",
+    "period": "1937 - 1945",
+    "tags": [
+      "Vargas",
+      "Censura",
+      "DIP",
+      "Plano Cohen",
+      "Industrialização"
+    ],
+    "difficulty": "Médio",
+    "relevance": 5,
+    "area": "Ciências Humanas",
+    "subject": "História do Brasil",
+    "visual_depth": "elite"
+  },
+  "intro": "O Estado Novo foi a fase mais absoluta de Vargas. Ele fechou o Congresso, perseguiu opositores e usou o rádio para criar a imagem do 'Pai dos Pobres' e reformador da nação.",
+  "theory_content": "Em 1937, para evitar as eleições presidenciais e manter-se no poder, Getúlio Vargas deu um golpe de Estado. A justificativa foi o **Plano Cohen**, um documento falso (criado pelo integralista Olímpio Mourão Filho) que descrevia uma suposta conspiração comunista para tomar o Brasil. Com o apoio das Forças Armadas, Vargas outorgou a **Constituição de 1937** (apelidada de 'Polaca' por se inspirar na carta fascista da Polônia), que extinguia os partidos políticos e concentrava todos os poderes no Executivo. \n\nO Estado Novo foi marcado pela forte intervenção na economia e na cultura. Vargas criou o **DIP (Departamento de Imprensa e Propaganda)** para censurar críticas e produzir o programa de rádio 'Hora do Brasil', exaltando o governo e o civismo. Na economia, foi a era das **Indústrias de Base**: o governo fundou a Companhia Siderúrgica Nacional (CSN) e a Companhia Vale do Rio Doce, lançando os alicerces da industrialização brasileira. No final da década de 30, o Brasil entrou na **2ª Guerra Mundial** ao lado dos Aliados, o que gerou uma contradição insustentável: lutar contra a ditadura nazifascista na Europa enquanto se vivia uma ditadura no Brasil. Essa pressão forçou Vargas a iniciar a redemocratização e conduziu à sua deposição em 1945 por um golpe militar preventivo. O ENEM costuma cobrar a propaganda varguista, a construção das leis trabalhistas (CLT) como forma de controle social e o nacional-estatismo econômico.",
+  "support_text": "VOLUME E FOCO PARA O ENEM: Estude o papel do DIP como ferramenta de construção visual da pátria. O ENEM costuma cobrar o 'Trabalhismo': Vargas dando direitos (CLT) para evitar que o trabalhador fizesse revoluções socialistas (o Estado como mediador). Entenda a contradição de Vargas: era amigo de regimes fascistas no início, mas virou aliado dos EUA na guerra por pragmatismo econômico. Saiba que o Estado Novo é o berço do 'Pai dos Pobres'.",
+  "sections": [
+    {
+      "title": "1. O Golpe do Plano Cohen (1937)",
+      "content": "Getúlio precisava de um susto para o povo aceitar a ditadura. O capitão Olímpio Mourão Filho redigiu um plano fantasioso de invasão comunista, com queima de igrejas e massacres em massa. Vargas leu o plano no rádio como se fosse verdade. O povo, com medo, aceitou o fechamento do Congresso Nacional e a supressão das liberdades individuais. Estava fundado o Estado Novo sobre uma mentira estratégica.",
+      "highlight": "O Estado Novo nasceu de uma fake news histórica que paralisou a democracia.",
+      "image": {
+        "url": "assets/images/lessons/estado-novo/section_0.png",
+        "alt": "1. O Golpe do Plano Cohen (1937)",
+        "caption": "1. O Golpe do Plano Cohen (1937)"
+      }
+    },
+    {
+      "title": "2. DIP: A Fábrica de Mitos",
+      "content": "O Departamento de Imprensa e Propaganda (DIP) era onipresente. Fiscalizava os jornais, o cinema, o rádio e os livros escolares. Criou a imagem de Vargas como um 'vovô bondoso' que cuidava de todos. O programa 'Hora do Brasil' era obrigatório e educativo, ensinando o povo a amar a pátria e a respeitar o governo. Quem criticava Vargas era preso pela polícia secreta de Felinto Müller.",
+      "highlight": "Vargas foi o primeiro a entender o rádio como a rede social controlada do seu tempo.",
+      "image": {
+        "url": "assets/images/lessons/estado-novo/section_1.png",
+        "alt": "2. DIP: A Fábrica de Mitos",
+        "caption": "2. DIP: A Fábrica de Mitos"
+      }
+    },
+    {
+      "title": "3. Nacionalismo Econômico e CSN",
+      "content": "Para Vargas, um país sem aço não era independente. Ele negociou com os EUA o apoio na 2ª Guerra em troca de financiamento para construir a Companhia Siderúrgica Nacional em Volta Redonda. O Estado Novo foi o momento em que o Brasil parou de importar quase tudo para começar a fabricar seus próprios trilhos e motores. Era o desenvolvimento 'de dentro para fora'.",
+      "highlight": "A base industrial do Brasil moderno foi forjada nos fornos do Estado Novo.",
+      "image": {
+        "url": "assets/images/lessons/estado-novo/section_2.png",
+        "alt": "3. Nacionalismo Econômico e CSN",
+        "caption": "3. Nacionalismo Econômico e CSN"
+      }
+    },
+    {
+      "title": "4. CLT: O Presente do Pai para os Filhos",
+      "content": "Em 1943, Vargas reuniu as leis trabalhistas no estádio de São Januário. Ao dar férias, jornada de 8 horas e previdência, ele dizia ao operário: 'Não siga os comunistas, eu cuido de você'. A CLT serviu para dar dignidade ao trabalhador, mas também para amansar os sindicatos, que passaram a ser controlados pelo governo (os sindicatos pelegos).",
+      "highlight": "O trabalhismo de Vargas foi a vacina contra a revolução vermelha no Brasil."
+    },
+    {
+      "title": "5. O Fim: O Dilema dos Pracinhas",
+      "content": "A FEB (Força Expedicionária Brasileira) lutou na Itália para derrubar a ditadura de Mussolini. Ao voltarem vitoriosos, os soldados perguntaram: 'Por que lutar pela democracia lá fora e aceitar a ditadura de Vargas aqui dentro?'. O prestígio dos militares cresceu e o de Vargas caiu. Sentindo o fim, ele tentou o movimento 'Queremismo' (queremos Getúlio), mas os militares o depuseram sem derramamento de sangue em 1945.",
+      "highlight": "A vitória na Itália foi o xeque-mate na ditadura nacional-estatista de Getúlio."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O DIP (Departamento de Imprensa e Propaganda) foi um órgão central do governo Vargas durante o Estado Novo. Qual era sua função principal?",
+      "options": [
+        "A) Organizar o campeonato brasileiro de futebol profissional.",
+        "B) Controlar e censurar as informações, além de produzir propaganda oficial exaltando o governo e o sentimento nacionalista.",
+        "C) Doar rádios e televisões para todas as famílias do interior da Bahia.",
+        "D) Promover a vinda de imigrantes japoneses para o cultivo de soja.",
+        "E) Declarar guerra contra os Estados Unidos e a Inglaterra."
+      ],
+      "correctIndex": 1,
+      "explanation": "A propaganda era vital para manter o culto à personalidade de Vargas e o controle da opinião pública.",
+      "source": "Enem 2012 Oficial"
+    },
+    {
+      "question": "A Consolidação das Leis do Trabalho (CLT), outorgada em 1943, é vista pelos historiadores contemporâneos não apenas como uma conquista operária, mas também como:",
+      "options": [
+        "A) Um castigo dado por Vargas aos trabalhadores que faziam greve.",
+        "B) Uma técnica fascista para proibir que o povo tirasse férias no verão.",
+        "C) Um instrumento de controle social (Trabalhismo) que visava diminuir o conflito de classes e atrelar os sindicatos ao Estado.",
+        "D) A prova de que Vargas era um espião secreto da Rússia socialista.",
+        "E) O fim de todas as indústrias nacionais do Brasil."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ao conceder direitos, o Estado assumia o papel de 'concessor' e evitava radicalizações populares independentes.",
+      "source": "Simulado ENEM / Era Vargas"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/estado-novo/thumb.png",
+    "alt": "Estado Novo: A Ditadura de Vargas",
+    "caption": "Estado Novo: A Ditadura de Vargas"
+  },
+  "support_texts": [
+    {
+      "source": "GOMES, Angela de Castro. A Invenção do Trabalhismo. Editora FGV, 2005.",
+      "paragraphs": [
+        "Com a outorga inescrupulosa do farsante refratário ardil documento conspiracionista da falsa invasão russa na calada ('Plano Cohen'), Getúlio esmagou o tenso sufrágio estuprando violentamente as garantidas republicanas promulgadas e estabeleceu no despótico 1937  o absolutista dantesco Estado Novo, formatado em minúcias copiadas da autoridade fascizante europeizada impiedoca encarnada na infame constituição refratária 'Polaca' sob o ditame castrador executivo unitário das garantias cerceadas de liberdades essenciais silenciadas e de partidarismos proscritos.",
+        "Fundamentou em bases irrevogável o alicerce industrial de massiva pesada burocracia executiva sob os imperativos desenvolvimentistas de agências formuladoras governamentais englobantes nas autarquias formatadoras encorpadas de conselhos nacionalistas indutores primordiais monopolistas pesados desenvolvimentistas alicerçadas nas colossais erguidas da siderurgia bélica Companhias centralizadas Siderúrgicas basilar da era motora da alavancagem nacional (Fundação da CSN em encruzilhada geopolítica pendular astuta no alinhamento do conflito bélico de base aliancistas yankees contra a cobiça eixoista hitleriano).",
+        "Ao examinar profundamente essa quadra autocrata brutal exige notar categoricamente a balança entre opressão indissociável sanguinolenta na perseguição implacável no tenebroso presídio na mordaças e cerceio das mordaças literária na imprensa via a lavagem de massas do colossal DIP contrapesado cinicamente astutamente no paternalismo operariado atado nas legislações unificadores protecionistas da unificadas e engessadoras outorgada CLT enredando o silenciado movimento engessado e tutelado sem contestações na benesses na figura do grande patrono na idolatrada presidência messianica inquestionável do ditador popular."
+      ]
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O DIP (Departamento de Imprensa e Propaganda) foi um órgão central do governo Vargas durante o Estado Novo. Qual era sua função principal?",
+        "back": "A) Organizar o campeonato brasileiro de futebol profissional.. A propaganda era vital para manter o culto à personalidade de Vargas e o controle da opinião pública."
+      },
+      {
+        "front": "A Consolidação das Leis do Trabalho (CLT), outorgada em 1943, é vista pelos historiadores contemporâneos não apenas como uma conquista operária, mas também como:",
+        "back": "A) Um castigo dado por Vargas aos trabalhadores que faziam greve.. Ao conceder direitos, o Estado assumia o papel de 'concessor' e evitava radicalizações populares independentes."
+      },
+      {
+        "front": "Qual foi o pretexto para o golpe de Estado de Getúlio Vargas em 1937?",
+        "back": "O Plano Cohen, um documento falso que descrevia uma suposta conspiração comunista."
+      },
+      {
+        "front": "Qual foi o nome da constituição outorgada por Vargas em 1937?",
+        "back": "Constituição de 1937, apelidada de 'Polaca'."
+      },
+      {
+        "front": "Qual foi o departamento criado por Vargas para censurar críticas e produzir propaganda?",
+        "back": "DIP (Departamento de Imprensa e Propaganda)."
+      },
+      {
+        "front": "Qual foi o período marcado pela forte intervenção na economia e na cultura durante o governo de Vargas?",
+        "back": "O Estado Novo."
+      },
+      {
+        "front": "Com quem o Brasil se aliou durante a 2ª Guerra Mundial?",
+        "back": "Os Aliados."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Controlar e censurar as informações, além de produzir propaganda oficial exaltando o governo e o sentimento nacionalista.",
+        "is_true": false,
+        "explanation": "Mito! A propaganda era vital para manter o culto à personalidade de Vargas e o controle da opinião pública."
+      },
+      {
+        "statement": "Uma técnica fascista para proibir que o povo tirasse férias no verão.",
+        "is_true": false,
+        "explanation": "Mito! Ao conceder direitos, o Estado assumia o papel de 'concessor' e evitava radicalizações populares independentes."
+      },
+      {
+        "statement": "Organizar o campeonato brasileiro de futebol profissional.",
+        "is_true": true,
+        "explanation": "A propaganda era vital para manter o culto à personalidade de Vargas e o controle da opinião pública."
+      },
+      {
+        "statement": "Um castigo dado por Vargas aos trabalhadores que faziam greve.",
+        "is_true": true,
+        "explanation": "Ao conceder direitos, o Estado assumia o papel de 'concessor' e evitava radicalizações populares independentes."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Estado Novo (1937-1945)",
+        "match": "Ditadura de Vargas com Polaca como constituição"
+      },
+      {
+        "concept": "Constituição Polaca",
+        "match": "Carta outorgada de 1937, inspirada no constitucionalismo polonês"
+      },
+      {
+        "concept": "DASP",
+        "match": "Departamento Administrativo do Serviço Público"
+      },
+      {
+        "concept": "Censura à imprensa",
+        "match": "DIP controlava todos os meios de comunicação"
+      },
+      {
+        "concept": "Industrialização",
+        "match": "Projeto nacional de indústrias de base no Estado Novo"
+      },
+      {
+        "concept": "CSN",
+        "match": "Companhia Siderúrgica Nacional, símbolo do desenvolvimentismo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. O Golpe do Plano Cohen (1937)",
+        "order": 1
+      },
+      {
+        "event": "2. DIP: A Fábrica de Mitos",
+        "order": 2
+      },
+      {
+        "event": "3. Nacionalismo Econômico e CSN",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "OPOSITORES",
+      "hint": "O conceito-chave central ou termo associado à aula de Estado Novo: A Ditadura de Vargas."
+    }
+  }
+}

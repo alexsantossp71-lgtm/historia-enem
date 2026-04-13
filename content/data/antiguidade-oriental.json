@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "id": "antiguidade-oriental",
+    "title": "Antiguidade Oriental: Poder e Rios",
+    "period": "3500 a.C. - 539 a.C.",
+    "tags": [
+      "Mesopotâmia",
+      "Egito",
+      "Código de Hamurábi",
+      "Faraó",
+      "Civilização Hidráulica"
+    ],
+    "difficulty": "Médio",
+    "relevance": 4,
+    "area": "Ciências Humanas",
+    "subject": "História Geral",
+    "thumbnail": "assets/images/lessons/antiguidade-oriental/section_1.png",
+    "visual_depth": "elite"
+  },
+  "intro": "Na Mesopotâmia e no Egito, o homem aprendeu a controlar os gigantes rios Nilo, Tigre e Eufrates. Ali nasceram a escrita, a lei e o Estado como divindade na Terra.",
+  "theory_content": "As civilizações da **Mesopotâmia** (entre rios) e do **Egito** são chamadas de 'Civilizações Hidráulicas', pois sua sobrevivência dependia do controle das cheias dos rios por meio de canais e diques. Elas operavam sob o **Modo de Produção Asiático**: a terra pertencia ao Estado, e a população pagava tributos na forma de trabalho (Servidão Coletiva). A política era uma **Teocracia**, onde o governante (como o Faraó no Egito ou o Patesi na Suméria) era visto como um deus vivo ou representante direto dos deuses. \n\nNo Egito, a estabilidade do Nilo permitiu uma cultura focada na imortalidade e na vida após a morte (Piramidismo). Na Mesopotâmia, a geografia aberta facilitava invasões, gerando uma sucessão de impérios: Sumérios (criadores da escrita cuneiforme), Babilônios (criadores do **Código de Hamurábi**, com a Lei de Talião: 'olho por olho, dente por dente') e Assírios (conhecidos pelo militarismo cruel). Além da escrita, essas sociedades desenvolveram a matemática para calcular as cheias, a astronomia para o calendário agrícola e a arquitetura monumental (Zigurates e Templos). O ENEM costuma cobrar a relação entre a religião e o poder político, a importância da escrita como ferramenta de controle burocrático e a organização econômica baseada no trabalho compulsório.",
+  "sections": [
+    {
+      "title": "1. Civilizações Hidráulicas: A Gestão do Caos",
+      "content": "Para viver no deserto, os homens precisavam de represas. A construção de obras gigantescas exigia milhares de braços e uma liderança forte para coordenar tudo. O Estado nasceu não apenas para cobrar impostos, mas para garantir que o rio irriguasse o trigo. Se o rio corresse livre, a civilização morreria. O controle da água era a fonte primordial do poder político.",
+      "highlight": "Quem controlava as comportas dos rios, controlava o destino da nação.",
+      "image": {
+        "url": "assets/images/lessons/antiguidade-oriental/section_0.png",
+        "alt": "1. Civilizações Hidráulicas: A Gestão do Caos",
+        "caption": "1. Civilizações Hidráulicas: A Gestão do Caos"
+      }
+    },
+    {
+      "title": "2. Mesopotâmia: Terra de Impérios Guerreiros",
+      "content": "Diferente do Egito isolado, a Mesopotâmia era uma rota de passagem. Os sumérios deram ao mundo a roda e a escrita. Depois vieram os babilônios que, sob o comando de Hamurábi, criaram o primeiro código de leis que organizava a família, a propriedade e o comércio. A lei visava impedir o caos, mas era profundamente desigual dependendo da classe social do infrator.",
+      "highlight": "O Código de Hamurábi foi a primeira tentativa humana de colocar a justiça no papel.",
+      "image": {
+        "url": "assets/images/lessons/antiguidade-oriental/section_1.png",
+        "alt": "2. Mesopotâmia: Terra de Impérios Guerreiros",
+        "caption": "2. Mesopotâmia: Terra de Impérios Guerreiros"
+      }
+    },
+    {
+      "title": "3. O Egito dos Faraós: A Eternidade em Pedra",
+      "content": "O Faraó era o dono de todo o Egito — das pessoas, das terras e dos animais. Sua autoridade era absoluta e incontestável. Todo o trabalho do povo servia para sustentar o luxo da corte e para construir as pirâmides, que eram 'casas de eternidade'. A religião politeísta justificava a estrutura social, com o Faraó garantindo o equilíbrio (Maat) entre o céu e a terra.",
+      "highlight": "No Egito Antigo, a política e a religião eram uma face da mesma moeda.",
+      "image": {
+        "url": "assets/images/lessons/antiguidade-oriental/section_2.png",
+        "alt": "3. O Egito dos Faraós: A Eternidade em Pedra",
+        "caption": "3. O Egito dos Faraós: A Eternidade em Pedra"
+      }
+    },
+    {
+      "title": "4. Escribas: Os Donos da Informação",
+      "content": "Saber ler e escrever era um poder sagrado. No Egito e na Suméria, os escribas formavam uma burocracia privilegiada que registrava colheitas, estoques de armas e impostos. Sem a escrita, o Estado não teria memória e não poderia cobrar o que era devido. A educação era rigidamente controlada para evitar que o conhecimento fugisse das mãos do governo.",
+      "highlight": "A escrita cuneiforme foi a tecnologia que permitiu ao Estado ter olhos e mãos em todo lugar."
+    },
+    {
+      "title": "5. O Modo de Produção Asiático",
+      "content": "Nesse sistema, o Estado é o proprietário de tudo. Não havia propriedade privada da terra como conhecemos. A população trabalhava na agricultura em regime de servidão coletiva nas terras do governo para pagar impostos e era obrigada a prestar serviços em obras públicas (corveia real). Foi desse trabalho forçado que nasceram as pirâmides e as muralhas da Babilônia.",
+      "highlight": "O Estado era o patrão único e divino de todos os súditos."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "O Código de Hamurábi, escrito em pedra na antiga Babilônia, baseava-se na 'Lei de Talião'. Qual era o princípio fundamental dessa lei?",
+      "options": [
+        "A) Perdão total para todos os crimes que não envolvessem dinheiro.",
+        "B) A punição deveria ser proporcional e semelhante ao crime cometido (olho por olho, dente por dente).",
+        "C) O direito de o criminoso escolher sua própria data de execução.",
+        "D) A proibição de qualquer pessoa carregar espadas nas ruas das cidades.",
+        "E) O pagamento de impostos em dobro para quem lesse as leis."
+      ],
+      "correctIndex": 1,
+      "explanation": "A Lei de Talião buscava limitar as vinganças pessoais ao estabelecer uma punição equivalente ao erro cometido.",
+      "source": "Enem 2013 Oficial"
+    },
+    {
+      "question": "As civilizações egípcia e mesopotâmica são classificadas como 'Civilizações Hidráulicas' porque:",
+      "options": [
+        "A) Viviam exclusivamente de beber água e não comiam carne.",
+        "B) A base de sua sobrevivência e organização social residia no domínio das águas dos grandes rios para a agricultura.",
+        "C) Inventaram o primeiro submarino movido a vapor da história.",
+        "D) Viviam dentro de barcos e nunca pisavam em terra firme.",
+        "E) Proibiam o uso de água para regar plantações de trigo."
+      ],
+      "correctIndex": 1,
+      "explanation": "O controle dos canais de irrigação e das cheias era o que permitia a vida estável no deserto.",
+      "source": "Simulado ENEM / Antiguidade"
+    },
+    {
+      "question": "Qual era o principal fator que influenciava a sobrevivência das civilizações da Mesopotâmia e do Egito?",
+      "options": [
+        "A) A proximidade com o mar",
+        "B) O controle das cheias dos rios por meio de canais e diques",
+        "C) A existência de montanhas para proteção",
+        "D) A disponibilidade de recursos minerais",
+        "E) A presença de florestas densas"
+      ],
+      "correct_answer": 1,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual era o sistema de governo adotado pelas civilizações da Mesopotâmia e do Egito?",
+      "options": [
+        "A) Democracia",
+        "B) Monarquia Absoluta",
+        "C) Teocracia",
+        "D) República",
+        "E) Oligarquia"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    },
+    {
+      "question": "Qual era o propósito da escrita cuneiforme desenvolvida pelos Sumérios?",
+      "options": [
+        "A) Registrar a história dos deuses",
+        "B) Desenvolver a astronomia",
+        "C) Controlar burocraticamente a população e a economia",
+        "D) Criar uma literatura épica",
+        "E) Registrar as cheias dos rios"
+      ],
+      "correct_answer": 2,
+      "source": "ENEM"
+    }
+  ],
+  "thumbnail": {
+    "url": "assets/images/lessons/antiguidade-oriental/thumb.png",
+    "alt": "Antiguidade Oriental: Poder e Rios",
+    "caption": "Antiguidade Oriental: Poder e Rios"
+  },
+  "support_texts": [
+    {
+      "paragraphs": [
+        "As chamadas 'Civilizações Hidráulicas' do Oriente Próximo, como o Egito e a Mesopotâmia, fundamentaram sua existência na gestão coletiva e estatal dos grandes rios. O Nilo, o Tigre e o Eufrates não eram apenas provedores de água, mas o centro organizador de toda a vida política e econômica. A necessidade de construir canais de irrigação e diques impulsionou a criação de estados centralizados e teocráticos, onde o governante era visto como um deus ou seu representante direto na terra.",
+        "O modo de produção asiático é o conceito-chave para entender essas sociedades. Nele, a terra pertencia nominalmente ao Estado, e os camponeses viviam em regime de servidão coletiva, entregando parte da produção e trabalhando em obras públicas monumentais como pirâmides e zigurates. Essa estrutura permitia uma estabilidade milenar, mas também uma rígida hierarquia social onde a mobilidade era praticamente inexistente, contrastando fortemente com os modelos de cidadania que surgiriam mais tarde no Ocidente.",
+        "No Egito Antigo, a religião e a escrita (hieroglífica) eram instrumentos de poder fundamentais. A vida após a morte não era apenas uma crença espiritual, mas um motor econômico que demandava vastos recursos para a construção de túmulos e o processo de mumificação. Na Mesopotâmia, a ausência de barreiras geográficas naturais resultou em uma história marcada por sucessivas invasões e o desenvolvimento de códigos de leis rigorosos, como o de Hamurábi, que buscavam impor ordem em um mosaico de povos e culturas diversas."
+      ],
+      "source": "CARDOSO, Ciro Flamarion. O Egito Antigo. São Paulo: Brasiliense, 1982."
+    }
+  ],
+  "games": {
+    "flashcards": [
+      {
+        "front": "O Código de Hamurábi, escrito em pedra na antiga Babilônia, baseava-se na 'Lei de Talião'. Qual era o princípio fundamental dessa lei?",
+        "back": "A) Perdão total para todos os crimes que não envolvessem dinheiro.. A Lei de Talião buscava limitar as vinganças pessoais ao estabelecer uma punição equivalente ao erro cometido."
+      },
+      {
+        "front": "As civilizações egípcia e mesopotâmica são classificadas como 'Civilizações Hidráulicas' porque:",
+        "back": "A) Viviam exclusivamente de beber água e não comiam carne.. O controle dos canais de irrigação e das cheias era o que permitia a vida estável no deserto."
+      },
+      {
+        "front": "O que caracteriza as civilizações da Mesopotâmia e do Egito?",
+        "back": "São chamadas de 'Civilizações Hidráulicas' por dependerem do controle das cheias dos rios."
+      },
+      {
+        "front": "Qual era o sistema de propriedade de terra nas civilizações da Mesopotâmia e do Egito?",
+        "back": "A terra pertencia ao Estado."
+      },
+      {
+        "front": "Quem era considerado um deus vivo ou representante dos deuses na política da Mesopotâmia e do Egito?",
+        "back": "O governante, como o Faraó ou o Patesi."
+      },
+      {
+        "front": "Qual foi a contribuição dos Sumérios para a história?",
+        "back": "Criaram a escrita cuneiforme."
+      },
+      {
+        "front": "O que é o Código de Hamurábi?",
+        "back": "Um código de leis que inclui a Lei de Talião: 'olho por olho, dente por dente'."
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Perdão total para todos os crimes que não envolvessem dinheiro.",
+        "is_true": true,
+        "explanation": "A Lei de Talião buscava limitar as vinganças pessoais ao estabelecer uma punição equivalente ao erro cometido."
+      },
+      {
+        "statement": "A base de sua sobrevivência e organização social residia no domínio das águas dos grandes rios para a agricultura.",
+        "is_true": false,
+        "explanation": "Mito! O controle dos canais de irrigação e das cheias era o que permitia a vida estável no deserto."
+      },
+      {
+        "statement": "A punição deveria ser proporcional e semelhante ao crime cometido (olho por olho, dente por dente).",
+        "is_true": false,
+        "explanation": "Mito! A Lei de Talião buscava limitar as vinganças pessoais ao estabelecer uma punição equivalente ao erro cometido."
+      },
+      {
+        "statement": "Viviam exclusivamente de beber água e não comiam carne.",
+        "is_true": true,
+        "explanation": "O controle dos canais de irrigação e das cheias era o que permitia a vida estável no deserto."
+      }
+    ],
+    "memory": [
+      {
+        "concept": "Mesopotâmia",
+        "match": "Civilização entre rios"
+      },
+      {
+        "concept": "Modo de Produção Asiático",
+        "match": "Terra pertence ao Estado"
+      },
+      {
+        "concept": "Teocracia",
+        "match": "Governo divino"
+      },
+      {
+        "concept": "Código de Hamurábi",
+        "match": "Lei de Talião"
+      },
+      {
+        "concept": "Piramidismo",
+        "match": "Foco na imortalidade"
+      },
+      {
+        "concept": "Servidão Coletiva",
+        "match": "Trabalho como tributo"
+      }
+    ],
+    "timeline": [
+      {
+        "event": "1. Civilizações Hidráulicas: A Gestão do Caos",
+        "order": 1
+      },
+      {
+        "event": "2. Mesopotâmia: Terra de Impérios Guerreiros",
+        "order": 2
+      },
+      {
+        "event": "3. O Egito dos Faraós: A Eternidade em Pedra",
+        "order": 3
+      }
+    ],
+    "wordsearch": {
+      "secret_word": "MESOPOTÂMIA",
+      "hint": "O conceito-chave central ou termo associado à aula de Antiguidade Oriental: Poder e Rios."
+    }
+  }
+}
