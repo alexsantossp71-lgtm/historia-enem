@@ -48,6 +48,13 @@ function a11yIcons(html) {
     return html.replace(/<i class="(fa[^"]*)"(?![^>]*aria-hidden)/g, '<i class="$1" aria-hidden="true"');
 }
 
+// Converts inline Markdown in rich-text fields to safe HTML: **bold** -> <strong>, *italic* -> <em>.
+function inlineMd(str) {
+    return esc(str == null ? '' : str)
+        .replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/(^|[^*\w])\*([^*\n]+)\*(?=[^\w*]|$)/g, '$1<em>$2</em>');
+}
+
 function quizCorrect(q) {
     if (q.correctIndex !== undefined && q.correctIndex !== null) return q.correctIndex;
     if (q.correct_answer !== undefined && q.correct_answer !== null) return q.correct_answer;
@@ -95,7 +102,7 @@ function buildModal(id, content) {
 function sectionHtml(sec, si, index) {
     const num = String(si + 1).padStart(2, '0');
     const callout = sec.highlight
-        ? `<div class="callout"><i class="fas fa-highlighter" style="margin-right:.5rem"></i>${esc(sec.highlight)}</div>`
+        ? `<div class="callout"><i class="fas fa-highlighter" style="margin-right:.5rem"></i>${inlineMd(sec.highlight)}</div>`
         : '';
     const figure = (sec.image && sec.image.url)
         ? `<figure class="figure"><img src="../${sec.image.url}" alt="${esc(sec.image.alt || sec.title || '')}" loading="lazy"><figcaption>${esc(sec.image.caption || sec.title || '')}</figcaption></figure>`
@@ -104,7 +111,7 @@ function sectionHtml(sec, si, index) {
 <section class="lesson-section" id="section-${si}" data-section>
     <p class="sec-num">Capítulo ${num}</p>
     <h2>${esc(sec.title || '')}</h2>
-    <p class="sec-body">${sec.content || ''}</p>
+    <p class="sec-body">${inlineMd(sec.content || '')}</p>
     ${callout}
     ${figure}
 </section>`;
@@ -112,7 +119,7 @@ function sectionHtml(sec, si, index) {
 
 function supportTextHtml(st) {
     const paragraphs = (st.paragraphs || []).map(p =>
-        `<p class="prose-body" style="margin-bottom:.8rem">${p}</p>`).join('');
+        `<p class="prose-body" style="margin-bottom:.8rem">${inlineMd(p)}</p>`).join('');
     return `
 <div class="support-text editorial-rule" style="margin-block:2.5rem">
     <span class="eyebrow"><i class="fas fa-quote-left" style="margin-right:.4rem"></i> Texto de apoio</span>
@@ -374,7 +381,7 @@ async function build() {
                 .replace(/\{\{DIFFICULTY\}\}/g, esc((lessonData.metadata && lessonData.metadata.difficulty) || 'Nível ENEM'))
                 .replace(/\{\{HERO_META_EXTRA\}\}/g, `<div class="anim-in" style="animation-delay:.2s;margin-top:1.4rem;display:flex;flex-wrap:wrap;gap:.5rem">${tags}</div>`)
                 .replace(/\{\{INTRO\}\}/g, esc(lessonData.intro || ''))
-                .replace(/\{\{THEORY_CONTENT\}\}/g, lessonData.theory_content || '')
+                .replace(/\{\{THEORY_CONTENT\}\}/g, inlineMd(lessonData.theory_content || ''))
                 .replace(/\{\{SECTIONS_HTML\}\}/g, sectionsHtml)
                 .replace(/\{\{SUPPORT_TEXTS_HTML\}\}/g, supportTextsHtml)
                 .replace(/\{\{TOPICS_NAV\}\}/g, tocItems)
