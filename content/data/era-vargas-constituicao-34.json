@@ -24,7 +24,7 @@
       "content": "A República Velha morreu de fraude. Os coronéis faziam os defuntos votarem. Em 1934, Vargas criou o Tribunal Superior Eleitoral. Pela primeira vez, o processo de contagem de votos saía das mãos dos políticos locais e passava para as mãos de juízes de carreira. O voto passou a ser secreto e obrigatório para homens e mulheres alfabetizados, quebrando simbolicamente o poder absoluto dos donos de terra no interior do Brasil.",
       "highlight": "Em 1934, o voto deixou de ser uma mercadoria e passou a ser um direito.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-constituicao-34/section_0.png",
+        "url": "assets/images/lessons/era-vargas-constituicao-34/section_0.webp",
         "alt": "1. O Fim do Cabresto: A Justiça Eleitoral",
         "caption": "1. O Fim do Cabresto: A Justiça Eleitoral"
       }
@@ -34,7 +34,7 @@
       "content": "As brasileiras lutavam pelo voto desde o Império. Em 1932, Vargas já havia promulgado o Código Eleitoral, mas a Constituição de 34 gravou essa conquista na pedra da lei. Mulheres puderam finalmente escolher seus governantes e serem eleitas (Carlota Pereira de Queirós foi a primeira deputada). O Brasil foi um dos pioneiros na América Latina a garantir a igualdade política de gênero, embora o analfabetismo ainda impedisse a maioria das brasileiras pobres de votar.",
       "highlight": "O voto feminino em 34 foi a maior revolução silenciosa da cidadania brasileira.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-constituicao-34/section_1.png",
+        "url": "assets/images/lessons/era-vargas-constituicao-34/section_1.webp",
         "alt": "2. Bertha Lutz e o Sufragismo: O Lugar da Mulher",
         "caption": "2. Bertha Lutz e o Sufragismo: O Lugar da Mulher"
       }
@@ -44,7 +44,7 @@
       "content": "Antes de 1930, a questão social era 'caso de polícia'. Em 34, virou caso de lei. A constituição criou garantias básicas: salário mínimo para garantir a sobrevivência, proibição de trabalho infantil insalubre, descanso semanal remunerado e férias garantidas. Getúlio queria o apoio da massa operária urbana e usou a lei como moeda de troca para evitar que o comunismo crescesse nas fábricas brasileiras.",
       "highlight": "Com a Constituição de 34, o operário brasileiro deixou de ser invisível para o governo.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-constituicao-34/section_2.png",
+        "url": "assets/images/lessons/era-vargas-constituicao-34/section_2.webp",
         "alt": "3. Trabalho: O Estado como Protetor",
         "caption": "3. Trabalho: O Estado como Protetor"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/era-vargas-constituicao-34/thumb.png",
+    "url": "assets/images/lessons/era-vargas-constituicao-34/thumb.webp",
     "alt": "Constituição de 1934: A Democracia de Vargas",
     "caption": "Constituição de 1934: A Democracia de Vargas"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "Dentre as conquistas democráticas e sociais introduzidas pela Constituição brasileira de 1934, destaca-se:",
-        "back": "A) A doação gratuita de aviões para todos os estudantes de medicina.. A Constituição de 1934 foi pioneira ao garantir a plena cidadania política às mulheres no Brasil."
+        "back": "A Constituição de 1934 foi pioneira ao garantir a plena cidadania política às mulheres no Brasil."
       },
       {
         "front": "A Constituição de 1934 foi inspirada em modelos europeus de bem-estar social. Qual o principal avanço garantido aos trabalhadores brasileiros nesse texto?",
-        "back": "A) O direito de não trabalhar nunca mais e receber salário dobrado.. Pela primeira vez, o trabalho era visto como um direito garantido pelo Estado no nível constitucional."
+        "back": "Pela primeira vez, o trabalho era visto como um direito garantido pelo Estado no nível constitucional."
       }
     ],
     "true_false": [

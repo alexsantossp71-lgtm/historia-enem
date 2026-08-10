@@ -25,7 +25,7 @@
       "content": "A primeira constituição brasileira foi um documento de contrastes. Enquanto mantinha a religião católica como oficial e o voto censitário (por renda), criava o Poder Moderador. O imperador era 'inviolável e sagrado', acima das leis civis. Isso permitiu a Pedro I mandar e desmandar, gerando fúria nas províncias do Nordeste, que se sentiam asfixiadas pelo centralismo do Rio de Janeiro.",
       "highlight": "O Poder Moderador foi a ferramenta que manteve o Brasil unido, mas sob o preço do autoritarismo.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio/section_0.png",
+        "url": "assets/images/lessons/brasil-imperio/section_0.webp",
         "alt": "1. Constituição de 1824: O Absolutismo Disfarçado",
         "caption": "1. Constituição de 1824: O Absolutismo Disfarçado"
       }
@@ -35,7 +35,7 @@
       "content": "Com a abdicação de D. Pedro I, as regências tentaram governar o Brasil. O 'Ato Adicional de 1834' deu autonomia às províncias, mas isso apenas acelerou as revoltas. Farroupilha e Cabanagem mostravam que o Brasil poderia se tornar cinco ou seis países menores. A criação da Guarda Nacional, controlada pelos fazendeiros (coronéis), foi a resposta das elites para manter a ordem escravocrata enquanto o imperador não podia governar.",
       "highlight": "O medo da desfragmentação territorial foi o que uniu as elites em torno de D. Pedro II.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio/section_1.png",
+        "url": "assets/images/lessons/brasil-imperio/section_1.webp",
         "alt": "2. Período Regencial: O Brasil no Limite",
         "caption": "2. Período Regencial: O Brasil no Limite"
       }
@@ -44,7 +44,7 @@
       "title": "3. Segundo Reinado: Café e Estabilidade Political",
       "content": "Pedro II reinou por 49 anos. Ele usou o parlamentarismo às avessas para alternar Liberais e Conservadores no poder, sem que houvesse mudança real na estrutura social. Enquanto isso, o café 'marchava' do Vale do Paraíba para o Oeste Paulista, trazendo as primeiras ferrovias e a transição para a mão de obra imigrante europeia, após a pressão britânica pelo fim do tráfico de escravos (Lei Bill Aberdeen/Eusébio de Queirós).",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio/section_2.png",
+        "url": "assets/images/lessons/brasil-imperio/section_2.webp",
         "alt": "3. Segundo Reinado: Café e Estabilidade Political",
         "caption": "3. Segundo Reinado: Café e Estabilidade Political"
       }
@@ -56,12 +56,7 @@
     },
     {
       "title": "5. A Questão Abolicionista e a Lei Áurea",
-      "content": "O abolicionismo foi um movimento intelectual, popular e de pressão externa. Joaquim Nabuco e André Rebouças lideraram a campanha. Cada lei (1850, 1871, 1885) era um degrau para o fim inevitável. Quando a Princesa Isabel assinou a Lei Áurea em 13 de maio de 1888, ela resolveu uma questão humanitária mas destruiu a aliança política da monarquia: os cafeicultores do Vale do Paraíba, que apoiavam o trono, tornaram-se republicanos por vingança pela perda de sua 'propriedade'.",
-      "image": {
-        "url": "/assets/img/historia/abolicionismo_brasil_ruas.png",
-        "alt": "Massa nas ruas celebrando a abolição",
-        "caption": "A festa nas ruas escondeu o abandono dos libertos no dia 14 de maio, sem terras ou reparação histórica."
-      }
+      "content": "O abolicionismo foi um movimento intelectual, popular e de pressão externa. Joaquim Nabuco e André Rebouças lideraram a campanha. Cada lei (1850, 1871, 1885) era um degrau para o fim inevitável. Quando a Princesa Isabel assinou a Lei Áurea em 13 de maio de 1888, ela resolveu uma questão humanitária mas destruiu a aliança política da monarquia: os cafeicultores do Vale do Paraíba, que apoiavam o trono, tornaram-se republicanos por vingança pela perda de sua 'propriedade'."
     }
   ],
   "quiz": [
@@ -129,7 +124,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-imperio/thumb.png",
+    "url": "assets/images/lessons/brasil-imperio/thumb.webp",
     "alt": "Brasil Império: Unidade e Contradição (1822-1889)",
     "caption": "Brasil Império: Unidade e Contradição (1822-1889)"
   },
@@ -147,15 +142,15 @@
     "flashcards": [
       {
         "front": "O Poder Moderador, instituído pela Constituição de 1824, permitia ao Imperador do Brasil:",
-        "back": "A) Escolher a religião oficial do país a cada quatro anos.. O Poder Moderador dava ao Imperador a supremacia política, tornando a democracia da época meramente formal."
+        "back": "O Poder Moderador dava ao Imperador a supremacia política, tornando a democracia da época meramente formal."
       },
       {
         "front": "Diferente da maioria dos países hispano-americanos, o Brasil manteve sua integridade territorial após a independência. Isso é atribuído principalmente a:",
-        "back": "A) Uma grande vitória militar sobre um exército vindo da Europa em 1830.. A monarquia serviu de anteparo contra a fragmentação, unindo as elites em torno de um único líder soberano."
+        "back": "A monarquia serviu de anteparo contra a fragmentação, unindo as elites em torno de um único líder soberano."
       },
       {
         "front": "Quem liderou o processo de independência do Brasil?",
-        "back": "D. Pedro I"
+        "back": "Pedro I"
       },
       {
         "front": "Qual foi o resultado da tensão entre D. Pedro I e as elites?",

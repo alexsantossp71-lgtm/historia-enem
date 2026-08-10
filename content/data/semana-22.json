@@ -25,7 +25,7 @@
       "content": "1922 foi o ano em que o Brasil começou a mudar de pele. Enquanto no rádio se ouvia o discurso do Centenário da Independência, nas ruas de SP os modernistas gritavam contra os 'passadistas'. A República Velha estava em crise: o operariado se organizava, os jovens oficiais do exército (tenentes) se rebelavam e a arte não podia mais ser apenas um enfeite para saraus de luxo.",
       "highlight": "22 foi o ano do divórcio entre o Brasil Oficial e o Brasil Real.",
       "image": {
-        "url": "assets/images/lessons/semana-22/section_0.png",
+        "url": "assets/images/lessons/semana-22/section_0.webp",
         "alt": "1. O Contexto de 1922: O Ano das Crises",
         "caption": "1. O Contexto de 1922: O Ano das Crises"
       }
@@ -35,7 +35,7 @@
       "content": "A semente da Semana foi a exposição de Anita Malfatti em 1917. Suas pinturas expressionistas, com cores 'não convencionais' e rostos distorcidos, causaram a fúria de Monteiro Lobato, que escreveu o artigo 'Paranoia ou Mistificação?'. O ataque de Lobato uniu os jovens intelectuais em defesa de Anita, criando o grupo que organizaria a Semana cinco anos depois.",
       "highlight": "Um ataque crítico de Lobato foi o fogo que acendeu o rastilho de pólvora modernista.",
       "image": {
-        "url": "assets/images/lessons/semana-22/section_1.png",
+        "url": "assets/images/lessons/semana-22/section_1.webp",
         "alt": "2. Anita Malfatti e o Escândalo de 1917",
         "caption": "2. Anita Malfatti e o Escândalo de 1917"
       }
@@ -45,7 +45,7 @@
       "content": "Oswaldo de Andrade lançou o lema: 'Tupi or Not Tupi, that is the question'. A ideia era de que o brasileiro é, por natureza, um canibal cultural. Deveríamos comer o cinema de Hollywood, a poesia de Paris e a técnica de Berlim para criar um Brasil 'Pau-Brasil' — forte, autêntico e exportável. Era o fim do complexo de vira-lata estético.",
       "highlight": "A antropofagia cultural foi a libertação da cópia servil do mofo europeu.",
       "image": {
-        "url": "assets/images/lessons/semana-22/section_2.png",
+        "url": "assets/images/lessons/semana-22/section_2.webp",
         "alt": "3. Antropofagia: Só me interessa o que não é meu",
         "caption": "3. Antropofagia: Só me interessa o que não é meu"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/semana-22/thumb.png",
+    "url": "assets/images/lessons/semana-22/thumb.webp",
     "alt": "Semana de Arte Moderna: A Revolução de 1922",
     "caption": "Semana de Arte Moderna: A Revolução de 1922"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "O Manifesto Antropofágico, escrito por Oswald de Andrade, propunha uma nova relação com a cultura europeia. Essa proposta se baseava em:",
-        "back": "A) Ignorar completamente os avanços tecnológicos da Europa e viver apenas como no período colonial.. A antropofagia é o processo de digestão cultural: pegamos o que é bom do outro e transformamos em algo nosso."
+        "back": "A antropofagia é o processo de digestão cultural: pegamos o que é bom do outro e transformamos em algo nosso."
       },
       {
         "front": "A Semana de Arte Moderna de 1922 ocorreu em um momento de profundas transformações no Brasil. Qual outro evento histórico marcante ocorreu no mesmo ano?",
-        "back": "A) O descobrimento do Ouro em Minas Gerais.. 1922 foi o ano da Semana de 22, do Centenário da Independência e da primeira revolta tenentista."
+        "back": "1922 foi o ano da Semana de 22, do Centenário da Independência e da primeira revolta tenentista."
       }
     ],
     "true_false": [

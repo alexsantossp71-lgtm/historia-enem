@@ -25,7 +25,7 @@
       "content": "Para os judeus dispersos pelo mundo (Diáspora), o retorno para a 'Terra de Israel' (Eretz Yisrael) era místico e político. Após o extermínio de 6 milhões de judeus pelos nazistas, o mundo sentiu-se moralmente obrigado a garantir um porto seguro para esse povo. A Palestina, sob mandato britânico, era o local escolhido, mas já era habitada há séculos por uma maioria árabe muçulmana e cristã.",
       "highlight": "Israel nasceu da tragédia do Holocausto e da esperança sionista.",
       "image": {
-        "url": "assets/images/lessons/conflitos-oriente-medio/section_0.png",
+        "url": "assets/images/lessons/conflitos-oriente-medio/section_0.webp",
         "alt": "1. Sionismo e a Herança da 2ª Guerra",
         "caption": "1. Sionismo e a Herança da 2ª Guerra"
       }
@@ -35,7 +35,7 @@
       "content": "A ONU propôs dividir a terra: 55% para os judeus e 45% para os árabes. Jerusalém seria uma zona internacional neutra. Os árabes rejeitaram, pois consideravam injusto perderem suas terras ancestrais por uma decisão tomada pela Europa. No dia seguinte à independência de Israel, exércitos do Egito, Jordânia, Síria e Iraque invadiram a região. Israel venceu e expandiu seu território além do planejado pela ONU.",
       "highlight": "A partilha da ONU foi a certidão de nascimento de Israel e o dia da catástrofe ('Nakba') para os palestinos.",
       "image": {
-        "url": "assets/images/lessons/conflitos-oriente-medio/section_1.png",
+        "url": "assets/images/lessons/conflitos-oriente-medio/section_1.webp",
         "alt": "2. ONU 1947: O Mapa da Discórdia",
         "caption": "2. ONU 1947: O Mapa da Discórdia"
       }
@@ -45,7 +45,7 @@
       "content": "Sentindo um ataque iminente, Israel destruiu as forças aéreas árabes em poucas horas. Em seis dias, triplicou de tamanho, tomando as Colinas de Golã (Síria), o Sinai (Egito) e o controle total de Jerusalém. Desde então, a fronteira de 1967 é a base de todas as negociações de paz, exigindo que Israel se retire dessas áreas em troca de segurança permanente.",
       "highlight": "A guerra de 1967 fez de Israel uma potência militar ocupante.",
       "image": {
-        "url": "assets/images/lessons/conflitos-oriente-medio/section_2.png",
+        "url": "assets/images/lessons/conflitos-oriente-medio/section_2.webp",
         "alt": "3. 1967: Os Seis Dias que Mudaram a Geografia",
         "caption": "3. 1967: Os Seis Dias que Mudaram a Geografia"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/conflitos-oriente-medio/thumb.png",
+    "url": "assets/images/lessons/conflitos-oriente-medio/thumb.webp",
     "alt": "Oriente Médio: O Barril de Pólvora",
     "caption": "Oriente Médio: O Barril de Pólvora"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A Guerra dos Seis Dias (1967) resultou na ocupação por Israel de territórios estratégicos que são até hoje pontos de disputa. Quais são esses territórios?",
-        "back": "A) Tóquio, Berlim e Nova York.. A ocupação dessas áreas gerou a questão dos assentamentos israelenses e a luta palestina por libertação nacional."
+        "back": "A ocupação dessas áreas gerou a questão dos assentamentos israelenses e a luta palestina por libertação nacional."
       },
       {
         "front": "Qual foi a principal consequência econômica mundial da Guerra do Yom Kippur, em 1973?",
-        "back": "A) A distribuição gratuita de ouro para todos os países africanos.. Os países árabes usaram o petróleo como arma diplomática, demonstrando a dependência energética da economia global."
+        "back": "Os países árabes usaram o petróleo como arma diplomática, demonstrando a dependência energética da economia global."
       },
       {
         "front": "Qual movimento defendia a criação de um Estado judeu na Palestina?",

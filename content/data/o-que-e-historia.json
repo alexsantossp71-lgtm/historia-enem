@@ -14,7 +14,7 @@
     "relevance": 5,
     "area": "Ciências Humanas",
     "subject": "História Geral",
-    "thumbnail": "assets/images/lessons/o-que-e-historia/section_0.png",
+    "thumbnail": "assets/images/lessons/o-que-e-historia/section_0.webp",
     "visual_depth": "elite"
   },
   "intro": "História não é decorar datas. É a ciência que estuda as mudanças e permanências das sociedades humanas ao longo do tempo.",
@@ -25,7 +25,7 @@
       "content": "Marc Bloch, um grande historiador francês, comparava o seu ofício ao de um ogro da lenda: onde ele sente 'carne humana', ele sabe que ali está o seu campo de trabalho. O historiador não julga o passado com a moral de hoje (isso se chama Anacronismo), mas tenta entender por que as pessoas agiam daquela forma na época delas. Ele interroga as fontes para descobrir o que elas escondem e o que elas revelam deliberadamente sobre quem mandou escrevê-las.",
       "highlight": "História é a ciência dos homens no tempo: nada humano é estranho ao historiador.",
       "image": {
-        "url": "assets/images/lessons/o-que-e-historia/section_0.png",
+        "url": "assets/images/lessons/o-que-e-historia/section_0.webp",
         "alt": "Ilustração de 1. O Historiador: O Detetive do Passado",
         "caption": "Interpretacao artistica: 1. O Historiador: O Detetive do Passado"
       }
@@ -35,7 +35,7 @@
       "content": "Antigamente, só valia o que estava escrito no papel oficial. Hoje, uma marchinha de carnaval, um meme da internet ou um resto de cerâmica indígena são fontes tão importantes quanto a Constituição. Se não há fonte, não há história; há ficção. O historiador cruza as informações: ele compara o que o diário do soldado diz com o que o jornal da época noticiava para chegar o mais perto possível da realidade dos fatos.",
       "highlight": "Tudo o que o homem diz ou escreve, tudo o que fabrica, tudo o que toca, pode e deve fornecer informações sobre ele.",
       "image": {
-        "url": "assets/images/lessons/o-que-e-historia/section_1.png",
+        "url": "assets/images/lessons/o-que-e-historia/section_1.webp",
         "alt": "Ilustração de 2. Fontes Históricas: A Prova do Crime",
         "caption": "Interpretacao artistica: 2. Fontes Históricas: A Prova do Crime"
       }
@@ -45,7 +45,7 @@
       "content": "Existe o tempo do relógio (cronológico), mas para a História o que importa é o **Tempo Histórico**. Às vezes, um século passa e quase nada muda no comportamento de um povo (permanência); outras vezes, em dez dias (como na Revolução Francesa ou Russa), o mundo vira de cabeça para baixo (ruptura). O historiador organiza esses tempos em Longa Duração (estruturas como o clima ou a religião) e Curta Duração (eventos curtos como uma eleição ou uma batalha).",
       "highlight": "O tempo histórico não corre à mesma velocidade para todos os povos ao mesmo tempo.",
       "image": {
-        "url": "assets/images/lessons/o-que-e-historia/section_2.png",
+        "url": "assets/images/lessons/o-que-e-historia/section_2.webp",
         "alt": "Ilustração de 3. O Tempo: Relógio vs Sociedade",
         "caption": "Interpretacao artistica: 3. O Tempo: Relógio vs Sociedade"
       }
@@ -125,7 +125,7 @@
       "source": "ENEM"
     }
   ],
-  "thumbnail": "assets/images/lessons/o-que-e-historia/thumb.png",
+  "thumbnail": "assets/images/lessons/o-que-e-historia/thumb.webp",
   "support_texts": [
     {
       "paragraphs": [
@@ -140,11 +140,11 @@
     "flashcards": [
       {
         "front": "O conceito de 'Anacronismo' em História refere-se a qual erro metodológico cometido pelo pesquisador?",
-        "back": "A) A doação imediata de todos os relógios do museu para o governo da China.. O anacronismo é um erro grave, pois retira as ações humanas de seu contexto original."
+        "back": "O anacronismo é um erro grave, pois retira as ações humanas de seu contexto original."
       },
       {
         "front": "A Escola dos Annales, fundada no século XX, revolucionou a historiografia ao defender que:",
-        "back": "A) Apenas os generais e reis deveriam ter suas fotos publicadas em jornais.. Essa escola ampliou o objeto de estudo da história para a totalidade da experiência social."
+        "back": "Essa escola ampliou o objeto de estudo da história para a totalidade da experiência social."
       }
     ],
     "true_false": [

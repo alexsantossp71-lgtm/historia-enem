@@ -25,7 +25,7 @@
       "content": "A Tunísia vivia sob a mão de ferro de Ben Ali por 23 anos. A pobreza e o desrespeito policial eram a regra. Quando o jovem Bouazizi protestou da forma mais radical possível, o povo tunezino percebeu que não tinha mais nada a perder. A 'Revolução de Jasmim' foi a primeira vitória da primavera árabe, provando que um povo unido contra a inflação e a humilhação podia expulsar um ditador para o exílio em semanas.",
       "highlight": "O fogo de Bouazizi iluminou o caminho de liberdade de todo o mundo árabe.",
       "image": {
-        "url": "assets/images/lessons/primavera-arabe-conflitos/section_0.png",
+        "url": "assets/images/lessons/primavera-arabe-conflitos/section_0.webp",
         "alt": "1. O Estopim Tunezino: Bouazizi e o Fogo",
         "caption": "1. O Estopim Tunezino: Bouazizi e o Fogo"
       }
@@ -35,7 +35,7 @@
       "content": "O Egito de Mubarak caiu em 18 dias. A Praça Tahrir tornou-se o Coração do Mundo. Jovens egípcios usavam o Facebook para marcar os locais dos protestos e contornar os bloqueios policiais. As imagens das multidões pedindo 'Pão, Liberdade e Dignidade Social' forçaram o exército egípcio a abandonar Mubarak. Foi a prova definitiva de que a internet mudaria para sempre a forma de se fazer revoluções.",
       "highlight": "Tahrir foi a agulha que furou a bolha do autoritarismo egípcio de 30 anos.",
       "image": {
-        "url": "assets/images/lessons/primavera-arabe-conflitos/section_1.png",
+        "url": "assets/images/lessons/primavera-arabe-conflitos/section_1.webp",
         "alt": "2. Egito e a Praça Tahrir: O Poder do Hashtag",
         "caption": "2. Egito e a Praça Tahrir: O Poder do Hashtag"
       }
@@ -45,7 +45,7 @@
       "content": "A queda de Gaddafi na Líbia não trouxe paz, mas uma guerra de milícias pelo controle do petróleo. Na Síria, o ditador Bashar al-Assad preferiu bombardear seu próprio povo a entregar o poder. O país tornou-se um palco de guerra entre a Rússia (aliada de Assad) e os EUA (aliados dos rebeldes). A destruição de cidades milenares como Aleppo é a cicatriz desse fracasso democrático no Oriente Médio.",
       "highlight": "Quando o ditador ri da paz, a primavera vira o inverno das metralhadoras.",
       "image": {
-        "url": "assets/images/lessons/primavera-arabe-conflitos/section_2.png",
+        "url": "assets/images/lessons/primavera-arabe-conflitos/section_2.webp",
         "alt": "3. O Inverno Árabe: Caos na Líbia e Síria",
         "caption": "3. O Inverno Árabe: Caos na Líbia e Síria"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/primavera-arabe-conflitos/thumb.png",
+    "url": "assets/images/lessons/primavera-arabe-conflitos/thumb.webp",
     "alt": "Primavera Árabe: A Revolta das Redes",
     "caption": "Primavera Árabe: A Revolta das Redes"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A Primavera Árabe, iniciada em 2010, teve como um de seus principais diferenciais organizacionais:",
-        "back": "A) O uso de pombos correios para enviar mensagens secretas aos faraós.. A internet e as redes sociais foram os catalisadores da rapidez e da amplitude global do movimento."
+        "back": "A internet e as redes sociais foram os catalisadores da rapidez e da amplitude global do movimento."
       },
       {
         "front": "O conflito na Síria, originado no contexto da Primavera Árabe, gerou qual das seguintes situações humanitárias contemporâneas?",
-        "back": "A) A doação gratuita de aviões de guerra para todas as crianças da periferia de Damasco.. A guerra civil síria expulsou milhões de civis de suas casas, criando um desafio humanitário global."
+        "back": "A guerra civil síria expulsou milhões de civis de suas casas, criando um desafio humanitário global."
       },
       {
         "front": "Onde começou a Primavera Árabe?",

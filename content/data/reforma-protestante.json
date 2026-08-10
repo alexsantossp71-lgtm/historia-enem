@@ -25,7 +25,7 @@
       "content": "Lutero não queria destruir a Igreja, queria limpá-la. Ele defendia três solas: *Sola Fide* (Apenas a Fé salva), *Sola Scriptura* (Apenas a Bíblia é regra) e *Sola Gratia* (Apenas a Graça divina). Ao negar que o Papa fosse infalível, Lutero deu ao indivíduo o poder de ler e interpretar a palavra sagrada, o que foi uma das maiores revoluções intelectuais da história ocidental.",
       "highlight": "Lutero derrubou o muro entre o homem e o sagrado.",
       "image": {
-        "url": "assets/images/lessons/reforma-protestante/section_0.png",
+        "url": "assets/images/lessons/reforma-protestante/section_0.webp",
         "alt": "1. Martinho Lutero e o Grito de Wittenberg",
         "caption": "1. Martinho Lutero e o Grito de Wittenberg"
       }
@@ -40,7 +40,7 @@
       "content": "Henrique VIII precisava de um herdeiro homem e de dinheiro para seu reino. O Papa negou o divórcio de Catarina de Aragão, o que serviu de desculpa para o Rei assinar o 'Ato de Supremacia' (1534), tornando-se chefe supremo da Igreja na Inglaterra. O Anglicanismo manteve muitos ritos católicos, mas subordinou a religião aos interesses do Estado Britânico.",
       "highlight": "O anglicanismo foi a reforma das terras e do poder político real.",
       "image": {
-        "url": "assets/images/lessons/reforma-protestante/section_2.png",
+        "url": "assets/images/lessons/reforma-protestante/section_2.webp",
         "alt": "3. Anglicanismo: A Igreja do Rei",
         "caption": "3. Anglicanismo: A Igreja do Rei"
       }
@@ -121,7 +121,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/reforma-protestante/thumb.png",
+    "url": "assets/images/lessons/reforma-protestante/thumb.webp",
     "alt": "Reforma e Contrarreforma: A Cisão da Cristandade",
     "caption": "Reforma e Contrarreforma: A Cisão da Cristandade"
   },
@@ -139,11 +139,11 @@
     "flashcards": [
       {
         "front": "A doutrina da 'Predestinação absoluta', que afirmava que o destino da alma de cada pessoa já estava definido por Deus desde o nascimento, é a base teórica de qual religião reformada?",
-        "back": "A) Luteranismo alemão.. A predestinação serviu para justificar a moral rígida e o trabalho incansável dos fiéis reformados."
+        "back": "A predestinação serviu para justificar a moral rígida e o trabalho incansável dos fiéis reformados."
       },
       {
         "front": "O Concílio de Trento (1545-1563) foi a resposta oficial da Igreja Católica à Reforma Protestante. Qual dessas medidas foi tomada pela Igreja nesse momento para conter o avanço das novas ideias?",
-        "back": "A) A tradução da Bíblia para todas as línguas indígenas do mundo.. A Igreja reativou instrumentos de vigilância e censura para manter o controle sobre a doutrina cristã."
+        "back": "A Igreja reativou instrumentos de vigilância e censura para manter o controle sobre a doutrina cristã."
       }
     ],
     "true_false": [

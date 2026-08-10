@@ -10,3 +10,13 @@ desktop.ini
 
 # Build local temp
 *.log
+
+# Backup temporário de conteúdo editado
+.backup_data/
+
+# Arquivos de diagnóstico / limpeza ad hoc
+_check*.js
+_fix*.js
+_d*.js
+_a*.js
+_t*.js

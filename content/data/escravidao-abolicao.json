@@ -24,7 +24,7 @@
       "content": "O tráfico foi a atividade comercial mais lucrativa do Império Português. Milhões morriam na travessia (o 'Tumbeiro'). Chegando ao Brasil, as famílias eram separadas nos portos para evitar a organização de revoltas. A escravidão urbana era comum (escravos de ganho), permitindo que negros circulassem pelas cidades prestando serviços, mas sendo obrigados a entregar a maior parte do lucro aos seus senhores.",
       "highlight": "O tráfico de pessoas foi o motor inicial do capitalismo mercantilista português.",
       "image": {
-        "url": "assets/images/lessons/escravidao-abolicao/section_0.png",
+        "url": "assets/images/lessons/escravidao-abolicao/section_0.webp",
         "alt": "1. O Tráfico Transatlântico: O Navio Negreiro",
         "caption": "1. O Tráfico Transatlântico: O Navio Negreiro"
       }
@@ -34,7 +34,7 @@
       "content": "Localizado na Serra da Barriga (AL), Palmares durou quase um século. Sob a liderança de Ganga Zumba e depois Zumbi, abrigou mais de 20 mil pessoas. Não era apenas um refúgio de escravos fugidos, mas uma sociedade com agricultura própria, comércio com vilas vizinhas e uma organização política sofisticada. Sua queda em 1694 exigiu uma megaexpedição comandada pelo bandeirante Domingos Jorge Velho.",
       "highlight": "Palmares provou que o escravizado não aceitava passivamente sua condição.",
       "image": {
-        "url": "assets/images/lessons/escravidao-abolicao/section_1.png",
+        "url": "assets/images/lessons/escravidao-abolicao/section_1.webp",
         "alt": "2. Quilombo de Palmares: O Estado Negro",
         "caption": "2. Quilombo de Palmares: O Estado Negro"
       }
@@ -44,7 +44,7 @@
       "content": "A abolição foi fruto de três pressões: 1) Internacional (Inglaterra em busca de mercado consumidor livre); 2) Popular (campanhas de intelectuais negros como Luís Gama e José do Patrocínio); 3) Rebeldia (fugas em massa nas fazendas de café nos anos 1880). O abolicionismo foi o maior movimento social do século XIX, reunindo poetas (Castro Alves), mulheres e negros libertos.",
       "highlight": "A abolição não foi um 'presente' da coroa, mas uma conquista arrancada por muita luta.",
       "image": {
-        "url": "assets/images/lessons/escravidao-abolicao/section_2.png",
+        "url": "assets/images/lessons/escravidao-abolicao/section_2.webp",
         "alt": "3. O Movimento Abolicionista: Pressão e Luta",
         "caption": "3. O Movimento Abolicionista: Pressão e Luta"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/escravidao-abolicao/thumb.png",
+    "url": "assets/images/lessons/escravidao-abolicao/thumb.webp",
     "alt": "Escravidão e Abolição no Brasil: Sistema e Resistência",
     "caption": "Escravidão e Abolição no Brasil: Sistema e Resistência"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A Lei Eusébio de Queirós, promulgada em 1850, proibiu o tráfico negreiro transatlântico. Qual foi uma das principais consequências econômicas imediatas dessa lei no Brasil Império?",
-        "back": "A) A falência total da cultura do café no Rio de Janeiro.. O fim do tráfico gerou um capital excedente que o Barão de Mauá e outros usaram para modernizar o início da indústria e transportes."
+        "back": "O fim do tráfico gerou um capital excedente que o Barão de Mauá e outros usaram para modernizar o início da indústria e transportes."
       },
       {
         "front": "O Quilombo de Palmares é frequentemente citado como a principal forma de resistência à escravidão. Por que ele era visto como uma ameaça existencial ao sistema colonial?",
-        "back": "A) Porque os negros de Palmares tinham tecnologia para criar bombas atômicas.. Palmares era um modelo de sociedade alternativa que atraía outros escravizados, ameaçando a ordem colonial."
+        "back": "Palmares era um modelo de sociedade alternativa que atraía outros escravizados, ameaçando a ordem colonial."
       },
       {
         "front": "Qual foi o período em que ocorreu a escravidão africana no Brasil?",

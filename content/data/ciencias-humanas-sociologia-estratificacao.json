@@ -25,7 +25,7 @@
       "content": "Funcionalismo (Davis e Moore): vê a estratificação como necessária para colocar os mais talentosos nas posições mais importantes. Conflito (Marx): vê a estratificação como resultado da exploração de uma classe por outra. Interacionismo: foca em como as pessoas constroem e negociam suas posições sociais através de interações diárias.",
       "highlight": "Nenhuma teoria explica completamente a estratificação; abordagens múltiplas são necessárias.",
       "image": {
-        "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/section_0.png",
+        "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/section_0.webp",
         "alt": "Teorias da Estratificação",
         "caption": "Teorias da Estratificação"
       }
@@ -34,7 +34,7 @@
       "title": "Pobreza e Desigualdade no Brasil",
       "content": "O Brasil apresenta altos níveis de desigualdade, medidos pelo índice de Gini (valor próximo de 0,5 indica alta desigualdade). Fatores incluem: legado histórico da escravidão, concentração de fundiários, acesso desigual à educação e oportunidades regionais desigualdes. Programas como o Bolsa Família tentam reduzir a pobreza através de transferência de renda condicionada.",
       "image": {
-        "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/section_1.png",
+        "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/section_1.webp",
         "alt": "Pobreza e Desigualdade no Brasil",
         "caption": "Pobreza e Desigualdade no Brasil"
       },
@@ -115,7 +115,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/thumb.png",
+    "url": "assets/images/lessons/ciencias-humanas-sociologia-estratificacao/thumb.webp",
     "alt": "Sociologia: Estratificação Social e Classes Sociais",
     "caption": "Sociologia: Estratificação Social e Classes Sociais"
   },
@@ -133,7 +133,7 @@
     "flashcards": [
       {
         "front": "Segundo o índice de Gini, qual das seguintes afirmações sobre desigualdade de renda está correta?",
-        "back": "A) Quanto mais próximo de 0, maior a desigualdade. O índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Valores próximos de 1 indicam maior desigualdade de renda."
+        "back": "Quanto mais próximo de 0, maior a desigualdade. O índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Valores próximos de 1 indicam maior desigualdade de renda."
       },
       {
         "front": "O que é estratificação social?",

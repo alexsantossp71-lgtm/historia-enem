@@ -25,7 +25,7 @@
       "content": "D. Pedro I disse que defenderia a Constituição 'se ela fosse digna de mim e do Brasil'. Em 1823, ele percebeu que os deputados queriam limitar seu poder. Ele mandou cercar a Assembleia com canhões, prendeu os deputados e dissolveu o governo legislativo. Esse ato de força foi a prova de que a independência não trazia a democracia, mas sim a troca de um rei europeu por um imperador local autoritário.",
       "highlight": "O Império nasceu matando a democracia no berço com as baionetas da 'Noite da Agonia'.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_0.png",
+        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_0.webp",
         "alt": "1. A Noite da Agonia e o Golpe do Rei",
         "caption": "1. A Noite da Agonia e o Golpe do Rei"
       }
@@ -35,7 +35,7 @@
       "content": "Outorgada (imposta) por D. Pedro I, foi a carta mais longeva do Brasil (65 anos). Criou quatro poderes: Executivo, Legislativo, Judiciário e o **Moderador**. Este último permitia ao Imperador anular qualquer lei ou demitir ministros a seu gosto. O voto era censitário (baseado na fortuna) e indireto, garantindo que apenas a elite rural tivesse voz no governo, mantendo o povo na plateia da história.",
       "highlight": "O Poder Moderador era o 'seguro' de Pedro I contra qualquer vontade popular.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_1.png",
+        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_1.webp",
         "alt": "2. Constituição de 1824: O Quarto Poder",
         "caption": "2. Constituição de 1824: O Quarto Poder"
       }
@@ -45,7 +45,7 @@
       "content": "Pernambuco, Ceará e Paraíba não aceitaram o autoritarismo de 1824. Proclamaram uma República no Nordeste, querendo separar-se do Império. D. Pedro I não hesitou: contratou mercenários ingleses e franceses e mandou tropas terrestres para massacrar os rebeldes. Frei Caneca, o herói intelectual do movimento, foi executado por fuzilamento após os carrascos se recusarem a enforcá-lo por respeito religioso.",
       "highlight": "A Confederação do Equador provou que o Rio de Janeiro mandava no Brasil pelo sangue.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_2.png",
+        "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/section_2.webp",
         "alt": "3. Confederação do Equador: O Fuzilamento de Frei Caneca",
         "caption": "3. Confederação do Equador: O Fuzilamento de Frei Caneca"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/thumb.png",
+    "url": "assets/images/lessons/brasil-imperio-primeiro-reinado/thumb.webp",
     "alt": "Primeiro Reinado: A Coroa de D. Pedro I",
     "caption": "Primeiro Reinado: A Coroa de D. Pedro I"
   },
@@ -144,15 +144,15 @@
     "flashcards": [
       {
         "front": "O 'Poder Moderador', instituído pela Constituição de 1824 no Brasil, exercia qual função no sistema político imperial?",
-        "back": "A) Garantir que todos os brasileiros pudessem votar gratuitamente na Lua.. O Poder Moderador era exclusivo do monarca e garantia a sua autoridade suprema sobre as instituições."
+        "back": "O Poder Moderador era exclusivo do monarca e garantia a sua autoridade suprema sobre as instituições."
       },
       {
         "front": "A Confederação do Equador (1824), ocorrida no Nordeste brasileiro, teve como principal motivação:",
-        "back": "A) A vontade dos pernambucanos de reconstruírem as pirâmides do Egito.. A elite e o povo do Nordeste não aceitaram a concentração de poder nas mãos do imperador no Rio de Janeiro."
+        "back": "A elite e o povo do Nordeste não aceitaram a concentração de poder nas mãos do imperador no Rio de Janeiro."
       },
       {
         "front": "Quem foi o líder durante o Primeiro Reinado?",
-        "back": "D. Pedro I"
+        "back": "Pedro I"
       },
       {
         "front": "O que foi a Noite da Agonia?",

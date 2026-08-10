@@ -26,7 +26,7 @@
       "content": "Até 1930, o Brasil era rural. Com as fábricas, surgiram os operários. Eles não tinham patrões coronéis, então precisavam de um novo tipo de herói. Os líderes populistas entenderam que, para governar, era preciso conquistar o coração de quem vivia nos cortiços e nas favelas, dando-lhes a sensação de pertencimento à nação brasileira por meio do trabalho e do consumo.",
       "highlight": "O populismo foi a resposta política para a multidão que lotava as cidades.",
       "image": {
-        "url": "assets/images/lessons/populismo-brasil/section_0.png",
+        "url": "assets/images/lessons/populismo-brasil/section_0.webp",
         "alt": "1. A Massa Urbana: O Novo Ator Político",
         "caption": "1. A Massa Urbana: O Novo Ator Político"
       }
@@ -36,7 +36,7 @@
       "content": "Sem o rádio, o populismo não existiria. Vargas entrava na casa de todos com o 'Trabalhadores do Brasil!'. A tecnologia permitiu que a voz do líder chegasse aos lugares mais distantes, criando o mito de que o presidente conhecia o sofrimento de cada brasileiro. O rádio transformou o político em uma celebridade, em um membro íntimo da família brasileira.",
       "highlight": "O rádio foi o palco onde os mitos populistas foram construídos.",
       "image": {
-        "url": "assets/images/lessons/populismo-brasil/section_1.png",
+        "url": "assets/images/lessons/populismo-brasil/section_1.webp",
         "alt": "2. O Rádio: O Microfone do 'Pai'",
         "caption": "2. O Rádio: O Microfone do 'Pai'"
       }
@@ -46,7 +46,7 @@
       "content": "No populismo, os direitos não são conquistados pela luta de classes, mas 'dados' pelo Estado bondoso. Vargas criou a carteira de trabalho para que o operário se sentisse um 'filho' do governo. Isso impedia que os sindicatos se tornassem revolucionários socialistas. O Estado era o mediador que acalmava o rico e protegia o pobre, mantendo a ordem capitalista intacta.",
       "highlight": "O paternalismo foi a estratégia para evitar a revolução operária no Brasil.",
       "image": {
-        "url": "assets/images/lessons/populismo-brasil/section_2.png",
+        "url": "assets/images/lessons/populismo-brasil/section_2.webp",
         "alt": "3. Paternalismo e CLT: O Estado Protetor",
         "caption": "3. Paternalismo e CLT: O Estado Protetor"
       }
@@ -127,7 +127,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/populismo-brasil/thumb.png",
+    "url": "assets/images/lessons/populismo-brasil/thumb.webp",
     "alt": "Populismo no Brasil: O Carisma no Poder",
     "caption": "Populismo no Brasil: O Carisma no Poder"
   },
@@ -145,11 +145,11 @@
     "flashcards": [
       {
         "front": "A política populista no Brasil, especialmente durante o governo de Getúlio Vargas, caracterizava-se por qual tipo de relação entre o líder e as massas?",
-        "back": "A) Uma relação fria e distante, baseada apenas na escrita técnica de leis na Lua.. O populismo constrói o mito do governante como um benfeitor pessoal de cada cidadão."
+        "back": "O populismo constrói o mito do governante como um benfeitor pessoal de cada cidadão."
       },
       {
         "front": "O lema 'Rouba mas Faz', atribuído a políticos como Adhemar de Barros, sintetiza qual característica comum a certos regimes populistas?",
-        "back": "A) A honestidade total e absoluta de todos os funcionários públicos.. No populismo pragmático, o resultado visível para a massa justifica os meios utilizados para alcançá-lo."
+        "back": "No populismo pragmático, o resultado visível para a massa justifica os meios utilizados para alcançá-lo."
       },
       {
         "front": "O que é o Populismo?",

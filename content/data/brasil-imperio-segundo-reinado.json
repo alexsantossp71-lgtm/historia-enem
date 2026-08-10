@@ -24,7 +24,7 @@
       "content": "O café foi o salvador da lavoura nacional. No Vale do Paraíba, o cultivo era arcaico e destruía a terra. Já no Oeste Paulista (terra roxa), os fazendeiros eram modernos e dinâmicos, investindo em ferrovias e trazendo imigrantes italianos. O lucro do café criou os 'Barões do Café' e permitiu que o Brasil tivesse seus primeiros bondes, teatros monumentais no Rio e a iluminação a gás nas ruas capitais.",
       "highlight": "O Império brasileiro foi construído sobre sacas de café e trilhos de ferro.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_0.png",
+        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_0.webp",
         "alt": "1. Café: O Ouro Negro Brasileiro",
         "caption": "1. Café: O Ouro Negro Brasileiro"
       }
@@ -34,7 +34,7 @@
       "content": "A Inglaterra, 'policial dos mares', obrigou o Brasil a parar de comprar africanos. D. Pedro II e a elite agrária iniciaram então a substituição da mão de obra. Primeiro veio o sistema de parceria (que faliu por dívidas dos imigrantes), depois o colonato subsidiado pelo governo. Milhões de europeus (italianos, alemães e poloneses) chegaram para trabalhar no café, mudando a cultura e a demografia do Sul e Sudeste para sempre.",
       "highlight": "A imigração foi a solução da elite branca para o fim inevitável da escravidão.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_1.png",
+        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_1.webp",
         "alt": "2. Das Correntes aos Navios de Imigrantes",
         "caption": "2. Das Correntes aos Navios de Imigrantes"
       }
@@ -44,7 +44,7 @@
       "content": "O maior conflito da América do Sul destruiu o Paraguai e endividou o Brasil. Mas, para a política interna, o resultado foi a criação de um Exército orgulhoso e politizado. Os oficiais voltaram da guerra perguntando: 'Por que o Imperador manda tanto?'. O republicanismo nasceu dentro dos quartéis brasileiros pós-1870, tornando os militares os futuros carrascos do trono de Pedro II.",
       "highlight": "O exército de D. Pedro II nasceu no Paraguai e morreu derrubando o próprio criador.",
       "image": {
-        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_2.png",
+        "url": "assets/images/lessons/brasil-imperio-segundo-reinado/section_2.webp",
         "alt": "3. A Guerra do Paraguai: A Glória Amarga",
         "caption": "3. A Guerra do Paraguai: A Glória Amarga"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-imperio-segundo-reinado/thumb.png",
+    "url": "assets/images/lessons/brasil-imperio-segundo-reinado/thumb.webp",
     "alt": "Segundo Reinado: O Apogeu do Império",
     "caption": "Segundo Reinado: O Apogeu do Império"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "O sistema político do Segundo Reinado brasileiro funcionava sob o chamado 'Parlamentarismo às Avessas'. O que essa expressão significava na prática?",
-        "back": "A) Que o povo votava de costas para as urnas de madeira.. No Brasil, o executivo imperial controlava o legislativo, ao contrário do modelo inglês."
+        "back": "No Brasil, o executivo imperial controlava o legislativo, ao contrário do modelo inglês."
       },
       {
         "front": "A Lei Áurea de 1888 foi a etapa final do processo de abolição da escravidão no Brasil. Qual foi a principal consequência política imediata dessa lei para a monarquia?",
-        "back": "A) A doação de todas as fazendas de café para os negros recém-libertos.. Sem indenização, os fazendeiros abandonaram D. Pedro II e abraçaram a causa republicana para se vingarem."
+        "back": "Sem indenização, os fazendeiros abandonaram D. Pedro II e abraçaram a causa republicana para se vingarem."
       },
       {
         "front": "Quando começou o Segundo Reinado?",

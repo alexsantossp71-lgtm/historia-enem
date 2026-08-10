@@ -25,7 +25,7 @@
       "content": "A Operação Condor nasceu em 1975, no Chile, em uma reunião de chefes de inteligência convocada por Manuel Contreras, braço direito de Pinochet. Eles criaram um banco de dados compartilhado sobre 'subversivos' e um sistema de rádio secreto (Condortel). Se um brasileiro fugisse para a Argentina, os militares argentinos o prendiam e o entregavam para ser torturado e morto no Brasil, e vice-versa. As fronteiras viraram armadilhas mortais.",
       "highlight": "A Condor foi a 'globalização' da tortura e do assassinato político.",
       "image": {
-        "url": "assets/images/lessons/operacao-condor-ditaduras/section_0.png",
+        "url": "assets/images/lessons/operacao-condor-ditaduras/section_0.webp",
         "alt": "1. O Pacto Secreto de Santiago",
         "caption": "1. O Pacto Secreto de Santiago"
       }
@@ -35,7 +35,7 @@
       "content": "A ditadura argentina foi a mais cruel da região. Para não deixar rastros dos corpos, os militares criaram os 'vôos da morte': prisioneiros eram dopados e jogados vivos de aviões no Rio da Prata ou no oceano. Milhares de bebês, filhos de prisioneiras, foram roubados e entregues para famílias de militares, uma ferida que a Argentina ainda tenta curar através do DNA e da luta das Avós da Praça de Maio.",
       "highlight": "A Argentina transformou o crime de Estado em um apagamento biológico de uma geração.",
       "image": {
-        "url": "assets/images/lessons/operacao-condor-ditaduras/section_1.png",
+        "url": "assets/images/lessons/operacao-condor-ditaduras/section_1.webp",
         "alt": "2. Argentina: O Vôo da Morte",
         "caption": "2. Argentina: O Vôo da Morte"
       }
@@ -45,7 +45,7 @@
       "content": "O golpe de 1973 no Chile foi transmitido ao vivo pela TV: o bombardeio do palácio presidencial por aviões da própria força aérea. Pinochet transformou o Estádio Nacional de Santiago em um campo de concentração e tortura. O Chile tornou-se o laboratório do neoliberalismo econômico radical de Milton Friedman, enquanto o povo vivia sob silêncio e medo. Pinochet governou até 1990 e morreu sem ser julgado por todos os seus crimes.",
       "highlight": "O Chile de Pinochet foi o casamento entre a liberdade de mercado e a morte das liberdades políticas.",
       "image": {
-        "url": "assets/images/lessons/operacao-condor-ditaduras/section_2.png",
+        "url": "assets/images/lessons/operacao-condor-ditaduras/section_2.webp",
         "alt": "3. Pinochet no Chile: O Estádio da Morte",
         "caption": "3. Pinochet no Chile: O Estádio da Morte"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/operacao-condor-ditaduras/thumb.png",
+    "url": "assets/images/lessons/operacao-condor-ditaduras/thumb.webp",
     "alt": "Operação Condor: O Terror Coordenado",
     "caption": "Operação Condor: O Terror Coordenado"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A Operação Condor, articulada na década de 1970 entre governos ditatoriais da América do Sul, consistia fundamentalmente em:",
-        "back": "A) Uma missão espacial para levar o primeiro sul-americano ao planeta Marte.. A Condor foi uma internacional do terrorismo de Estado na América Latina durante a Guerra Fria."
+        "back": "A Condor foi uma internacional do terrorismo de Estado na América Latina durante a Guerra Fria."
       },
       {
         "front": "A luta das 'Mães da Praça de Maio' na Argentina tornou-se um símbolo mundial de resistência por qual motivo principal?",
-        "back": "A) A vontade delas de que todas as mães do mundo recebessem flores gratuitamente.. As mães foram as únicas que ousaram enfrentar o regime ostensivo em busca da verdade sobre seus parentes sumidos pelo Estado."
+        "back": "As mães foram as únicas que ousaram enfrentar o regime ostensivo em busca da verdade sobre seus parentes sumidos pelo Estado."
       },
       {
         "front": "Qual foi o objetivo da Operação Condor?",

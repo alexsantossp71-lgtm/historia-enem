@@ -24,7 +24,7 @@
       "content": "Povo faminto em frente ao Palácio de Inverno pedindo apenas pão e democracia. A resposta do Czar foi o fuzilamento. Esse dia quebrou o mito de que o Czar era o 'pai' da nação. Nasceram aí os Soviets — comitês de operários e soldados — que seriam a base da revolução dozes anos depois. O regime tentou se salvar criando a Duma (parlamento), mas era tarde demais para o reformismo liberal.",
       "highlight": "O sangue de 1905 foi a tinta que escreveu o destino de 1917.",
       "image": {
-        "url": "assets/images/lessons/revolucao-russa/section_0.png",
+        "url": "assets/images/lessons/revolucao-russa/section_0.webp",
         "alt": "1. O Domingo Sangrento e o Prelúdio de 1905",
         "caption": "1. O Domingo Sangrento e o Prelúdio de 1905"
       }
@@ -34,7 +34,7 @@
       "content": "Os Mencheviques (minoria) acreditavam que a Rússia precisava passar por um capitalismo industrial antes de ser socialista. Queriam reformas graduais. Já os **Bolcheviques** (maioria) queriam a revolução imediata liderada por um partido de profissionais. Para Lênin, o tempo das palavras acabou quando os soldados russos começaram a morrer na lama das trincheiras da Grande Guerra.",
       "highlight": "A revolução bolchevique foi a vitória do radicalismo organizado sobre a indecisão liberal.",
       "image": {
-        "url": "assets/images/lessons/revolucao-russa/section_1.png",
+        "url": "assets/images/lessons/revolucao-russa/section_1.webp",
         "alt": "2. Mencheviques vs. Bolcheviques: A Cisão",
         "caption": "2. Mencheviques vs. Bolcheviques: A Cisão"
       }
@@ -44,7 +44,7 @@
       "content": "Lênin entendeu o que o povo queria. A Rússia foi o primeiro país a sair da 1ª Guerra (Tratado de Brest-Litovsk), entregando territórios para ganhar tempo. A reforma agrária deu terras aos mujiques (camponeses) e as fábricas foram entregues aos operários. Esse tripé garantiu o apoio das massas contra a resistência dos antigos nobres e generais brancos.",
       "highlight": "Paz, Terra e Pão foi a promessa mais poderosa já feita a uma nação desesperada.",
       "image": {
-        "url": "assets/images/lessons/revolucao-russa/section_2.png",
+        "url": "assets/images/lessons/revolucao-russa/section_2.webp",
         "alt": "3. Paz, Terra e Pão: O Marketing Revolucionário",
         "caption": "3. Paz, Terra e Pão: O Marketing Revolucionário"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-russa/thumb.png",
+    "url": "assets/images/lessons/revolucao-russa/thumb.webp",
     "alt": "Revolução Russa: O Nascimento da URSS",
     "caption": "Revolução Russa: O Nascimento da URSS"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "O lema 'Todo poder aos Soviets', defendido pelos bolcheviques em 1917, referia-se a quais instâncias de organização?",
-        "back": "A) Grupos de aristocratas que queriam o retorno do Czar.. Os Soviets eram a expressão da democracia popular que os bolcheviques prometeram fortalecer."
+        "back": "Os Soviets eram a expressão da democracia popular que os bolcheviques prometeram fortalecer."
       },
       {
         "front": "A Nova Política Econômica (NEP), adotada por Lênin em 1921, foi uma medida de emergência que consistia em:",
-        "back": "A) Proibir qualquer tipo de comércio no território russo.. A NEP visava dar fôlego ao país destruído pela guerra civil através de uma abertura controlada ao pequeno capitalismo."
+        "back": "A NEP visava dar fôlego ao país destruído pela guerra civil através de uma abertura controlada ao pequeno capitalismo."
       },
       {
         "front": "Qual era a condição da Rússia no início do século XX?",

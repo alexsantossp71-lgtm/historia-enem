@@ -24,7 +24,7 @@
       "content": "A política feudal era um contrato verbal e sagrado entre nobres. O suserano (superior) oferecia o feudo (benefício) ao vassalo (inferior). Em troca, o vassalo jurava apoio militar e presença na corte. Se um rei fosse suserano de muitos vassalos, ele tinha força; se não doasse terras, perdia o controle. Não havia um governo central forte; o poder estava espalhado por milhares de castelos independentes.",
       "highlight": "Na Idade Média, a palavra de um nobre valia mais que qualquer lei escrita.",
       "image": {
-        "url": "assets/images/lessons/feudalismo/section_0.png",
+        "url": "assets/images/lessons/feudalismo/section_0.webp",
         "alt": "1. Suserania e Vassalagem: Laços de Honra",
         "caption": "1. Suserania e Vassalagem: Laços de Honra"
       }
@@ -34,7 +34,7 @@
       "content": "O feudo era dividido em Manso Senhorial (terras exclusivas do senhor), Manso Servil (onde o servo morava e produzia para si e para o senhor) e Manso Comunal (bosques e pastos comuns). O servo era um camponês que oferecia seu suor em troca de proteção contra bárbaros e piratas. Ele pagava a Talha (metade do que colhia) e a Corveia (trabalhava de graça no campo do senhor alguns dias por semana).",
       "highlight": "O trabalho era o motor invisível que sustentava o luxo da nobreza guerreira.",
       "image": {
-        "url": "assets/images/lessons/feudalismo/section_1.png",
+        "url": "assets/images/lessons/feudalismo/section_1.webp",
         "alt": "2. A Vida no Mansos: O Trabalho Servil",
         "caption": "2. A Vida no Mansos: O Trabalho Servil"
       }
@@ -44,7 +44,7 @@
       "content": "Se o nobre era o rei da terra, a Igreja era a rainha das almas. O Papa tinha o poder de excomungar reis, isolando-os politicamente. Os mosteiros eram os únicos lugares onde se preservava o conhecimento clássico (monges copistas), mas a ciência era vista com desconfiança se questionasse as escrituras. A cultura medieval era profundamente simbólica e voltada para a vida após a morte (Estratégia do Medo do Inferno).",
       "highlight": "A Igreja era o cimento social que unia uma Europa politicamente fragmentada.",
       "image": {
-        "url": "assets/images/lessons/feudalismo/section_2.png",
+        "url": "assets/images/lessons/feudalismo/section_2.webp",
         "alt": "3. A Igreja Católica: O Monopólio da Verdade",
         "caption": "3. A Igreja Católica: O Monopólio da Verdade"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/feudalismo/thumb.png",
+    "url": "assets/images/lessons/feudalismo/thumb.webp",
     "alt": "Idade Média: O Sistema Feudal",
     "caption": "Idade Média: O Sistema Feudal"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "O sistema feudal era caracterizado por uma sociedade estamental e politicamente descentralizada. Qual era o principal laço que unia a classe da nobreza guerreira?",
-        "back": "A) O voto secreto em eleições nacionais organizadas pelo Papa.. A vassalagem criava uma rede de dependência mútua entre os senhores feudais."
+        "back": "A vassalagem criava uma rede de dependência mútua entre os senhores feudais."
       },
       {
         "front": "A crise do século XIV foi composta por três grandes fatores que desestruturaram a Europa Medieval. Quais foram eles?",
-        "back": "A) O descobrimento da América, a invenção da Internet e a queda da Lua.. Esses três fatores combinados reduziram drasticamente a população e forçaram mudanças na economia servil."
+        "back": "Esses três fatores combinados reduziram drasticamente a população e forçaram mudanças na economia servil."
       },
       {
         "front": "O que foi o Feudalismo?",

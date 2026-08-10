@@ -24,7 +24,7 @@
       "content": "No Maranhão (1684), os irmãos Beckman lideraram o povo contra o monopólio da Companhia de Comércio do Maranhão que vendia caro e entregava mercadorias de má qualidade. Foi o primeiro grande grito contra o pacto colonial econômico. Já em Pernambuco (1710), a Guerra dos Mascates opôs a aristocracia rural de Olinda (senhores de engenho em decadência) aos comerciantes portugueses de Recife (os 'Mascates', novos ricos). Mostrou o choque entre a tradição agrária e o novo capital comercial.",
       "highlight": "As revoltas nativistas focavam na sobrevivência econômica local, sem questionar o domínio do Rei.",
       "image": {
-        "url": "assets/images/lessons/revoltas-coloniais/section_0.png",
+        "url": "assets/images/lessons/revoltas-coloniais/section_0.webp",
         "alt": "1. Revolta de Beckman e a Guerra dos Mascates",
         "caption": "1. Revolta de Beckman e a Guerra dos Mascates"
       }
@@ -34,7 +34,7 @@
       "content": "A Inconfidência nasceu em banquetes e saraus literários. Poetas (como Cláudio Manuel da Costa e Tomás Antônio Gonzaga), padres e mineradores endividados com a Coroa planejavam uma república em Vila Rica. Tiradentes, o de menor patente entre eles, foi o bode expiatório usado para amedrontar a população. O movimento foi denunciado por Joaquim Silvério dos Reis em troca do perdão de suas dívidas, antes mesmo de começar.",
       "highlight": "A Inconfidência foi um projeto republicano de elite que temia a libertação dos escravizados.",
       "image": {
-        "url": "assets/images/lessons/revoltas-coloniais/section_1.png",
+        "url": "assets/images/lessons/revoltas-coloniais/section_1.webp",
         "alt": "2. Inconfidência Mineira e o Mito de Tiradentes",
         "caption": "2. Inconfidência Mineira e o Mito de Tiradentes"
       }
@@ -44,7 +44,7 @@
       "content": "Diferente de Minas, na Bahia os panfletos eram colados nas portas das igrejas clamando por 'Liberdade, Igualdade e Fraternidade'. Os soldados e alfaiates baianos queriam o fim do preconceito de cor e a abolição da escravidão. Enquanto a elite de Minas pedia por impostos menores, o povo baiano pedia por comida (pão) e liberdade real para todos os homens, independentemente da raça.",
       "highlight": "A Conjuração Baiana foi o movimento mais próximo dos ideais populares da Revolução Francesa no Brasil.",
       "image": {
-        "url": "assets/images/lessons/revoltas-coloniais/section_2.png",
+        "url": "assets/images/lessons/revoltas-coloniais/section_2.webp",
         "alt": "3. Conjuração Baiana: A Revolta dos Alfaiates",
         "caption": "3. Conjuração Baiana: A Revolta dos Alfaiates"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revoltas-coloniais/thumb.png",
+    "url": "assets/images/lessons/revoltas-coloniais/thumb.webp",
     "alt": "Revoltas Coloniais: Nativismo e Separatismo",
     "caption": "Revoltas Coloniais: Nativismo e Separatismo"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A principal diferença social entre a Inconfidência Mineira (1789) e a Conjuração Baiana (1798) reside no fato de que:",
-        "back": "A) A mineira era de caráter popular e a baiana era comandada por grandes fazendeiros.. A Inconfidência Mineira foi um movimento elitista; a Conjuração Baiana incluiu camadas populares e escravizadas no centro do projeto político."
+        "back": "A Inconfidência Mineira foi um movimento elitista; a Conjuração Baiana incluiu camadas populares e escravizadas no centro do projeto político."
       },
       {
         "front": "O termo 'Revolta Nativista' é atribuído aos conflitos coloniais que:",
-        "back": "A) Queriam a independência total do Brasil e a criação de uma bandeira nacional imediatamente.. O nativismo buscava reformas dentro do sistema colonial, não a quebra do sistema em si."
+        "back": "O nativismo buscava reformas dentro do sistema colonial, não a quebra do sistema em si."
       },
       {
         "front": "Qual é o nome do movimento que ocorreu em Minas Gerais em 1789?",

@@ -24,7 +24,7 @@
       "title": "Diferenças entre Células Procarióticas e Eucarióticas",
       "content": "Procarióticas: sem núcleo verdadeiro, DNA circular no citoplasma, poucos organelos membranosos. Eucarióticas: núcleo verdadeiro com membrana, DNA linear em cromossomos, numerosos organelos membranosos. Exemplos: bactérias (procarióticas) vs. células de plantas e animais (eucarióticas).",
       "image": {
-        "url": "assets/images/lessons/ciencias-natureza-biologia-celula/section_0.png",
+        "url": "assets/images/lessons/ciencias-natureza-biologia-celula/section_0.webp",
         "alt": "Diferenças entre Células Procarióticas e Eucarióticas",
         "caption": "Diferenças entre Células Procarióticas e Eucarióticas"
       },
@@ -35,7 +35,7 @@
       "content": "Mitocôndria: respiração celular e produção de ATP. Cloroplasto: fotossíntese em células vegetais. Retículo endoplasmático rugoso: síntese de proteínas. Lisossomo: digestão de materiais intracelulares. Vacuola: armazenamento e manutenção da pressão osmótica.",
       "highlight": "Cada organela tem uma função especializada que contribui para a homeostase celular.",
       "image": {
-        "url": "assets/images/lessons/ciencias-natureza-biologia-celula/section_1.png",
+        "url": "assets/images/lessons/ciencias-natureza-biologia-celula/section_1.webp",
         "alt": "Funções Principais das Organelas",
         "caption": "Funções Principais das Organelas"
       }
@@ -115,7 +115,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/ciencias-natureza-biologia-celula/thumb.png",
+    "url": "assets/images/lessons/ciencias-natureza-biologia-celula/thumb.webp",
     "alt": "Biologia: Estrutura e Função da Célula",
     "caption": "Biologia: Estrutura e Função da Célula"
   },
@@ -133,7 +133,7 @@
     "flashcards": [
       {
         "front": "Qual organela é responsável pela produção de ATP na célula eucariótica?",
-        "back": "A) Ribossomo. A mitocôndria é conhecida como a 'usina de energia' da célula, onde ocorre a respiração celular e a produção de ATP (adenosina trifosfato), a principal moeda energética celular."
+        "back": "Ribossomo. A mitocôndria é conhecida como a 'usina de energia' da célula, onde ocorre a respiração celular e a produção de ATP (adenosina trifosfato), a principal moeda energética celular."
       },
       {
         "front": "Qual é a principal diferença entre células procarióticas e eucarióticas?",

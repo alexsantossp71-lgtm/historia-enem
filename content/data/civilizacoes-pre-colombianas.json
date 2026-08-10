@@ -14,7 +14,7 @@
     "relevance": 5,
     "area": "Ciências Humanas",
     "subject": "História Geral",
-    "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.png",
+    "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.webp",
     "visual_depth": "elite"
   },
   "intro": "Antes de Colombo, a América era o lar de impérios com cidades maiores que as da Europa e tecnologias de agricultura que ainda nos desafiam hoje.",
@@ -26,7 +26,7 @@
       "content": "Os Maias nunca foram um império único, mas cidades-estado (como Tikal e Palenque) que compartilhavam a mesma cultura refinada. Eles construíram pirâmides astronômicas tão precisas que, durante o equinócio, a sombra do sol forma uma serpente descendo os degraus em Chichén Itzá. Foram matemáticos geniais, inventores do zero séculos antes dos europeus, e tinham um sistema de escrita que foi quase todo queimado pelos padres espanhóis.",
       "highlight": "Os Maias olhavam para o céu e liam o destino da humanidade nos astros.",
       "image": {
-        "url": "assets/images/lessons/civilizacoes-pre-colombianas/section_0.png",
+        "url": "assets/images/lessons/civilizacoes-pre-colombianas/section_0.webp",
         "alt": "Ilustração de 1. Maias: Os Observadores de Estrelas",
         "caption": "Interpretacao artistica: 1. Maias: Os Observadores de Estrelas"
       }
@@ -36,7 +36,7 @@
       "content": "Tenochtitlán era uma ilha em um lago, com canais e pontes levadiças. Quando Cortez chegou, achou a cidade mais limpa e organizada que Madri ou Paris. Para ter comida no deserto, os astecas criaram as Chinampas: canteiros de lama fértil flutuantes que permitiam até cinco colheitas por ano. A religião era o motor do Estado: o Deus Sol precisava de sangue para continuar brilhando, o que justificava as 'Guerras Floridas' para capturar prisioneiros.",
       "highlight": "A capital asteca era um brilho de engenharia e fé no meio das águas.",
       "image": {
-        "url": "assets/images/lessons/civilizacoes-pre-colombianas/section_1.png",
+        "url": "assets/images/lessons/civilizacoes-pre-colombianas/section_1.webp",
         "alt": "Ilustração de 2. Astecas: A Veneza das Américas",
         "caption": "Interpretacao artistica: 2. Astecas: A Veneza das Américas"
       }
@@ -46,7 +46,7 @@
       "content": "Os Incas não tinham escrita, nem rodas e nem cavalos, mas dominaram a montanha mais alta do mundo. Eles construíram um sistema de terraços de plantio ('andenes') que impedia a erosão e criava microclimas para plantar batatas em alturas impossíveis. Seus mensageiros, os 'Chasquis', corriam por estradas de pedra levando notícias de um canto a outro de um império de 12 milhões de pessoas usando apenas o fôlego e os Quipus.",
       "highlight": "O império inca foi o maior exemplo de adaptação humana ao frio e à altitude.",
       "image": {
-        "url": "assets/images/lessons/civilizacoes-pre-colombianas/section_2.png",
+        "url": "assets/images/lessons/civilizacoes-pre-colombianas/section_2.webp",
         "alt": "Ilustração de 3. Incas: Os Senhores das Montanhas",
         "caption": "Interpretacao artistica: 3. Incas: Os Senhores das Montanhas"
       }
@@ -126,7 +126,7 @@
       "source": "ENEM"
     }
   ],
-  "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.png",
+  "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.webp",
   "support_texts": [
     {
       "paragraphs": [
@@ -141,11 +141,11 @@
     "flashcards": [
       {
         "front": "A técnica de agricultura asteca conhecida como 'Chinampas' consistia em qual prática de manejo ambiental?",
-        "back": "A) Enterrar todo o lixo da cidade nas montanhas de ferro.. As chinampas permitiam que a cidade de Tenochtitlán fosse autossuficiente em meio a uma laguna."
+        "back": "As chinampas permitiam que a cidade de Tenochtitlán fosse autossuficiente em meio a uma laguna."
       },
       {
         "front": "Os Incas utilizavam um sistema de registro numérico e contábil sem o uso da escrita alfabética, baseado em cordas coloridas e nós, chamado de:",
-        "back": "A) O rádio de cipó, usado pelos índios da floresta amazônica.. O Quipu era a base da administração centralizada do Império Inca (Tahuantinsuyu)."
+        "back": "O Quipu era a base da administração centralizada do Império Inca (Tahuantinsuyu)."
       },
       {
         "front": "Quem dominava o conceito do zero?",

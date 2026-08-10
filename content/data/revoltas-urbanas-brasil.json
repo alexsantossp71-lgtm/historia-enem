@@ -25,7 +25,7 @@
       "content": "O prefeito Pereira Passos queria 'limpar' o Rio. Para isso, ele derrubou mais de 600 prédios de cortiços no centro da cidade, forçando as populações negras e operárias a subirem os morros ou se mudarem para as periferias distantes. Essa modernização exclusiva para os turistas e para a elite criou a ferida da desigualdade geográfica que o Rio de Janeiro não fechou até hoje. Os pobres, sem teto e sem voz, acumulavam um ódio que explodiria na primeira oportunidade.",
       "highlight": "A beleza de Paris no Rio foi comprada com a demolição do lar dos pobres.",
       "image": {
-        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_0.png",
+        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_0.webp",
         "alt": "1. O Bota-Abaixo: A Expulsão dos Pobres",
         "caption": "1. O Bota-Abaixo: A Expulsão dos Pobres"
       }
@@ -35,7 +35,7 @@
       "content": "Oswaldo Cruz era um cientista brilhante, mas autoritário. Quando a vacina foi imposta por força de lei, o povo reagiu. Casas eram invadidas por brigadas sanitárias e mulheres eram vacinadas à força, o que era visto como uma ofensa à honra da época. Por quatro dias, o Rio virou um campo de batalha: bondes virados, lojas saqueadas e tiroteios. O povo não era 'contra a ciência', mas contra o Estado que só aparecia para demolir casas ou espetar agulhas.",
       "highlight": "A vacina foi a gota d'água em um copo transbordando de exclusão social.",
       "image": {
-        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_1.png",
+        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_1.webp",
         "alt": "2. Revolta da Vacina (1904): O Brinde da Desconfiança",
         "caption": "2. Revolta da Vacina (1904): O Brinde da Desconfiança"
       }
@@ -45,7 +45,7 @@
       "content": "A Marinha era a arma mais aristocrática do Brasil, mas sua tripulação de base era composta quase totalmente por negros e mulatos. O marinheiro Marcelino Rodrigues foi punido com 250 chibatadas diante de todos os colegas por ter levado cachaça para o navio. Foi o basta. João Cândido assumiu o comando dos navios e deu um ultimato ao governo: 'O fim da chibata ou o bombardeio do Rio'. O governo cedeu no papel, mas agiu como traidor na prática.",
       "highlight": "João Cândido provou que o escravo que aprende a navegar não aceita mais o açoite.",
       "image": {
-        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_2.png",
+        "url": "assets/images/lessons/revoltas-urbanas-brasil/section_2.webp",
         "alt": "3. Revolta da Chibata (1910): O Almirante Negro",
         "caption": "3. Revolta da Chibata (1910): O Almirante Negro"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revoltas-urbanas-brasil/thumb.png",
+    "url": "assets/images/lessons/revoltas-urbanas-brasil/thumb.webp",
     "alt": "Vacina e Chibata: O Povo contra o Estado",
     "caption": "Vacina e Chibata: O Povo contra o Estado"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O movimento conhecido como Revolta da Vacina (1904), no Rio de Janeiro, teve como causa principal:",
-        "back": "A) A vontade dos cariocas de que todos os postos de saúde fossem pintados de dourado.. A revolta foi uma explosão de insatisfação popular acumulada contra o descaso e a violência estatal."
+        "back": "A revolta foi uma explosão de insatisfação popular acumulada contra o descaso e a violência estatal."
       },
       {
         "front": "A liderança de João Cândido na Revolta da Chibata (1910) é um marco na história brasileira porque:",
-        "back": "A) Ele foi o primeiro marinheiro a viajar até a lua em um navio de papel.. A luta dos marinheiros pelo fim da chibata foi uma luta tardia, porém essencial, pela abolição mental e institucional no Brasil."
+        "back": "A luta dos marinheiros pelo fim da chibata foi uma luta tardia, porém essencial, pela abolição mental e institucional no Brasil."
       },
       {
         "front": "Quem liderou a Revolta da Chibata?",

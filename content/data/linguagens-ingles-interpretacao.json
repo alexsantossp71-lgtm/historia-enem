@@ -25,7 +25,7 @@
       "content": "Pré-leitura: analisar elementos paratextuais (título, autor, fonte, imagens). Skimming: ler rapidamente para captar a ideia geral. Scanning: procurar informações específicas como nomes, datas, números. Detalhamento: ler com atenção para compreender argumentos e evidências.",
       "highlight": "Combinar diferentes estratégias de leitura aumenta a eficiência e a compreensão.",
       "image": {
-        "url": "assets/images/lessons/linguagens-ingles-interpretacao/section_0.png",
+        "url": "assets/images/lessons/linguagens-ingles-interpretacao/section_0.webp",
         "alt": "Estratégias de Leitura",
         "caption": "Estratégias de Leitura"
       }
@@ -35,7 +35,7 @@
       "content": "Quando encontrar uma palavra desconhecida, observe: 1) Palavras próximas que podem indicar sinônimo ou antônimo. 2) Estrutura da frase (sujeito, verbo, objeto). 3) Pistas de formação (prefixos, sufixos, raízes). 4) Tom do texto (positivo, negativo, neutro). Exemplos: 'The policy was detrimental to small businesses' - 'detrimental' provavelmente significa prejudicial pelo contexto negativo.",
       "highlight": "O contexto frequentemente fornece pistas suficientes para entender o significado sem dicionário.",
       "image": {
-        "url": "assets/images/lessons/linguagens-ingles-interpretacao/section_1.png",
+        "url": "assets/images/lessons/linguagens-ingles-interpretacao/section_1.webp",
         "alt": "Vocabulário em Contexto",
         "caption": "Vocabulário em Contexto"
       }
@@ -115,7 +115,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/linguagens-ingles-interpretacao/thumb.png",
+    "url": "assets/images/lessons/linguagens-ingles-interpretacao/thumb.webp",
     "alt": "Inglês: Interpretação de Textos",
     "caption": "Inglês: Interpretação de Textos"
   },
@@ -133,7 +133,7 @@
     "flashcards": [
       {
         "front": "No trecho 'Despite the challenges, the team persevered and achieved their goals', o que significa a palavra 'persevered'?",
-        "back": "A) Desistiu facilmente. Despite indica contraste; a frase sugere que, embora houvesse desafios, a equipe continuou tentando e conseguiu seus objetivos. Persevered significa persistir, continuar firme apesar de dificuldades."
+        "back": "Desistiu facilmente. Despite indica contraste; a frase sugere que, embora houvesse desafios, a equipe continuou tentando e conseguiu seus objetivos. Persevered significa persistir, continuar firme apesar de dificuldades."
       }
     ],
     "true_false": [

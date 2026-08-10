@@ -25,7 +25,7 @@
       "content": "A Inglaterra venceu a França em 1763, mas ficou com os cofres vazios. A solução dos ingleses foi simples: fazer os colonos americanos pagarem a conta. Eles criaram a Lei do Selo para taxar jornais, a Lei do Açúcar para encarecer o melaço e a Lei do Chá para garantir o monopólio da Companhia das Índias Orientais. Os colonos, que antes viviam em relativa autonomia ('Negligência Salutar'), sentiram o peso do autoritarismo e decidiram que não pagariam um centavo a um Rei que não os deixava ter deputados no parlamento.",
       "highlight": "A independência dos EUA começou no bolso antes de chegar ao coração e à mente.",
       "image": {
-        "url": "assets/images/lessons/independencia-eua/section_0.png",
+        "url": "assets/images/lessons/independencia-eua/section_0.webp",
         "alt": "1. A Guerra dos Sete Anos: O Custo do Ouro",
         "caption": "1. A Guerra dos Sete Anos: O Custo do Ouro"
       }
@@ -35,7 +35,7 @@
       "content": "Em 1773, colonos disfarçados de indígenas invadiram navios ingleses no porto de Boston e jogaram toneladas de chá na água. Foi um prejuízo milionário e uma humilhação pública para a Coroa Inglesa. A reação do Rei George III foi brutas: as Leis Intoleráveis, que fechavam o porto de Boston e ocupavam a cidade com soldados. Em vez de se renderem, as Treze Colônias se uniram em um Congresso na Filadélfia, decidindo que a paz só viria agora com a espada.",
       "highlight": "O porto de Boston virou o xícara de chá da liberdade americana.",
       "image": {
-        "url": "assets/images/lessons/independencia-eua/section_1.png",
+        "url": "assets/images/lessons/independencia-eua/section_1.webp",
         "alt": "2. Boston Tea Party: O Chá no Mar",
         "caption": "2. Boston Tea Party: O Chá no Mar"
       }
@@ -121,7 +121,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/independencia-eua/thumb.png",
+    "url": "assets/images/lessons/independencia-eua/thumb.webp",
     "alt": "Independência dos EUA: A Revolução da Liberdade",
     "caption": "Independência dos EUA: A Revolução da Liberdade"
   },
@@ -139,11 +139,11 @@
     "flashcards": [
       {
         "front": "A principal motivação econômica que levou as Treze Colônias Americanas a buscarem a independência da Inglaterra no século XVIII foi:",
-        "back": "A) A doação gratuita de todo o chá de Boston para os orfanatos de Londres.. A opressão fiscal sem representação política ('No taxation without representation') foi o motor da revolta."
+        "back": "A opressão fiscal sem representação política ('No taxation without representation') foi o motor da revolta."
       },
       {
         "front": "O sistema político de 'Checks and Balances' (Freios e Contrapesos), instituído pela Constituição dos EUA de 1787, serve para:",
-        "back": "A) Impedir que o povo saiba quanto o governo gasta com festas e jantares.. Esse mecanismo é a base da estabilidade democrática americana e inspirou democracias em todo o mundo."
+        "back": "Esse mecanismo é a base da estabilidade democrática americana e inspirou democracias em todo o mundo."
       },
       {
         "front": "Qual foi o lema dos colonos americanos?",

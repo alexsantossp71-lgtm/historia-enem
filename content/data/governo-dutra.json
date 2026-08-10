@@ -25,7 +25,7 @@
       "content": "Após 8 anos de ditadura varguista, o Brasil precisava de uma carta magna democrática. A Constituição de 46 garantiu o direito de greve, a liberdade de imprensa e o fim da censura. Ela foi escrita por parlamentares eleitos de diversos partidos (UDN, PSD, PTB), refletindo um Brasil que queria se livrar do fantasma do autoritarismo, embora ainda fosse conservadora em temas como o voto analfabeto.",
       "highlight": "Em 1946, o Brasil trocou a lei do chicote pela lei da assembleia.",
       "image": {
-        "url": "assets/images/lessons/governo-dutra/section_0.png",
+        "url": "assets/images/lessons/governo-dutra/section_0.webp",
         "alt": "1. A Constituição de 1946: A Liberdade Reencontrada",
         "caption": "1. A Constituição de 1946: A Liberdade Reencontrada"
       }
@@ -35,7 +35,7 @@
       "content": "Dutra foi o presidente mais 'americanófilo' de nossa história. Ele via nos Estados Unidos o modelo a ser seguido e o escudo contra o avanço do comunismo na América Latina. Essa submissão ideológica custou caro ao Brasil, que abriu as pernas para o capital estrangeiro sem exigir as contrapartidas industriais que Vargas sempre exigia. O Brasil virou o quintal de consumo das empresas americanas.",
       "highlight": "Dutra foi o soldado brasileiro na linha de frente ideológica da Guerra Fria.",
       "image": {
-        "url": "assets/images/lessons/governo-dutra/section_1.png",
+        "url": "assets/images/lessons/governo-dutra/section_1.webp",
         "alt": "2. O Beijo na Mão do Gigante: Alinhamento aos EUA",
         "caption": "2. O Beijo na Mão do Gigante: Alinhamento aos EUA"
       }
@@ -45,7 +45,7 @@
       "content": "Por trás do general durão, havia a influência religiosa de sua esposa, D. Carmela Dutra. Sob o argumento moralista de que o jogo destruía as famílias brasileiras, Dutra proibiu os cassinos por decreto em 1946. Grandes hotéis como o Copacabana Palace fecharam suas roletas, gerando desemprego em massa no setor de turismo e lazer, que nunca mais se recuperou totalmente dessa pancada moralista.",
       "highlight": "A moralidade da 'Dona Santinha' ditou as regras da diversão nacional em 46.",
       "image": {
-        "url": "assets/images/lessons/governo-dutra/section_2.png",
+        "url": "assets/images/lessons/governo-dutra/section_2.webp",
         "alt": "3. O Fim dos Dados: A Proibição dos Cassinos",
         "caption": "3. O Fim dos Dados: A Proibição dos Cassinos"
       }
@@ -85,7 +85,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governo-dutra/thumb.png",
+    "url": "assets/images/lessons/governo-dutra/thumb.webp",
     "alt": "Governo Dutra: Democracia e Guerra Fria",
     "caption": "Governo Dutra: Democracia e Guerra Fria"
   },
@@ -103,11 +103,11 @@
     "flashcards": [
       {
         "front": "Durante o governo de Eurico Gaspar Dutra (1946-1951), o Brasil adotou uma postura externa marcante em relação à Guerra Fria. Qual foi ela?",
-        "back": "A) Adoção de uma neutralidade total entre EUA e URSS.. O governo Dutra foi a expressão brasileira da doutrina Truman de contenção do comunismo."
+        "back": "O governo Dutra foi a expressão brasileira da doutrina Truman de contenção do comunismo."
       },
       {
         "front": "Qual foi a principal consequência econômica da política de abertura de importações adotada por Dutra logo no início de seu mandato?",
-        "back": "A) O Brasil tornou-se o país mais rico do mundo em ouro e diamantes.. Ao facilitar a entrada de produtos estrangeiros, Dutra sabotou a balança comercial e as indústrias nacionais incipientes."
+        "back": "Ao facilitar a entrada de produtos estrangeiros, Dutra sabotou a balança comercial e as indústrias nacionais incipientes."
       }
     ],
     "true_false": [

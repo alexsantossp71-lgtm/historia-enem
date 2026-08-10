@@ -25,7 +25,7 @@
       "content": "Quando Cabral chegou, o Brasil não tinha cidades de ouro como as dos Astecas. Portugal estava focado no lucro bilionário das pimentas na Índia. O Brasil foi tratado como uma 'parada de descanso' no caminho para as especiarias. O governo português nem sequer chamava a terra de país; era apenas a 'Ilha de Vera Cruz' ou, mais tarde, a 'Terra de Santa Cruz', vista como uma reserva de madeira para o futuro.",
       "highlight": "O Brasil nasceu como um plano B das especiarias orientais.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_0.png",
+        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_0.webp",
         "alt": "1. O Desinteresse de Portugal (1500)",
         "caption": "1. O Desinteresse de Portugal (1500)"
       }
@@ -35,7 +35,7 @@
       "content": "A madeira era valiosa pela resina vermelha. Os europeus gastavam fortunas para tingir roupas da nobreza e do clero. No litoral brasileiro, essa árvore era abundante. Por ser pesada e difícil de transportar, os portugueses dependiam totalmente do conhecimento e da força física dos indígenas. Portugal decretou o 'Estanco' (monopólio real), proibindo qualquer um de cortar madeira sem pagar impostos à coroa.",
       "highlight": "O primeiro monopólio brasileiro foi sobre a cor vermelha das nossas árvores.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_1.png",
+        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_1.webp",
         "alt": "2. O Pau-Brasil: A Árvore de Sangue",
         "caption": "2. O Pau-Brasil: A Árvore de Sangue"
       }
@@ -45,7 +45,7 @@
       "content": "O indígena não era ingênuo de trocar 'ouro por espelhos'. Para um povo que vivia na Idade da Pedra, um machado de metal ou uma foice valiam mais que um baú de árvores. O escambo era uma relação de troca mútua: o lucro para o português e a tecnologia real para o nativo. Essa aliança permitiu que Portugal conhecesse o interior do litoral sem precisar guerrear com as tribos locais logo de cara.",
       "highlight": "O machado de metal foi a primeira ferramenta da colonização portuguesa.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_2.png",
+        "url": "assets/images/lessons/brasil-colonia-pau-brasil/section_2.webp",
         "alt": "3. O Escambo: Trocas e Alianças",
         "caption": "3. O Escambo: Trocas e Alianças"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-colonia-pau-brasil/thumb.png",
+    "url": "assets/images/lessons/brasil-colonia-pau-brasil/thumb.webp",
     "alt": "Pré-Colonial: O Escambo do Pau-Brasil",
     "caption": "Pré-Colonial: O Escambo do Pau-Brasil"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "Durante o Período Pré-Colonial do Brasil (1500-1530), a principal forma de relação de trabalho entre portugueses e indígenas foi:",
-        "back": "A) A escravidão obrigatória de todos os pajés das tribos.. O escambo foi a base da economia inicial, utilizando o interesse mútuo para a extração madeireira."
+        "back": "O escambo foi a base da economia inicial, utilizando o interesse mútuo para a extração madeireira."
       },
       {
         "front": "Qual fator principal levou Portugal a abandonar o desinteresse pelo Brasil e iniciar a colonização efetiva em 1530?",
-        "back": "A) A vontade do rei de Portugal de aprender a língua tupi.. A vulnerabilidade do litoral brasileiro a invasores obrigou Portugal a investir em capitanias e vilas."
+        "back": "A vulnerabilidade do litoral brasileiro a invasores obrigou Portugal a investir em capitanias e vilas."
       },
       {
         "front": "Qual foi a principal riqueza explorada pelo Portugal no Brasil durante o Período Pré-Colonial?",

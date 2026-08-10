@@ -24,7 +24,7 @@
       "content": "Com a partida de Pedro I, o povo saiu às ruas gritando : 'O Brasil é nosso!'. Os primeiros regentes tentaram acalmar o país com a criação da Guarda Nacional (polícia dos fazendeiros). Foi o momento em que o 'Coronel' (fazendeiro com patente militar comprada) assumiu o controle da ordem local, substituindo o exército oficial que era mal visto por ser leal ao antigo imperador português.",
       "highlight": "A Regência foi o berço do poder local dos fazendeiros no Brasil.",
       "image": {
-        "url": "assets/images/lessons/periodo-regencial-brasil/section_0.png",
+        "url": "assets/images/lessons/periodo-regencial-brasil/section_0.webp",
         "alt": "1. O Brasil Órfão: A Regência Trina",
         "caption": "1. O Brasil Órfão: A Regência Trina"
       }
@@ -34,7 +34,7 @@
       "content": "Os liberais queriam que o Brasil fosse como os EUA: cada província com sua própria lei e polícia. O Ato Adicional extinguiu o Conselho de Estado e criou as assembleias locais. Foi um momento de liberdade administrativa, mas sem recursos nem preparo técnico, as províncias ficaram à mercê dos desmandos das elites locais, acelerando os conflitos armados pelo interior do país.",
       "highlight": "O Ato Adicional foi o sonho federalista que virou o pesadelo das revoltas.",
       "image": {
-        "url": "assets/images/lessons/periodo-regencial-brasil/section_1.png",
+        "url": "assets/images/lessons/periodo-regencial-brasil/section_1.webp",
         "alt": "2. Ato Adicional de 1834: A Experiência Federalista",
         "caption": "2. Ato Adicional de 1834: A Experiência Federalista"
       }
@@ -44,7 +44,7 @@
       "content": "Diogo Antônio Feijó foi o primeiro regente único do Brasil. Um padre de temperamento difícil que tentou manter a ordem em meio à eclosão da Cabanagem e da Farroupilha. Sem apoio do Congresso e cansado de brigar com os conservadores, Feijó renunciou, provando que o Brasil não aceitaria ser governado por um homem comum sem o carisma da coroa real.",
       "highlight": "Feijó tentou ser o rei que a sua batina não permitia ser.",
       "image": {
-        "url": "assets/images/lessons/periodo-regencial-brasil/section_2.png",
+        "url": "assets/images/lessons/periodo-regencial-brasil/section_2.webp",
         "alt": "3. Padre Feijó: O Regente Solitário",
         "caption": "3. Padre Feijó: O Regente Solitário"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/periodo-regencial-brasil/thumb.png",
+    "url": "assets/images/lessons/periodo-regencial-brasil/thumb.webp",
     "alt": "Período Regencial: A República Disfarçada",
     "caption": "Período Regencial: A República Disfarçada"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "O Ato Adicional de 1834, aprovado durante o Período Regencial brasileiro, é considerado um marco na nossa história política por qual motivo?",
-        "back": "A) Por ter transformado o Brasil em uma colônia da Marinha Francesa.. O Ato Adicional foi a tentativa liberal de dar voz política às elites das províncias fora do Rio de Janeiro."
+        "back": "O Ato Adicional foi a tentativa liberal de dar voz política às elites das províncias fora do Rio de Janeiro."
       },
       {
         "front": "Qual foi a principal consequência social das 'Revoltas Regenciais' (Farroupilha, Cabanagem, Sabinada, etc.) que ocorreram entre 1831 e 1845?",
-        "back": "A) A doação gratuita de terras para todos os indígenas do Nordeste.. A instabilidade gerada pelas revoltas unificou as elites em torno da necessidade de um poder central forte."
+        "back": "A instabilidade gerada pelas revoltas unificou as elites em torno da necessidade de um poder central forte."
       },
       {
         "front": "Quando começou o Período Regencial?",

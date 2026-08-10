@@ -25,7 +25,7 @@
       "title": "Gráficos do Movimento",
       "content": "No gráfico s x t: inclinação média = velocidade média; inclinação instantânea = velocidade instantânea. No gráfico v x t: inclinação média = aceleração média; área bajo a curva = deslocamento. No gráfico a x t: área bajo a curva = variação da velocidade.",
       "image": {
-        "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/section_0.png",
+        "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/section_0.webp",
         "alt": "Gráficos do Movimento",
         "caption": "Gráficos do Movimento"
       },
@@ -36,7 +36,7 @@
       "content": "Para movimento com aceleração constante (a): 1) Equação horária da velocidade: v = v₀ + at. 2) Equação horária da posição: s = s₀ + v₀t + (1/2)at². 3) Equação de Torricelli: v² = v₀² + 2aΔs. Estas equações permitem resolver problemas de posição, velocidade e tempo quando três variáveis são conhecidas.",
       "highlight": "As três equações são equivalentes e podem ser usadas de forma intercambiável dependendo dos dados conhecidos.",
       "image": {
-        "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/section_1.png",
+        "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/section_1.webp",
         "alt": "Equações do Horário do MUV",
         "caption": "Equações do Horário do MUV"
       }
@@ -116,7 +116,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/thumb.png",
+    "url": "assets/images/lessons/ciencias-natureza-fisica-mecanica/thumb.webp",
     "alt": "Física: Mecânica - Cinemática",
     "caption": "Física: Mecânica - Cinemática"
   },
@@ -134,7 +134,7 @@
     "flashcards": [
       {
         "front": "Um objeto parte do repouso e acelera uniformemente a 2 m/s². Qual é sua velocidade após 5 segundos?",
-        "back": "A) 2,5 m/s. Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
+        "back": "2,5 m/s. Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
       },
       {
         "front": "O que é posição em cinemática?",
@@ -163,14 +163,19 @@
     ],
     "true_false": [
       {
-        "statement": "5 m/s.",
-        "is_true": false,
-        "explanation": "Mito! Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
+        "statement": "Um objeto que parte do repouso com aceleração uniforme de 2 m/s² atinge 10 m/s após 5 segundos.",
+        "is_true": true,
+        "explanation": "Usando v = v₀ + at = 0 + 2·5 = 10 m/s. A velocidade após 5 s é 10 m/s, e não 5 m/s."
       },
       {
-        "statement": "2,5 m/s.",
+        "statement": "No movimento uniformemente variado, a equação v = v₀ + at relaciona velocidade, aceleração e tempo.",
         "is_true": true,
-        "explanation": "Usando v = v₀ + at, com v₀ = 0, a = 2 m/s² e t = 5 s: v = 0 + (2)(5) = 10 m/s."
+        "explanation": "Essa é a equação horária da velocidade no MUV, uma das mais cobradas no ENEM."
+      },
+      {
+        "statement": "Um gráfico de velocidade por tempo no MUV é sempre uma reta horizontal.",
+        "is_true": false,
+        "explanation": "Mito! No MUV a velocidade varia linearmente; portanto, o gráfico v×t é uma reta inclinada, enquanto a reta horizontal representa movimento com velocidade constante."
       }
     ],
     "memory": [

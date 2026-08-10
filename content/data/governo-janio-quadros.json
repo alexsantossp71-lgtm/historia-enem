@@ -25,7 +25,7 @@
       "content": "Jânio era um mestre da encenação. Ele comia sanduíche de mortadela nos comícios, usava casacos com caspa proposital e falava de forma rebuscada para parecer um intelectual do povo. Sua promessa de varrer a corrupção do governo de JK pegou em cheio a classe média cansada da inflação e das obras superfaturadas de Brasília. Ele foi o primeiro político a vencer apenas com o poder da sua imagem pessoal, sem as velhas oligarquias.",
       "highlight": "Jânio transformou a política brasileira em um grande teatro de variedades.",
       "image": {
-        "url": "assets/images/lessons/governo-janio-quadros/section_0.png",
+        "url": "assets/images/lessons/governo-janio-quadros/section_0.webp",
         "alt": "1. A Vassourinha e o Populismo Exótico",
         "caption": "1. A Vassourinha e o Populismo Exótico"
       }
@@ -40,7 +40,7 @@
       "content": "Enquanto o país fervia com a inflação, Jânio se preocupava com o comprimento das saias e as apostas em rinhas de galo. Ele proibiu o lança-perfume no carnaval e o biquíni nas praias de Copacabana. Esses decretos serviam para distrair o povo dos problemas reais e para satisfazer a base religiosa que o apoiava, mas criaram uma imagem de um presidente instável e lunático.",
       "highlight": "Jânio queria policiar a moral do brasileiro em vez de governar a economia.",
       "image": {
-        "url": "assets/images/lessons/governo-janio-quadros/section_2.png",
+        "url": "assets/images/lessons/governo-janio-quadros/section_2.webp",
         "alt": "3. Decretos de Moral e Costumes",
         "caption": "3. Decretos de Moral e Costumes"
       }
@@ -121,7 +121,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governo-janio-quadros/thumb.png",
+    "url": "assets/images/lessons/governo-janio-quadros/thumb.webp",
     "alt": "Jânio Quadros (1961): A Vassoura no Palácio",
     "caption": "Jânio Quadros (1961): A Vassoura no Palácio"
   },
@@ -139,11 +139,11 @@
     "flashcards": [
       {
         "front": "Qual era o principal objetivo da Política Externa Independente (PEI) adotada pelo governo de Jânio Quadros em 1961?",
-        "back": "A) Declarar guerra aos Estados Unidos para conquistar a Flórida.. A PEI buscava autonomia para o Brasil no cenário de bipolaridade da Guerra Fria."
+        "back": "A PEI buscava autonomia para o Brasil no cenário de bipolaridade da Guerra Fria."
       },
       {
         "front": "O episódio da condecoração de Che Guevara por Jânio Quadros em 1961 é interpretado pelos historiadores como:",
-        "back": "A) Uma prova de que Jânio era um agente secreto cubano infiltrado.. A condecoração foi o ápice do descontentamento da elite nacional com a postura externa de Jânio."
+        "back": "A condecoração foi o ápice do descontentamento da elite nacional com a postura externa de Jânio."
       },
       {
         "front": "Quem foi eleito com uma votação recorde em 1960?",

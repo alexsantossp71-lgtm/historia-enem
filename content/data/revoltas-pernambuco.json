@@ -25,7 +25,7 @@
       "content": "Pernambuco estava cansado de sustentar os luxos dos nobres portugueses que fugiram para o Rio. Em 1817, padres, militares e maçons uniram-se sob as ideias da Revolução Francesa. Proclamaram a República, aboliram impostos sobre comida e convidaram outras províncias para a união. Foi uma revolução de intelectuais e soldados que provou que o Brasil já não aceitava ser colônia de fato.",
       "highlight": "A revolução de 1817 foi o ensaio geral para a independência republicana que falhou.",
       "image": {
-        "url": "assets/images/lessons/revoltas-pernambuco/section_0.png",
+        "url": "assets/images/lessons/revoltas-pernambuco/section_0.webp",
         "alt": "1. 1817: A Revolta dos Padres",
         "caption": "1. 1817: A Revolta dos Padres"
       }
@@ -35,7 +35,7 @@
       "content": "Joaquim do Amor Divino Caneca, o Frei Caneca, foi o maior herói de Pernambuco. Através do jornal 'Typhis Pernambucano', ele atacava o autoritarismo de D. Pedro I e o Poder Moderador. Caneca não era apenas um religioso, mas um teórico da política que defendia que o rei não podia estar acima da lei. Sua execução transformou-o em mártir eterno da liberdade brasileira.",
       "highlight": "Frei Caneca foi o profeta da autonomia federativa do Brasil.",
       "image": {
-        "url": "assets/images/lessons/revoltas-pernambuco/section_1.png",
+        "url": "assets/images/lessons/revoltas-pernambuco/section_1.webp",
         "alt": "2. Frei Caneca: O Mestre da Resistência",
         "caption": "2. Frei Caneca: O Mestre da Resistência"
       }
@@ -45,7 +45,7 @@
       "content": "Em 1824, Pernambuco, Ceará, Paraíba e Rio Grande do Norte tentaram criar a Confederação do Equador. O objetivo era formar uma nação separada, baseada no modelo dos EUA, com voto mais amplo e sem o controle imperial. Eles rejeitavam a Constituição de 1824 imposta por D. Pedro I, que dava ao imperador o direito de anular as leis do parlamento.",
       "highlight": "A Confederação do Equador foi a resposta armada contra o golpe autoritário de D. Pedro I.",
       "image": {
-        "url": "assets/images/lessons/revoltas-pernambuco/section_2.png",
+        "url": "assets/images/lessons/revoltas-pernambuco/section_2.webp",
         "alt": "3. Confederação do Equador: O Sonho de um Novo País",
         "caption": "3. Confederação do Equador: O Sonho de um Novo País"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revoltas-pernambuco/thumb.png",
+    "url": "assets/images/lessons/revoltas-pernambuco/thumb.webp",
     "alt": "Pernambuco Rebelde: 1817 e 1824",
     "caption": "Pernambuco Rebelde: 1817 e 1824"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A Confederação do Equador (1824) foi um movimento separatista que eclodiu em Pernambuco. Qual era o seu principal motivo de indignação contra o Imperador D. Pedro I?",
-        "back": "A) A proibição de comer tapioca na capital.. O Poder Moderador era visto como um golpe na liberdade parlamentar e no federalismo desejado pelas elites do norte."
+        "back": "O Poder Moderador era visto como um golpe na liberdade parlamentar e no federalismo desejado pelas elites do norte."
       },
       {
         "front": "Frei Caneca, líder da Confederação do Equador, foi condenado à morte após o fracasso do movimento. Qual foi o destino final de sua execução?",
-        "back": "A) Foi morto em combate em uma batalha naval contra a Inglaterra.. Nenhum dos carrascos oficiais aceitou pôr a corda no pescoço de Frei Caneca, o que forçou o governo imperial a usar um pelotão de fuzilamento."
+        "back": "Nenhum dos carrascos oficiais aceitou pôr a corda no pescoço de Frei Caneca, o que forçou o governo imperial a usar um pelotão de fuzilamento."
       }
     ],
     "true_false": [

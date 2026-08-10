@@ -24,7 +24,7 @@
       "content": "Os povos indígenas não eram um bloco único. Havia grandes confederações, como a dos Tamoios e Tupi-Guarani, com complexas rotas de comércio (Peabiru) e sofisticada cerâmica (Marajoara). O desconhecimento dessas estruturas pelos colonizadores justificou a barbárie. O indígena foi usado inicialmente como guia e mão de obra no escambo do pau-brasil antes do início da escravidão açucareira.",
       "highlight": "O Brasil de 1500 era um mosaico multicultural vibrante e populoso.",
       "image": {
-        "url": "assets/images/lessons/movimentos-indigenas/section_0.png",
+        "url": "assets/images/lessons/movimentos-indigenas/section_0.webp",
         "alt": "1. Diversidade Pré-Cabralina: O Brasil antes do 'Brasil'",
         "caption": "1. Diversidade Pré-Cabralina: O Brasil antes do 'Brasil'"
       }
@@ -34,7 +34,7 @@
       "content": "A Companhia de Jesus (Jesuítas) tentou 'proteger' o indígena da escravidão militar, mas ao custo da destruição de sua cultura original. Os aldeamentos (Missões) impunham o catolicismo, a monogamia e o trabalho agrícola europeu. Isso gerou conflitos sangrentos com os Bandeirantes paulistas, que invadiam as missões para capturar indígenas já 'domesticados', levando à Guerra Guaranítica no sul do país.",
       "highlight": "A proteção jesuíta era uma faca de dois gumes: preservava a vida, mas apagava a alma indígena.",
       "image": {
-        "url": "assets/images/lessons/movimentos-indigenas/section_1.png",
+        "url": "assets/images/lessons/movimentos-indigenas/section_1.webp",
         "alt": "2. Aldeamentos Jesuítas e o Conflito Cultural",
         "caption": "2. Aldeamentos Jesuítas e o Conflito Cultural"
       }
@@ -43,7 +43,7 @@
       "title": "3. O Século XX e a Política Indigenista",
       "content": "O Marechal Rondon buscou pacificar o interior do Brasil. Embora humanista, sua visão era de que o indígena seria um 'brasileiro em formação'. A criação do Parque Indígena do Xingu (1961), pelos irmãos Villas-Bôas, foi a primeira grande vitória territorial, servindo de modelo para a preservação de biomas. Contudo, a ditadura militar tratou o indígena como um entrave ao desenvolvimento, causando o desaparecimento de centenas de etnias.",
       "image": {
-        "url": "assets/images/lessons/movimentos-indigenas/section_2.png",
+        "url": "assets/images/lessons/movimentos-indigenas/section_2.webp",
         "alt": "3. O Século XX e a Política Indigenista",
         "caption": "3. O Século XX e a Política Indigenista"
       }
@@ -124,7 +124,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/movimentos-indigenas/thumb.png",
+    "url": "assets/images/lessons/movimentos-indigenas/thumb.webp",
     "alt": "Movimentos Indígenas: História e Direito à Terra",
     "caption": "Movimentos Indígenas: História e Direito à Terra"
   },
@@ -142,11 +142,11 @@
     "flashcards": [
       {
         "front": "A Constituição de 1988 é considerada um marco para os povos indígenas por que:",
-        "back": "A) Determinou que todos os indígenas deveriam viver em cidades e falar apenas português.. A Carta de 88 encerrou a tutela assimilacionista, garantindo o direito à diferença cultural e à posse da terra."
+        "back": "A Carta de 88 encerrou a tutela assimilacionista, garantindo o direito à diferença cultural e à posse da terra."
       },
       {
         "front": "O lema do Marechal Rondon, 'Morrer se preciso for, matar nunca', resumia a filosofia do SPI (Serviço de Proteção aos Índios). Qual era a crítica moderna a essa política?",
-        "back": "A) Que ela era excessivamente violenta e matava todos os indígenas.. Rondon era humanista, mas sua política ainda visava transformar o indígena em um cidadão 'brasileiro' comum, apagando sua identidade própria."
+        "back": "Rondon era humanista, mas sua política ainda visava transformar o indígena em um cidadão 'brasileiro' comum, apagando sua identidade própria."
       }
     ],
     "true_false": [

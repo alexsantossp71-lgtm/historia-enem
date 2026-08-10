@@ -25,7 +25,7 @@
       "content": "No estádio de São Januário, no Rio de Janeiro, Vargas celebrava o dia do trabalho com transmissões de rádio para todo o país. Ele não escondia seu título: 'Pai dos Pobres'. Seus discursos eram diretos: 'Trabalhadores do Brasil!'. Ali, ele assinava decretos e anunciava aumentos de salário sob aplausos ensurdecedores de operários que viam, pela primeira vez, um presidente que falava a língua das fábricas, e não apenas dos salões aristocráticos.",
       "highlight": "Vargas transformou o 1º de maio no aniversário da dignidade operária.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-clt/section_0.png",
+        "url": "assets/images/lessons/era-vargas-clt/section_0.webp",
         "alt": "1. 1º de Maio: O Espetáculo do Trabalho",
         "caption": "1. 1º de Maio: O Espetáculo do Trabalho"
       }
@@ -35,7 +35,7 @@
       "content": "Ter a carteira assinada era a prova de que você era um homem 'de bem'. O documento não servia apenas para o emprego; servia para conseguir crédito, moradia e evitar a prisão por 'vadiagem'. Getúlio criou um sistema onde o trabalhador se sentia protegido pelo 'Doutor Getúlio', gerando uma lealdade emocional que duraria décadas após a sua morte. O operário brasileiro agora tinha um rosto e um número no registro do Estado.",
       "highlight": "A carteira de trabalho foi a identidade que Vargas deu ao Brasil urbano.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-clt/section_1.png",
+        "url": "assets/images/lessons/era-vargas-clt/section_1.webp",
         "alt": "2. Carteira de Trabalho: O Selo da Cidadania",
         "caption": "2. Carteira de Trabalho: O Selo da Cidadania"
       }
@@ -45,7 +45,7 @@
       "content": "Para Vargas, a luta de classes era um veneno. Para eliminá-la, ele criou o modelo corporativista: o operário e o patrão deveriam colaborar sob a supervisão do Estado. Os sindicatos autônomos e combativos foram fechados e substituídos pelos sindicatos oficiais. Quem não estivesse no sindicato do governo, não recebia os benefícios da CLT. O Estado era o juiz, o júri e o carrasco econômico da nação.",
       "highlight": "O sindicato em Vargas era o braço do governo dentro das fábricas.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-clt/section_2.png",
+        "url": "assets/images/lessons/era-vargas-clt/section_2.webp",
         "alt": "3. Corporativismo e Sindicatos de Estado",
         "caption": "3. Corporativismo e Sindicatos de Estado"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/era-vargas-clt/thumb.png",
+    "url": "assets/images/lessons/era-vargas-clt/thumb.webp",
     "alt": "CLT e Trabalhismo: A Herança de Getúlio",
     "caption": "CLT e Trabalhismo: A Herança de Getúlio"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A Consolidação das Leis do Trabalho (CLT), promulgada por Getúlio Vargas em 1943, tinha como objetivo político primordial:",
-        "back": "A) Estimular as greves gerais para derrubar o capitalismo brasileiro.. Vargas buscou cooptar o operariado ao oferecer direitos em troca de submissão política e ordem fabril."
+        "back": "Vargas buscou cooptar o operariado ao oferecer direitos em troca de submissão política e ordem fabril."
       },
       {
         "front": "O título de 'Pai dos Pobres', atribuído a Getúlio Vargas na propaganda oficial do Estado Novo, é um exemplo de:",
-        "back": "A) Uma mentira total, já que ele proibiu o uso de dinheiro no Brasil.. O paternalismo foi uma ferramenta de construção de imagem para garantir o apoio incondicional das massas."
+        "back": "O paternalismo foi uma ferramenta de construção de imagem para garantir o apoio incondicional das massas."
       },
       {
         "front": "Em que ano foi fundada a CLT?",

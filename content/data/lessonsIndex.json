@@ -13,7 +13,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/o-que-e-historia/thumb.png",
+    "thumbnail": "assets/images/lessons/o-que-e-historia/thumb.webp",
     "icon": "📜"
   },
   {
@@ -30,7 +30,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/pre-historia/thumb.png",
+    "thumbnail": "assets/images/lessons/pre-historia/thumb.webp",
     "icon": "📜"
   },
   {
@@ -47,7 +47,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/antiguidade-oriental/thumb.png",
+    "thumbnail": "assets/images/lessons/antiguidade-oriental/thumb.webp",
     "icon": "📜"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.png",
+    "thumbnail": "assets/images/lessons/civilizacoes-pre-colombianas/thumb.webp",
     "icon": "📜"
   },
   {
@@ -81,7 +81,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/fenicios-persas-hebreus/thumb.png",
+    "thumbnail": "assets/images/lessons/fenicios-persas-hebreus/thumb.webp",
     "icon": "📜"
   },
   {
@@ -98,7 +98,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/grecia-antiga/thumb.png",
+    "thumbnail": "assets/images/lessons/grecia-antiga/thumb.webp",
     "icon": "📜"
   },
   {
@@ -115,7 +115,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/roma-antiga/thumb.png",
+    "thumbnail": "assets/images/lessons/roma-antiga/thumb.webp",
     "icon": "📜"
   },
   {
@@ -132,7 +132,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/reinos-africa/thumb.png",
+    "thumbnail": "assets/images/lessons/reinos-africa/thumb.webp",
     "icon": "📜"
   },
   {
@@ -149,7 +149,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/feudalismo/thumb.png",
+    "thumbnail": "assets/images/lessons/feudalismo/thumb.webp",
     "icon": "📜"
   },
   {
@@ -166,7 +166,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/renascimento/thumb.png",
+    "thumbnail": "assets/images/lessons/renascimento/thumb.webp",
     "icon": "📜"
   },
   {
@@ -183,7 +183,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/absolutismo-mercantilismo/thumb.png",
+    "thumbnail": "assets/images/lessons/absolutismo-mercantilismo/thumb.webp",
     "icon": "📜"
   },
   {
@@ -200,7 +200,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-colonia-pau-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-colonia-pau-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -217,7 +217,22 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-colonia/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-colonia/thumb.webp",
+    "icon": "📜"
+  },
+  {
+    "id": "model-lesson",
+    "title": "A Colonização Portuguesa no Brasil",
+    "period": "1500 - 1808",
+    "startYear": 1500,
+    "tags": [
+      "Colonização",
+      "Brasil",
+      "História"
+    ],
+    "relevance": 4,
+    "category": "Outras Matérias",
+    "thumbnail": null,
     "icon": "📜"
   },
   {
@@ -234,7 +249,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/movimentos-indigenas/thumb.png",
+    "thumbnail": "assets/images/lessons/movimentos-indigenas/thumb.webp",
     "icon": "📜"
   },
   {
@@ -251,7 +266,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/reforma-protestante/thumb.png",
+    "thumbnail": "assets/images/lessons/reforma-protestante/thumb.webp",
     "icon": "📜"
   },
   {
@@ -268,7 +283,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-colonia-ciclo-acucar/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-colonia-ciclo-acucar/thumb.webp",
     "icon": "📜"
   },
   {
@@ -285,7 +300,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/escravidao-abolicao/thumb.png",
+    "thumbnail": "assets/images/lessons/escravidao-abolicao/thumb.webp",
     "icon": "📜"
   },
   {
@@ -302,7 +317,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/questao-agraria/thumb.png",
+    "thumbnail": "assets/images/lessons/questao-agraria/thumb.webp",
     "icon": "📜"
   },
   {
@@ -319,7 +334,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-colonia-ciclo-ouro/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-colonia-ciclo-ouro/thumb.webp",
     "icon": "📜"
   },
   {
@@ -336,7 +351,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/iluminismo/thumb.png",
+    "thumbnail": "assets/images/lessons/iluminismo/thumb.webp",
     "icon": "📜"
   },
   {
@@ -353,7 +368,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-industrial/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-industrial/thumb.webp",
     "icon": "📜"
   },
   {
@@ -370,7 +385,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/independencia-eua/thumb.png",
+    "thumbnail": "assets/images/lessons/independencia-eua/thumb.webp",
     "icon": "📜"
   },
   {
@@ -387,7 +402,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-francesa/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-francesa/thumb.webp",
     "icon": "📜"
   },
   {
@@ -404,7 +419,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-haiti/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-haiti/thumb.webp",
     "icon": "📜"
   },
   {
@@ -421,7 +436,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/independencia-america-espanhola/thumb.png",
+    "thumbnail": "assets/images/lessons/independencia-america-espanhola/thumb.webp",
     "icon": "📜"
   },
   {
@@ -438,7 +453,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/revoltas-pernambuco/thumb.png",
+    "thumbnail": "assets/images/lessons/revoltas-pernambuco/thumb.webp",
     "icon": "📜"
   },
   {
@@ -455,7 +470,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-imperio-primeiro-reinado/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-imperio-primeiro-reinado/thumb.webp",
     "icon": "📜"
   },
   {
@@ -472,7 +487,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-imperio/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-imperio/thumb.webp",
     "icon": "📜"
   },
   {
@@ -489,7 +504,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/politica-externa/thumb.png",
+    "thumbnail": "assets/images/lessons/politica-externa/thumb.webp",
     "icon": "📜"
   },
   {
@@ -506,7 +521,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucoes-liberais/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucoes-liberais/thumb.webp",
     "icon": "📜"
   },
   {
@@ -523,7 +538,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/periodo-regencial-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/periodo-regencial-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -540,7 +555,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/revoltas-regenciais/thumb.png",
+    "thumbnail": "assets/images/lessons/revoltas-regenciais/thumb.webp",
     "icon": "📜"
   },
   {
@@ -557,7 +572,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/revolucao-farroupilha/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-farroupilha/thumb.webp",
     "icon": "📜"
   },
   {
@@ -591,7 +606,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/brasil-imperio-segundo-reinado/thumb.png",
+    "thumbnail": "assets/images/lessons/brasil-imperio-segundo-reinado/thumb.webp",
     "icon": "📜"
   },
   {
@@ -608,7 +623,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/era-maua/thumb.png",
+    "thumbnail": "assets/images/lessons/era-maua/thumb.webp",
     "icon": "📜"
   },
   {
@@ -625,7 +640,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/unificacoes/thumb.png",
+    "thumbnail": "assets/images/lessons/unificacoes/thumb.webp",
     "icon": "📜"
   },
   {
@@ -642,7 +657,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/guerra-paraguai/thumb.png",
+    "thumbnail": "assets/images/lessons/guerra-paraguai/thumb.webp",
     "icon": "📜"
   },
   {
@@ -659,7 +674,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/imperialismo/thumb.png",
+    "thumbnail": "assets/images/lessons/imperialismo/thumb.webp",
     "icon": "📜"
   },
   {
@@ -676,7 +691,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/coronelismo-republica-velha/thumb.png",
+    "thumbnail": "assets/images/lessons/coronelismo-republica-velha/thumb.webp",
     "icon": "📜"
   },
   {
@@ -693,7 +708,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/republica-velha/thumb.png",
+    "thumbnail": "assets/images/lessons/republica-velha/thumb.webp",
     "icon": "📜"
   },
   {
@@ -710,7 +725,7 @@
     ],
     "relevance": 3,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolta-da-armada/thumb.png",
+    "thumbnail": "assets/images/lessons/revolta-da-armada/thumb.webp",
     "icon": "📜"
   },
   {
@@ -727,7 +742,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/messianismo-campo-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/messianismo-campo-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -744,7 +759,7 @@
     ],
     "relevance": 3,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-federalista/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-federalista/thumb.webp",
     "icon": "📜"
   },
   {
@@ -761,7 +776,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/movimento-operario-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/movimento-operario-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -778,7 +793,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/revoltas-urbanas-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/revoltas-urbanas-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -795,7 +810,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-chinesa/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-chinesa/thumb.webp",
     "icon": "📜"
   },
   {
@@ -812,7 +827,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/primeira-guerra/thumb.png",
+    "thumbnail": "assets/images/lessons/primeira-guerra/thumb.webp",
     "icon": "📜"
   },
   {
@@ -829,7 +844,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-russa/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-russa/thumb.webp",
     "icon": "📜"
   },
   {
@@ -846,7 +861,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/totalitarismo/thumb.png",
+    "thumbnail": "assets/images/lessons/totalitarismo/thumb.webp",
     "icon": "📜"
   },
   {
@@ -863,7 +878,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/semana-22/thumb.png",
+    "thumbnail": "assets/images/lessons/semana-22/thumb.webp",
     "icon": "📜"
   },
   {
@@ -880,7 +895,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/tenentismo-anos-20/thumb.png",
+    "thumbnail": "assets/images/lessons/tenentismo-anos-20/thumb.webp",
     "icon": "📜"
   },
   {
@@ -897,24 +912,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/crise-1929/thumb.png",
-    "icon": "📜"
-  },
-  {
-    "id": "era-vargas-revolucao-30",
-    "title": "Revolução de 1930: O Golpe que Mudou o Brasil",
-    "period": "1930",
-    "startYear": 1930,
-    "tags": [
-      "Vargas",
-      "Aliança Liberal",
-      "João Pessoa",
-      "República Velha",
-      "Café com Leite"
-    ],
-    "relevance": 5,
-    "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/era-vargas-revolucao-30/thumb.png",
+    "thumbnail": "assets/images/lessons/crise-1929/thumb.webp",
     "icon": "📜"
   },
   {
@@ -931,7 +929,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/era-vargas/thumb.png",
+    "thumbnail": "assets/images/lessons/era-vargas/thumb.webp",
     "icon": "📜"
   },
   {
@@ -948,7 +946,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-30/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-30/thumb.webp",
     "icon": "📜"
   },
   {
@@ -965,7 +963,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/revolucao-32/thumb.png",
+    "thumbnail": "assets/images/lessons/revolucao-32/thumb.webp",
     "icon": "📜"
   },
   {
@@ -982,7 +980,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/anl-aib/thumb.png",
+    "thumbnail": "assets/images/lessons/anl-aib/thumb.webp",
     "icon": "📜"
   },
   {
@@ -998,7 +996,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/era-vargas-constituicao-34/thumb.png",
+    "thumbnail": "assets/images/lessons/era-vargas-constituicao-34/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1015,7 +1013,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/estado-novo/thumb.png",
+    "thumbnail": "assets/images/lessons/estado-novo/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1032,7 +1030,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/era-vargas-dip-propaganda/thumb.png",
+    "thumbnail": "assets/images/lessons/era-vargas-dip-propaganda/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1049,7 +1047,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/segunda-guerra/thumb.png",
+    "thumbnail": "assets/images/lessons/segunda-guerra/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1066,7 +1064,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/era-vargas-clt/thumb.png",
+    "thumbnail": "assets/images/lessons/era-vargas-clt/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1083,7 +1081,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/descolonizacao/thumb.png",
+    "thumbnail": "assets/images/lessons/descolonizacao/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1101,7 +1099,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/populismo-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/populismo-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1118,7 +1116,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governo-dutra/thumb.png",
+    "thumbnail": "assets/images/lessons/governo-dutra/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1135,7 +1133,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/guerra-fria/thumb.png",
+    "thumbnail": "assets/images/lessons/guerra-fria/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1152,7 +1150,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/conflitos-oriente-medio/thumb.png",
+    "thumbnail": "assets/images/lessons/conflitos-oriente-medio/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1169,7 +1167,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/segundo-governo-vargas/thumb.png",
+    "thumbnail": "assets/images/lessons/segundo-governo-vargas/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1186,7 +1184,7 @@
     ],
     "relevance": 4,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governo-janio-quadros/thumb.png",
+    "thumbnail": "assets/images/lessons/governo-janio-quadros/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1203,7 +1201,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governo-joao-goulart/thumb.png",
+    "thumbnail": "assets/images/lessons/governo-joao-goulart/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1220,7 +1218,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/ditadura-militar/thumb.png",
+    "thumbnail": "assets/images/lessons/ditadura-militar/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1237,7 +1235,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/operacao-condor-ditaduras/thumb.png",
+    "thumbnail": "assets/images/lessons/operacao-condor-ditaduras/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1254,7 +1252,7 @@
     ],
     "relevance": 5,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/ascensao-china/thumb.png",
+    "thumbnail": "assets/images/lessons/ascensao-china/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1272,7 +1270,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/redemocratizacao/thumb.png",
+    "thumbnail": "assets/images/lessons/redemocratizacao/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1289,7 +1287,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governos-collor-itamar/thumb.png",
+    "thumbnail": "assets/images/lessons/governos-collor-itamar/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1306,7 +1304,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governo-fhc/thumb.png",
+    "thumbnail": "assets/images/lessons/governo-fhc/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1323,7 +1321,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governo-lula/thumb.png",
+    "thumbnail": "assets/images/lessons/governo-lula/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1340,7 +1338,7 @@
     ],
     "relevance": 4,
     "category": "História Geral",
-    "thumbnail": "assets/images/lessons/primavera-arabe-conflitos/thumb.png",
+    "thumbnail": "assets/images/lessons/primavera-arabe-conflitos/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1357,7 +1355,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governos-dilma-temer/thumb.png",
+    "thumbnail": "assets/images/lessons/governos-dilma-temer/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1383,9 +1381,9 @@
     "period": "",
     "startYear": 2025,
     "tags": [],
-    "relevance": 5,
+    "relevance": 0,
     "category": "Outras Matérias",
-    "thumbnail": "assets/images/lessons/ciencias-humanas/thumb.png",
+    "thumbnail": "assets/images/lessons/ciencias-humanas/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1446,7 +1444,7 @@
     "period": "",
     "startYear": 2025,
     "tags": [],
-    "relevance": 5,
+    "relevance": 0,
     "category": "Outras Matérias",
     "thumbnail": "https://images.unsplash.com/photo-1613218283851-9ea3d0350a2e?auto=format&fit=crop&q=85&w=1200&h=600",
     "icon": "📜"
@@ -1465,7 +1463,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/governo-jk/thumb.png",
+    "thumbnail": "assets/images/lessons/governo-jk/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1482,7 +1480,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/guerras-bandeirantes/thumb.png",
+    "thumbnail": "assets/images/lessons/guerras-bandeirantes/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1499,7 +1497,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/independencia-brasil/thumb.png",
+    "thumbnail": "assets/images/lessons/independencia-brasil/thumb.webp",
     "icon": "📜"
   },
   {
@@ -1541,26 +1539,9 @@
     "period": "",
     "startYear": 2025,
     "tags": [],
-    "relevance": 5,
+    "relevance": 0,
     "category": "Outras Matérias",
     "thumbnail": "https://images.unsplash.com/photo-1491841651911-c44c30c34548?auto=format&fit=crop&q=85&w=1200&h=600",
-    "icon": "📜"
-  },
-  {
-    "id": "matematica-algebra-funcoes-1grau",
-    "title": "Algebra: Funções do 1º Grau",
-    "period": "",
-    "startYear": 2025,
-    "tags": [
-      "Matemática",
-      "Algebra",
-      "Funções",
-      "1º Grau",
-      "ENEM"
-    ],
-    "relevance": 5,
-    "category": "Outras Matérias",
-    "thumbnail": "https://images.unsplash.com/photo-1682125773446-259ce64f9dd7?auto=format&fit=crop&q=85&w=1200&h=600",
     "icon": "📜"
   },
   {
@@ -1605,7 +1586,7 @@
     "period": "",
     "startYear": 2025,
     "tags": [],
-    "relevance": 5,
+    "relevance": 0,
     "category": "Outras Matérias",
     "thumbnail": "https://images.unsplash.com/photo-1682125779534-76c5debea767?auto=format&fit=crop&q=85&w=1200&h=600",
     "icon": "📜"
@@ -1624,7 +1605,7 @@
     ],
     "relevance": 5,
     "category": "História do Brasil",
-    "thumbnail": "assets/images/lessons/revoltas-coloniais/thumb.png",
+    "thumbnail": "assets/images/lessons/revoltas-coloniais/thumb.webp",
     "icon": "📜"
   }
 ]

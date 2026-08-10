@@ -25,7 +25,7 @@
       "content": "Com a Lei Eusébio de Queirós (1850), o dinheiro dos traficantes de escravos ficou 'sobrando' no mercado. Mauá percebeu que esse capital poderia financiar a modernização do Império. Ele multiplicou o crédito bancário e investiu pesado no porto do Rio de Janeiro. Pela primeira vez, o Brasil teve um empresário de visão global, que buscava criar uma economia de base industrial e financeira.",
       "highlight": "O progresso de Mauá financiou-se no redirecionamento do lucro do tráfico proibido.",
       "image": {
-        "url": "assets/images/lessons/era-maua/section_0.png",
+        "url": "assets/images/lessons/era-maua/section_0.webp",
         "alt": "1. O Capital do Tráfico e a Modernização",
         "caption": "1. O Capital do Tráfico e a Modernização"
       }
@@ -35,7 +35,7 @@
       "content": "As ferrovias de Mauá substituíram as tropas de mulas que levavam o café nas costas. Com o apoio inicial do governo, ele trouxe a tecnologia de trens e navios a vapor da Inglaterra. O cabo telegráfico foi outra revolução: as notícias da Europa que demoravam meses para chegar em caravelas, agora chegavam em minutos por impulsos elétricos no fundo do mar.",
       "highlight": "O Barão de Mauá foi o homem que deu ao Brasil a velocidade do século XIX.",
       "image": {
-        "url": "assets/images/lessons/era-maua/section_1.png",
+        "url": "assets/images/lessons/era-maua/section_1.webp",
         "alt": "2. Ferrovias e Telégrafo: Encurtando Distâncias",
         "caption": "2. Ferrovias e Telégrafo: Encurtando Distâncias"
       }
@@ -45,7 +45,7 @@
       "content": "Para os senhores de engenho e cafeicultores, Mauá era um 'intruso'. Sua defesa do trabalho livre irritava quem dependia da escravidão. Além disso, a elite parlamentar era ligada aos interesses ingleses, e Mauá tentava fabricar aqui o que o Brasil comprava de Londres. Essa elite conspirou para retirar o apoio do governo às fábricas dele, preferindo manter o pacto café-dependente com a Inglaterra.",
       "highlight": "Mauá foi derrotado pelo conservadorismo de uma elite que temia o progresso industrial.",
       "image": {
-        "url": "assets/images/lessons/era-maua/section_2.png",
+        "url": "assets/images/lessons/era-maua/section_2.webp",
         "alt": "3. O Conflito com a Elite Agrária",
         "caption": "3. O Conflito com a Elite Agrária"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/era-maua/thumb.png",
+    "url": "assets/images/lessons/era-maua/thumb.webp",
     "alt": "A Era Mauá: O Primeiro Surto Industrial",
     "caption": "A Era Mauá: O Primeiro Surto Industrial"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O 'Surto Industrial' da Era Mauá (1844-1875) foi facilitado por uma mudança na legislação alfandegária brasileira do Segundo Reinado. Qual era o nome dessa tarifa portuária?",
-        "back": "A) Tarifa Bill Aberdeen.. A Tarifa Alves Branco aumentou o custo dos importados, dando vantagem competitiva aos produtos fabricados por Mauá."
+        "back": "A Tarifa Alves Branco aumentou o custo dos importados, dando vantagem competitiva aos produtos fabricados por Mauá."
       },
       {
         "front": "Além da industrialização, Irineu Evangelista de Sousa (Barão de Mauá) defendia uma mudança social radical para a época, que era:",
-        "back": "A) A doação de terras brasileiras para a Alemanha.. Mauá via o trabalho livre não apenas como moral, mas como uma necessidade lógica para uma economia industrial de consumo."
+        "back": "Mauá via o trabalho livre não apenas como moral, mas como uma necessidade lógica para uma economia industrial de consumo."
       },
       {
         "front": "Qual foi o principal fator econômico que impulsionou a Era Mauá?",

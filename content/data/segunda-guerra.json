@@ -24,7 +24,7 @@
       "content": "Hitler e Mussolini não apenas governavam; eles controlavam a mente da massa através da propaganda e da educação militarista. O nazismo introduziu o conceito de 'Pureza Racial' (Ariana) e culpava os judeus e comunistas pela crise econômica alemã. O pacto de não agressão (Ribbentrop-Molotov) com Stalin foi apenas uma jogada estratégica antes do ataque real de 1939.",
       "highlight": "O totalitarismo transformou o Estado em uma ferramenta de extermínio e dominação absoluta.",
       "image": {
-        "url": "assets/images/lessons/segunda-guerra/section_0.png",
+        "url": "assets/images/lessons/segunda-guerra/section_0.webp",
         "alt": "1. O Totalitarismo e o Espaço Vital",
         "caption": "1. O Totalitarismo e o Espaço Vital"
       }
@@ -34,7 +34,7 @@
       "content": "A Alemanha conquistou a França em semanas, humilhando os franceses no mesmo vagão de trem da I Guerra. O Japão, por sua vez, buscava criar a 'Esfera de Coprosperidade da Grande Ásia Oriental', invadindo a China e o Sudeste Asiático. A guerra tornou-se total: toda a economia e toda a população das nações em combate foram convocadas para o esforço bélico.",
       "highlight": "Na guerra total, a separação entre soldados e civis deixou de existir na prática.",
       "image": {
-        "url": "assets/images/lessons/segunda-guerra/section_1.png",
+        "url": "assets/images/lessons/segunda-guerra/section_1.webp",
         "alt": "2. Blitzkrieg e o Domínio do Eixo",
         "caption": "2. Blitzkrieg e o Domínio do Eixo"
       }
@@ -44,7 +44,7 @@
       "content": "Em 6 de Junho de 1944 (Dia D), as tropas britânicas, americanas e do Commonwealth desembarcaram na Normandia, abrindo uma frente ocidental de ataque à Alemanha. Pelo leste, os soviéticos avançavam como uma furiosa locomotiva em direção a Berlim. O Eixo começou a colapsar em todas as frentes, com a queda de Mussolini na Itália e o cerco final ao Bunker de Hitler.",
       "highlight": "O desembarque na Normandia foi a maior operação anfíbia de todos os tempos.",
       "image": {
-        "url": "assets/images/lessons/segunda-guerra/section_2.png",
+        "url": "assets/images/lessons/segunda-guerra/section_2.webp",
         "alt": "3. O Dia D e a Virada dos Aliados",
         "caption": "3. O Dia D e a Virada dos Aliados"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/segunda-guerra/thumb.png",
+    "url": "assets/images/lessons/segunda-guerra/thumb.webp",
     "alt": "Segunda Guerra Mundial: O Conflito Total (1939-1945)",
     "caption": "Segunda Guerra Mundial: O Conflito Total (1939-1945)"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A Conferência de Berlim de 1945 e a criação da ONU logo após a guerra visavam:",
-        "back": "A) Garantir que a Alemanha governasse toda a Europa Oriental.. A ONU nasceu dos escombros da guerra com o objetivo primordial de manutenção da paz internacional."
+        "back": "A ONU nasceu dos escombros da guerra com o objetivo primordial de manutenção da paz internacional."
       },
       {
         "front": "O governo de Getúlio Vargas utilizou a entrada do Brasil na guerra para:",
-        "back": "A) Pedir a anexação da Argentina ao território brasileiro.. Vargas negociou a participação militar brasileira em troca de infraestrutura industrial de base."
+        "back": "Vargas negociou a participação militar brasileira em troca de infraestrutura industrial de base."
       }
     ],
     "true_false": [

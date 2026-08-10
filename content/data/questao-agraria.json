@@ -25,7 +25,7 @@
       "content": "As sesmarias eram faixas de terra gigantescas dadas a um 'Sesmeiro' para produzir. O problema é que muito dessas terras ficava abandonada, mas ainda era de propriedade de uma única família. Esse sistema criou o 'Mandonismo Local': o dono da terra era o dono da justiça e da política em sua região, base do que seria o Coronelismo no futuro.",
       "highlight": "O Brasil nasceu como um arquipélago de latifúndios sem povoamento real.",
       "image": {
-        "url": "assets/images/lessons/questao-agraria/section_0.png",
+        "url": "assets/images/lessons/questao-agraria/section_0.webp",
         "alt": "1. O Início de Tudo: Sesmarias e Latifúndios",
         "caption": "1. O Início de Tudo: Sesmarias e Latifúndios"
       }
@@ -35,7 +35,7 @@
       "content": "Até 1850, você podia ocupar uma terra e dizer que era sua (posse). Depois da lei, só quem tinha dinheiro podia comprar. Isso foi feito exatamente quando o fim do tráfico negreiro estava próximo: os fazendeiros não queriam que o ex-escravizado fosse seu vizinho e competisse na produção; queriam que ele passasse da 'senzala' para o trabalho assalariado precário na mesma fazenda.",
       "highlight": "A Lei de Terras foi a maior ferramenta de exclusão social e racial do século XIX.",
       "image": {
-        "url": "assets/images/lessons/questao-agraria/section_1.png",
+        "url": "assets/images/lessons/questao-agraria/section_1.webp",
         "alt": "2. Lei de Terras de 1850: O Excludente Colonial",
         "caption": "2. Lei de Terras de 1850: O Excludente Colonial"
       }
@@ -45,19 +45,14 @@
       "content": "Durante a Ditadura, o governo buscou modernizar o campo com tratores e venenos, mas sem mexer na estrutura da propriedade. O 'Estatuto da Terra' serviu apenas para acalmar os ânimos rurais após a perseguição às Ligas Camponesas. O resultado foi a concentração de renda no campo e a explosão urbana das cidades, que não estavam prontas para receber milhões de migrantes rurais.",
       "highlight": "A ditadura militar industrializou o campo mas concentrou ainda mais a terra.",
       "image": {
-        "url": "assets/images/lessons/questao-agraria/section_2.png",
+        "url": "assets/images/lessons/questao-agraria/section_2.webp",
         "alt": "3. Estatuto da Terra e a Modernização Conservadora",
         "caption": "3. Estatuto da Terra e a Modernização Conservadora"
       }
     },
     {
       "title": "4. O MST e as Ocupações de Terras",
-      "content": "O MST defende que 'terra para quem nela trabalha'. Suas ocupações visam terras que não cumprem sua função social (que são improdutivas ou têm crimes ambientais/trabalhistas). O movimento é o maior produtor de arroz orgânico da América Latina, mostrando que a reforma agrária não é apenas sobre justiça, mas sobre segurança alimentar para a população urbana.",
-      "image": {
-        "url": "/assets/img/historia/reforma_agraria.png",
-        "alt": "Acampamento de reforma agrária com bandeiras",
-        "caption": "A luta pela terra no Brasil envolve ocupações, acampamentos e uma longa disputa jurídica contra o latifúndio improdutivo."
-      }
+      "content": "O MST defende que 'terra para quem nela trabalha'. Suas ocupações visam terras que não cumprem sua função social (que são improdutivas ou têm crimes ambientais/trabalhistas). O movimento é o maior produtor de arroz orgânico da América Latina, mostrando que a reforma agrária não é apenas sobre justiça, mas sobre segurança alimentar para a população urbana."
     },
     {
       "title": "5. Agronegócio vs. Agricultura Familiar",
@@ -130,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/questao-agraria/thumb.png",
+    "url": "assets/images/lessons/questao-agraria/thumb.webp",
     "alt": "A Questão Agrária no Brasil: Histórias de Concentração e Luta",
     "caption": "A Questão Agrária no Brasil: Histórias de Concentração e Luta"
   },
@@ -148,11 +143,11 @@
     "flashcards": [
       {
         "front": "A Lei de Terras de 1850 determinou que as terras devolutas no Brasil só poderiam ser adquiridas através da compra. Qual era o principal objetivo implícito dos legisladores da época?",
-        "back": "A) Estimular a agricultura urbana no Rio de Janeiro e em São Paulo.. A lei foi uma resposta estratégica para privar as camadas populares do acesso à posse da terra."
+        "back": "A lei foi uma resposta estratégica para privar as camadas populares do acesso à posse da terra."
       },
       {
         "front": "De acordo com o Estatuto da Terra (1964) e a Constituição de 1988, para que uma propriedade rural cumpra sua Função Social, ela deve preencher requisitos de:",
-        "back": "A) Apenas produtividade econômica máxima em qualquer condição.. A Função Social da propriedade é um pilar constitucional que exige produtividade ética, ambiental e trabalhista."
+        "back": "A Função Social da propriedade é um pilar constitucional que exige produtividade ética, ambiental e trabalhista."
       }
     ],
     "true_false": [

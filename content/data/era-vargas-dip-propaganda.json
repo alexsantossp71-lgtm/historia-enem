@@ -25,7 +25,7 @@
       "content": "Às 19h, o Brasil parava. Todas as rádios eram obrigadas a transmitir a 'Hora do Brasil'. O locutor abria com o prefixo solene e começava a ler os decretos de Vargas como se fossem presentes para a nação. O rádio foi o 'fio invisível' que uniu o interior do Brasil à capital, mas era um rádio de via única: o governo falava e o povo escutava, sem direito a resposta ou debate.",
       "highlight": "A Hora do Brasil foi o primeiro grande 'reality show' político do rádio mundial.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-dip-propaganda/section_0.png",
+        "url": "assets/images/lessons/era-vargas-dip-propaganda/section_0.webp",
         "alt": "1. A Hora do Brasil: O Silêncio Obrigatório",
         "caption": "1. A Hora do Brasil: O Silêncio Obrigatório"
       }
@@ -35,7 +35,7 @@
       "content": "Antes de Vargas, o samba falava de malandragem e boemia. O DIP incentivou (e censurou) os compositores a falarem de trabalho e patriotismo. O samba 'Aquarela do Brasil' é o exemplo máximo: um Brasil de 'coqueiros e pandeiros' pronto para o turismo. O DIP queria que o trabalhador visse a labuta como uma festa nacional, apagando a realidade dura das favelas e das baixas rendas da propaganda de exportação.",
       "highlight": "Vargas trocou a navalha do malandro pela carteira de trabalho do sambista.",
       "image": {
-        "url": "assets/images/lessons/era-vargas-dip-propaganda/section_1.png",
+        "url": "assets/images/lessons/era-vargas-dip-propaganda/section_1.webp",
         "alt": "2. O Samba de Ordem: A Domesticação da Cultura",
         "caption": "2. O Samba de Ordem: A Domesticação da Cultura"
       }
@@ -121,7 +121,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/era-vargas-dip-propaganda/thumb.png",
+    "url": "assets/images/lessons/era-vargas-dip-propaganda/thumb.webp",
     "alt": "DIP e Propaganda: A Mente do Estado Novo",
     "caption": "DIP e Propaganda: A Mente do Estado Novo"
   },
@@ -139,11 +139,11 @@
     "flashcards": [
       {
         "front": "O Departamento de Imprensa e Propaganda (DIP), criado durante o Estado Novo varguista, exercia qual papel fundamental na sociedade brasileira?",
-        "back": "A) A distribuição gratuita de rádio para todos os índios do Xingu.. O DIP foi a ferramenta de controle ideológico e estético do regime de Getúlio Vargas."
+        "back": "O DIP foi a ferramenta de controle ideológico e estético do regime de Getúlio Vargas."
       },
       {
         "front": "O programa de rádio 'A Hora do Brasil', instituído por Vargas, tinha como objetivo comunicacional:",
-        "back": "A) Transmitir apenas jogos de futebol de várzea do interior de Minas.. O rádio era o principal meio de atingir a população analfabeta e consolidar o projeto varguista."
+        "back": "O rádio era o principal meio de atingir a população analfabeta e consolidar o projeto varguista."
       },
       {
         "front": "Qual foi o ano de criação do DIP?",

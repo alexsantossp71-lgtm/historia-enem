@@ -25,7 +25,7 @@
       "content": "A sociedade colonial espanhola era uma pirâmide de castas. Os Chapetones mandavam em tudo; os Criollos, embora ricos, eram cidadãos de segunda classe. Quando Napoleão prendeu o Rei da Espanha, os Criollos formaram as 'Juntas Governativas', alegando que governavam em nome do rei, mas na verdade estavam treinando para a independência. Foi a revolta dos filhos contra os pais pela herança da terra americana.",
       "highlight": "A independência começou como uma briga doméstica da elite branca colonial.",
       "image": {
-        "url": "assets/images/lessons/independencia-america-espanhola/section_0.png",
+        "url": "assets/images/lessons/independencia-america-espanhola/section_0.webp",
         "alt": "1. Criollos vs Chapetones: A Briga pelo Poder",
         "caption": "1. Criollos vs Chapetones: A Briga pelo Poder"
       }
@@ -116,7 +116,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/independencia-america-espanhola/thumb.png",
+    "url": "assets/images/lessons/independencia-america-espanhola/thumb.webp",
     "alt": "Independência da América Espanhola: Bolívar e San Martín",
     "caption": "Independência da América Espanhola: Bolívar e San Martín"
   },
@@ -134,11 +134,11 @@
     "flashcards": [
       {
         "front": "A elite colonial conhecida como 'Criollos', na América Espanhola do século XIX, liderou os processos de independência visando principalmente:",
-        "back": "A) A doação imediata de todas as terras para os indígenas escravizados.. Os Criollos queriam o controle político e econômico que já exerciam de fato, mas não de direito."
+        "back": "Os Criollos queriam o controle político e econômico que já exerciam de fato, mas não de direito."
       },
       {
         "front": "O projeto político de Simón Bolívar, conhecido como 'Pan-americanismo', defendia qual tese fundamental para o continente?",
-        "back": "A) A divisão da América em pequenos estados rivais para facilitar o comércio.. Bolívar acreditava que apenas a união garantiria a real independência e o progresso da América Latina."
+        "back": "Bolívar acreditava que apenas a união garantiria a real independência e o progresso da América Latina."
       },
       {
         "front": "Quem liderou o movimento de independência na América Espanhola?",

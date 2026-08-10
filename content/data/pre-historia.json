@@ -14,7 +14,7 @@
     "relevance": 4,
     "area": "Ciências Humanas",
     "subject": "História Geral",
-    "thumbnail": "assets/images/lessons/pre-historia/thumb.png",
+    "thumbnail": "assets/images/lessons/pre-historia/thumb.webp",
     "visual_depth": "elite"
   },
   "intro": "A Pré-História não foi um tempo de ignorância, mas de descobertas monumentais: o fogo, a roda e o nascimento da agricultura, que mudaram o destino da nossa espécie para sempre.",
@@ -25,7 +25,7 @@
       "content": "Pense no ser humano como um andarilho eterno. Sem agricultura, ele dependia do que a natureza oferecia. A invenção do fogo foi o nosso primeiro 'grande golpe' contra o destino natural. Com o calor, o cérebro humano pôde se desenvolver mais (carne cozida é melhor digerida), e as cavernas tornaram-se os primeiros 'clubes' sociais onde histórias e crenças eram compartilhadas através da arte rupestre.",
       "highlight": "O fogo tirou a humanidade da escuridão e abriu as portas da civilização.",
       "image": {
-        "url": "assets/images/lessons/pre-historia/section_0.png",
+        "url": "assets/images/lessons/pre-historia/section_0.webp",
         "alt": "Ilustração de 1. O Paleolítico e a Idade do Fogo",
         "caption": "Interpretacao artistica: 1. O Paleolítico e a Idade do Fogo"
       }
@@ -35,7 +35,7 @@
       "content": "Por volta de 10.000 a.C., o clima da Terra mudou, permitindo a agricultura. Isso mudou TUDO. Ter comida estocada significava que nem todo mundo precisava caçar o dia inteiro. Pessoas podiam ser artesãos, sacerdotes ou inventores. O sedentarismo criou a ideia de propriedade, de território e de família nuclear. Foi o nascimento da sociedade complexa que vivemos hoje.",
       "highlight": "A agricultura plantou as sementes da desigualdade e da abundância.",
       "image": {
-        "url": "assets/images/lessons/pre-historia/section_1.png",
+        "url": "assets/images/lessons/pre-historia/section_1.webp",
         "alt": "Ilustração de 2. A Revolução Neolítica: O Fim do Nomadismo",
         "caption": "Interpretacao artistica: 2. A Revolução Neolítica: O Fim do Nomadismo"
       }
@@ -45,7 +45,7 @@
       "content": "Ferro e bronze significavam arados melhores para a terra e espadas melhores para a guerra. As aldeias neolíticas cresceram e tornaram-se cidades muradas para proteger o estoque de grãos contra invasores. Surgiu a necessidade de um líder (Rei) para organizar a defesa e de impostos para sustentar os exércitos. Estava pronto o palco para o nascimento do Estado moderno.",
       "highlight": "O metal deu aos homens o poder de moldar a terra e de dominar o próximo.",
       "image": {
-        "url": "assets/images/lessons/pre-historia/section_2.png",
+        "url": "assets/images/lessons/pre-historia/section_2.webp",
         "alt": "Ilustração de 3. Idade dos Metais e as Cidades-Estado",
         "caption": "Interpretacao artistica: 3. Idade dos Metais e as Cidades-Estado"
       }
@@ -125,7 +125,7 @@
       "source": "ENEM"
     }
   ],
-  "thumbnail": "assets/images/lessons/pre-historia/thumb.png",
+  "thumbnail": "assets/images/lessons/pre-historia/thumb.webp",
   "support_texts": [
     {
       "paragraphs": [
@@ -140,11 +140,11 @@
     "flashcards": [
       {
         "front": "A descoberta da Agricultura, ocorrida no período Neolítico, trouxe mudanças profundas na organização social humana. Qual foi o principal efeito geográfico dessa descoberta?",
-        "back": "A) Aumentou o nomadismo, pois as pessoas tinham que viajar para vender alface.. A agricultura exige permanência na terra para plantar, cuidar e colher."
+        "back": "A agricultura exige permanência na terra para plantar, cuidar e colher."
       },
       {
         "front": "A arte rupestre, encontrada em cavernas ao redor do mundo, é vista pelos historiadores contemporâneos como:",
-        "back": "A) Apenas rabiscos de crianças que não tinham brinquedos.. As pinturas rupestres revelam a visão de mundo e a cultura complexa do homem pré-histórico."
+        "back": "As pinturas rupestres revelam a visão de mundo e a cultura complexa do homem pré-histórico."
       }
     ],
     "true_false": [

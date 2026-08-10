@@ -25,7 +25,7 @@
       "content": "A venda da Vale e da Telebras mudou o cotidiano brasileiro. Antes, uma linha telefônica custava milhares de dólares e era declarada no imposto de renda; após a privatização, o acesso ao telefone se popularizou. Porém, os críticos diziam que o governo estava vendendo o 'patrimônio nacional' a preços de banana para estrangeiros. O conflito entre nacionalismo e privatismo dominou os debates políticos da década de 90.",
       "highlight": "FHC tirou o Estado da gestão das fábricas e o colocou na gestão das leis.",
       "image": {
-        "url": "assets/images/lessons/governo-fhc/section_0.png",
+        "url": "assets/images/lessons/governo-fhc/section_0.webp",
         "alt": "1. Privatizações: Do Estado para o Mercado",
         "caption": "1. Privatizações: Do Estado para o Mercado"
       }
@@ -35,7 +35,7 @@
       "content": "A LRF foi a vacina contra os políticos que gastavam o que não tinham para ganhar eleições. Pela primeira vez, se um governante fizesse dívidas impagáveis, ele poderia responder criminalmente. Essa lei garantiu que o Brasil fosse visto pelo mundo como um país sério e organizado, diminuindo o 'Risco Brasil' e permitindo que o país recebesse novos empréstimos internacionais para hospitais e escolas.",
       "highlight": "A LRF ensinou que o dinheiro público é sagrado e tem limite.",
       "image": {
-        "url": "assets/images/lessons/governo-fhc/section_1.png",
+        "url": "assets/images/lessons/governo-fhc/section_1.webp",
         "alt": "2. Lei de Responsabilidade Fiscal (2000)",
         "caption": "2. Lei de Responsabilidade Fiscal (2000)"
       }
@@ -121,7 +121,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governo-fhc/thumb.png",
+    "url": "assets/images/lessons/governo-fhc/thumb.webp",
     "alt": "Governo FHC: A Era das Privatizações",
     "caption": "Governo FHC: A Era das Privatizações"
   },
@@ -139,11 +139,11 @@
     "flashcards": [
       {
         "front": "A Lei de Responsabilidade Fiscal (2000), sancionada no governo FHC, teve como principal objetivo:",
-        "back": "A) A doação imediata de todo o ouro brasileiro para o Banco Central da China.. A LRF buscou moralizar a gestão do dinheiro público e garantir a sustentabilidade econômica do Estado."
+        "back": "A LRF buscou moralizar a gestão do dinheiro público e garantir a sustentabilidade econômica do Estado."
       },
       {
         "front": "O programa de privatizações nos anos 90, liderado por FHC, baseava-se em qual diretriz econômica global?",
-        "back": "A) O Protecionismo Soviético, com o Estado controlando todas as padarias.. FHC seguiu a tendência mundial de reformular o papel do Estado, saindo da produção direta de bens e focando na regulação."
+        "back": "FHC seguiu a tendência mundial de reformular o papel do Estado, saindo da produção direta de bens e focando na regulação."
       },
       {
         "front": "Quem assumiu a presidência em 1995?",

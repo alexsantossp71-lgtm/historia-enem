@@ -24,7 +24,7 @@
       "content": "Após a I Guerra, a Europa estava em ruínas. A classe média temia uma revolução socialista (como a ocorrida na Rússia em 1917) e os operários estavam famintos. Mussolini e Hitler prometeram ordem, emprego e o retorno ao orgulho nacional. Eles pegaram os símbolos de glória dos impérios passados (Roma e Sacro Império) para convencer as massas de que o futuro seria grandioso sob o comando de um 'homem providencial'.",
       "highlight": "O totalitarismo é o filho bastardo da crise econômica e do medo político.",
       "image": {
-        "url": "assets/images/lessons/totalitarismo/section_0.png",
+        "url": "assets/images/lessons/totalitarismo/section_0.webp",
         "alt": "1. O Surgimento: Do Medo à Salvação",
         "caption": "1. O Surgimento: Do Medo à Salvação"
       }
@@ -34,7 +34,7 @@
       "content": "A escola e a juventude (como a Juventude Hitlerista) foram transformadas em campos de treinamento militar e ideológico. A propaganda não era apenas informativa, era emocional e onipresente. Rádios e jornais repetiam as mesmas mentiras até serem aceitas como verdades. O objetivo era criar um 'Novo Homem', que não questionasse e que sacrificasse sua vida pela vontade do Estado.",
       "highlight": "A propaganda transformou a mentira de estado em fé pública.",
       "image": {
-        "url": "assets/images/lessons/totalitarismo/section_1.png",
+        "url": "assets/images/lessons/totalitarismo/section_1.webp",
         "alt": "2. Doutrinação e Propaganda: O Estado Educador",
         "caption": "2. Doutrinação e Propaganda: O Estado Educador"
       }
@@ -44,7 +44,7 @@
       "content": "No fascismo italiano, o corporativismo substituiu os sindicatos livres por órgãos controlados pelo governo. Patrões e empregados deveriam cooperar em nome da produção nacional e da guerra. Greves e qualquer tipo de conflito de classe foram proibidos, garantindo o lucro das burguesias industriais que financiaram a subida de Mussolini ao poder.",
       "highlight": "O corporativismo fascista foi a mordaça colocada no movimento operário europeu.",
       "image": {
-        "url": "assets/images/lessons/totalitarismo/section_2.png",
+        "url": "assets/images/lessons/totalitarismo/section_2.webp",
         "alt": "3. O Corporativismo e o Controle Social",
         "caption": "3. O Corporativismo e o Controle Social"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/totalitarismo/thumb.png",
+    "url": "assets/images/lessons/totalitarismo/thumb.webp",
     "alt": "Totalitarismo: Fascismo e Nazismo",
     "caption": "Totalitarismo: Fascismo e Nazismo"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "Os regimes totalitários do século XX, apesar de suas diferenças geográficas, possuíam características comuns. Qual das alternativas abaixo apresenta uma dessas características?",
-        "back": "A) A defesa intransigente do pluripartidarismo e da liberdade de imprensa.. A figura do líder centralizador e o controle da informação são a alma do sistema totalitário."
+        "back": "A figura do líder centralizador e o controle da informação são a alma do sistema totalitário."
       },
       {
         "front": "Na Alemanha Nazista, o antissemitismo foi transformado em lei através das 'Leis de Nuremberg'. O objetivo principal dessas leis era:",
-        "back": "A) Estimular o turismo internacional para a Berlim das Olimpíadas.. As leis de 1935 foram o primeiro passo jurídico para o posterior extermínio físico planejado pelo regime."
+        "back": "As leis de 1935 foram o primeiro passo jurídico para o posterior extermínio físico planejado pelo regime."
       }
     ],
     "true_false": [

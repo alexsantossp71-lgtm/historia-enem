@@ -25,7 +25,7 @@
       "content": "A Europa produzia demais. As fábricas de aço e química precisavam de minérios que o solo europeu já não tinha em abundância. A única solução era o expansionismo. A África tornou-se o grande reservatório de carvão e a Ásia o grande mercado consumidor para os tecidos e máquinas de Manchester. O Imperialismo foi a fase superior do capitalismo industrial do século XIX.",
       "highlight": "O progresso europeu foi alimentado pelo saque dos recursos naturais dos outros continentes.",
       "image": {
-        "url": "assets/images/lessons/imperialismo/section_0.png",
+        "url": "assets/images/lessons/imperialismo/section_0.webp",
         "alt": "1. Segunda Revolução Industrial e a Fome por Recursos",
         "caption": "1. Segunda Revolução Industrial e a Fome por Recursos"
       }
@@ -35,7 +35,7 @@
       "content": "O chanceler alemão Otto von Bismarck reuniu os líderes europeus para 'organizar' o roubo da África. Sem a presença de um único africano, eles dividiram o território em áreas de influência. Tribos inimigas foram colocadas no mesmo país, e famílias foram separadas por fronteiras arbitrárias. Isso garantiu a ordem entre os europeus, mas semeou as guerras civis africanas do século XX.",
       "highlight": "A Conferência de Berlim foi o crime diplomático que redesenhou o destino da África.",
       "image": {
-        "url": "assets/images/lessons/imperialismo/section_1.png",
+        "url": "assets/images/lessons/imperialismo/section_1.webp",
         "alt": "2. Conferência de Berlim: A Partilha de um Continente",
         "caption": "2. Conferência de Berlim: A Partilha de um Continente"
       }
@@ -45,7 +45,7 @@
       "content": "Inspirados erroneamente nas ideias de Charles Darwin, cientistas da época tentaram provar que o homem branco europeu era biologicamente superior ao negro e ao asiático. Eles acreditavam que, por terem tecnologia superior, tinham o direito natural de governar as 'raças inferiores'. Rudyard Kipling chamou isso de 'O Fardo do Homem Branco' — a nobre missão de levar a luz da civilização para os bárbaros.",
       "highlight": "O racismo científico foi a ferramenta intelectual para desculpar a exploração militar.",
       "image": {
-        "url": "assets/images/lessons/imperialismo/section_2.png",
+        "url": "assets/images/lessons/imperialismo/section_2.webp",
         "alt": "3. Darwinismo Social: A Justificativa 'Científica'",
         "caption": "3. Darwinismo Social: A Justificativa 'Científica'"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/imperialismo/thumb.png",
+    "url": "assets/images/lessons/imperialismo/thumb.webp",
     "alt": "Imperialismo e Neocolonialismo: O Parto do Século XX",
     "caption": "Imperialismo e Neocolonialismo: O Parto do Século XX"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O termo 'Darwinismo Social' foi utilizado no século XIX para justificar o Imperialismo. Essa teoria baseava-se na ideia de que:",
-        "back": "A) Todas as raças do mundo possuíam o mesmo estágio de desenvolvimento e deveriam viver em total paz.. O Darwinismo Social foi uma distorção das leis da biologia para justificar a dominação política e racial."
+        "back": "O Darwinismo Social foi uma distorção das leis da biologia para justificar a dominação política e racial."
       },
       {
         "front": "Qual foi o principal objetivo da Conferência de Berlim (1884-1885)?",
-        "back": "A) Declarar a independência de todos os países africanos do domínio europeu.. A conferência visava evitar guerras entre os europeus durante a exploração massiva do continente africano."
+        "back": "A conferência visava evitar guerras entre os europeus durante a exploração massiva do continente africano."
       }
     ],
     "true_false": [

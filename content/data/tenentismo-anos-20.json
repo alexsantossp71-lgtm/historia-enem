@@ -25,7 +25,7 @@
       "content": "Em 5 de julho de 1922, o exército cercou o Forte de Copacabana. Em vez de se renderem, os oficiais saíram para a praia com pedaços da bandeira brasileira pregados ao peito. Dos centenas de homens iniciais, sobraram 18 (e dois civis) que enfrentaram as tropas do governo em um tiroteio suicida. Sobreviveram apenas os tenentes Eduardo Gomes e Siqueira Campos, que tornaram-se os primeiros mártires da luta contra a República Velha.",
       "highlight": "Na areia de Copacabana, o tenentismo provou que o exército não aceitaria mais as fraudes dos coronéis.",
       "image": {
-        "url": "assets/images/lessons/tenentismo-anos-20/section_0.png",
+        "url": "assets/images/lessons/tenentismo-anos-20/section_0.webp",
         "alt": "1. Os 18 do Forte: O Batismo de Sangue",
         "caption": "1. Os 18 do Forte: O Batismo de Sangue"
       }
@@ -35,7 +35,7 @@
       "content": "Dois anos após o Forte, São Paulo viveu o maior conflito urbano de sua história. Os tenentes rebeldes tomaram a capital para exigir a renúncia do presidente Artur Bernardes. O governo federal respondeu com bombardeios aéreos indiscriminados sobre áreas civis (como o bairro da Mooca). Os rebeldes recuaram em ordem para o interior, unindo-se aos gaúchos para formar a mítica Coluna Prestes.",
       "highlight": "São Paulo foi o laboratório sangrento da guerra civil tenentista.",
       "image": {
-        "url": "assets/images/lessons/tenentismo-anos-20/section_1.png",
+        "url": "assets/images/lessons/tenentismo-anos-20/section_1.webp",
         "alt": "2. A Revolta de 1924: São Paulo Bombardeada",
         "caption": "2. A Revolta de 1924: São Paulo Bombardeada"
       }
@@ -45,7 +45,7 @@
       "content": "Comandados por Luís Carlos Prestes e Miguel Costa, milhares de homens cruzaram o Brasil do Sul ao Nordeste. Eles não queriam tomar cidades, mas despertar o povo contra os coronéis. Em cada vila, eles queimavam os arquivos de cobrança de impostos e libertavam presos políticos. A Coluna foi invencível, mas exaurida, seus membros fugiram para o exílio na Bolívia em 1927, deixando uma lenda de honra e resistência no sertão.",
       "highlight": "A Coluna Prestes foi a maior marcha militar da história mundial em termos de persistência e distância.",
       "image": {
-        "url": "assets/images/lessons/tenentismo-anos-20/section_2.png",
+        "url": "assets/images/lessons/tenentismo-anos-20/section_2.webp",
         "alt": "3. Coluna Prestes: O Cavaleiro da Esperança",
         "caption": "3. Coluna Prestes: O Cavaleiro da Esperança"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/tenentismo-anos-20/thumb.png",
+    "url": "assets/images/lessons/tenentismo-anos-20/thumb.webp",
     "alt": "Tenentismo: A Espada de Reforma",
     "caption": "Tenentismo: A Espada de Reforma"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "O movimento dos '18 do Forte de Copacabana', ocorrido em 1922, representou qual etapa da história da República Velha?",
-        "back": "A) A vitória definitiva dos coronéis do café sobre os militares.. A revolta foi o primeiro choque militar direto contra o sistema de poder da República Velha."
+        "back": "A revolta foi o primeiro choque militar direto contra o sistema de poder da República Velha."
       },
       {
         "front": "A Coluna Prestes (1925-1927) foi uma marcha militar épica que percorreu o interior do Brasil. Qual era o seu principal objetivo político?",
-        "back": "A) Conquistar terras na floresta amazônica para plantar café e leite.. A Coluna buscava mobilizar o povo para derrubar o poder dos coronéis estaduais."
+        "back": "A Coluna buscava mobilizar o povo para derrubar o poder dos coronéis estaduais."
       }
     ],
     "true_false": [

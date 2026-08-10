@@ -25,7 +25,7 @@
       "content": "A China era governada por imperadores há milênios. Sun Yat-sen liderou o levante que derrubou a dinastia Qing, mas a República era fraca e o país foi dominado por 'Senhores da Guerra' e potências estrangeiras. O Partido Comunista Chinês (PCC) surgiu como uma resposta nacionalista e social para expulsar os europeus e reorganizar a vida camponesa, que era quase medieval.",
       "highlight": "A revolução chinesa começou como um grito de independência contra o imperialismo.",
       "image": {
-        "url": "assets/images/lessons/revolucao-chinesa/section_0.png",
+        "url": "assets/images/lessons/revolucao-chinesa/section_0.webp",
         "alt": "1. A Queda do Dragão e a República (1911)",
         "caption": "1. A Queda do Dragão e a República (1911)"
       }
@@ -35,7 +35,7 @@
       "content": "Cercados pelos exércitos nacionalistas, os comunistas de Mao fizeram uma retirada estratégica de 368 dias pelas montanhas e pântanos da China. Dos 100 mil que partiram, apenas 8 mil chegaram ao final. Essa jornada transformou Mao no líder supremo e provou que o exército comunista tinha a disciplina necessária para vencer. A guerra foi pausada para expulsar os japoneses, mas retomada após 1945.",
       "highlight": "A Longa Marcha foi o mito fundador do exército vermelho chinês.",
       "image": {
-        "url": "assets/images/lessons/revolucao-chinesa/section_1.png",
+        "url": "assets/images/lessons/revolucao-chinesa/section_1.webp",
         "alt": "2. A Longa Marcha e a Guerra Civil",
         "caption": "2. A Longa Marcha e a Guerra Civil"
       }
@@ -45,7 +45,7 @@
       "content": "Mao queria passar a Inglaterra na produção de aço em 15 anos. Ele forçou milhões de camponeses a criarem siderúrgicas de fundo de quintal e a coletivizarem a terra. Os números de colheita eram falsificados pela propaganda, mas a realidade foi um caos administrativo que destruiu a agricultura, levando a um colapso alimentar que matou entre 20 e 40 milhões de pessoas.",
       "highlight": "O voluntarismo de Mao chocou-se com a realidade econômica de forma trágica.",
       "image": {
-        "url": "assets/images/lessons/revolucao-chinesa/section_2.png",
+        "url": "assets/images/lessons/revolucao-chinesa/section_2.webp",
         "alt": "3. Grande Salto Adiante e a Grande Fome",
         "caption": "3. Grande Salto Adiante e a Grande Fome"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-chinesa/thumb.png",
+    "url": "assets/images/lessons/revolucao-chinesa/thumb.webp",
     "alt": "Revolução Chinesa: Do Império à Superpotência",
     "caption": "Revolução Chinesa: Do Império à Superpotência"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A abertura econômica da China na década de 1970, liderada por Deng Xiaoping, criou regiões específicas para atrair empresas estrangeiras e capital capitalista. Qual é o nome dessas regiões?",
-        "back": "A) Colônias Britânicas de Férias.. As ZEEs foram o motor do crescimento chinês, unindo mão de obra barata e capital global."
+        "back": "As ZEEs foram o motor do crescimento chinês, unindo mão de obra barata e capital global."
       },
       {
         "front": "Diferente da revolução russa de 1917, qual foi o principal grupo social que serviu de base para a revolução comunista chinesa liderada por Mao Tsé-Tung?",
-        "back": "A) Os nobres feudais da corte imperial.. Mao adaptou o marxismo à realidade chinesa, focando na massa rural oprimida."
+        "back": "Mao adaptou o marxismo à realidade chinesa, focando na massa rural oprimida."
       },
       {
         "front": "Quem liderou a revolução comunista na China?",

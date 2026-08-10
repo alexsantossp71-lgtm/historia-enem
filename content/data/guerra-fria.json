@@ -25,7 +25,7 @@
       "content": "Após a queda de Hitler, a Alemanha foi dividida em quatro zonas de ocupação, que depois se tornaram duas Alemanhas: a Ocidental (RFA, capitalista) e a Oriental (RDA, socialista). Stalin buscou criar um 'cordão sanitário' na Europa do leste para proteger a Rússia de futuras invasões. Foi o início de uma competição que duraria quase 50 anos por cada palmo do mapa terrestre.",
       "highlight": "O mundo de 1945 não teve paz, teve apenas uma nova forma de guerra invisível.",
       "image": {
-        "url": "assets/images/lessons/guerra-fria/section_0.png",
+        "url": "assets/images/lessons/guerra-fria/section_0.webp",
         "alt": "1. 1945: A Divisão da Alemanha e do Mundo",
         "caption": "1. 1945: A Divisão da Alemanha e do Mundo"
       }
@@ -35,7 +35,7 @@
       "content": "Em 1961, para conter a fuga de cidadãos do lado socialista para o capitalista, a RDA ergueu o Muro de Berlim em uma única noite. O muro cercava Berlim Ocidental e tornou-se a cicatriz física da Guerra Fria. Famílias foram separadas por 28 anos, e quem tentava cruzar a zona da morte era fuzilado, provando a natureza autoritária do regime soviético em crise.",
       "highlight": "O muro era a confissão visual do fracasso comunista em manter seu povo satisfeito.",
       "image": {
-        "url": "assets/images/lessons/guerra-fria/section_1.png",
+        "url": "assets/images/lessons/guerra-fria/section_1.webp",
         "alt": "2. O Muro de Berlim e a Cortina de Ferro",
         "caption": "2. O Muro de Berlim e a Cortina de Ferro"
       }
@@ -45,7 +45,7 @@
       "content": "A conquista do espaço era a maior vitrine de superioridade científica. Se você pode colocar um satélite em órbita (como o Sputnik), pode colocar um míssil nuclear em qualquer cidade inimiga. A chegada de Neil Armstrong na Lua em 1969 foi a maior vitória de propaganda dos EUA, demonstrando que o sistema capitalista era capaz de produzir tecnologia super avançada frente aos soviéticos.",
       "highlight": "A lua foi o último palco da competição ideológica mundial.",
       "image": {
-        "url": "assets/images/lessons/guerra-fria/section_2.png",
+        "url": "assets/images/lessons/guerra-fria/section_2.webp",
         "alt": "3. A Corrida Espacial: Missão à Lua",
         "caption": "3. A Corrida Espacial: Missão à Lua"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/guerra-fria/thumb.png",
+    "url": "assets/images/lessons/guerra-fria/thumb.webp",
     "alt": "Guerra Fria: O Mundo Bipolar (1945-1991)",
     "caption": "Guerra Fria: O Mundo Bipolar (1945-1991)"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A Crise dos Mísseis em Cuba (1962) é considerada o momento mais perigoso da Guerra Fria por que:",
-        "back": "A) O mundo ficou sem açúcar devido ao embargo americano contra a ilha.. A crise durou 13 dias e foi o pico da tensão nuclear entre Kennedy e Khrushchev."
+        "back": "A crise durou 13 dias e foi o pico da tensão nuclear entre Kennedy e Khrushchev."
       },
       {
         "front": "Os termos 'Perestroika' e 'Glasnost' referem-se ao conjunto de reformas implementadas na URSS por Mikhail Gorbachev. O que elas representavam na prática?",
-        "back": "A) A proibição de qualquer tipo de comércio com o Japão.. A tentativa de reforma revelou as falhas estruturais que levaram à desintegração do bloco socialista."
+        "back": "A tentativa de reforma revelou as falhas estruturais que levaram à desintegração do bloco socialista."
       }
     ],
     "true_false": [

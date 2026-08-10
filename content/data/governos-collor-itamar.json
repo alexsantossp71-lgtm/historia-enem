@@ -25,7 +25,7 @@
       "content": "Collor acreditava que para matar a inflação precisava tirar o dinheiro de circulação. O sequestro da poupança foi um desastre social: idosos perderam economias de uma vida, empresas faliram e o consumo travou. Foi o remédio mais amargo da economia brasileira, que gerou uma profunda recessão e não conseguiu segurar a inflação a longo prazo. O Brasil descobriu que a modernização via choque podia ser extremamente cruel.",
       "highlight": "O confisco de 1990 foi a medida mais autoritária da história econômica moderna do Brasil.",
       "image": {
-        "url": "assets/images/lessons/governos-collor-itamar/section_0.png",
+        "url": "assets/images/lessons/governos-collor-itamar/section_0.webp",
         "alt": "1. O Plano Collor: O Dia em que o Banco Parou",
         "caption": "1. O Plano Collor: O Dia em que o Banco Parou"
       }
@@ -35,7 +35,7 @@
       "content": "Até 1990, o Brasil era uma economia fechada. Collor abriu os portos, permitindo a entrada maciça de eletrônicos e carros estrangeiros. Ele forçou a indústria nacional a competir, o que gerou modernização mas também desemprego e o fechamento de fábricas que não aguentaram o peso tecnológico global. O Neoliberalismo vencia o Protecionismo, mudando o perfil das vitrines brasileiras para sempre.",
       "highlight": "Collor abriu os portos, mas esqueceu de preparar os remos da indústria nacional.",
       "image": {
-        "url": "assets/images/lessons/governos-collor-itamar/section_1.png",
+        "url": "assets/images/lessons/governos-collor-itamar/section_1.webp",
         "alt": "2. Neoliberalismo e Abertura: As 'Carroças' de Luxo",
         "caption": "2. Neoliberalismo e Abertura: As 'Carroças' de Luxo"
       }
@@ -45,7 +45,7 @@
       "content": "A juventude brasileira, liderada pela UNE, saiu às ruas de rosto pintado de verde e amarelo. Eles exigiam o fim do governo corrupto de Collor. Foi o maior movimento de massas desde as Diretas Já. O povo provou que a Constituição de 1988 não era apenas papel: ela funcionava para tirar um presidente que traísse a confiança da nação. Collor renunciou minutos antes de ser condenado pelo Senado, perdendo seus direitos políticos por 8 anos.",
       "highlight": "A queda de Collor foi a prova de fogo que a democracia brasileira venceu com glória.",
       "image": {
-        "url": "assets/images/lessons/governos-collor-itamar/section_2.png",
+        "url": "assets/images/lessons/governos-collor-itamar/section_2.webp",
         "alt": "3. Os Caras-Pintadas: A Ética na Política",
         "caption": "3. Os Caras-Pintadas: A Ética na Política"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governos-collor-itamar/thumb.png",
+    "url": "assets/images/lessons/governos-collor-itamar/thumb.webp",
     "alt": "Governos Collor e Itamar: Do Confisco ao Real",
     "caption": "Governos Collor e Itamar: Do Confisco ao Real"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O movimento dos 'Caras-Pintadas', ocorrido em 1992, foi a manifestação popular que culminou em qual evento histórico?",
-        "back": "A) A inauguração da estátua do Cristo Redentor no Rio de Janeiro.. A juventude mobilizou a nação contra a corrupção do governo Collor, forçando o afastamento do presidente."
+        "back": "A juventude mobilizou a nação contra a corrupção do governo Collor, forçando o afastamento do presidente."
       },
       {
         "front": "Qual foi a principal estratégia econômica do Plano Real (1994) para conter a hiperinflação brasileira?",
-        "back": "A) O congelamento de todos os preços em todos os supermercados para sempre.. O Real estabilizou os preços através de uma transição gradual e uma política de câmbio valorizado."
+        "back": "O Real estabilizou os preços através de uma transição gradual e uma política de câmbio valorizado."
       }
     ],
     "true_false": [

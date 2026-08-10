@@ -25,7 +25,7 @@
       "content": "Getúlio precisava de um susto para o povo aceitar a ditadura. O capitão Olímpio Mourão Filho redigiu um plano fantasioso de invasão comunista, com queima de igrejas e massacres em massa. Vargas leu o plano no rádio como se fosse verdade. O povo, com medo, aceitou o fechamento do Congresso Nacional e a supressão das liberdades individuais. Estava fundado o Estado Novo sobre uma mentira estratégica.",
       "highlight": "O Estado Novo nasceu de uma fake news histórica que paralisou a democracia.",
       "image": {
-        "url": "assets/images/lessons/estado-novo/section_0.png",
+        "url": "assets/images/lessons/estado-novo/section_0.webp",
         "alt": "1. O Golpe do Plano Cohen (1937)",
         "caption": "1. O Golpe do Plano Cohen (1937)"
       }
@@ -35,7 +35,7 @@
       "content": "O Departamento de Imprensa e Propaganda (DIP) era onipresente. Fiscalizava os jornais, o cinema, o rádio e os livros escolares. Criou a imagem de Vargas como um 'vovô bondoso' que cuidava de todos. O programa 'Hora do Brasil' era obrigatório e educativo, ensinando o povo a amar a pátria e a respeitar o governo. Quem criticava Vargas era preso pela polícia secreta de Felinto Müller.",
       "highlight": "Vargas foi o primeiro a entender o rádio como a rede social controlada do seu tempo.",
       "image": {
-        "url": "assets/images/lessons/estado-novo/section_1.png",
+        "url": "assets/images/lessons/estado-novo/section_1.webp",
         "alt": "2. DIP: A Fábrica de Mitos",
         "caption": "2. DIP: A Fábrica de Mitos"
       }
@@ -45,7 +45,7 @@
       "content": "Para Vargas, um país sem aço não era independente. Ele negociou com os EUA o apoio na 2ª Guerra em troca de financiamento para construir a Companhia Siderúrgica Nacional em Volta Redonda. O Estado Novo foi o momento em que o Brasil parou de importar quase tudo para começar a fabricar seus próprios trilhos e motores. Era o desenvolvimento 'de dentro para fora'.",
       "highlight": "A base industrial do Brasil moderno foi forjada nos fornos do Estado Novo.",
       "image": {
-        "url": "assets/images/lessons/estado-novo/section_2.png",
+        "url": "assets/images/lessons/estado-novo/section_2.webp",
         "alt": "3. Nacionalismo Econômico e CSN",
         "caption": "3. Nacionalismo Econômico e CSN"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/estado-novo/thumb.png",
+    "url": "assets/images/lessons/estado-novo/thumb.webp",
     "alt": "Estado Novo: A Ditadura de Vargas",
     "caption": "Estado Novo: A Ditadura de Vargas"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "O DIP (Departamento de Imprensa e Propaganda) foi um órgão central do governo Vargas durante o Estado Novo. Qual era sua função principal?",
-        "back": "A) Organizar o campeonato brasileiro de futebol profissional.. A propaganda era vital para manter o culto à personalidade de Vargas e o controle da opinião pública."
+        "back": "A propaganda era vital para manter o culto à personalidade de Vargas e o controle da opinião pública."
       },
       {
         "front": "A Consolidação das Leis do Trabalho (CLT), outorgada em 1943, é vista pelos historiadores contemporâneos não apenas como uma conquista operária, mas também como:",
-        "back": "A) Um castigo dado por Vargas aos trabalhadores que faziam greve.. Ao conceder direitos, o Estado assumia o papel de 'concessor' e evitava radicalizações populares independentes."
+        "back": "Ao conceder direitos, o Estado assumia o papel de 'concessor' e evitava radicalizações populares independentes."
       },
       {
         "front": "Qual foi o pretexto para o golpe de Estado de Getúlio Vargas em 1937?",

@@ -24,7 +24,7 @@
       "content": "A divisão em Capitanias Hereditárias foi a primeira tentativa de Portugal de terceirizar os custos da colonização para a nobreza. Contudo, a falta de recursos, a distância da metrópole e a resistência indígena feroz (como nas Confederações dos Tamoios) levaram o sistema ao colapso, restando apenas Pernambuco e São Vicente como centros de lucro. Em 1548, Tomé de Souza chega como primeiro Governador Geral, trazendo os jesuítas. O Estado colonial passa a ter um centro (Salvador) e a organizar a defesa do território contra invasões francesas e holandesas.",
       "highlight": "O Governo Geral unificou a administração e permitiu a defesa sistemática do território contra potências rivais.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia/section_0.png",
+        "url": "assets/images/lessons/brasil-colonia/section_0.webp",
         "alt": "1. O Sistema de Capitanias e a Centralização Administrativa",
         "caption": "1. O Sistema de Capitanias e a Centralização Administrativa"
       }
@@ -33,7 +33,7 @@
       "title": "2. Economia Açucareira: A Fábrica no Campo",
       "content": "O engenho era o coração da colônia. Era mais que uma fazenda; era um complexo industrial, social e político. A produção dependia do capital holandês para financiamento e refino, e do braço africano para o trabalho bruto. A estrutura social era piramidal e rígida: no topo, o Senhor de Engenho; abaixo, os homens livres pobres; e na base, os escravizados malnutridos e explorados. Gilberto Freyre e outros historiadores debatem o conceito de 'Sociedade Patriarcal', onde o poder emanava da Casa-Grande, controlando inclusive o espaço público através das ordens religiosas.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia/section_1.png",
+        "url": "assets/images/lessons/brasil-colonia/section_1.webp",
         "alt": "2. Economia Açucareira: A Fábrica no Campo",
         "caption": "2. Economia Açucareira: A Fábrica no Campo"
       }
@@ -42,7 +42,7 @@
       "title": "3. O Ciclo do Ouro e a Reforma de Pombal",
       "content": "A extração do ouro no século XVIII transformou o Brasil. Pela primeira vez, houve um mercado interno significativo de gado, alimentos e tecidos para abastecer as Minas Gerais. A Coroa Portuguesa, sob a gestão do Marquês de Pombal, intensificou a fiscalização, criando as Casas de Fundição para evitar o contrabando de 'ouro em pó'. Pombal também expulsou os jesuítas, buscando secularizar a educação e otimizar a arrecadação. Esse período viu o nascimento do Barroco Mineiro, uma expressão artística de opulência e religiosidade financiada pela riqueza mineradora, personificada por Aleijadinho.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia/section_2.png",
+        "url": "assets/images/lessons/brasil-colonia/section_2.webp",
         "alt": "3. O Ciclo do Ouro e a Reforma de Pombal",
         "caption": "3. O Ciclo do Ouro e a Reforma de Pombal"
       },
@@ -124,7 +124,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-colonia/thumb.png",
+    "url": "assets/images/lessons/brasil-colonia/thumb.webp",
     "alt": "Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)",
     "caption": "Brasil Colônia: Estruturas de Poder e Exploração (1530-1808)"
   },
@@ -142,11 +142,11 @@
     "flashcards": [
       {
         "front": "O Pacto Colonial, pilar do Mercantilismo, determinava que a produção das colônias deveria:",
-        "back": "A) Ser comercializada livremente com todas as nações amigas.. O Pacto Colonial (ou Exclusivo Metropolitano) proibia as colônias de comercializarem com outros países, forçando-as a vender barato e comprar caro da metrópole."
+        "back": "O Pacto Colonial (ou Exclusivo Metropolitano) proibia as colônias de comercializarem com outros países, forçando-as a vender barato e comprar caro da metrópole."
       },
       {
         "front": "A historiografia clássica de Gilberto Freyre em 'Casa-Grande e Senzala' é frequentemente debatida hoje por ser acusada de:",
-        "back": "A) Superestimar o poder da Igreja sobre os senhores de engenho.. Freyre é criticado por sugerir que as relações no Brasil Colonial eram menos violentas do que em outros países, negligenciando a crueldade inerente ao sistema escravocrata."
+        "back": "Freyre é criticado por sugerir que as relações no Brasil Colonial eram menos violentas do que em outros países, negligenciando a crueldade inerente ao sistema escravocrata."
       },
       {
         "front": "Qual sistema econômico estava em vigor durante a fundação do Brasil como colônia?",

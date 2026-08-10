@@ -24,7 +24,7 @@
       "content": "O filósofo Immanuel Kant resumiu o iluminismo no lema 'Ouse Saber'. Era o fim da infância da humanidade. O homem não deveria mais aceitar ordens de um rei ou de um padre apenas por tradição, mas deveria usar seu próprio intelecto para julgar o que era certo e o que era errado. A luz da razão era a única cura para a cegueira do dogma medieval.",
       "highlight": "O iluminismo foi a maioridade intelectual da humanidade.",
       "image": {
-        "url": "assets/images/lessons/iluminismo/section_0.png",
+        "url": "assets/images/lessons/iluminismo/section_0.webp",
         "alt": "1. Sapere Aude: Atreva-se a Saber",
         "caption": "1. Sapere Aude: Atreva-se a Saber"
       }
@@ -34,7 +34,7 @@
       "content": "Para Montesquieu, todo homem que tem poder sente a tentação de abusar dele. Por isso, 'o poder deve frear o poder'. Sua ideia de tripartição (Executivo, Legislativo e Judiciário) é a base de quase todas as democracias atuais. Se o Rei faz as leis, executa as leis e julga quem desrespeita as leis, ele é um tirano. A divisão garante que ninguém seja maior que a Lei.",
       "highlight": "Montesquieu criou as mordaças legais necessárias para conter a tirania.",
       "image": {
-        "url": "assets/images/lessons/iluminismo/section_1.png",
+        "url": "assets/images/lessons/iluminismo/section_1.webp",
         "alt": "2. Montesquieu e a Divisão dos Poderes",
         "caption": "2. Montesquieu e a Divisão dos Poderes"
       }
@@ -44,7 +44,7 @@
       "content": "Diferente de outros iluministas que focavam na elite, Jean-Jacques Rousseau focava no povo. Para ele, o homem nasce bom, mas a sociedade o corrompe (o mito do 'bom selvagem'). No Contrato Social, o povo é o verdadeiro soberano, e o governo é apenas um funcionário do povo. Essa ideia alimentou o lado mais radical da Revolução Francesa e as democracias modernas.",
       "highlight": "Rousseau nos ensinou que toda autoridade política nasce do consentimento do povo.",
       "image": {
-        "url": "assets/images/lessons/iluminismo/section_2.png",
+        "url": "assets/images/lessons/iluminismo/section_2.webp",
         "alt": "3. Rousseau e a Vontade Geral",
         "caption": "3. Rousseau e a Vontade Geral"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/iluminismo/thumb.png",
+    "url": "assets/images/lessons/iluminismo/thumb.webp",
     "alt": "Iluminismo: A Razão contra as Trevas",
     "caption": "Iluminismo: A Razão contra as Trevas"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "A tripartição do poder em Executivo, Legislativo e Judiciário, proposta por Montesquieu, tem como objetivo fundamental:",
-        "back": "A) Garantir que o Rei tenha três coroas diferentes para usar cada dia da semana.. A divisão de poderes é a maior garantia contra o arbítrio e a ditadura absoluta."
+        "back": "A divisão de poderes é a maior garantia contra o arbítrio e a ditadura absoluta."
       },
       {
         "front": "O pensamento iluminista de Adam Smith ficou conhecido por defender a 'não intervenção do Estado na economia'. Qual termo francês resumia essa filosofia?",
-        "back": "A) Laissez-faire (Deixai fazer).. Laissez-faire, laissez-passer era o lema da liberdade econômica do século XVIII."
+        "back": "Laissez-faire, laissez-passer era o lema da liberdade econômica do século XVIII."
       }
     ],
     "true_false": [

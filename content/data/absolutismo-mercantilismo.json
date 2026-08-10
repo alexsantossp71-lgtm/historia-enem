@@ -25,7 +25,7 @@
       "content": "Antes de Maquiavel, o bom rei deveria ser um bom cristão. Ele mudou isso: o bom rei é aquele que mantém o poder, mesmo que precise agir de forma cruel. 'É melhor ser temido do que amado'. Já Hobbes dizia que o homem é naturalmente violento ('o lobo do homem'). Para não morrermos em brigas eternas, entregamos nossa liberdade ao Rei em troca de ordem. O Estado Absoluto não era apenas um desejo dos reis, mas um pedido de silêncio da burguesia cansada das guerras feudais.",
       "highlight": "Para o absolutismo, o Rei era o cérebro que guiava o corpo da nação.",
       "image": {
-        "url": "assets/images/lessons/absolutismo-mercantilismo/section_0.png",
+        "url": "assets/images/lessons/absolutismo-mercantilismo/section_0.webp",
         "alt": "1. Maquiavel e Hobbes: A Razão de Estado",
         "caption": "1. Maquiavel e Hobbes: A Razão de Estado"
       }
@@ -35,7 +35,7 @@
       "content": "Se Maquiavel falava de política, Bossuet usava a Bíblia. Ele dizia que o Rei era escolhido por Deus e que desobedecer ao monarca era pecado mortal. Esse argumento calava as rebeliões camponesas e a própria nobreza. O palácio de Versalhes era o grande cenário desse teatro de poder: tudo girava em torno do Rei, desde o seu despertar matinal até os jantares suntuosos iluminados pela luz do Sol de sua glória.",
       "highlight": "O trono do rei absoluto era a cadeira que Deus deixou na terra.",
       "image": {
-        "url": "assets/images/lessons/absolutismo-mercantilismo/section_1.png",
+        "url": "assets/images/lessons/absolutismo-mercantilismo/section_1.webp",
         "alt": "2. Bossuet e o Direito Divino",
         "caption": "2. Bossuet e o Direito Divino"
       }
@@ -45,7 +45,7 @@
       "content": "Os reis precisavam de exércitos caros e burocratas. De onde vinha o dinheiro? Do comércio marítimo. O Mercantilismo acreditava que a riqueza do mundo era fixa; se um país ganhava, outro perdia. Por isso, a obsessão pelo 'Metalismo' (ouro no cofre). As metrópoles proibiam suas colônias de produzirem artigos manufaturados, garantindo que o lucro final sempre ficasse na Europa - o chamado Colonialismo.",
       "highlight": "O Mercantilismo foi o motor econômico que financiou as frotas do Novo Mundo.",
       "image": {
-        "url": "assets/images/lessons/absolutismo-mercantilismo/section_2.png",
+        "url": "assets/images/lessons/absolutismo-mercantilismo/section_2.webp",
         "alt": "3. Mercantilismo: O Acúmulo Primitivo",
         "caption": "3. Mercantilismo: O Acúmulo Primitivo"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/absolutismo-mercantilismo/thumb.png",
+    "url": "assets/images/lessons/absolutismo-mercantilismo/thumb.webp",
     "alt": "Absolutismo e Mercantilismo: O Poder dos Reis",
     "caption": "Absolutismo e Mercantilismo: O Poder dos Reis"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O teórico político Nicolau Maquiavel, em sua obra 'O Príncipe', defende que a principal função do governante é:",
-        "back": "A) Doar todo o seu tesouro nacional para as igrejas da periferia de Roma.. Maquiavel inaugurou a política laica e pragmática, voltada para a manutenção da ordem e do Estado."
+        "back": "Maquiavel inaugurou a política laica e pragmática, voltada para a manutenção da ordem e do Estado."
       },
       {
         "front": "A prática mercantilista da 'Balança Comercial Favorável' consistia em qual estratégia econômica pelas metrópoles europeias?",
-        "back": "A) Manter o equilíbrio exato entre exportação e importação para não irritar os vizinhos.. O objetivo era sempre garantir que mais dinheiro entrasse do que saísse da economia nacional."
+        "back": "O objetivo era sempre garantir que mais dinheiro entrasse do que saísse da economia nacional."
       },
       {
         "front": "O que caracteriza o Absolutismo?",

@@ -24,7 +24,7 @@
       "title": "Critérios de Semelhança",
       "content": "AA: Dois ângulos iguais garantem semelhança. LAL: Dois lados proporcionais e o ângulo entre eles igual. LL: Três lados proporcionais. Em triângulos retângulos, se um ângulo agudo é igual, os triângulos são semelhantes.",
       "image": {
-        "url": "assets/images/lessons/matematica-geometria-triangulos/section_0.png",
+        "url": "assets/images/lessons/matematica-geometria-triangulos/section_0.webp",
         "alt": "Critérios de Semelhança",
         "caption": "Critérios de Semelhança"
       },
@@ -35,7 +35,7 @@
       "content": "Em um triângulo retângulo de catetos a, b e hipotenusa c: a² + b² = c². Este teorema permite calcular um lado desconhecido quando os outros dois são conhecidos. Aplicações incluem: distância entre dois pontos no plano, altura de um triângulo isósceles, e resolução de problemas de escadas encostadas em paredes.",
       "highlight": "O teorema de Pitágoras só é válido para triângulos retângulos.",
       "image": {
-        "url": "assets/images/lessons/matematica-geometria-triangulos/section_1.png",
+        "url": "assets/images/lessons/matematica-geometria-triangulos/section_1.webp",
         "alt": "Teorema de Pitágoras e Aplicações",
         "caption": "Teorema de Pitágoras e Aplicações"
       }
@@ -115,7 +115,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/matematica-geometria-triangulos/thumb.png",
+    "url": "assets/images/lessons/matematica-geometria-triangulos/thumb.webp",
     "alt": "Geometria: Triângulos e Semelhança",
     "caption": "Geometria: Triângulos e Semelhança"
   },
@@ -133,7 +133,7 @@
     "flashcards": [
       {
         "front": "Um triângulo retângulo tem catetos de 6 cm e 8 cm. Qual é o comprimento da hipotenusa?",
-        "back": "A) 10 cm. Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
+        "back": "10 cm. Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
       },
       {
         "front": "Quais são os critérios de semelhança entre dois triângulos?",
@@ -162,14 +162,14 @@
     ],
     "true_false": [
       {
-        "statement": "14 cm.",
-        "is_true": false,
-        "explanation": "Mito! Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
+        "statement": "A hipotenusa de um triângulo retângulo com catetos de 6 cm e 8 cm mede 10 cm.",
+        "is_true": true,
+        "explanation": "Pelo teorema de Pitágoras: 6² + 8² = 36 + 64 = 100; a raiz quadrada é 10 cm."
       },
       {
-        "statement": "10 cm.",
-        "is_true": true,
-        "explanation": "Usando o teorema de Pitágoras: 6² + 8² = 36 + 64 = 100. A hipotenusa é √100 = 10 cm."
+        "statement": "Dois triângulos são semelhantes quando possuem lados correspondentes proporcionais e todos os seus lados medem o mesmo comprimento.",
+        "is_true": false,
+        "explanation": "Mito! A semelhança exige ângulos correspondentes iguais e lados proporcionais; lados iguais caracterizam congruência."
       }
     ],
     "memory": [

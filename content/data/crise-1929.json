@@ -25,7 +25,7 @@
       "content": "Nos anos 20, todos acreditavam que o crescimento seria infinito. O crédito era fácil e as pessoas compravam ações na bolsa de valores até com dinheiro emprestado. A publicidade convencia o cidadão médio de que ele precisava de um carro novo todo ano para ser feliz. Essa fachada de sucesso escondia a fragilidade de um sistema que produzia muito mais do que o povo conseguia comprar.",
       "highlight": "O consumo de massa foi a força e, simultaneamente, a fraqueza da economia de 1920.",
       "image": {
-        "url": "assets/images/lessons/crise-1929/section_0.png",
+        "url": "assets/images/lessons/crise-1929/section_0.webp",
         "alt": "1. O American Way of Life e a Ilusão do Crédito",
         "caption": "1. O American Way of Life e a Ilusão do Crédito"
       }
@@ -35,7 +35,7 @@
       "content": "Quando os investidores perceberam que os lucros das empresas estavam caindo, todos tentaram vender suas ações ao mesmo tempo. Como não havia compradores, os preços despencaram. Milhares de pessoas que eram ricas no café da manhã estavam na fila da sopa na hora do jantar. O suicídio de empresários e o desespero nas ruas tornaram-se cenas comuns nas cidades americanas.",
       "highlight": "Em 1929, o valor do dinheiro desapareceu junto com a confiança no mercado.",
       "image": {
-        "url": "assets/images/lessons/crise-1929/section_1.png",
+        "url": "assets/images/lessons/crise-1929/section_1.webp",
         "alt": "2. O Crack da Bolsa: O Dia em que o Céu Caiu",
         "caption": "2. O Crack da Bolsa: O Dia em que o Céu Caiu"
       }
@@ -45,7 +45,7 @@
       "content": "Como os EUA pararam de emprestar dinheiro e de importar produtos, a crise espalhou-se como um vírus. Na Alemanha, a inflação e a fome atingiram níveis absurdos, o que destruiu a fé na democracia e permitiu que Hitler usasse o discurso de 'salvação nacional' para ganhar popularidade. A crise econômica de 1929 foi a 'mãe' política da Segunda Guerra Mundial.",
       "highlight": "A fome e o desemprego de 29 foram o terreno fértil para as ditaduras totalitárias na Europa.",
       "image": {
-        "url": "assets/images/lessons/crise-1929/section_2.png",
+        "url": "assets/images/lessons/crise-1929/section_2.webp",
         "alt": "3. A Grande Depressão Global",
         "caption": "3. A Grande Depressão Global"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/crise-1929/thumb.png",
+    "url": "assets/images/lessons/crise-1929/thumb.webp",
     "alt": "A Crise de 1929: O Colapso do Liberalismo",
     "caption": "A Crise de 1929: O Colapso do Liberalismo"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A crise econômica de 1929 teve início nos Estados Unidos e espalhou-se pelo mundo. Qual foi a principal tese econômica adotada para solucionar a Grande Depressão através do New Deal?",
-        "back": "A) O Liberalismo Total, com a retirada completa do Estado de qualquer atividade econômica.. Keynes propôs que o Estado gastasse dinheiro para aquecer a economia em momentos de recessão."
+        "back": "Keynes propôs que o Estado gastasse dinheiro para aquecer a economia em momentos de recessão."
       },
       {
         "front": "O impacto da Crise de 1929 no Brasil foi determinante para uma mudança política profunda. Esse impacto manifestou-se através de:",
-        "back": "A) Uma invasão militar americana no Rio de Janeiro para roubar o nosso ouro.. Sem mercado para o café, a 'Política do Café com Leite' perdeu sua sustentação econômica."
+        "back": "Sem mercado para o café, a 'Política do Café com Leite' perdeu sua sustentação econômica."
       }
     ],
     "true_false": [

@@ -34,7 +34,7 @@
       "content": "O governo Jango era visto como radical pela elite e pelas Forças Armadas. O golpe teve o apoio da Marcha da Família com Deus pela Liberdade. Os primeiros AIs foram usados para cassar mandatos e punir opositores. O AI-2 acabou com o pluripartidarismo, criando apenas dois partidos: a ARENA (do governo) e o MDB (oposição controlada), uma democracia de fachada onde os generais indicavam seus sucessores.",
       "highlight": "A ditadura usou a legalidade autoritária (os AIs) para se autossustentar juridicamente.",
       "image": {
-        "url": "assets/images/lessons/ditadura-militar/section_0.png",
+        "url": "assets/images/lessons/ditadura-militar/section_0.webp",
         "alt": "1. O Golpe de 1964 e os Atos Institucionais",
         "caption": "1. O Golpe de 1964 e os Atos Institucionais"
       }
@@ -44,7 +44,7 @@
       "content": "O AI-5 foi o golpe dentro do golpe. Após o discurso do deputado Márcio Moreira Alves, os militares radicalizaram. Estudantes, jornalistas e artistas (como Caetano e Gil) foram perseguidos. Grupos de esquerda optaram pela luta armada (guerrilha rural no Araguaia e urbana no Rio/SP), que foi esmagada pelo aparato repressivo do Estado, financiado inclusive por empresários civis (Operação Bandeirante).",
       "highlight": "A censura e o terror de Estado silenciaram o debate público por quase uma década.",
       "image": {
-        "url": "assets/images/lessons/ditadura-militar/section_1.png",
+        "url": "assets/images/lessons/ditadura-militar/section_1.webp",
         "alt": "2. AI-5 e as Resistências Armadas e Culturais",
         "caption": "2. AI-5 e as Resistências Armadas e Culturais"
       }
@@ -54,7 +54,7 @@
       "content": "Sob Médici, o Brasil viveu um delírio de crescimento. Obras faraônicas como a Rodovia Transamazônica e a Ponte Rio-Niterói simbolizavam o 'Brasil: Ame-o ou Deixe-o'. O slogan patriótico escondia que o país estava ficando refém da dívida externa e que o salário mínimo real estava despencando, enquanto a elite industrial lucrava com a proibição de greves.",
       "highlight": "O 'milagre' foi construído sobre a exclusão social e a falta de liberdades sindicais.",
       "image": {
-        "url": "assets/images/lessons/ditadura-militar/section_2.png",
+        "url": "assets/images/lessons/ditadura-militar/section_2.webp",
         "alt": "3. O Milagre Econômico e a Transamazônica",
         "caption": "3. O Milagre Econômico e a Transamazônica"
       }
@@ -94,7 +94,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/ditadura-militar/thumb.png",
+    "url": "assets/images/lessons/ditadura-militar/thumb.webp",
     "alt": "Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)",
     "caption": "Ditadura Civil-Militar: Autoritarismo e Censura (1964-1985)"
   },
@@ -102,11 +102,11 @@
     "flashcards": [
       {
         "front": "O AI-5 (Ato Institucional nº 5), promulgado em dezembro de 1968, é considerado o auge da ditadura por que:",
-        "back": "A) Garantiu a liberdade de imprensa e o direito de greve.. O AI-5 deu poderes ditatoriais totais ao executivo, eliminando as garantias individuais."
+        "back": "O AI-5 deu poderes ditatoriais totais ao executivo, eliminando as garantias individuais."
       },
       {
         "front": "A política econômica do 'Milagre' baseava-se na seguinte frase do ministro Delfim Netto: 'É preciso fazer o bolo crescer para depois dividi-lo'. O resultado prático dessa política foi:",
-        "back": "A) Uma distribuição de renda imediata e igualitária.. O crescimento foi excludente; o bolo cresceu, mas a divisão para as classes baixas nunca aconteceu."
+        "back": "O crescimento foi excludente; o bolo cresceu, mas a divisão para as classes baixas nunca aconteceu."
       },
       {
         "front": "Quem foi derrubado pelo Golpe de 31 de Março de 1964?",

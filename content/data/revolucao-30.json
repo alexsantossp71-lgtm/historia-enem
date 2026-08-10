@@ -24,7 +24,7 @@
       "content": "São Paulo achava que só eles sabiam lidar com a crise do café. Quando Washington Luís indicou Júlio Prestes, Minas Gerais sentiu-se traída. O acordo de décadas foi rasgado pelo egoísmo paulista e pelo medo de Minas de perder o acesso ao tesouro nacional. Essa briga de gigantes foi a oportunidade que o Rio Grande do Sul esperava para levar um sulista à cadeira da presidência.",
       "highlight": "A revolução nasceu da briga de família entre os maiores produtores do Brasil.",
       "image": {
-        "url": "assets/images/lessons/revolucao-30/section_0.png",
+        "url": "assets/images/lessons/revolucao-30/section_0.webp",
         "alt": "1. A Ruptura do Café com Leite",
         "caption": "1. A Ruptura do Café com Leite"
       }
@@ -34,7 +34,7 @@
       "content": "Pela primeira vez, uma chapa de oposição uniu o Sul, o Centro e o Nordeste (Paraíba). Eles prometiam o voto secreto, a justiça eleitoral e leis trabalhistas para atrair a classe média das cidades e os operários. Vargas era o líder esperto, que sabia falar com os ricos e com os pobres ao mesmo tempo, preparando o caminho para o seu futuro populismo.",
       "highlight": "Vargas foi o primeiro político brasileiro a perceber que o povo urbano era uma força poderosa.",
       "image": {
-        "url": "assets/images/lessons/revolucao-30/section_1.png",
+        "url": "assets/images/lessons/revolucao-30/section_1.webp",
         "alt": "2. Aliança Liberal: A União dos Descontentes",
         "caption": "2. Aliança Liberal: A União dos Descontentes"
       }
@@ -44,7 +44,7 @@
       "content": "João Pessoa, governador da Paraíba, negou apoio a Júlio Prestes com o famoso telegrama 'NEGO'. Ao ser assassinado em uma confeitaria em Recife, o país parou. A propaganda de Vargas transformou um crime de honra política local em um ataque à democracia brasileira. O corpo de João Pessoa foi levado em cortejo pelo litoral até o Rio de Janeiro, inflamando o espírito revolucionário das massas.",
       "highlight": "O sangue de João Pessoa foi o combustível que faltava para os canhões de Vargas.",
       "image": {
-        "url": "assets/images/lessons/revolucao-30/section_2.png",
+        "url": "assets/images/lessons/revolucao-30/section_2.webp",
         "alt": "3. João Pessoa: O Mártir por conveniência",
         "caption": "3. João Pessoa: O Mártir por conveniência"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-30/thumb.png",
+    "url": "assets/images/lessons/revolucao-30/thumb.webp",
     "alt": "Revolução de 1930: O Fim de uma Era",
     "caption": "Revolução de 1930: O Fim de uma Era"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "O termo 'Política do Café com Leite' referia-se a qual prática política da chamada República Velha (1889-1930)?",
-        "back": "A) A doação gratuita de café para todas as crianças pobres do Brasil.. Essa aliança garantia a estabilidade do poder nas mãos dos estados economicamente dominantes."
+        "back": "Essa aliança garantia a estabilidade do poder nas mãos dos estados economicamente dominantes."
       },
       {
         "front": "Qual fator econômico externo foi fundamental para desestabilizar a República Velha e permitir a vitória da Revolução de 1930 no Brasil?",
-        "back": "A) A Revolução russa e o fim do comércio de caviar.. Sem dinheiro do café, o sistema de compra de votos (coronelismo) e o apoio político dos coronéis entraram em colapso."
+        "back": "Sem dinheiro do café, o sistema de compra de votos (coronelismo) e o apoio político dos coronéis entraram em colapso."
       },
       {
         "front": "Qual era o sistema de governo no Brasil desde 1894?",

@@ -24,7 +24,7 @@
       "content": "Para evitar o contrabando (como o famoso 'Santo do Pau Oco'), Portugal proibiu a circulação de ouro em pó. Todo o metal deveria passar pelas Casas de Fundição, onde o governo já retirava os seus 20% (o Quinto) e fundia o ouro em barras numeradas. Quem fosse pego com ouro em pó era deportado ou preso. Era a fiscalização mais rígida do mundo colonial da época, transformando o minerador em um eterno devedor da coroa.",
       "highlight": "O selo real no ouro era o símbolo da mão de ferro de Portugal no Brasil.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_0.png",
+        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_0.webp",
         "alt": "1. Casas de Fundição: O Selo do Rei",
         "caption": "1. Casas de Fundição: O Selo do Rei"
       }
@@ -34,7 +34,7 @@
       "content": "Diferente das fazendas de açúcar, onde só havia o senhor e o escravo, nas minas surgiu a classe média. Havia mascates, sapateiros, médicos e uma multidão de negros e mulatos alforriados que conseguiam comprar sua liberdade com o ouro encontrado. Surgiram as 'Irmandades Leigas', que construíam suas próprias igrejas suntuosas, competindo entre si para ver quem tinha o altar mais folheado a ouro da cidade.",
       "highlight": "Minas Gerais foi o primeiro lugar do Brasil onde o pobre sonhou em ser rico.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_1.png",
+        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_1.webp",
         "alt": "2. Sociedade Urbana e Mobilidade",
         "caption": "2. Sociedade Urbana e Mobilidade"
       }
@@ -44,7 +44,7 @@
       "content": "A arte barroca em Minas era o exagero, a curva e o drama. Antônio Francisco Lisboa, o Aleijadinho, superou a dor física para esculpir os 12 profetas em pedra-sabão em Congonhas. A arte no ouro não era apenas decoração; era a forma como uma sociedade rica e tensa tentava falar com Deus, misturando temas bíblicos com a realidade brasileira. O Barroco no Brasil foi a nossa primeira grande contribuição para a cultura mundial.",
       "highlight": "Aleijadinho transformou a pedra bruta na oração mais bela do Brasil Colonial.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_2.png",
+        "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/section_2.webp",
         "alt": "3. O Barroco Mineiro: Ouro e Alma",
         "caption": "3. O Barroco Mineiro: Ouro e Alma"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/thumb.png",
+    "url": "assets/images/lessons/brasil-colonia-ciclo-ouro/thumb.webp",
     "alt": "Ciclo do Ouro: A Riqueza das Gerais",
     "caption": "Ciclo do Ouro: A Riqueza das Gerais"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "O sistema de tributação colonial sobre o ouro, conhecido como 'Quinto', consistia em qual prática obrigatória?",
-        "back": "A) A doação de cinco escravos para o rei de Portugal a cada Natal.. O Quinto era o principal imposto cobrado pela Intendência das Minas para financiar o Reino."
+        "back": "O Quinto era o principal imposto cobrado pela Intendência das Minas para financiar o Reino."
       },
       {
         "front": "A mudança da capital do Brasil de Salvador para o Rio de Janeiro, em 1763, deveu-se principalmente a qual fator?",
-        "back": "A) A vontade do rei de Portugal de ver as praias de Copacabana no verão.. A centralização administrativa no Rio de Janeiro permitia um controle maior sobre as riquezas minerais e a defesa do porto."
+        "back": "A centralização administrativa no Rio de Janeiro permitia um controle maior sobre as riquezas minerais e a defesa do porto."
       },
       {
         "front": "O que atraiu milhares de imigrantes para Minas Gerais no século XVIII?",

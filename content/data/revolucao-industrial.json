@@ -24,7 +24,7 @@
       "content": "A Inglaterra era a rainha dos mares e detinha o controle das rotas comerciais mais ricas. Além da marinha forte, possuía uma burguesia com poder político no Parlamento após a Revolução Gloriosa (1688). Somado a isso, o carvão mineral estava aflorando no solo inglês, facilitando a extração. O camponês expulso pela lã (ovelhas) não teve outra opção a não ser aceitar os salários de miséria das primeiras fábricas.",
       "highlight": "A revolução industrial foi financiada pela exploração colonial anterior.",
       "image": {
-        "url": "assets/images/lessons/revolucao-industrial/section_0.png",
+        "url": "assets/images/lessons/revolucao-industrial/section_0.webp",
         "alt": "1. Por que a Inglaterra? O Berço da Indústria",
         "caption": "1. Por que a Inglaterra? O Berço da Indústria"
       }
@@ -34,7 +34,7 @@
       "content": "A produção mudou radicalmente. No Fordismo, a esteira rolante trazia a peça até o operário. O tempo passou a ser controlado por cronômetros ('Tempo é dinheiro'). Isso aumentou a produtividade absurdamente, tornando produtos que antes eram de luxo em acessíveis para as massas. Contudo, transformou o homem em um 'apêndice da máquina', tema clássico do filme 'Tempos Modernos' de Charlie Chaplin.",
       "highlight": "O Fordismo introduziu a padronização e o consumo de massa no capitalismo.",
       "image": {
-        "url": "assets/images/lessons/revolucao-industrial/section_1.png",
+        "url": "assets/images/lessons/revolucao-industrial/section_1.webp",
         "alt": "2. Da Máquina a Vapor ao Fordismo",
         "caption": "2. Da Máquina a Vapor ao Fordismo"
       }
@@ -44,7 +44,7 @@
       "content": "Os trabalhadores não aceitaram a exploração calados. O Ludismo (liderado por Ned Ludd) acreditava que a máquina era o inimigo. Já os Cartistas escreveram a 'Carta do Povo', pedindo que o trabalhador pudesse ser eleito para o parlamento inglês para criar leis protetoras. Dessas lutas nasceram as leis proibindo o trabalho infantil e limitando a jornada de trabalho para 8 horas diárias.",
       "highlight": "Nenhum direito trabalhista atual existiria sem a revolta dos operários industriais do século XIX.",
       "image": {
-        "url": "assets/images/lessons/revolucao-industrial/section_2.png",
+        "url": "assets/images/lessons/revolucao-industrial/section_2.webp",
         "alt": "3. Luta Operária: Ludismo e Cartismo",
         "caption": "3. Luta Operária: Ludismo e Cartismo"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-industrial/thumb.png",
+    "url": "assets/images/lessons/revolucao-industrial/thumb.webp",
     "alt": "Revolução Industrial: A Transformação do Mundo",
     "caption": "Revolução Industrial: A Transformação do Mundo"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "O movimento dos 'Quebradores de Máquinas' ou Ludismo, ocorrido na Inglaterra no início do século XIX, representava:",
-        "back": "A) Uma seita religiosa que achava as máquinas demoníacas por motivos teológicos.. O Ludismo foi uma reação direta e física dos trabalhadores ao avanço da automação inicial da indústria."
+        "back": "O Ludismo foi uma reação direta e física dos trabalhadores ao avanço da automação inicial da indústria."
       },
       {
         "front": "A passagem do artesanato para a manufatura e, posteriormente, para a maquinofatura provocou na vida do trabalhador:",
-        "back": "A) Uma maior liberdade criativa e controle total sobre o tempo de trabalho.. A mecanização fragmentou o trabalho, fazendo com que o homem não mais reconhecesse o produto final do seu esforço."
+        "back": "A mecanização fragmentou o trabalho, fazendo com que o homem não mais reconhecesse o produto final do seu esforço."
       }
     ],
     "true_false": [

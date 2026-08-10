@@ -25,7 +25,7 @@
       "content": "Para humilhar São Paulo após 1930, Vargas nomeou o coronel João Alberto (pernambucano) como interventor do estado. Para os barões do café e os industriais de SP, isso era um insulto inaceitável. Eles exigiam um interventor paulista e civil. O ódio ao centralismo de Vargas crescia nas universidades e nos clubes de elite, fervendo até o derramamento de sangue.",
       "highlight": "São Paulo via-se como uma locomotiva puxando 20 vagões vazios e desprezados.",
       "image": {
-        "url": "assets/images/lessons/revolucao-32/section_0.png",
+        "url": "assets/images/lessons/revolucao-32/section_0.webp",
         "alt": "1. O Interventor 'Forasteiro' e a Fúria Paulista",
         "caption": "1. O Interventor 'Forasteiro' e a Fúria Paulista"
       }
@@ -35,7 +35,7 @@
       "content": "Em 23 de maio de 1932, uma multidão tentou invadir uma sede do governo em SP. A polícia fuzilou quatro estudantes: Martins, Miragaia, Dráusio e Camargo. Suas iniciais (MMDC) viraram a sigla de uma organização secreta armada. A partir dali, a revolta não era mais apenas política; era uma questão de honra paulista para vingar seus jovens mortos pela ditadura de Vargas.",
       "highlight": "O MMDC foi o grito de guerra que uniu estudantes, operários e empresários em SP.",
       "image": {
-        "url": "assets/images/lessons/revolucao-32/section_1.png",
+        "url": "assets/images/lessons/revolucao-32/section_1.webp",
         "alt": "2. MMDC: O Sangue que Batizou a Revolução",
         "caption": "2. MMDC: O Sangue que Batizou a Revolução"
       }
@@ -45,7 +45,7 @@
       "content": "A mobilização santista e paulistana foi total. Mulheres doavam joias ('Ouro para o bem de São Paulo') e homens de todas as classes alistavam-se para lutar nas trincheiras contra o resto do Brasil. Como o exército nacional estava com Vargas, os paulistas tiveram que improvisar: criaram tanques com tratores e transformaram fábricas em indústrias de munição. Foi o maior esforço de guerra interna do Brasil.",
       "highlight": "Em 1932, São Paulo foi um país independente em guerra contra o seu próprio governo central.",
       "image": {
-        "url": "assets/images/lessons/revolucao-32/section_2.png",
+        "url": "assets/images/lessons/revolucao-32/section_2.webp",
         "alt": "3. O 9 de Julho e os Voluntários da Pátria",
         "caption": "3. O 9 de Julho e os Voluntários da Pátria"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-32/thumb.png",
+    "url": "assets/images/lessons/revolucao-32/thumb.webp",
     "alt": "Revolução de 1932: O Levante Paulista",
     "caption": "Revolução de 1932: O Levante Paulista"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A sigla MMDC tornou-se o símbolo da Revolução Constitucionalista de 1932. O que ela representava?",
-        "back": "A) Movimento Monarquista pela Democracia Cristã.. O assassinato de Martins, Miragaia, Dráusio e Camargo foi o estopim moral para o levante armado de São Paulo."
+        "back": "O assassinato de Martins, Miragaia, Dráusio e Camargo foi o estopim moral para o levante armado de São Paulo."
       },
       {
         "front": "Embora derrotada militarmente, São Paulo obteve uma conquista política fundamental após a revolução de 1932. Qual foi ela?",
-        "back": "A) O direito de São Paulo ser a capital do Brasil para sempre.. Vargas entendeu que precisava dar uma base legal ao seu governo para acalmar os ânimos paulistas."
+        "back": "Vargas entendeu que precisava dar uma base legal ao seu governo para acalmar os ânimos paulistas."
       }
     ],
     "true_false": [

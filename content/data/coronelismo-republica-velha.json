@@ -25,7 +25,7 @@
       "content": "O coronel não era um militar de carreira, mas um fazendeiro rico que pagava para ter esse título. Ele era o juiz, o delegado e o banco de sua região. Ninguém conseguia emprego ou justiça sem passar pelas mãos do 'padrinho'. Nas fazendas, o coronel era uma figura divina e terrível ao mesmo tempo: podia dar uma cesta básica ou mandar o jagunço queimar a casa do vizinho rebelde no meio da noite.",
       "highlight": "O coronelismo foi a privatização do poder público nas mãos dos latifundiários.",
       "image": {
-        "url": "assets/images/lessons/coronelismo-republica-velha/section_0.png",
+        "url": "assets/images/lessons/coronelismo-republica-velha/section_0.webp",
         "alt": "1. O Coronel: O Rei do Sertão",
         "caption": "1. O Coronel: O Rei do Sertão"
       }
@@ -35,7 +35,7 @@
       "content": "Como o voto era aberto, o eleitor analfabeto recebia a cédula já preenchida pelo jagunço do coronel na porta da seção eleitoral. Votar em outro candidato era um suicídio social. O eleitor era literalmente conduzido como um animal de carga ('cabresto') até a urna. Isso garantia que as oligarquias paulistas e mineiras nunca perdessem uma eleição nacional importante por décadas.",
       "highlight": "O cabresto político retirava a alma da cidadania e a trocava pela obediência.",
       "image": {
-        "url": "assets/images/lessons/coronelismo-republica-velha/section_1.png",
+        "url": "assets/images/lessons/coronelismo-republica-velha/section_1.webp",
         "alt": "2. Voto de Cabresto: A Democracia na Rédea",
         "caption": "2. Voto de Cabresto: A Democracia na Rédea"
       }
@@ -45,7 +45,7 @@
       "content": "A política na República Velha era baseada na troca de serviços. O coronel pagava o caixão do filho do empregado ou dava uma carta de indicação para o sobrinho ser funcionário público. Em retorno, a família inteira devia fidelidade eleitoral eterna. Essa dependência perpétua impedia que o povo pensasse em mudanças sociais, pois a cada favor recebido, um pedaço da liberdade era entregue ao coronel.",
       "highlight": "O favor do coronel era a armadilha que prendia o povo na miséria política.",
       "image": {
-        "url": "assets/images/lessons/coronelismo-republica-velha/section_2.png",
+        "url": "assets/images/lessons/coronelismo-republica-velha/section_2.webp",
         "alt": "3. Clientelismo: A Moeda da Troca",
         "caption": "3. Clientelismo: A Moeda da Troca"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/coronelismo-republica-velha/thumb.png",
+    "url": "assets/images/lessons/coronelismo-republica-velha/thumb.webp",
     "alt": "Coronelismo: O Poder das Esporas",
     "caption": "Coronelismo: O Poder das Esporas"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A expressão 'Voto de Cabresto' na República Velha (1889-1930) descrevia uma situação em que:",
-        "back": "A) Os eleitores tinham que votar obrigatoriamente em animais domésticos.. A falta de sigilo no voto permitia a coação física e moral do eleitor pelos poderosos rurais."
+        "back": "A falta de sigilo no voto permitia a coação física e moral do eleitor pelos poderosos rurais."
       },
       {
         "front": "O mecanismo da 'Degola', praticado pela Comissão de Verificação de Poderes no Congresso Nacional na República Velha, servia para:",
-        "back": "A) Cortar a cabeça dos reis que vinham visitar o Brasil de surpresa.. A degola era o filtro final que garantia que apenas os aliados das oligarquias ocupassem os cargos eletivos."
+        "back": "A degola era o filtro final que garantia que apenas os aliados das oligarquias ocupassem os cargos eletivos."
       },
       {
         "front": "O que era o Coronelismo?",

@@ -25,7 +25,7 @@
       "content": "Mao Zedong fez a revolução comunista, mas Deng Xiaoping fez a revolução econômica. Ele disse: 'Enriquecer é glorioso'. Ele permitiu que os chineses tivessem empresas privadas e que estrangeiros montassem fábricas em solo chinês. Foi o maior experimento econômico da história: manter o partido no poder enquanto o capitalismo transformava o país. Em poucos anos, a China tirou 800 milhões de pessoas da miséria absoluta.",
       "highlight": "Deng abriu a janela da China e o vento do capitalismo trouxe o dinheiro do mundo.",
       "image": {
-        "url": "assets/images/lessons/ascensao-china/section_0.png",
+        "url": "assets/images/lessons/ascensao-china/section_0.webp",
         "alt": "1. Deng Xiaoping: O Gato que Caça Ratos",
         "caption": "1. Deng Xiaoping: O Gato que Caça Ratos"
       }
@@ -35,7 +35,7 @@
       "content": "Antigamente, 'Made in China' era sinônimo de brinquedo que quebra ou réplica barata. Hoje, China é sinônimo de Huawei, BYD e Lenovo. O governo investiu pesado em educação e pesquisa e desenvolvimento (P&D). Eles não querem mais apenas costurar tênis Nike, querem criar os celulares mais potentes do mundo. A China passou da fase de 'copiar' para a fase de 'superar' o Ocidente em tecnologia digital.",
       "highlight": "O dragão chinês hoje cospe chips eletrônicos em vez de fogo.",
       "image": {
-        "url": "assets/images/lessons/ascensao-china/section_1.png",
+        "url": "assets/images/lessons/ascensao-china/section_1.webp",
         "alt": "2. Made in China: Da Cópia para a Criação",
         "caption": "2. Made in China: Da Cópia para a Criação"
       }
@@ -45,7 +45,7 @@
       "content": "O projeto Belt and Road é o plano chinês de espalhar estradas, portos e ferrovias por 70 países. Ao financiar pontes na África e trens na Europa, a China compra influência diplomática e garante que todos os caminhos do comércio levem a Pequim. Os críticos dizem que isso é a 'Diplomacia da Dívida', onde países pobres ficam devendo bilhões à China e acabam perdendo a soberania de seus próprios portos.",
       "highlight": "A China está reconstruindo o mapa comercial do mundo com o seu próprio cimento.",
       "image": {
-        "url": "assets/images/lessons/ascensao-china/section_2.png",
+        "url": "assets/images/lessons/ascensao-china/section_2.webp",
         "alt": "3. Nova Rota da Seda: O Império da Infraestrutura",
         "caption": "3. Nova Rota da Seda: O Império da Infraestrutura"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/ascensao-china/thumb.png",
+    "url": "assets/images/lessons/ascensao-china/thumb.webp",
     "alt": "Ascensão da China: O Novo Eixo Global",
     "caption": "Ascensão da China: O Novo Eixo Global"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O modelo econômico instituído na China por Deng Xiaoping a partir de 1978 ficou conhecido como:",
-        "back": "A) Capitalismo Selvagem Sem Leis em todas as feiras de Pequim.. A China integrou práticas capitalistas à estrutura política socialista original."
+        "back": "A China integrou práticas capitalistas à estrutura política socialista original."
       },
       {
         "front": "Qual o principal objetivo estratégico do projeto chinês contemporâneo chamado 'Belt and Road' (Nova Rota da Seda)?",
-        "back": "A) Enviar toda a seda da China para os astronautas que moram na lua.. O projeto visa garantir rotas seguras e influência política sobre mercados estratégicos globais."
+        "back": "O projeto visa garantir rotas seguras e influência política sobre mercados estratégicos globais."
       },
       {
         "front": "Quem iniciou as reformas na China em 1978?",

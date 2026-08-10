@@ -25,7 +25,7 @@
       "content": "O que começou com 20 centavos de aumento no ônibus em São Paulo tomou o Brasil inteiro. Milhões foram às ruas sem líderes partidários claros. Eles pediam 'padrão FIFA' para escolas e hospitais. Foi um momento de ruptura: o povo não estava mais satisfeito apenas com o consumo (bolsa família); agora exigia serviços públicos de qualidade. Esse movimento abriu as portas para o crescimento de novos campos políticos à direita e à esquerda no país.",
       "highlight": "2013 foi o ano que tirou o brasileiro do sofá e o colocou na linha de frente da política.",
       "image": {
-        "url": "assets/images/lessons/governos-dilma-temer/section_0.png",
+        "url": "assets/images/lessons/governos-dilma-temer/section_0.webp",
         "alt": "1. 2013: O Gigante Acordou?",
         "caption": "1. 2013: O Gigante Acordou?"
       }
@@ -35,7 +35,7 @@
       "content": "Uma investigação sobre lavagem de dinheiro em um posto de gasolina em Brasília descobriu o maior esquema de corrupção da história. A Petrobras foi saqueada por políticos e empreiteiras. A Lava Jato prendeu as maiores fortunas e as mentes mais poderosas da política nacional, incluindo ex-presidentes. Para muitos, foi uma faxina ética; para outros, um movimento judicial político para destruir o PT e a indústria nacional.",
       "highlight": "A Lava Jato foi o furacão judicial que derrubou os pilares da política brasileira tradicional.",
       "image": {
-        "url": "assets/images/lessons/governos-dilma-temer/section_1.png",
+        "url": "assets/images/lessons/governos-dilma-temer/section_1.webp",
         "alt": "2. Lava Jato: A República de Curitiba",
         "caption": "2. Lava Jato: A República de Curitiba"
       }
@@ -45,7 +45,7 @@
       "content": "Com a economia em frangalhos e o congresso em revolta, Dilma Rousseff foi julgada pelas 'pedaladas fiscais'. O julgamento dividiu o país: de um lado, os que chamavam o processo de 'Golpe Parlamentar' contra uma presidente eleita; do outro, os que diziam ser o cumprimento da lei contra a irresponsabilidade fiscal. No fim, Michel Temer assumiu o poder, encerrando 13 anos de governo do Partido dos Trabalhadores.",
       "highlight": "O impeachment de Dilma foi o sismo político mais profundo da Nova República.",
       "image": {
-        "url": "assets/images/lessons/governos-dilma-temer/section_2.png",
+        "url": "assets/images/lessons/governos-dilma-temer/section_2.webp",
         "alt": "3. O Impeachment de 2016: O Fim do Ciclo",
         "caption": "3. O Impeachment de 2016: O Fim do Ciclo"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governos-dilma-temer/thumb.png",
+    "url": "assets/images/lessons/governos-dilma-temer/thumb.webp",
     "alt": "Governos Dilma e Temer: A Grande Crise",
     "caption": "Governos Dilma e Temer: A Grande Crise"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "Os protestos ocorridos em junho de 2013 no Brasil representaram um marco na mobilização social por qual razão?",
-        "back": "A) Pediam o cancelamento de todos os voos de avião para o Rio de Janeiro.. A multidão nas ruas mostrou o descontentamento com a qualidade da gestão pública e os gastos com a Copa."
+        "back": "A multidão nas ruas mostrou o descontentamento com a qualidade da gestão pública e os gastos com a Copa."
       },
       {
         "front": "A Emenda Constitucional 95 (Teto de Gastos), aprovada no governo Michel Temer, estabeleceu qual diretriz financeira no Brasil?",
-        "back": "A) A doação imediata de todo o petróleo nacional para a Igreja Católica.. O teto visava equilibrar as contas públicas frente ao crescimento contínuo da dívida estatal."
+        "back": "O teto visava equilibrar as contas públicas frente ao crescimento contínuo da dívida estatal."
       },
       {
         "front": "Quem foi a presidente do Brasil de 2011 a 2016?",

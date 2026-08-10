@@ -25,7 +25,7 @@
       "content": "A unificação dos programas sociais sob o nome de Bolsa Família permitiu que famílias de todo o Brasil tivessem uma renda mínima mensal. Mais do que dar o dinheiro, o Estado passou a exigir que os filhos estivessem na escola e vacinados. Isso gerou um boom de consumo no interior e uma melhora drástica nos indicadores de desnutrição infantil. O 'Pai dos Pobres' do século XXI trocou o assistencialismo pela cidadania obrigatória condicionada por lei.",
       "highlight": "O Bolsa Família foi o passaporte para o consumo de milhões de brasileiros invisíveis.",
       "image": {
-        "url": "assets/images/lessons/governo-lula/section_0.png",
+        "url": "assets/images/lessons/governo-lula/section_0.webp",
         "alt": "1. Bolsa Família: O Fim do Mapa da Fome",
         "caption": "1. Bolsa Família: O Fim do Mapa da Fome"
       }
@@ -35,7 +35,7 @@
       "content": "O Brasil de Lula surfou na onda chinesa. Pequim precisava de minério e comida para crescer, e o Brasil tinha de sobra. Isso trouxe bilhões de dólares para o país, gerando superávits comerciais recordes. Porém, essa riqueza gerou um efeito colateral: o país passou a depender demais da exportação de matérias-primas e deixou de investir pesadamente na indústria de alta tecnologia nacional, a chamada 'desindustrialização precoce'.",
       "highlight": "A riqueza do Brasil de Lula foi escrita em chinês no rastro da soja e do ferro.",
       "image": {
-        "url": "assets/images/lessons/governo-lula/section_1.png",
+        "url": "assets/images/lessons/governo-lula/section_1.webp",
         "alt": "2. China e Commodities: O Brasil Agrário de Luxo",
         "caption": "2. China e Commodities: O Brasil Agrário de Luxo"
       }
@@ -45,7 +45,7 @@
       "content": "Com o ProUni, o governo trocou isenção de impostos para faculdades privadas por bolsas de estudo para negros e alunos de escola pública. A universidade, antes luxo de poucos, tornou-se realidade para milhões. Ao mesmo tempo, a descoberta do Pré-sal foi vendida como o 'bilhete de loteria' do Brasil, uma reserva profunda de petróleo que garantiria verbas para educação e saúde por décadas, tornando o país um dos grandes produtores de energia do planeta.",
       "highlight": "Lula vendeu o sonho de que o Brasil finalmente passava a ser a pátria do conhecimento e da energia.",
       "image": {
-        "url": "assets/images/lessons/governo-lula/section_2.png",
+        "url": "assets/images/lessons/governo-lula/section_2.webp",
         "alt": "3. Do ProUni ao Pré-sal: O Sonho Grande",
         "caption": "3. Do ProUni ao Pré-sal: O Sonho Grande"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governo-lula/thumb.png",
+    "url": "assets/images/lessons/governo-lula/thumb.webp",
     "alt": "Governo Lula: Inclusão e Commodities",
     "caption": "Governo Lula: Inclusão e Commodities"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "O programa social conhecido como Bolsa Família, consolidado no governo Lula, diferenciava-se de outros auxílios por exigir 'condicionalidades'. Entre elas, destacam-se:",
-        "back": "A) A obrigação de todos os beneficiários de saberem falar tupi-guarani.. A condicionalidade visava quebrar o ciclo intergeracional de pobreza através da educação e saúde."
+        "back": "A condicionalidade visava quebrar o ciclo intergeracional de pobreza através da educação e saúde."
       },
       {
         "front": "A descoberta do Pré-sal em 2007 representou um marco estratégico para o governo brasileiro por qual motivo principal?",
-        "back": "A) Transformou o Brasil em uma ilha cercada de sal por todos os lados.. O Pré-sal foi visto como uma oportunidade de ouro para financiar o desenvolvimento social do país."
+        "back": "O Pré-sal foi visto como uma oportunidade de ouro para financiar o desenvolvimento social do país."
       },
       {
         "front": "Quem assumiu a presidência em 2003?",

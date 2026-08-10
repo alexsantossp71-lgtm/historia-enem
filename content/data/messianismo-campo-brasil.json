@@ -25,7 +25,7 @@
       "content": "Antônio Conselheiro perambulava pelo sertão reconstruindo igrejas e cemitérios. Ele falava de um Deus que protegia o pobre e de um Rei que voltaria para acabar com a seca. Em Canudos, não havia fome e todos trabalhavam em comum. Para o governo, aquilo era um 'Estado dentro do Estado'. A República mandou o exército quatro vezes até que, em 1897, a cidade foi dinamitada e o corpo de Conselheiro decapitado para estudo científico.",
       "highlight": "Canudos não se rendeu: resistiu até o último homem, a última criança e o último velho.",
       "image": {
-        "url": "assets/images/lessons/messianismo-campo-brasil/section_0.png",
+        "url": "assets/images/lessons/messianismo-campo-brasil/section_0.webp",
         "alt": "1. Canudos: O Monte Santo da Liberdade",
         "caption": "1. Canudos: O Monte Santo da Liberdade"
       }
@@ -35,7 +35,7 @@
       "content": "Ao contrário de Canudos, o Contestado aconteceu em uma floresta fria. Milhares de trabalhadores da ferrovia foram demitidos e ficaram sem teto. Eles seguiram o monge José Maria em direção às 'Cidades Santas'. A luta durou quatro anos de guerrilha na mata. O exército brasileiro usou fuzis modernos e aeronaves para esmagar camponeses armados de foices e rosários, provando que a República protegia o lucro das empresas antes do povo.",
       "highlight": "No Contestado, o trilho do progresso passou por cima do cadáver do camponês.",
       "image": {
-        "url": "assets/images/lessons/messianismo-campo-brasil/section_1.png",
+        "url": "assets/images/lessons/messianismo-campo-brasil/section_1.webp",
         "alt": "2. Contestado: A Guerra pela Terra e pelo Céu",
         "caption": "2. Contestado: A Guerra pela Terra e pelo Céu"
       }
@@ -45,7 +45,7 @@
       "content": "Lampião, o 'Rei do Cangaço', não era um santo. Ele era um guerreiro cruel que nasceu da falta de leis no Nordeste. Para muitos sertanejos, o cangaceiro era o ' justiceiro' que peitava o coronel e o delegado. Para o governo, eram bandidos que precisavam ser extintos. O cangaço representa o estágio máximo da falência do Estado no interior: onde não há justiça oficial, reina a canastra e o punhal.",
       "highlight": "O cangaço foi o espelho da violência agrária do sertão nordestino.",
       "image": {
-        "url": "assets/images/lessons/messianismo-campo-brasil/section_2.png",
+        "url": "assets/images/lessons/messianismo-campo-brasil/section_2.webp",
         "alt": "3. O Cangaço: A Fúria de Sétimo e Lampião",
         "caption": "3. O Cangaço: A Fúria de Sétimo e Lampião"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/messianismo-campo-brasil/thumb.png",
+    "url": "assets/images/lessons/messianismo-campo-brasil/thumb.webp",
     "alt": "Messianismo: O Grito do Sertão",
     "caption": "Messianismo: O Grito do Sertão"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A comunidade de Canudos, liderada por Antônio Conselheiro (1893-1897), foi destruída pelo governo republicano sob a acusação principal de ser:",
-        "back": "A) Um centro de tecnologia espacial avançada financiado pela França.. A elite republicana via Canudos como uma ameaça à ordem e à modernidade secular que tentavam impor."
+        "back": "A elite republicana via Canudos como uma ameaça à ordem e à modernidade secular que tentavam impor."
       },
       {
         "front": "A Guerra do Contestado (1912-1916) e a Revolta de Canudos têm em comum o fato de serem movimentos messiânicos brasileiros que:",
-        "back": "A) Queriam que o Brasil fosse governado por um robô gigante.. Ambos foram reações de base religiosa e social contra a desigualdade e a opressão das elites rurais republicanas."
+        "back": "Ambos foram reações de base religiosa e social contra a desigualdade e a opressão das elites rurais republicanas."
       },
       {
         "front": "O que é Messianismo?",

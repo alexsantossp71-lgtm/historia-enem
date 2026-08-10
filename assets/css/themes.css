@@ -1,96 +1,84 @@
-/* Dynamic Themes for HistóriaENEM */
+/* ==========================================================================
+   HistóriaENEM — Temas por era (editorial)
+   Cada era define apenas o acento (--era) e seus derivados.
+   ========================================================================== */
 
-/* Base Theme Tokens */
-:root {
-    --theme-primary: var(--primary);
-    --theme-secondary: var(--primary-dark);
-    --theme-light: var(--primary-light);
-    --theme-accent: var(--accent-gold);
-}
-
-/* Brasil Theme (Emerald) */
+:root,
 .theme-brasil {
-    --theme-primary: #059669;    /* Emerald 600 */
-    --theme-secondary: #064e3b;  /* Emerald 900 */
-    --theme-light: #d1fae5;      /* Emerald 100 */
-    --theme-accent: #fbbf24;     /* Amber 400 */
+  --era: #0F7B4F;
+  --era-ink: #0B5F3E;
+  --era-soft: #E3F1E9;
+  --era-wash: rgba(15, 123, 79, 0.08);
+  --era-glow: rgba(15, 123, 79, 0.20);
 }
+[data-theme="dark"].theme-brasil, [data-theme="dark"] .theme-brasil,
+[data-theme="dark"].theme-brasil { --era: #3DBE82; --era-ink: #79DCA9; --era-soft: #103B2C; --era-wash: rgba(61,190,130,0.10); --era-glow: rgba(61,190,130,0.24); }
 
-/* História Geral Theme (Sapphire/Blue) */
-.theme-geral {
-    --theme-primary: #2563eb;    /* Blue 600 */
-    --theme-secondary: #1e3a8a;  /* Blue 900 */
-    --theme-light: #dbeafe;      /* Blue 100 */
-    --theme-accent: #f59e0b;     /* Amber 500 */
+/* Medievo / Medieval — ocre-terra */
+.theme-medieval {
+  --era: #A05A1E;
+  --era-ink: #7C4516;
+  --era-soft: #F2E5D3;
+  --era-wash: rgba(160, 90, 30, 0.08);
+  --era-glow: rgba(160, 90, 30, 0.20);
 }
+[data-theme="dark"] .theme-medieval,
+[data-theme="dark"].theme-medieval { --era: #D79A5F; --era-ink: #F0C49A; --era-soft: #3A2A1A; --era-wash: rgba(215,154,95,0.10); --era-glow: rgba(215,154,95,0.24); }
 
-/* História Antiga Theme (Ruby/Red-Brown) */
+/* Antiguidade / Roma & Grécia — vermelho-clássico */
 .theme-antiga {
-    --theme-primary: #991b1b;    /* Red 800 */
-    --theme-secondary: #450a0a;  /* Red 900 */
-    --theme-light: #fee2e2;      /* Red 100 */
-    --theme-accent: #d97706;     /* Amber 600 */
+  --era: #A4362D;
+  --era-ink: #7E2922;
+  --era-soft: #F4E2DF;
+  --era-wash: rgba(164, 54, 45, 0.08);
+  --era-glow: rgba(164, 54, 45, 0.20);
 }
+[data-theme="dark"] .theme-antiga,
+[data-theme="dark"].theme-antiga { --era: #E07B70; --era-ink: #F5B8B0; --era-soft: #3B1B19; --era-wash: rgba(224,123,112,0.10); --era-glow: rgba(224,123,112,0.24); }
 
-/* Idade Contemporânea (Gold/Amber) */
+/* Geral / Moderna — azul profundo */
+.theme-geral {
+  --era: #1F5EC4;
+  --era-ink: #17468F;
+  --era-soft: #E0E9F8;
+  --era-wash: rgba(31, 94, 196, 0.08);
+  --era-glow: rgba(31, 94, 196, 0.20);
+}
+[data-theme="dark"] .theme-geral,
+[data-theme="dark"].theme-geral { --era: #6FA0EA; --era-ink: #A6C7F5; --era-soft: #152A4D; --era-wash: rgba(111,160,234,0.10); --era-glow: rgba(111,160,234,0.24); }
+
+/* Contemporânea — âmbar */
 .theme-contemporanea {
-    --theme-primary: #d97706;    /* Amber 600 */
-    --theme-secondary: #78350f;  /* Amber 900 */
-    --theme-light: #fef3c7;      /* Amber 50 */
-    --theme-accent: #059669;     /* Emerald 600 */
+  --era: #B0811B;
+  --era-ink: #8A6514;
+  --era-soft: #F4EBCB;
+  --era-wash: rgba(176, 129, 27, 0.08);
+  --era-glow: rgba(176, 129, 27, 0.20);
 }
+[data-theme="dark"] .theme-contemporanea,
+[data-theme="dark"].theme-contemporanea { --era: #E4BC49; --era-ink: #F2D98D; --era-soft: #3A311B; --era-wash: rgba(228,188,73,0.10); --era-glow: rgba(228,188,73,0.24); }
 
-/* Application Classes */
-.bg-theme-main { background-color: var(--theme-primary); }
-.text-theme-main { color: var(--theme-primary); }
-.border-theme-main { border-color: var(--theme-primary); }
+/* Egito / África — terracota-esmeralda */
+.theme-africa {
+  --era: #15635B;
+  --era-ink: #0E4A44;
+  --era-soft: #DDEBE9;
+  --era-wash: rgba(21, 99, 91, 0.08);
+  --era-glow: rgba(21, 99, 91, 0.20);
+}
+[data-theme="dark"] .theme-africa,
+[data-theme="dark"].theme-africa { --era: #4FC0B2; --era-ink: #9BE0D6; --era-soft: #10302C; --era-wash: rgba(79,192,178,0.10); --era-glow: rgba(79,192,178,0.24); }
 
-.theme-button {
-    background: linear-gradient(135deg, var(--theme-primary) 0%, var(--theme-secondary) 100%);
-    box-shadow: 0 10px 20px -5px rgba(var(--theme-primary-rgb, 5, 150, 105), 0.4);
-}
+/* Comportamento dos cards por era */
+.lesson-card.theme-medieval .period-tag,
+.lesson-card.theme-antiga .period-tag,
+.lesson-card.theme-geral .period-tag,
+.lesson-card.theme-contemporanea .period-tag,
+.lesson-card.theme-africa .period-tag,
+.lesson-card.theme-brasil .period-tag { color: var(--era); }
 
-.theme-button:hover {
-    filter: brightness(1.1);
-    transform: translateY(-3px);
-}
-/* Support Text Box (GeoENEM Style) */
-.support-text-box {
-    padding: 2.5rem;
-    border-radius: 2rem;
-    border-left: 8px solid var(--theme-primary);
-    background-color: rgba(var(--theme-primary-rgb, 5, 150, 105), 0.08);
-    margin: 4rem 0;
-    position: relative;
-    overflow: hidden;
-}
+/* Classes utilitárias de tema (compat. com antigo build) */
+.theme-context { --theme-primary: var(--era); --theme-secondary: var(--era-ink); --theme-light: var(--era-soft); --theme-accent: var(--era); }
 
-.support-text-box::before {
-    content: '"';
-    position: absolute;
-    top: -1rem;
-    right: 2rem;
-    font-size: 8rem;
-    font-family: 'Outfit', sans-serif;
-    color: var(--theme-primary);
-    opacity: 0.1;
-    font-weight: 900;
-}
-
-.support-text-box p {
-    color: #374151; /* Gray 700 */
-    line-height: 1.8;
-    font-size: 1.1rem;
-    margin-bottom: 1.5rem;
-}
-
-.support-text-box .source {
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px dashed rgba(var(--theme-primary-rgb, 5, 150, 105), 0.2);
-    font-size: 0.75rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--theme-secondary);
-}
+/* Navbar do tema nas páginas de aula */
+.navbar.in-theme { border-bottom-color: color-mix(in srgb, var(--era) 35%, var(--line)); }

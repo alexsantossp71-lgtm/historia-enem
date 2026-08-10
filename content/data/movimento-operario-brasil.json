@@ -25,7 +25,7 @@
       "content": "No Brás e na Mooca, em São Paulo, as chaminés das fábricas eram cercadas por vilas operárias onde o trabalhador era oprimido 24 horas por dia. O patrão era dono da fábrica e da casa do operário. O barulho das máquinas e a poeira têxtil destruíam a saúde de crianças de 10 anos que trabalhavam à noite para sustentar a família. Não havia leis: o chicote havia sido trocado pelo relógio de ponto, mas a opressão era a mesma.",
       "highlight": "A revolução operária começou no escuro das vilas operárias paulistas.",
       "image": {
-        "url": "assets/images/lessons/movimento-operario-brasil/section_0.png",
+        "url": "assets/images/lessons/movimento-operario-brasil/section_0.webp",
         "alt": "1. Fábricas e Cortiços: O Cenário da Exploração",
         "caption": "1. Fábricas e Cortiços: O Cenário da Exploração"
       }
@@ -35,7 +35,7 @@
       "content": "Os anarquistas italianos não queriam votar; queriam destruir o sistema. Eles diziam que o patrão e o governo eram os inimigos. Através de jornais como 'La Battaglia' e de grupos de teatro operário, eles educavam o trabalhador para a revolução social. Pregavam a autogestão e a solidariedade, acreditando que a greve geral seria o grande golpe final contra a sociedade capitalista burguesa.",
       "highlight": "O anarquismo foi o combustível intelectual das primeiras grandes revoltas do Brasil.",
       "image": {
-        "url": "assets/images/lessons/movimento-operario-brasil/section_1.png",
+        "url": "assets/images/lessons/movimento-operario-brasil/section_1.webp",
         "alt": "2. Anarquismo: Nem Deus, Nem Mestre",
         "caption": "2. Anarquismo: Nem Deus, Nem Mestre"
       }
@@ -45,7 +45,7 @@
       "content": "O funeral de José Martinez transformou-se em uma marcha fúnebre de milhares de pessoas. As ruas de São Paulo viraram trincheiras. Os operários sentiram, pela primeira vez, que podiam vencer. A greve de 17 foi vitoriosa em parte: os patrões prometeram 20% de aumento e não demitir os grevistas. Mas assim que a calma voltou, as promessas foram quebradas e a polícia voltou a caçar os líderes operários no meio da noite.",
       "highlight": "Em 1917, São Paulo provou que a riqueza das fábricas não existia sem o suor dos trabalhadores.",
       "image": {
-        "url": "assets/images/lessons/movimento-operario-brasil/section_2.png",
+        "url": "assets/images/lessons/movimento-operario-brasil/section_2.webp",
         "alt": "3. 1917: A Cidade sob as Nossas Mãos",
         "caption": "3. 1917: A Cidade sob as Nossas Mãos"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/movimento-operario-brasil/thumb.png",
+    "url": "assets/images/lessons/movimento-operario-brasil/thumb.webp",
     "alt": "Movimento Operário: O Despertar das Fábricas",
     "caption": "Movimento Operário: O Despertar das Fábricas"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "O movimento operário brasileiro no início do século XX teve forte influência de imigrantes europeus. Qual era a corrente ideológica predominante entre os líderes grevistas de 1917?",
-        "back": "A) O monarquismo absoluto focado na volta de D. Pedro II.. O anarquismo trazido por italianos e espanhóis foi a base da primeira organização operária no país."
+        "back": "O anarquismo trazido por italianos e espanhóis foi a base da primeira organização operária no país."
       },
       {
         "front": "A frase 'A questão social é um caso de polícia', atribuída ao presidente Washington Luís, expressa qual visão das elites da República Velha sobre as demandas operárias?",
-        "back": "A) A vontade de dar uniformes de gala para todos os trabalhadores.. Por décadas, as demandas por direitos no Brasil foram tratadas como distúrbios de ordem pública e não como direitos de cidadania."
+        "back": "Por décadas, as demandas por direitos no Brasil foram tratadas como distúrbios de ordem pública e não como direitos de cidadania."
       }
     ],
     "true_false": [

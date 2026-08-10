@@ -25,7 +25,7 @@
       "content": "As multinacionais americanas diziam que o Brasil não tinha petróleo. Vargas provou o contrário e convocou o povo para as ruas. A criação da Petrobras foi a maior vitória do nacionalismo brasileiro. O Estado passou a ter o monopólio da exploração do 'ouro negro', garantindo que o lucro combustíveis ficasse dentro do país para financiar a educação e a saúde (pelo menos na teoria da época).",
       "highlight": "A Petrobras foi a resposta de Vargas ao desdém das potências estrangeiras.",
       "image": {
-        "url": "assets/images/lessons/segundo-governo-vargas/section_0.png",
+        "url": "assets/images/lessons/segundo-governo-vargas/section_0.webp",
         "alt": "1. O Petróleo é Nosso: A Soberania em Jogo",
         "caption": "1. O Petróleo é Nosso: A Soberania em Jogo"
       }
@@ -35,7 +35,7 @@
       "content": "Carlos Lacerda usava seu jornal 'Tribuna da Imprensa' para destruir a reputação de Getúlio. Ele dizia que o palácio presidencial era um covil de bandidos e comunistas. Lacerda era um orador genial e odiado pelas massas varguistas. Ele representava a elite urbana e conservadora que nunca aceitou ver um líder popular no comando do país.",
       "highlight": "Lacerda foi o veneno que corroeu a base de sustentação política de Vargas.",
       "image": {
-        "url": "assets/images/lessons/segundo-governo-vargas/section_1.png",
+        "url": "assets/images/lessons/segundo-governo-vargas/section_1.webp",
         "alt": "2. O Corvo e o Mar de Lama",
         "caption": "2. O Corvo e o Mar de Lama"
       }
@@ -45,7 +45,7 @@
       "content": "Gregório Fortunato, o fiel guarda-costas negro de Vargas, decidiu resolver o 'problema' de Lacerda por conta própria. O atentado falhou em matar o jornalista, mas matou um oficial da aeronáutica. Isso deu aos militares o pretexto perfeito para exigir a saída de Vargas. Getúlio disse que 'só morto sairia do Catete', e cumpriu sua palavra com um revólver calibre 32.",
       "highlight": "Um erro de um guarda fiel derrubou o maior estrategista do Brasil.",
       "image": {
-        "url": "assets/images/lessons/segundo-governo-vargas/section_2.png",
+        "url": "assets/images/lessons/segundo-governo-vargas/section_2.webp",
         "alt": "3. O Crime da Rua Tonelero: O Ínicio do Fim",
         "caption": "3. O Crime da Rua Tonelero: O Ínicio do Fim"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/segundo-governo-vargas/thumb.png",
+    "url": "assets/images/lessons/segundo-governo-vargas/thumb.webp",
     "alt": "Getúlio Vargas (1951-1954): O Fim Trágico",
     "caption": "Getúlio Vargas (1951-1954): O Fim Trágico"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A campanha popular 'O Petróleo é Nosso', que mobilizou o Brasil nos anos 50, resultou em qual medida do governo Getúlio Vargas em 1953?",
-        "back": "A) A doação de postos de gasolina para os motoristas de táxi.. A Petrobras tornou-se o maior símbolo do nacionalismo estatista de Vargas."
+        "back": "A Petrobras tornou-se o maior símbolo do nacionalismo estatista de Vargas."
       },
       {
         "front": "O suicídio de Getúlio Vargas em 1954 foi um evento de impacto político imediato que provocou:",
-        "back": "A) A posse imediata de Carlos Lacerda como novo imperador do Sul.. O sentimento de luto e revolta popular paralisou as forças golpistas por quase uma década."
+        "back": "O sentimento de luto e revolta popular paralisou as forças golpistas por quase uma década."
       }
     ],
     "true_false": [

@@ -25,7 +25,7 @@
       "content": "A briga começou pela cadeira de governador (o 'castilhismo'). Júlio de Castilhos governava o Rio Grande como se fosse um rei particular. Seus rivais federalistas não aceitavam as fraudes e a perseguição política. O Rio Grande virou um barril de pólvora pronto para explodir, dividido entre o lenço vermelho (Maragatos) e o lenço branco (Pica-paus), em um ódio que separava famílias e cidades inteiras.",
       "highlight": "Na Revolução Federalista, ninguém era neutro: era matar ou ser degolado.",
       "image": {
-        "url": "assets/images/lessons/revolucao-federalista/section_0.png",
+        "url": "assets/images/lessons/revolucao-federalista/section_0.webp",
         "alt": "1. Pica-paus e Maragatos: O Ódio Gaúcho",
         "caption": "1. Pica-paus e Maragatos: O Ódio Gaúcho"
       }
@@ -35,7 +35,7 @@
       "content": "Ao contrário de outras guerras civis mundiais, a Federalista foi regida pelo terror psicológico. Fazer prisioneiros era um luxo que nenhum lado podia pagar. A 'degola' tornou-se uma prática rotineira de comemoração após cada batalha. Sargentos e generais cortavam os pescoços de centenas de inimigos rendidos, justificando a barbárie como uma economia de balas para as próximas lutas. O Brasil nunca viu tal crueldade institucionalizada.",
       "highlight": "A faca foi a arma que batizou de sangue a terra do Sul.",
       "image": {
-        "url": "assets/images/lessons/revolucao-federalista/section_1.png",
+        "url": "assets/images/lessons/revolucao-federalista/section_1.webp",
         "alt": "2. A Barbaridade da Degola",
         "caption": "2. A Barbaridade da Degola"
       }
@@ -45,7 +45,7 @@
       "content": "Gumercindo era o braço armado dos Maragatos. Um cavaleiro incansável que levou a guerra até o Paraná, sitiando cidades e aterrorizando as tropas federais de Floriano Peixoto. Sua tática de guerrilha desmoralizou o exército brasileiro por meses. Ele foi o pesadelo do Marechal de Ferro, provando que o interior do Brasil não aceitava as ordens do Rio de Janeiro sem lutar.",
       "highlight": "Gumercindo foi o 'chefe' maragato que quase tomou Curitiba e avançou para o Sudeste.",
       "image": {
-        "url": "assets/images/lessons/revolucao-federalista/section_2.png",
+        "url": "assets/images/lessons/revolucao-federalista/section_2.webp",
         "alt": "3. Gumercindo Saraiva: O Caudilho dos Pampas",
         "caption": "3. Gumercindo Saraiva: O Caudilho dos Pampas"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-federalista/thumb.png",
+    "url": "assets/images/lessons/revolucao-federalista/thumb.webp",
     "alt": "Revolução Federalista: A Guerra da Degola",
     "caption": "Revolução Federalista: A Guerra da Degola"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O conflito conhecido como Revolução Federalista (1893-1895) no Rio Grande do Sul opôs duas facções políticas ferrenhas. Quais eram elas?",
-        "back": "A) Os Surfistas e os Skatistas de Porto Alegre.. A disputa era entre os defensores do centralismo de Júlio de Castilhos e os defensores da descentralização federalista."
+        "back": "A disputa era entre os defensores do centralismo de Júlio de Castilhos e os defensores da descentralização federalista."
       },
       {
         "front": "A prática sistemática da 'Degola' durante a Revolução Federalista é interpretada pelos historiadores como:",
-        "back": "A) Uma forma de barbear os soldados antes de visitarem a capital.. A degola reflete a brutalidade do conflito e o ódio fanatizado das facções envolvidas."
+        "back": "A degola reflete a brutalidade do conflito e o ódio fanatizado das facções envolvidas."
       },
       {
         "front": "O que foi a Revolução Federalista?",

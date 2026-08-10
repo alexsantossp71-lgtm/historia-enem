@@ -25,7 +25,7 @@
       "content": "A Europa vivia uma ilusão. Em Paris, as pessoas celebravam o progresso, a eletricidade e o cinema. Mas, nos bastidores, os governos assinavam pactos secretos de defesa. Qualquer faísca poderia incendiar o continente. A 'Paz Armada' foi o período em que a corrida armamentista industrial atingiu seu auge, transformando a ciência em uma ferramenta de morte em escala industrial.",
       "highlight": "A Belle Époque foi o luxo que financiou a barbárie.",
       "image": {
-        "url": "assets/images/lessons/primeira-guerra/section_0.png",
+        "url": "assets/images/lessons/primeira-guerra/section_0.webp",
         "alt": "1. Belle Époque e a Paz Armada",
         "caption": "1. Belle Époque e a Paz Armada"
       }
@@ -40,7 +40,7 @@
       "content": "Dois fatos mudaram a história. A Rússia, exausta e faminta, viu o povo derrubar o Czar e abraçar o Socialismo, saindo da guerra para resolver seus problemas internos. Ao mesmo tempo, os alemães afundaram navios mercantes americanos, forçando os EUA a enviarem milhões de tropas e suprimentos para a Europa, garantindo a vitória final da França e Inglaterra.",
       "highlight": "1917 foi o nascimento oficial da União Soviética e da liderança global dos EUA.",
       "image": {
-        "url": "assets/images/lessons/primeira-guerra/section_2.png",
+        "url": "assets/images/lessons/primeira-guerra/section_2.webp",
         "alt": "3. 1917: O Ano que o Mundo Girou",
         "caption": "3. 1917: O Ano que o Mundo Girou"
       }
@@ -85,7 +85,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/primeira-guerra/thumb.png",
+    "url": "assets/images/lessons/primeira-guerra/thumb.webp",
     "alt": "A Grande Guerra: Impérios em Colapso (1914-1918)",
     "caption": "A Grande Guerra: Impérios em Colapso (1914-1918)"
   },
@@ -103,11 +103,11 @@
     "flashcards": [
       {
         "front": "O Tratado de Versalhes, assinado em 1919 após o fim da Primeira Guerra Mundial, impôs condições severas à Alemanha. Qual foi um dos efeitos desse tratado a longo prazo?",
-        "back": "A) O fortalecimento da democracia plena e da paz eterna na Europa.. A humilhação de Versalhes foi o combustível emocional para o discurso de Hitler nos anos 20 e 30."
+        "back": "A humilhação de Versalhes foi o combustível emocional para o discurso de Hitler nos anos 20 e 30."
       },
       {
         "front": "Durante a Primeira Guerra Mundial, a entrada dos Estados Unidos (1917) foi decisiva para o desfecho do conflito. O principal motivo para a entrada dos EUA na guerra foi:",
-        "back": "A) O desejo de colonizar a Rússia e o Japão.. Os EUA tinham interesses financeiros na vitória de Inglaterra e França e reagiram aos ataques marítimos alemães."
+        "back": "Os EUA tinham interesses financeiros na vitória de Inglaterra e França e reagiram aos ataques marítimos alemães."
       },
       {
         "front": "O que foi o estopim da Grande Guerra?",

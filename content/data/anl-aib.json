@@ -24,7 +24,7 @@
       "content": "Plínio Salgado queria um Brasil forte e centralizado. Os integralistas usavam o Sigma (Σ) como símbolo e pregavam o corporativismo. Odiavam a democracia liberal e o comunismo, acreditando que o Estado deveria ser o pai de todos. Eram organizados como um exército, desfilando pelas ruas das capitais em demonstração de força e disciplina.",
       "highlight": "O anauê foi o grito do fascismo tropical nos anos 30.",
       "image": {
-        "url": "assets/images/lessons/anl-aib/section_0.png",
+        "url": "assets/images/lessons/anl-aib/section_0.webp",
         "alt": "1. AIB: Fachada Fascista no Brasil",
         "caption": "1. AIB: Fachada Fascista no Brasil"
       }
@@ -34,7 +34,7 @@
       "content": "A Aliança Nacional Libertadora foi um movimento de massas. Prestes foi o símbolo dessa luta. Eles queriam que o Brasil parasse de ser uma fazenda das potências estrangeiras e fizesse uma reforma agrária radical. Vargas, no entanto, viu nesse movimento uma ameaça ao seu projeto de poder e usou a lei de segurança nacional para caçar os membros da ANL.",
       "highlight": "A ANL foi a primeira tentativa de uma frente popular anti-fascista no Brasil.",
       "image": {
-        "url": "assets/images/lessons/anl-aib/section_1.png",
+        "url": "assets/images/lessons/anl-aib/section_1.webp",
         "alt": "2. ANL: A Frente Ampla de Esquerda",
         "caption": "2. ANL: A Frente Ampla de Esquerda"
       }
@@ -44,7 +44,7 @@
       "content": "Em 1935, quartéis em Natal, Recife e Rio de Janeiro rebelaram-se. Eles achavam que o povo iria para as ruas seguir os comunistas, mas o exército de Vargas massacrou a revolta em poucos dias. O fracasso da intentona deu a Vargas a 'carta branca' para decretar estado de sítio e perseguir toda e qualquer oposição, em nome da defesa da pátria.",
       "highlight": "A intentona de 1935 foi o pretexto de ouro para o endurecimento da ditadura.",
       "image": {
-        "url": "assets/images/lessons/anl-aib/section_2.png",
+        "url": "assets/images/lessons/anl-aib/section_2.webp",
         "alt": "3. Intentona Comunista: O Erro de Cálculo",
         "caption": "3. Intentona Comunista: O Erro de Cálculo"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/anl-aib/thumb.png",
+    "url": "assets/images/lessons/anl-aib/thumb.webp",
     "alt": "AIB vs ANL: O Brasil Polarizado",
     "caption": "AIB vs ANL: O Brasil Polarizado"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "A ANL (Aliança Nacional Libertadora) foi um movimento político dos anos 30 liderado por Luís Carlos Prestes. Qual era o seu principal lema de luta?",
-        "back": "A) Brasil acima de tudo, Deus acima de todos.. O lema refletia as necessidades básicas das massas camponesas e operárias da época."
+        "back": "O lema refletia as necessidades básicas das massas camponesas e operárias da época."
       },
       {
         "front": "O movimento Integralista Brasileiro (AIB) apresentava características facistas e nacionalistas. Qual era sua saudação oficial e o seu líder máximo?",
-        "back": "A) Aloha; Getúlio Vargas.. O Integralismo buscava raízes indígenas para criar um fascismo genuinamente brasileiro."
+        "back": "O Integralismo buscava raízes indígenas para criar um fascismo genuinamente brasileiro."
       },
       {
         "front": "Qual era o lema da AIB?",

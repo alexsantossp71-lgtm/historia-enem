@@ -24,7 +24,7 @@
       "content": "Juscelino prometeu acelerar o tempo. Seu plano era técnico e ambicioso. Ele acreditava que o Estado deveria dar as condições de infraestrutura (energia e estradas) para que as empresas estrangeiras viessem produzir aqui bens de consumo duráveis (carros, TVs, geladeiras). Isso mudou a face das cidades brasileiras, que começaram a ser desenhadas para os automóveis, abandonando os bondes e as ferrovias.",
       "highlight": "JK foi o 'Presidente Automóvel', transformando o Brasil em uma sociedade de consumo industrializado.",
       "image": {
-        "url": "assets/images/lessons/governo-jk/section_0.png",
+        "url": "assets/images/lessons/governo-jk/section_0.webp",
         "alt": "1. O Plano de Metas e os '50 Anos em 5'",
         "caption": "1. O Plano de Metas e os '50 Anos em 5'"
       }
@@ -34,7 +34,7 @@
       "content": "Brasília nasceu como um símbolo de modernidade e descontinuidade com o passado colonial do Rio. No meio do nada, surgiu o 'Plano Piloto' com formato de avião (ou cruz). A transferência da capital para o Centro-Oeste tinha fins estratégicos de defesa e geopolítica, buscando forçar a ocupação de terras para o agronegócio futuro. Foi uma das maiores obras de engenharia do século XX mundial.",
       "highlight": "A construção de Brasília foi o maior símbolo do otimismo desenvolvimentista de JK.",
       "image": {
-        "url": "assets/images/lessons/governo-jk/section_1.png",
+        "url": "assets/images/lessons/governo-jk/section_1.webp",
         "alt": "2. Brasília: A Meta Síntese",
         "caption": "2. Brasília: A Meta Síntese"
       }
@@ -44,7 +44,7 @@
       "content": "Quem construiu Brasília não foram os engenheiros heróis, mas os 'Candangos'. Fugindo da seca e da miséria no Nordeste, milhares de migrantes viviam na 'Cidade Livre' (Núcleo Bandeirante) em condições sub-humanas. Massacre de trabalhadores em canteiros de obras foram registrados mas abafados pela propaganda oficial, expondo a ferida social de um desenvolvimento que não chegava para todos.",
       "highlight": "Os candangos construíram o luxo da capital enquanto viviam em favelas provisórias.",
       "image": {
-        "url": "assets/images/lessons/governo-jk/section_2.png",
+        "url": "assets/images/lessons/governo-jk/section_2.webp",
         "alt": "3. Os Candangos e a Luta Invisível",
         "caption": "3. Os Candangos e a Luta Invisível"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governo-jk/thumb.png",
+    "url": "assets/images/lessons/governo-jk/thumb.webp",
     "alt": "Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)",
     "caption": "Governo Juscelino Kubitschek: O Desenvolvimentismo (1956-1961)"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "O governo Juscelino Kubitschek é associado ao lema '50 anos em 5'. Qual foi a principal ferramenta de planejamento econômico desse período?",
-        "back": "A) A Reforma Agrária total em todo o Brasil.. O Plano de Metas definiu os 31 objetivos prioritários para o desenvolvimento industrial brasileiro."
+        "back": "O Plano de Metas definiu os 31 objetivos prioritários para o desenvolvimento industrial brasileiro."
       },
       {
         "front": "A transferência da capital do Rio de Janeiro para Brasília teve como um de seus objetivos estratégicos:",
-        "back": "A) Facilitar o acesso das praias para o povo de Goiás.. A interiorização capital visava a integração nacional e a segurança estratégica do comando federal."
+        "back": "A interiorização capital visava a integração nacional e a segurança estratégica do comando federal."
       },
       {
         "front": "Quem foi o presidente do Brasil de 1956 a 1961?",

@@ -24,7 +24,7 @@
       "content": "Pense nos fenícios como os 'correios do Mediterrâneo'. Eles trocavam tecidos de seda e corante de púrpura em troca de metais e madeira. Como precisavam de rapidez nas contas e contratos, os hieróglifos eram lentos demais. Criaram o alfabeto onde cada letra era um som. Isso permitiu que mercadores aprendessem a ler rápido, algo que antes era luxo de scribas do governo.",
       "highlight": "O alfabeto fenício foi a primeira grande democratização da informação da história.",
       "image": {
-        "url": "assets/images/lessons/fenicios-persas-hebreus/section_0.png",
+        "url": "assets/images/lessons/fenicios-persas-hebreus/section_0.webp",
         "alt": "1. Fenícios: Os Senhores do Mar e das Letras",
         "caption": "1. Fenícios: Os Senhores do Mar e das Letras"
       }
@@ -34,7 +34,7 @@
       "content": "A história hebraica é uma saga de sobrevivência. Foram escravizados no Egito e libertos por Moisés. No Monte Sinai, receberam os 10 Mandamentos — a primeira lei moral que valia para todos, inclusive para o rei. Quando os Romanos destruíram Jerusalém no ano 70 d.C., os judeus espalharam-se pelo mundo (Diáspora), mantendo sua cultura unida pela fé religiosa.",
       "highlight": "O monoteísmo hebraico é a coluna vertebral da moralidade ocidental contemporânea.",
       "image": {
-        "url": "assets/images/lessons/fenicios-persas-hebreus/section_1.png",
+        "url": "assets/images/lessons/fenicios-persas-hebreus/section_1.webp",
         "alt": "2. Hebreus: Da Terra Prometida à Diáspora",
         "caption": "2. Hebreus: Da Terra Prometida à Diáspora"
       }
@@ -44,7 +44,7 @@
       "content": "Dario I foi o maior administrador do mundo antigo. Ele criou as 'Estradas Reais' para que mensagens e exércitos cruzassem o império em dias. Usava espiões reais para garantir que os governadores (sátrapas) não roubassem o povo. Diferente dos assírios cruéis, os persas deixavam os povos conquistados manterem sua língua e religião, desde que pagassem impostos.",
       "highlight": "O Império Persa provou que a tolerância é mais eficiente que a força bruta para governar.",
       "image": {
-        "url": "assets/images/lessons/fenicios-persas-hebreus/section_2.png",
+        "url": "assets/images/lessons/fenicios-persas-hebreus/section_2.webp",
         "alt": "3. Persas: A Máquina Administrativa Perfeita",
         "caption": "3. Persas: A Máquina Administrativa Perfeita"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/fenicios-persas-hebreus/thumb.png",
+    "url": "assets/images/lessons/fenicios-persas-hebreus/thumb.webp",
     "alt": "Fenícios, Persas e Hebreus: Legados do Oriente",
     "caption": "Fenícios, Persas e Hebreus: Legados do Oriente"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "O Alfabeto Fonético, criado pelos fenícios há mais de 3.000 anos, tinha como principal objetivo prático:",
-        "back": "A) Facilitar a escrita de poesias e hinos religiosos complexos.. A simplicidade do alfabeto era ideal para as necessidades rápidas do comércio internacional fenício."
+        "back": "A simplicidade do alfabeto era ideal para as necessidades rápidas do comércio internacional fenício."
       },
       {
         "front": "O império persa utilizava um sistema administrativo eficiente para controlar vastos territórios. Como eram chamados os governadores das províncias persas e qual era sua função principal?",
-        "back": "A) Faraós; construir pirâmides para o rei.. As satrapias permitiam a manutenção do controle imperial central sobre um território imenso e diverso."
+        "back": "As satrapias permitiam a manutenção do controle imperial central sobre um território imenso e diverso."
       },
       {
         "front": "Quem foram os grandes navegadores da Antiguidade?",

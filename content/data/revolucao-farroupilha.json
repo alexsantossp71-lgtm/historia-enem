@@ -25,7 +25,7 @@
       "content": "O Rio Grande do Sul sustentava o Brasil escravocrata com sua carne seca (charque). Mas o governo imperial, em vez de proteger o produto nacional, cobrava impostos caríssimos, tornando o charque estrangeiro mais barato nos portos do Rio de Janeiro e Salvador. Os gaúchos sentiram-se traídos pela pátria e decidiram que era melhor ser uma República independente do que uma província explorada.",
       "highlight": "A revolta começou por conta do imposto sobre a sobrevivência econômica do Sul.",
       "image": {
-        "url": "assets/images/lessons/revolucao-farroupilha/section_0.png",
+        "url": "assets/images/lessons/revolucao-farroupilha/section_0.webp",
         "alt": "1. O Tributo ao Charque: O Pavio da Guerra",
         "caption": "1. O Tributo ao Charque: O Pavio da Guerra"
       }
@@ -35,7 +35,7 @@
       "content": "Bento Gonçalves era o líder carismático da elite gaúcha. Preso pelo Império, ele fugiu de modo espetacular do Forte do Mar em Salvador e voltou para comandar os exércitos rebeldes. Sua visão era de uma República Federativa, onde o poder estivesse nas mãos de quem produzisse a riqueza, e não em juízes nomeados no Rio de Janeiro. Ele simboliza o orgulho e a coragem da elite militar sulista.",
       "highlight": "Bento Gonçalves foi o presidente herói da primeira grande república democrática do Sul.",
       "image": {
-        "url": "assets/images/lessons/revolucao-farroupilha/section_1.png",
+        "url": "assets/images/lessons/revolucao-farroupilha/section_1.webp",
         "alt": "2. Bento Gonçalves e os Ideais Liberais",
         "caption": "2. Bento Gonçalves e os Ideais Liberais"
       }
@@ -45,7 +45,7 @@
       "content": "Giuseppe Garibaldi, fugindo da repressão na Itália, chegou ao Brasil para lutar pela liberdade. Em Santa Catarina, ele conheceu Anita, que abandonou tudo para lutar ao seu lado a cavalo, disparando canhões nas lagoas catarinenses. Juntos, eles expandiram a guerra para o norte e fundaram a República Juliana. Esse casal tornou-se o maior mito romântico de luta pela liberdade mundial.",
       "highlight": "A Farroupilha foi a escola militar de Garibaldi para libertar a Itália futuramente.",
       "image": {
-        "url": "assets/images/lessons/revolucao-farroupilha/section_2.png",
+        "url": "assets/images/lessons/revolucao-farroupilha/section_2.webp",
         "alt": "3. Garibaldi e Anita: O Amor e a Revolução",
         "caption": "3. Garibaldi e Anita: O Amor e a Revolução"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-farroupilha/thumb.png",
+    "url": "assets/images/lessons/revolucao-farroupilha/thumb.webp",
     "alt": "Guerra dos Farrapos: O Sul em Armas",
     "caption": "Guerra dos Farrapos: O Sul em Armas"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A principal reivindicação econômica da elite gaúcha que levou ao início da Revolução Farroupilha em 1835 foi:",
-        "back": "A) A proibição de criar gado no território do Rio Grande do Sul.. A proteção do mercado interno de charque era a base da riqueza dos estancieiros revoltosos."
+        "back": "A proteção do mercado interno de charque era a base da riqueza dos estancieiros revoltosos."
       },
       {
         "front": "O massacre de Porongos (1844) é um episódio marcante da Revolução Farroupilha que revela:",
-        "back": "A) A amizade profunda entre negros e brancos em todas as camadas da sociedade farroupilha.. Porongos foi a solução violenta e covarde para 'limpar' a questão da liberdade negra na negociação de paz entre as elites."
+        "back": "Porongos foi a solução violenta e covarde para 'limpar' a questão da liberdade negra na negociação de paz entre as elites."
       }
     ],
     "true_false": [

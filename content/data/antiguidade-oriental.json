@@ -14,7 +14,7 @@
     "relevance": 4,
     "area": "Ciências Humanas",
     "subject": "História Geral",
-    "thumbnail": "assets/images/lessons/antiguidade-oriental/section_1.png",
+    "thumbnail": "assets/images/lessons/antiguidade-oriental/section_1.webp",
     "visual_depth": "elite"
   },
   "intro": "Na Mesopotâmia e no Egito, o homem aprendeu a controlar os gigantes rios Nilo, Tigre e Eufrates. Ali nasceram a escrita, a lei e o Estado como divindade na Terra.",
@@ -25,7 +25,7 @@
       "content": "Para viver no deserto, os homens precisavam de represas. A construção de obras gigantescas exigia milhares de braços e uma liderança forte para coordenar tudo. O Estado nasceu não apenas para cobrar impostos, mas para garantir que o rio irriguasse o trigo. Se o rio corresse livre, a civilização morreria. O controle da água era a fonte primordial do poder político.",
       "highlight": "Quem controlava as comportas dos rios, controlava o destino da nação.",
       "image": {
-        "url": "assets/images/lessons/antiguidade-oriental/section_0.png",
+        "url": "assets/images/lessons/antiguidade-oriental/section_0.webp",
         "alt": "1. Civilizações Hidráulicas: A Gestão do Caos",
         "caption": "1. Civilizações Hidráulicas: A Gestão do Caos"
       }
@@ -35,7 +35,7 @@
       "content": "Diferente do Egito isolado, a Mesopotâmia era uma rota de passagem. Os sumérios deram ao mundo a roda e a escrita. Depois vieram os babilônios que, sob o comando de Hamurábi, criaram o primeiro código de leis que organizava a família, a propriedade e o comércio. A lei visava impedir o caos, mas era profundamente desigual dependendo da classe social do infrator.",
       "highlight": "O Código de Hamurábi foi a primeira tentativa humana de colocar a justiça no papel.",
       "image": {
-        "url": "assets/images/lessons/antiguidade-oriental/section_1.png",
+        "url": "assets/images/lessons/antiguidade-oriental/section_1.webp",
         "alt": "2. Mesopotâmia: Terra de Impérios Guerreiros",
         "caption": "2. Mesopotâmia: Terra de Impérios Guerreiros"
       }
@@ -45,7 +45,7 @@
       "content": "O Faraó era o dono de todo o Egito — das pessoas, das terras e dos animais. Sua autoridade era absoluta e incontestável. Todo o trabalho do povo servia para sustentar o luxo da corte e para construir as pirâmides, que eram 'casas de eternidade'. A religião politeísta justificava a estrutura social, com o Faraó garantindo o equilíbrio (Maat) entre o céu e a terra.",
       "highlight": "No Egito Antigo, a política e a religião eram uma face da mesma moeda.",
       "image": {
-        "url": "assets/images/lessons/antiguidade-oriental/section_2.png",
+        "url": "assets/images/lessons/antiguidade-oriental/section_2.webp",
         "alt": "3. O Egito dos Faraós: A Eternidade em Pedra",
         "caption": "3. O Egito dos Faraós: A Eternidade em Pedra"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/antiguidade-oriental/thumb.png",
+    "url": "assets/images/lessons/antiguidade-oriental/thumb.webp",
     "alt": "Antiguidade Oriental: Poder e Rios",
     "caption": "Antiguidade Oriental: Poder e Rios"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "O Código de Hamurábi, escrito em pedra na antiga Babilônia, baseava-se na 'Lei de Talião'. Qual era o princípio fundamental dessa lei?",
-        "back": "A) Perdão total para todos os crimes que não envolvessem dinheiro.. A Lei de Talião buscava limitar as vinganças pessoais ao estabelecer uma punição equivalente ao erro cometido."
+        "back": "A Lei de Talião buscava limitar as vinganças pessoais ao estabelecer uma punição equivalente ao erro cometido."
       },
       {
         "front": "As civilizações egípcia e mesopotâmica são classificadas como 'Civilizações Hidráulicas' porque:",
-        "back": "A) Viviam exclusivamente de beber água e não comiam carne.. O controle dos canais de irrigação e das cheias era o que permitia a vida estável no deserto."
+        "back": "O controle dos canais de irrigação e das cheias era o que permitia a vida estável no deserto."
       },
       {
         "front": "O que caracteriza as civilizações da Mesopotâmia e do Egito?",

@@ -24,7 +24,7 @@
       "content": "O açúcar não era apenas uma planta; era uma fábrica. No Engenho, tudo era projetado para o lucro rápido. O latifúndio impedia que o povo tivesse terra para plantar comida, obrigando o Brasil a importar quase tudo. A monocultura esgotava o solo e a escravidão esgotava a alma humana. Esse modelo de 'grande fazenda de exportação' é o DNA que ainda define muito do agronegócio brasileiro contemporâneo.",
       "highlight": "O agronegócio moderno brasileiro nasceu no rastro da cana-de-açúcar.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_0.png",
+        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_0.webp",
         "alt": "1. Plantation: O Motor da Colônia",
         "caption": "1. Plantation: O Motor da Colônia"
       }
@@ -34,7 +34,7 @@
       "content": "No topo, o Senhor de Engenho; no meio, uma pequena classe de homens livres (padres, feitores, artesãos); na base, a massa de escravizados. A Casa-Grande e a Senzala não eram apenas edifícios, mas símbolos de uma distância social intransponível. A mulher era submissa ao pai ou ao marido, e a honra da elite era medida pela quantidade de braços negros que possuía para moer a cana.",
       "highlight": "A sociedade do açúcar foi uma escola de desigualdade e autoritarismo patriarcal.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_1.png",
+        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_1.webp",
         "alt": "2. Senhores e Escravos: A Pirâmide de Ferro",
         "caption": "2. Senhores e Escravos: A Pirâmide de Ferro"
       }
@@ -44,7 +44,7 @@
       "content": "Maurício de Nassau transformou Recife na 'Cidade Maurícia'. Ele trouxe pintores (Eckhout e Post) para desenhar o Brasil, astrônomos e médicos. Criou o primeiro jardim botânico e o primeiro observatório das Américas. Ele emprestou dinheiro aos senhores de terra para reconstruir os engenhos destruídos na guerra. Foi o momento em que o Brasil quase se civilizou nos moldes europeus modernos antes da volta ao domínio português.",
       "highlight": "Nassau foi o administrador que viu o Brasil como um país, e não apenas como uma mina.",
       "image": {
-        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_2.png",
+        "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/section_2.webp",
         "alt": "3. Nassau em Pernambuco: O 'Oásis' Holandês",
         "caption": "3. Nassau em Pernambuco: O 'Oásis' Holandês"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/thumb.png",
+    "url": "assets/images/lessons/brasil-colonia-ciclo-acucar/thumb.webp",
     "alt": "Ciclo do Açúcar: O Doce Lucro da Colônia",
     "caption": "Ciclo do Açúcar: O Doce Lucro da Colônia"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "O sistema de produção colonial conhecido como 'Plantation', que vigorou no Ciclo do Açúcar no Brasil, era caracterizado pela:",
-        "back": "A) Pequena propriedade rural destinada ao consumo interno das famílias indígenas.. O Plantation era o modelo clássico de exploração colonial voltado para abastecer o mercado europeu de luxo."
+        "back": "O Plantation era o modelo clássico de exploração colonial voltado para abastecer o mercado europeu de luxo."
       },
       {
         "front": "O governo de Maurício de Nassau (1637-1644) no Nordeste brasileiro foi marcado por qual dessas características?",
-        "back": "A) A proibição de qualquer tipo de comércio com os portugueses.. Nassau trouxe um projeto de modernização administrativa e cultural para a região de Nova Holanda (Pernambuco)."
+        "back": "Nassau trouxe um projeto de modernização administrativa e cultural para a região de Nova Holanda (Pernambuco)."
       },
       {
         "front": "Qual produto de alto valor na Europa impulsionou a colonização efetiva do Brasil?",

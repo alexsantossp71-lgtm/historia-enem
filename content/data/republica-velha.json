@@ -24,7 +24,7 @@
       "content": "Deodoro da Fonseca proclamou a república, mas governou com punho de ferro. Floriano Peixoto, seu sucessor, enfrentou a Revolta da Armada e a Revolução Federalista para manter a unidade nacional. A Constituição de 1891 foi o documento que legalizou o federalismo, dando aos estados o direito de ter seus próprios impostos e exércitos (Polícias Militares), o que pavimentou o caminho para o poder dos governadores.",
       "highlight": "Floriano Peixoto, o Marechal de Ferro, foi o verdadeiro 'consolidador' da república brasileira.",
       "image": {
-        "url": "assets/images/lessons/republica-velha/section_0.png",
+        "url": "assets/images/lessons/republica-velha/section_0.webp",
         "alt": "1. A República da Espada e a Constituição de 1891",
         "caption": "1. A República da Espada e a Constituição de 1891"
       }
@@ -34,7 +34,7 @@
       "content": "O Coronel era o elo de ligação entre o povo e o Estado. Ele era o 'pai' que trazia o poço e a escola, mas exigia o voto aberto na seção eleitoral. A Política dos Governadores eliminou qualquer oposição real, pois as 'Comissões Verificadoras de Poderes' degolavam (cassavam) qualquer deputado eleito que não fosse aliado do governador. Era a ditadura dos governadores disfarçada de democracia parlamentar.",
       "highlight": "O voto de cabresto era a base de sustentação de toda a pirâmide de poder oligárquico.",
       "image": {
-        "url": "assets/images/lessons/republica-velha/section_1.png",
+        "url": "assets/images/lessons/republica-velha/section_1.webp",
         "alt": "2. A Engrenagem do Poder: Coronelismo e Governadores",
         "caption": "2. A Engrenagem do Poder: Coronelismo e Governadores"
       }
@@ -43,19 +43,14 @@
       "title": "3. O Café e o Convênio de Taubaté",
       "content": "O café representava 70% das exportações brasileiras. Quando o preço caía, os produtores paulistas usavam sua influência federal para forçar o Estado a comprar a produção excedente. Isso socializava as perdas (a dívida era paga por todos os brasileiros) e privatizava os lucros (os fazendeiros continuavam ricos). Foi o maior exemplo de intervenção estatal em benefício de uma elite na história do Brasil.",
       "image": {
-        "url": "assets/images/lessons/republica-velha/section_2.png",
+        "url": "assets/images/lessons/republica-velha/section_2.webp",
         "alt": "3. O Café e o Convênio de Taubaté",
         "caption": "3. O Café e o Convênio de Taubaté"
       }
     },
     {
       "title": "4. Revoltas no Campo e na Cidade: O Grito dos Excluídos",
-      "content": "Canudos (Antônio Conselheiro) e Contestado (José Maria) não foram movimentos 'atrasados', mas de resistência à tomada de terras e à fome. Na capital, o 'Bota-Abaixo' de Pereira Passos empurrou a população pobre para os morros, criando a favelização. A Revolta da Chibata (João Cândido, o Almirante Negro) mostrou que a Marinha ainda tratava marinheiros como escravos, 20 anos após a abolição. Eram as fraturas expostas de uma república que não cumpriu suas promessas de igualdade.",
-      "image": {
-        "url": "/assets/img/historia/revolta_vacina_rio.png",
-        "alt": "Conflito nas ruas do Rio",
-        "caption": "A Revolta da Vacina foi o ápice do descontentamento popular contra as reformas urbanas autoritárias."
-      }
+      "content": "Canudos (Antônio Conselheiro) e Contestado (José Maria) não foram movimentos 'atrasados', mas de resistência à tomada de terras e à fome. Na capital, o 'Bota-Abaixo' de Pereira Passos empurrou a população pobre para os morros, criando a favelização. A Revolta da Chibata (João Cândido, o Almirante Negro) mostrou que a Marinha ainda tratava marinheiros como escravos, 20 anos após a abolição. Eram as fraturas expostas de uma república que não cumpriu suas promessas de igualdade."
     },
     {
       "title": "5. O Fim da República Velha: Tenentismo e 1922",
@@ -92,7 +87,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/republica-velha/thumb.png",
+    "url": "assets/images/lessons/republica-velha/thumb.webp",
     "alt": "República Velha: O Domínio das Oligarquias (1889-1930)",
     "caption": "República Velha: O Domínio das Oligarquias (1889-1930)"
   },
@@ -110,11 +105,11 @@
     "flashcards": [
       {
         "front": "A Política dos Governadores, instituída pelo presidente Campos Sales (1898-1902), tinha como principal objetivo:",
-        "back": "A) Promover a igualdade econômica entre os estados do Norte e do Sul.. Era um pacto de não-agressão: o governo federal apoiava as oligarquias estaduais em troca de apoio parlamentar estável."
+        "back": "Era um pacto de não-agressão: o governo federal apoiava as oligarquias estaduais em troca de apoio parlamentar estável."
       },
       {
         "front": "A Guerra de Canudos (1896-1897) foi retratada por Euclides da Cunha como uma luta entre o 'Brasil do Litoral' e o 'Brasil do Sertão'. Um fator determinante para o massacre da comunidade foi:",
-        "back": "A) O ataque dos sertanejos à cidade do Rio de Janeiro.. Antônio Conselheiro criticava a República por ter separado Igreja do Estado, o que foi interpretado erroneamente como um plano militar para volta da monarquia."
+        "back": "Antônio Conselheiro criticava a República por ter separado Igreja do Estado, o que foi interpretado erroneamente como um plano militar para volta da monarquia."
       },
       {
         "front": "Quem consolidou o novo regime republicano no Brasil?",

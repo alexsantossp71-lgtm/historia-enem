@@ -25,7 +25,7 @@
       "content": "Para o Brasil Império, o rio Paraguai era a única estrada para chegar ao interior do Mato Grosso. Para o Paraguai, o controle da bacia era a sobrevivência comercial. O equilíbrio de poder na região era frágil e qualquer intervenção no Uruguai (nosso vizinho do sul) disparava um efeito dominó de alianças militares. A guerra foi o choque final dessas ambições territoriais.",
       "highlight": "A bacia platina era a 'rodovia' estratégica mais valiosa da América do Sul.",
       "image": {
-        "url": "assets/images/lessons/guerra-paraguai/section_0.png",
+        "url": "assets/images/lessons/guerra-paraguai/section_0.webp",
         "alt": "1. Motivações Geopolíticas no Prata",
         "caption": "1. Motivações Geopolíticas no Prata"
       }
@@ -35,7 +35,7 @@
       "content": "O Brasil não tinha um exército grande. D. Pedro II criou os 'Voluntários da Pátria', prometendo terras e dinheiro para quem lutasse. No entanto, o recrutamento foi forçado em muitos casos. Milhares de escravizados foram enviados no lugar dos filhos dos fazendeiros, com a promessa de alforria após a guerra. Isso criou um forte laço de união entre os soldados brancos e negros no campo de batalha.",
       "highlight": "A guerra humanizou o escravizado aos olhos dos oficiais do exército brasileiro.",
       "image": {
-        "url": "assets/images/lessons/guerra-paraguai/section_1.png",
+        "url": "assets/images/lessons/guerra-paraguai/section_1.webp",
         "alt": "2. Tríplice Aliança e Voluntários da Pátria",
         "caption": "2. Tríplice Aliança e Voluntários da Pátria"
       }
@@ -45,7 +45,7 @@
       "content": "Após anos de derrotas e doenças (cólera e fome no front), Duque de Caxias assumiu o comando. Ele impôs disciplina e modernizou o exército. No episódio da 'Dezembrada' (1868), Caxias destruiu as defesas finais de López. Ele chegou a ocupar Assunção, mas recusou-se a caçar Solano López nas matas, por considerar a guerra tecnicamente vencida, deixando o fim do conflito para o Conde d'Eu.",
       "highlight": "Caxias é o símbolo da disciplina que transformou a milícia brasileira em um Exército profissional.",
       "image": {
-        "url": "assets/images/lessons/guerra-paraguai/section_2.png",
+        "url": "assets/images/lessons/guerra-paraguai/section_2.webp",
         "alt": "3. Duque de Caxias e a Retomada",
         "caption": "3. Duque de Caxias e a Retomada"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/guerra-paraguai/thumb.png",
+    "url": "assets/images/lessons/guerra-paraguai/thumb.webp",
     "alt": "Guerra do Paraguai: Conflito e Consequências",
     "caption": "Guerra do Paraguai: Conflito e Consequências"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A participação de escravizados na Guerra do Paraguai, através dos 'Voluntários da Pátria', trouxe uma consequência política importante para o Brasil. Qual foi?",
-        "back": "A) O exército brasileiro tornou-se favorável à manutenção da escravidão.. O convívio nas trincheiras quebrou as barreiras raciais e motivou os militares a apoiarem o fim da escravidão."
+        "back": "O convívio nas trincheiras quebrou as barreiras raciais e motivou os militares a apoiarem o fim da escravidão."
       },
       {
         "front": "Qual era a principal disputa geopolítica que levou à eclosão da Guerra do Paraguai?",
-        "back": "A) A disputa pela posse das minas de ouro de Minas Gerais.. A navegação fluvial era estratégica para a integração e economia de todos os países envolvidos."
+        "back": "A navegação fluvial era estratégica para a integração e economia de todos os países envolvidos."
       }
     ],
     "true_false": [

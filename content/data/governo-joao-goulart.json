@@ -24,7 +24,7 @@
       "content": "Enquanto os generais no Rio diziam que Jango não assumiria, Leonel Brizola transformou o porão do Palácio Piratini em uma rádio de resistência (Rede da Legalidade). O povo saiu às ruas com armas na mão e a Brigada Militar gaúcha prometeu lutar. Esse impasse forçou o acordo do parlamentarismo, provando que o povo brasileiro estava disposto a brigar pela letra da Constituição.",
       "highlight": "Brizola provou que a voz do povo pode parar os tanques dos generais.",
       "image": {
-        "url": "assets/images/lessons/governo-joao-goulart/section_0.png",
+        "url": "assets/images/lessons/governo-joao-goulart/section_0.webp",
         "alt": "1. A Campanha da Legalidade: Resistência no Sul",
         "caption": "1. A Campanha da Legalidade: Resistência no Sul"
       }
@@ -34,7 +34,7 @@
       "content": "Jango via um Brasil arcaico: milhões de sem-terra e milhões de analfabetos. Suas reformas eram o remédio: dar terra ao camponês, escola ao pobre e voto a quem não sabia ler. Ele desafiou os latifundiários e o capital estrangeiro. Para as elites rurais, as Reformas de Base eram o fim do mundo; para o povo trabalhador, eram a esperança de um país moderno e justo.",
       "highlight": "Reformar a base significava transformar o Brasil em uma nação equilibrada.",
       "image": {
-        "url": "assets/images/lessons/governo-joao-goulart/section_1.png",
+        "url": "assets/images/lessons/governo-joao-goulart/section_1.webp",
         "alt": "2. Reformas de Base: O Plano de Jango",
         "caption": "2. Reformas de Base: O Plano de Jango"
       }
@@ -44,7 +44,7 @@
       "content": "Em 13 de março de 1964, 150 mil pessoas ouviram Jango prometendo a reforma agrária na marra. O exército viu nesse comício a quebra da hierarquia militar e a confirmação de que Jango iria dar um golpe para se tornar um ditador socialista. O clima de 'tudo ou nada' estava lançado. Ali, Jango esticou a corda até que ela arrebentasse dez dias depois.",
       "highlight": "Na Central do Brasil, Jango assinou sua saída definitiva do poder.",
       "image": {
-        "url": "assets/images/lessons/governo-joao-goulart/section_2.png",
+        "url": "assets/images/lessons/governo-joao-goulart/section_2.webp",
         "alt": "3. O Comício da Central: O Ápice da Pressão",
         "caption": "3. O Comício da Central: O Ápice da Pressão"
       }
@@ -52,22 +52,12 @@
     {
       "title": "4. A Marcha da Família: O Golpe Civil-Militar",
       "content": "As senhoras católicas e a classe média, apavoradas com a propaganda anticomunista, foram às ruas pedindo a intervenção dos militares. A 'Marcha da Família com Deus pela Liberdade' deu ao exército o 'convite popular' que eles precisavam para depor o presidente. O golpe não foi só de soldados; foi um movimento de partes barulhentas da sociedade que viam no progresso social um perigo espiritual.",
-      "highlight": "A religião e o medo foram usados como escudo moral para o golpe.",
-      "image": {
-        "url": "assets/images/lessons/governo-joao-goulart/section_3.png",
-        "alt": "Ilustração de 4. A Marcha da Família: O Golpe Civil-Militar",
-        "caption": "Interpretacao artistica: 4. A Marcha da Família: O Golpe Civil-Militar"
-      }
+      "highlight": "A religião e o medo foram usados como escudo moral para o golpe."
     },
     {
       "title": "5. 31 de Março: O Brasil no Silêncio",
       "content": "Os tanques saíram de Minas Gerais em direção ao Rio. Jango não autorizou os sargentos a reagirem. Ele viajou para o Rio Grande do Sul e depois para o Uruguai. O Congresso declarou a presidência 'vazia' enquanto Jango ainda estava em solo brasileiro. Começavam os 21 anos de sombra. Jango morreu no exílio, anos depois, sem nunca ter retornado ao país que tentou reformar.",
-      "highlight": "Jango escolheu o exílio para evitar uma guerra fratricida no Brasil.",
-      "image": {
-        "url": "assets/images/lessons/governo-joao-goulart/section_4.png",
-        "alt": "Ilustração de 5. 31 de Março: O Brasil no Silêncio",
-        "caption": "Interpretacao artistica: 5. 31 de Março: O Brasil no Silêncio"
-      }
+      "highlight": "Jango escolheu o exílio para evitar uma guerra fratricida no Brasil."
     }
   ],
   "quiz": [
@@ -135,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/governo-joao-goulart/thumb.png",
+    "url": "assets/images/lessons/governo-joao-goulart/thumb.webp",
     "alt": "João Goulart (Jango): O Sonho e o Golpe",
     "caption": "João Goulart (Jango): O Sonho e o Golpe"
   },
@@ -153,33 +143,33 @@
     "flashcards": [
       {
         "front": "O que foram as 'Reformas de Base' propostas pelo governo de João Goulart entre 1961 e 1964?",
-        "back": "A) A construção imediata de bases militares na Lua.. Essas reformas visavam modernizar o país e reduzir as colossais desigualdades sociais herdadas do passado colonial."
+        "back": "Um conjunto de reformas estruturais que incluíam a reforma agrária, educacional, fiscal e eleitoral. Essas reformas visavam modernizar o país e reduzir as colossais desigualdades sociais herdadas do passado colonial."
       },
       {
         "front": "A Campanha da Legalidade, liderada por Leonel Brizola em 1961, tinha como objetivo principal:",
-        "back": "A) Impedir que João Goulart assumisse a presidência após a renúncia de Jânio Quadros.. A campanha foi a reação democrática contra a tentativa de golpe dos ministros militares da época."
+        "back": "Garantir a posse de João Goulart como vice-presidente eleito, respeitando a Constituição brasileira. A campanha foi a reação democrática contra a tentativa de golpe dos ministros militares da época."
       }
     ],
     "true_false": [
       {
-        "statement": "A construção imediata de bases militares na Lua.",
+        "statement": "As Reformas de Base incluíam reforma agrária, educacional, fiscal e eleitoral.",
         "is_true": true,
-        "explanation": "Essas reformas visavam modernizar o país e reduzir as colossais desigualdades sociais herdadas do passado colonial."
+        "explanation": "Verdadeiro! Elas visavam modernizar o país e reduzir as colossais desigualdades sociais herdadas do passado colonial."
       },
       {
-        "statement": "Um conjunto de reformas estruturais que incluíam a reforma agrária, educacional, fiscal e eleitoral.",
+        "statement": "As Reformas de Base propunham a construção imediata de bases militares na Lua.",
         "is_true": false,
-        "explanation": "Mito! Essas reformas visavam modernizar o país e reduzir as colossais desigualdades sociais herdadas do passado colonial."
+        "explanation": "Mito! As reformas de Jango eram estruturais: agrária, educacional, fiscal e eleitoral."
       },
       {
-        "statement": "Garantir a posse de João Goulart como vice-presidente eleito, respeitando a Constituição brasileira.",
-        "is_true": false,
-        "explanation": "Mito! A campanha foi a reação democrática contra a tentativa de golpe dos ministros militares da época."
-      },
-      {
-        "statement": "Impedir que João Goulart assumisse a presidência após a renúncia de Jânio Quadros.",
+        "statement": "A Campanha da Legalidade, liderada por Brizola, defendeu a posse de Jango respeitando a Constituição.",
         "is_true": true,
-        "explanation": "A campanha foi a reação democrática contra a tentativa de golpe dos ministros militares da época."
+        "explanation": "Verdadeiro! A campanha foi a reação democrática contra a tentativa de golpe dos ministros militares da época."
+      },
+      {
+        "statement": "A Campanha da Legalidade pedia que os ministros militares impedissem a posse de João Goulart.",
+        "is_true": false,
+        "explanation": "Mito! Foi justamente contra essa tentativa de golpe que a campanha de Brizola se mobilizou."
       }
     ],
     "memory": [

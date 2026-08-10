@@ -1,50 +1,74 @@
 # História ENEM 📚
 
-**Plataforma de estudos de História para o ENEM** — site estático com aulas, conteúdo organizado e um pipeline de build em Node.js que gera páginas de aula a partir de dados estruturados.
+**Plataforma de estudos de História para o ENEM** — site estático com aulas, quizzes estilo ENEM, jogos de fixação ativa e um pipeline de build em Node.js que gera páginas a partir de dados estruturados (JSON).
 
 ## ✨ Funcionalidades
 
-- 📖 **Aulas de História** organizadas por categoria e conteúdo
-- 🗂️ **Conteúdo em JSON** (`content/`) — fácil de editar e expandir
-- ⚙️ **Build automático** — `build_site.js` gera as páginas de aula a partir do template
-- 🏷️ **Índice de aulas** gerado por script (`generate_lessons_index.js`)
-- 🔍 **Ferramenta de teste de SEO** (`test_seo.js`)
+- 📖 **96 aulas de História** organizadas em trilha cronológica (Geral + Brasil)
+- ✅ **360 questões** no estilo ENEM com correção comentada
+- 🎮 **Jogos de fixação ativa** em cada aula — flashcards, mitos e verdades, linha do tempo, jogo da memória e termo oculto
+- 🔍 **Busca e filtros** por período/tema e por era
+- 🎨 **Design editorial** responsivo com dark mode e temas por era
+- 📊 **Progresso do aluno** salvo no navegador (aulas concluídas, quiz, barra de leitura)
+- 🔎 **SEO** — JSON-LD (Course + Breadcrumb), meta/OG tags, sitemap.xml e robots.txt
+- ♿ **Acessibilidade** — ARIA, foco visível, `prefers-reduced-motion`
 
 ## 🚀 Como executar
 
 ### Build do site
 
 ```bash
-npm install   # nenhuma dependência real; Node ≥ 14
+# Node.js ≥ 14 (nenhuma dependência real)
 node build_site.js
-node generate_lessons_index.js
 ```
 
-### Servir o site
+O build gera:
+- páginas de aula em `aulas/*.html` a partir do template e dos JSONs
+- `aulas/Indice_aulas.html` (índice com busca, filtros e progresso)
+- `sitemap.xml` e `robots.txt`
 
-```bash
-python3 -m http.server 8000
-# acesse http://localhost:8000
-```
+#### Utilitários
+
+| Comando | O que faz |
+|---|---|
+| `node generate_lessons_index.js` | Regenera `content/data/lessonsIndex.json` a partir dos JSONs |
+| `node audit.js` | Valida conteúdo (quiz, jogos, links, arquivos, SEO) — reporta issues |
+| `node test_seo.js` | Testa a geração de JSON-LD (Course + Breadcrumb) |
+| `node optimize_images.js` | Converte imagens PNG → WebP (usa `ffmpeg`) |
+
+> Dica: use o serviço `npx http-server` ou `python3 -m http.server 8000` para visualizar localmente.
 
 ## 📁 Estrutura do projeto
 
 ```
-├── index.html              # Página inicial
-├── aulas/                  # Páginas geradas de aulas
-│   └── lesson-template.html
-├── content/                # Conteúdo em JSON por aula
-├── assets/                 # Recursos visuais
-├── build_site.js           # Gera páginas das aulas
-├── generate_lessons_index.js  # Gera índice de aulas
-└── test_seo.js             # Validação de SEO das páginas
+├── index.html                  # Página inicial
+├── aulas/                      # Páginas geradas de aulas
+│   ├── lesson-template.html    # Template da aula (placeholders {{...}})
+│   └── Indice-template.html    # Template do índice de aulas
+├── content/data/               # Conteúdo estruturado (1 JSON por aula)
+├── assets/
+│   ├── css/                    # Design system (style.css + themes.css)
+│   ├── js/                     # app.js (interatividade) + seo.js (JSON-LD)
+│   └── images/                 # Imagens em .webp
+├── build_site.js
+├── generate_lessons_index.js
+├── audit.js
+├── test_seo.js
+├── sitemap.xml                 # gerado pelo build
+└── robots.txt                  # gerado pelo build
 ```
 
 ## 🛠️ Tecnologias
 
-- HTML5 + Tailwind CSS
-- JavaScript (Node.js para build, browser para o site)
+- HTML5 + **CSS puro** (design tokens, dark mode — sem Tailwind)
+- **WebP** para imagens (otimizado via ffmpeg)
+- JavaScript (Node.js para build; browser para o site)
 - JSON como fonte de conteúdo
+
+## 🔒 Notas
+
+- O domínio padrão (`historiaenem.example.com`) fica em `assets/js/seo.js` — troque pelo domínio real em produção.
+- `optimize_images.js` apaga os PNGs originais após conversão — mantenha backup se preferir.
 
 ## 📄 Licença
 

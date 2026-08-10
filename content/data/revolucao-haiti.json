@@ -25,7 +25,7 @@
       "content": "Antes da revolta, o Haiti era a joia da coroa francesa. Produzia 40% do açúcar e 60% do café consumidos no mundo. Mas essa riqueza era sustentada por uma taxa de mortalidade de escravos tão alta que a França precisava importar 40 mil novos africanos por ano para repor os que morriam de exaustão e tortura. A ilha era um vulcão de ódio negro prestes a explodir contra um punhado de brancos luxuosos.",
       "highlight": "O açúcar francês era adoçado com o sangue de meio milhão de africanos.",
       "image": {
-        "url": "assets/images/lessons/revolucao-haiti/section_0.png",
+        "url": "assets/images/lessons/revolucao-haiti/section_0.webp",
         "alt": "1. Saint-Domingue: A Máquina de Morder Carne Humana",
         "caption": "1. Saint-Domingue: A Máquina de Morder Carne Humana"
       }
@@ -35,7 +35,7 @@
       "content": "Toussaint era um ex-escravo alfabetizado que lia os clássicos do iluminismo. Ele organizou os rebeldes em um exército profissional de guerrilha. Ele jogou as potências europeias umas contra as outras, garantindo a abolição da escravidão em 1794. Toussaint acreditava que negros e brancos poderiam conviver em uma ilha próspera, mas seu sonho foi interrompido pela traição de Napoleão, que o prendeu e o enviou para morrer de frio em uma prisão nos Alpes franceses.",
       "highlight": "Toussaint provou que um negro livre podia ser mais culto e estratégico que qualquer general europeu.",
       "image": {
-        "url": "assets/images/lessons/revolucao-haiti/section_1.png",
+        "url": "assets/images/lessons/revolucao-haiti/section_1.webp",
         "alt": "2. Toussaint Louverture: O Jacobino Negro",
         "caption": "2. Toussaint Louverture: O Jacobino Negro"
       }
@@ -45,7 +45,7 @@
       "content": "Com a prisão de Toussaint e a volta do racismo napoleônico, o general Dessalines não teve piedade. Ele liderou a guerra total contra os brancos sob o lema 'Vingar os nossos irmãos'. No dia 1º de janeiro de 1804, nasceu o Haiti. A bandeira foi criada rasgando a parte branca da bandeira da França (tricolor), simbolizando a expulsão definitiva dos brancos. O Haiti tornava-se o farol da liberdade para todos os negros das Américas.",
       "highlight": "O Haiti foi o primeiro país a dizer que a cor da pele não definia a cidadania.",
       "image": {
-        "url": "assets/images/lessons/revolucao-haiti/section_2.png",
+        "url": "assets/images/lessons/revolucao-haiti/section_2.webp",
         "alt": "3. Dessalines e a Independência ou Morte",
         "caption": "3. Dessalines e a Independência ou Morte"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucao-haiti/thumb.png",
+    "url": "assets/images/lessons/revolucao-haiti/thumb.webp",
     "alt": "Revolução do Haiti: O Grito da Liberdade Negra",
     "caption": "Revolução do Haiti: O Grito da Liberdade Negra"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A Revolução do Haiti (1791-1804) diferenciou-se de todos os outros processos de independência nas Américas por qual característica única?",
-        "back": "A) Ter sido liderada por chefes indígenas que queriam a volta do Império Azteca.. O Haiti uniu independência política com revolução social radical ao fim da escravidão."
+        "back": "O Haiti uniu independência política com revolução social radical ao fim da escravidão."
       },
       {
         "front": "O termo 'Haitianismo' no Brasil do século XIX referia-se a que fenômeno social e político?",
-        "back": "A) À vontade da elite brasileira de se mudar para morar nas praias do Haiti.. O medo da contaminação das ideias revolucionárias negras pautou a política de repressão no Brasil imperial."
+        "back": "O medo da contaminação das ideias revolucionárias negras pautou a política de repressão no Brasil imperial."
       },
       {
         "front": "O que foi a Revolução do Haiti?",

@@ -24,7 +24,7 @@
       "content": "A base social romana era desigual. Os patrícios detinham as melhores terras e as cadeiras do Senado. Os plebeus, que eram a maioria dos soldados, revoltaram-se diversas vezes, ameaçando sair de Roma e formar sua própria cidade. Disso nasceram os 'Tribunos da Plebe', homens de origem plebeia que podiam vetar decisões do Senado que prejudicassem o povo. Foi o início da luta democrática em Roma.",
       "highlight": "Os direitos republicanos de Roma foram arrancados pelo povo através da resistência organizada.",
       "image": {
-        "url": "assets/images/lessons/roma-antiga/section_0.png",
+        "url": "assets/images/lessons/roma-antiga/section_0.webp",
         "alt": "1. Conflitos de Classe: Patrícios vs. Plebeus",
         "caption": "1. Conflitos de Classe: Patrícios vs. Plebeus"
       }
@@ -34,7 +34,7 @@
       "content": "Roma enfrentou sua maior rival, Cartago (no norte da África), pelo controle do comércio marítimo. Após três guerras exaustivas (na última, o general Aníbal atravessou os Alpes com elefantes), Roma destruiu Cartago e espalhou sal em suas terras. Isso transformou Roma na maior potência escravista do mundo antigo, inundando a cidade com riquezas e mão de obra gratuita capturada nas guerras.",
       "highlight": "A vitória sobre Cartago deu a Roma o domínio absoluto de todo o Mar Mediterrâneo.",
       "image": {
-        "url": "assets/images/lessons/roma-antiga/section_1.png",
+        "url": "assets/images/lessons/roma-antiga/section_1.webp",
         "alt": "2. Guerras Púnicas e o 'Mare Nostrum'",
         "caption": "2. Guerras Púnicas e o 'Mare Nostrum'"
       }
@@ -44,7 +44,7 @@
       "content": "A expansão de Roma expulsou o pequeno agricultor do campo (latifúndios escravistas), criando uma massa de desempregados em Roma. Para evitar revoluções violentas, os imperadores criaram o Pão e Circo. Estádios monumentais como o Coliseu serviam para distrair o povo de sua miséria enquanto o Imperador distribuía comida. Era o controle das mentes pelo entretenimento violento.",
       "highlight": "O 'Pão e Circo' foi a primeira grande estratégia de política social populista da história ocidental.",
       "image": {
-        "url": "assets/images/lessons/roma-antiga/section_2.png",
+        "url": "assets/images/lessons/roma-antiga/section_2.webp",
         "alt": "3. Panem et Circenses: Controle Social",
         "caption": "3. Panem et Circenses: Controle Social"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/roma-antiga/thumb.png",
+    "url": "assets/images/lessons/roma-antiga/thumb.webp",
     "alt": "Roma Antiga: República e Império",
     "caption": "Roma Antiga: República e Império"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A política de 'Pão e Circo' (Panem et Circenses), aplicada durante o Império Romano, tinha como objetivo primordial:",
-        "back": "A) Transformar todos os cidadãos em grandes poetas e filósofos.. O entretenimento e a comida gratuita eram ferramentas de alienação política para manter a ordem social."
+        "back": "O entretenimento e a comida gratuita eram ferramentas de alienação política para manter a ordem social."
       },
       {
         "front": "O fim da escravidão por dívidas e a criação da Lei das XII Tábuas em Roma foram conquistas de qual classe social?",
-        "back": "A) Da nobreza patrícia, interessada em doar dinheiro para os pobres.. Os plebeus lutaram durante séculos para limitar o poder dos patrícios e garantir leis escritas e igualitárias."
+        "back": "Os plebeus lutaram durante séculos para limitar o poder dos patrícios e garantir leis escritas e igualitárias."
       }
     ],
     "true_false": [

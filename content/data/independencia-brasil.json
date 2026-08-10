@@ -24,7 +24,7 @@
       "content": "Quando D. João VI desembarcou no Brasil, a relação entre metrópole e colônia inverteu-se. O Rio tornou-se a capital do reino unido de Portugal, Brasil e Algarves (1815). A Abertura dos Portos acabou com o monopólio comercial, beneficiando imensamente a Inglaterra, que passou a inundar o mercado brasileiro com seus produtos industriais através dos Tratados de 1810.",
       "highlight": "A independência econômica do Brasil começou em 1808, muito antes do grito do Ipiranga.",
       "image": {
-        "url": "assets/images/lessons/independencia-brasil/section_0.png",
+        "url": "assets/images/lessons/independencia-brasil/section_0.webp",
         "alt": "1. 1808: A Inversão Metropolitana",
         "caption": "1. 1808: A Inversão Metropolitana"
       }
@@ -34,7 +34,7 @@
       "content": "Pernambuco, que já fora o centro do açúcar, sentia-se abandonado e explorado. Inspirados no Iluminismo, padres, militares e maçons proclamaram uma república. Por 75 dias, o Brasil teve seu primeiro governo republicano de fato, com bandeira e leis próprias. A repressão de D. João VI foi brutal, com enforcamentos e perseguições, mas a semente do separatismo já estava plantada no Nordeste.",
       "highlight": "Pernambuco de 1817 foi o grito mais radical e popular pela liberdade.",
       "image": {
-        "url": "assets/images/lessons/independencia-brasil/section_1.png",
+        "url": "assets/images/lessons/independencia-brasil/section_1.webp",
         "alt": "2. 1817: A Revolução de Pernambuco",
         "caption": "2. 1817: A Revolução de Pernambuco"
       }
@@ -44,7 +44,7 @@
       "content": "D. João VI voltou para Portugal em 1821, deixando seu filho Pedro como regente. As cortes portuguesas começaram a enviar decretos que retiravam a autonomia do Brasil, tentando rebaixá-lo a simples colônia novamente. Em 9 de janeiro de 1822 (Dia do Fico), Pedro atende aos pedidos das elites brasileiras e decide permanecer, desafiando abertamente as ordens de Lisboa.",
       "highlight": "O 'Fico' foi o ato simbólico de desobediência que tornou a guerra de independência inevitável.",
       "image": {
-        "url": "assets/images/lessons/independencia-brasil/section_2.png",
+        "url": "assets/images/lessons/independencia-brasil/section_2.webp",
         "alt": "3. O Dia do Fico e a Pressão Portuguesa",
         "caption": "3. O Dia do Fico e a Pressão Portuguesa"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/independencia-brasil/thumb.png",
+    "url": "assets/images/lessons/independencia-brasil/thumb.webp",
     "alt": "A Independência do Brasil: Ruptura e Continuidade (1808-1822)",
     "caption": "A Independência do Brasil: Ruptura e Continuidade (1808-1822)"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A vinda da Família Real para o Brasil em 1808 trouxe a 'Abertura dos Portos às Nações Amigas'. Qual foi o principal efeito econômico dessa medida?",
-        "back": "A) O fortalecimento do Pacto Colonial e o aumento dos impostos portugueses.. A Abertura dos Portos significou o fim do Exclusivo Colonial de Portugal sobre o Brasil."
+        "back": "A Abertura dos Portos significou o fim do Exclusivo Colonial de Portugal sobre o Brasil."
       },
       {
         "front": "Diferente da Independência dos EUA, a do Brasil manteve o regime monárquico. O principal motivo para essa escolha das elites foi:",
-        "back": "A) O desejo de ser colonizado pela Argentina futuramente.. A monarquia era vista como garantia de ordem social escravista e de unidade territorial."
+        "back": "A monarquia era vista como garantia de ordem social escravista e de unidade territorial."
       }
     ],
     "true_false": [

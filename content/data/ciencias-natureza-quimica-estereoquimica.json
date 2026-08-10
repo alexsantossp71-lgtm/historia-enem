@@ -24,7 +24,7 @@
       "title": "Isomerismo Estrutural",
       "content": "Inclui: cadeia (diferença na esqueleto de carbono), posição (diferença na localização do grupo funcional) e grupo funcional (diferença no grupo funcional mesmo com mesma cadeia de carbono). Exemplo: butano e isobutano (isomerismo de cadeia); 1-propanol e 2-propanol (isomerismo de posição); etanol e dimetílether (isomerismo de grupo funcional).",
       "image": {
-        "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/section_0.png",
+        "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/section_0.webp",
         "alt": "Isomerismo Estrutural",
         "caption": "Isomerismo Estrutural"
       },
@@ -35,7 +35,7 @@
       "content": "Um carbono é quiral quando está ligado a quatro átomos ou grupos diferentes. A presença de pelo menos um carbono quiral torna a molécula capaz de existir como enantiômeros. A atividade óptica é medida por um polarímetro: rotação para a direita (+) é dextrógiro; para a esquerda (-) é levogiro. A lei de Biot estabelece que a rotação observada depende da concentração, do comprimento do tubo e da temperatura.",
       "highlight": "A maioria dos aminoácidos naturais é levogira, exceto a glicina que não é quiral.",
       "image": {
-        "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/section_1.png",
+        "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/section_1.webp",
         "alt": "Carbono Quiral e Atividade Óptica",
         "caption": "Carbono Quiral e Atividade Óptica"
       }
@@ -115,7 +115,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/thumb.png",
+    "url": "assets/images/lessons/ciencias-natureza-quimica-estereoquimica/thumb.webp",
     "alt": "Química: Estereoquímica e Isomerismo",
     "caption": "Química: Estereoquímica e Isomerismo"
   },
@@ -133,7 +133,7 @@
     "flashcards": [
       {
         "front": "Quantos carbonos quirais possui a molécula do ácido tartárico (HOOC-CHOH-CHOH-COOH)?",
-        "back": "A) 0. Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
+        "back": "0. Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
       },
       {
         "front": "O que é Isomerismo?",
@@ -162,14 +162,14 @@
     ],
     "true_false": [
       {
-        "statement": "0",
+        "statement": "A molécula do ácido tartárico possui dois carbonos quirais.",
         "is_true": true,
-        "explanation": "Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
+        "explanation": "O ácido tartárico (HOOC-CHOH-CHOH-COOH) tem dois centros de carbono ligados a quatro grupos distintos — por isso é opticamente ativo."
       },
       {
-        "statement": "1",
-        "is_true": false,
-        "explanation": "Mito! Cada carbono central do ácido tartárico está ligado a quatro grupos diferentes: -H, -OH, -COOH e -CHOH-COOH. Portanto, possui dois carbonos quirais."
+        "statement": "Uma mistura racêmica é composta por enantiômeros em proporção 50:50 e não desvia o plano da luz polarizada.",
+        "is_true": true,
+        "explanation": "Enantiômeros desviam a luz em direções opostas; em iguais quantidades, os efeitos se anulam, formando a mistura racêmica (inativa)."
       }
     ],
     "memory": [

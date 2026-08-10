@@ -25,7 +25,7 @@
       "content": "São Paulo de Piratininga ficava no alto da serra, longe dos portos. Sem o açúcar, o paulista teve que se voltar para o interior em busca de riquezas. Essa pobreza gerou uma sociedade mestiça e guerreira, que dependia da escravidão indígena para sobreviver. O bandeirante era, antes de tudo, um sertanejo que conhecia os segredos das matas tão bem quanto os nativos.",
       "highlight": "O isolamento geográfico de SP deu origem ao movimento bandeirantista.",
       "image": {
-        "url": "assets/images/lessons/guerras-bandeirantes/section_0.png",
+        "url": "assets/images/lessons/guerras-bandeirantes/section_0.webp",
         "alt": "1. O Cenário de São Paulo e o Isolamento",
         "caption": "1. O Cenário de São Paulo e o Isolamento"
       }
@@ -35,7 +35,7 @@
       "content": "Os jesuítas reuniam milhares de indígenas em povoados organizados (Reduções). Para os bandeirantes, as missões eram 'depósitos' de mão de obra pronta. Expedições como a de Raposo Tavares destruíram quase todas as missões do Sul, forçando os jesuítas e indígenas a fugirem para o que hoje é o Uruguai e a Argentina. Foi uma das épocas mais sangrentas do período colonial.",
       "highlight": "A captura do indígena foi o primeiro motor econômico das bandeiras.",
       "image": {
-        "url": "assets/images/lessons/guerras-bandeirantes/section_1.png",
+        "url": "assets/images/lessons/guerras-bandeirantes/section_1.webp",
         "alt": "2. Apresamento: O Ataque às Missões Jesuíticas",
         "caption": "2. Apresamento: O Ataque às Missões Jesuíticas"
       }
@@ -45,7 +45,7 @@
       "content": "Quando não estavam caçando ouro ou índios, os bandeirantes eram mercenários. Grandes proprietários de terras pagavam para que eles 'limpassem' áreas de conflitos indígenas ou que destruíssem comunidades de escravos fugidos. Domingos Jorge Velho, o destruidor de Palmares, é o exemplo clássico dessa figura: um homem impiedoso que servia aos interesses da aristocracia latifundiária.",
       "highlight": "O bandeirante foi o braço armado da repressão colonial contra negros e índios.",
       "image": {
-        "url": "assets/images/lessons/guerras-bandeirantes/section_2.png",
+        "url": "assets/images/lessons/guerras-bandeirantes/section_2.webp",
         "alt": "3. O Sertanismo de Contrato e Palmares",
         "caption": "3. O Sertanismo de Contrato e Palmares"
       }
@@ -71,7 +71,8 @@
         "D) Eles eram padres jesuítas que queriam catequizar o mundo inteiro sem usar a força.",
         "E) Os bandeirantes eram apenas fotógrafos que queriam registrar a beleza da mata."
       ],
-      "requiredIndex": 1,
+      "correctIndex": 1,
+      "correct_answer": 1,
       "explanation": "A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização.",
       "source": "Enem 2015 Oficial"
     },
@@ -126,7 +127,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/guerras-bandeirantes/thumb.png",
+    "url": "assets/images/lessons/guerras-bandeirantes/thumb.webp",
     "alt": "Bandeirantismo: Expansão e Conflitos no Interior",
     "caption": "Bandeirantismo: Expansão e Conflitos no Interior"
   },
@@ -144,11 +145,11 @@
     "flashcards": [
       {
         "front": "A historiografia clássica paulista do início do século XX costuma retratar o bandeirante como um herói. Do ponto de vista dos povos indígenas e das comunidades quilombolas, essa imagem é contestada por que:",
-        "back": "A) O bandeirante era considerado um defensor da natureza e da preservação ambiental.. A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização."
+        "back": "A revisão histórica moderna reconhece o bandeirante como um agente de repressão e escravização."
       },
       {
         "front": "O princípio de 'Uti Possidetis', aplicado no Tratado de Madri (1750), serviu para:",
-        "back": "A) Proibir que o Brasil tivesse qualquer território além do Rio de Janeiro.. Uti Possidetis significa 'quem possui a posse tem o direito', o que beneficiou Portugal na definição das fronteiras brasileiras."
+        "back": "Uti Possidetis significa 'quem possui a posse tem o direito', o que beneficiou Portugal na definição das fronteiras brasileiras."
       },
       {
         "front": "O que era o bandeirantismo?",

@@ -24,7 +24,7 @@
       "content": "Gana não era o nome do país, mas o título de seu rei ('Senhor do Ouro'). O reino era tão rico que até os cachorros dos reis usavam coleiras de ouro. Eles controlavam o ponto de encontro entre os árabes que traziam sal do norte e os negros que extraíam ouro do sul. Sem minas próprias, Gana enriquecia apenas cobrando impostos de quem passava. Foi o primeiro Estado organizado da África Ocidental com um exército de 200 mil homens.",
       "highlight": "Gana transformou o pedágio do deserto na fundação de um império.",
       "image": {
-        "url": "assets/images/lessons/reinos-africa/section_0.png",
+        "url": "assets/images/lessons/reinos-africa/section_0.webp",
         "alt": "1. Gana: A Primeira Terra do Ouro",
         "caption": "1. Gana: A Primeira Terra do Ouro"
       }
@@ -34,7 +34,7 @@
       "content": "Mansa Musa é considerado o homem mais rico que já existiu. Em 1324, ele foi a Meca com uma caravana de 60 mil pessoas e quilos de ouro em cada camelo. Ele deu tanto ouro de presente no Cairo que a inflação durou 10 anos na região. Musa não era apenas rico, era um visionário: trouxe arquitetos e poetas do mundo árabe para construir mesquitas e bibliotecas no Mali, colocando a África no mapa da alta cultura medieval.",
       "highlight": "Mansa Musa fez o mundo inteiro olhar para a África com admiração e inveja.",
       "image": {
-        "url": "assets/images/lessons/reinos-africa/section_1.png",
+        "url": "assets/images/lessons/reinos-africa/section_1.webp",
         "alt": "2. Mansa Musa e o Mali: O Bilionário Peregrino",
         "caption": "2. Mansa Musa e o Mali: O Bilionário Peregrino"
       }
@@ -44,7 +44,7 @@
       "content": "Esqueça a ideia de que a África era analfabeta. Em Timbuktu, no século XIV, um livro valia mais que o seu peso em ouro. A Universidade de Sankoré tinha 25 mil alunos de todo o mundo. Eles estudavam medicina (cirurgias de catarata eram comuns), direito e geografia. Quando os europeus chegaram, ficaram chocados ao encontrar bibliotecas privadas no deserto com milhares de manuscritos escritos por negros africanos séculos antes.",
       "highlight": "Timbuktu foi a biblioteca do mundo quando a Europa mal sabia escrever.",
       "image": {
-        "url": "assets/images/lessons/reinos-africa/section_2.png",
+        "url": "assets/images/lessons/reinos-africa/section_2.webp",
         "alt": "3. Timbuktu: A Capital do Conhecimento",
         "caption": "3. Timbuktu: A Capital do Conhecimento"
       }
@@ -125,7 +125,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/reinos-africa/thumb.png",
+    "url": "assets/images/lessons/reinos-africa/thumb.webp",
     "alt": "Grandes Reinos da África: Gana, Mali e Songai",
     "caption": "Grandes Reinos da África: Gana, Mali e Songai"
   },
@@ -143,11 +143,11 @@
     "flashcards": [
       {
         "front": "A cidade de Timbuktu, no Império do Mali (século XIV), tornou-se mundialmente famosa por qual motivo principal?",
-        "back": "A) Ser o único local do mundo onde chovia ouro e prata todos os dias.. Timbuktu foi o farol do saber na África Ocidental, com centros de estudos avançados em diversas áreas."
+        "back": "Timbuktu foi o farol do saber na África Ocidental, com centros de estudos avançados em diversas áreas."
       },
       {
         "front": "Os 'Griots', figuras fundamentais em diversas sociedades da África Ocidental antiga, exerciam a função social de:",
-        "back": "A) Guerreiros mercenários que só comiam carne de jacaré.. A oralidade era o principal meio de registro e os Griots eram os bibliotecários vivos dessas culturas."
+        "back": "A oralidade era o principal meio de registro e os Griots eram os bibliotecários vivos dessas culturas."
       },
       {
         "front": "Qual foi o primeiro império a centralizar o poder na região do Sahel africano?",

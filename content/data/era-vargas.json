@@ -34,7 +34,7 @@
       "content": "A República Velha morreu quando a elite de São Paulo indicou Júlio Prestes, rompendo o pacto com Minas Gerais. Vargas, derrotado nas urnas fraudadas, uniu-se a militares (tenentes) e políticos dissidentes. A Revolução de 1930 marcou o fim do domínio agrário exclusivo. Vargas criou o Ministério do Trabalho e o Ministério da Educação, sinalizando que o Estado passaria a gerir as massas e a cultura de forma profissionalizada.",
       "highlight": "Vargas iniciou uma era de centralização administrativa sem precedentes na história republicana.",
       "image": {
-        "url": "assets/images/lessons/era-vargas/section_0.png",
+        "url": "assets/images/lessons/era-vargas/section_0.webp",
         "alt": "1. Revolução de 1930 e a Ruptura de Paradigm",
         "caption": "1. Revolução de 1930 e a Ruptura de Paradigm"
       }
@@ -43,7 +43,7 @@
       "title": "2. 1932: O Levantamento Paulista e o MMDC",
       "content": "São Paulo sentia-se 'vencido e humilhado' pela interventoria varguista. O movimento MMDC (homenagem aos jovens mortos em conflito) reuniu 30 mil homens na frente de batalha contra as tropas federais no Vale do Paraíba. Embora SP tenha sido derrotado no campo de batalha (Batalha do Túnel), a pressão política forçou Vargas a democratizar o país temporariamente, levando à sofisticada Constituição de 1934.",
       "image": {
-        "url": "assets/images/lessons/era-vargas/section_1.png",
+        "url": "assets/images/lessons/era-vargas/section_1.webp",
         "alt": "2. 1932: O Levantamento Paulista e o MMDC",
         "caption": "2. 1932: O Levantamento Paulista e o MMDC"
       }
@@ -53,19 +53,14 @@
       "content": "O Brasil dos anos 30 era um microcosmo da Europa. Plínio Salgado chefiava a Ação Integralista Brasileira ('Anauê!'), com forte estética nazifascista. Do outro lado, o cavaleiro da esperança, Luís Carlos Prestes, tentou um levante armado em 1935 (Intentona Comunista). O fracasso do levante deu a Vargas o pretexto perfeito para o estado de sítio e posterior golpe ditatorial em 1937.",
       "highlight": "O medo do comunismo foi a ferramenta política que permitiu a Vargas instaurar uma das ditaduras mais longínquas do país.",
       "image": {
-        "url": "assets/images/lessons/era-vargas/section_2.png",
+        "url": "assets/images/lessons/era-vargas/section_2.webp",
         "alt": "3. Polarização Ideológica e Intentona Comunista",
         "caption": "3. Polarização Ideológica e Intentona Comunista"
       }
     },
     {
       "title": "4. O Estado Novo: DIP e Culto à Personalidade",
-      "content": "Entre 1937 e 1945, o Brasil viveu uma ditadura explícita. O Congresso foi fechado e o DIP passou a controlar as notícias. O rádio (A Hora do Brasil) tornou-se a voz do imperador eleito. Foi o auge do controle social: Vargas criava feriados, campeonatos de futebol e sambas patrióticos para doutrinar a massa enquanto sua polícia política prendia e torturava opositores. Contraditoriamente, este foi o período de maior orgulho industrial, com a fundação de Volta Redonda (CSN).",
-      "image": {
-        "url": "/assets/img/historia/vargas_trabalhadores.png",
-        "alt": "Manifestação de apoio a Vargas no Rio",
-        "caption": "A propaganda varguista trabalhava a exaustão o conceito de cidadania ligada ao trabalho e ao benefício estatal."
-      }
+      "content": "Entre 1937 e 1945, o Brasil viveu uma ditadura explícita. O Congresso foi fechado e o DIP passou a controlar as notícias. O rádio (A Hora do Brasil) tornou-se a voz do imperador eleito. Foi o auge do controle social: Vargas criava feriados, campeonatos de futebol e sambas patrióticos para doutrinar a massa enquanto sua polícia política prendia e torturava opositores. Contraditoriamente, este foi o período de maior orgulho industrial, com a fundação de Volta Redonda (CSN)."
     },
     {
       "title": "5. O Brasil na Segunda Guerra e o Fim da Linha",
@@ -138,7 +133,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/era-vargas/thumb.png",
+    "url": "assets/images/lessons/era-vargas/thumb.webp",
     "alt": "A Era Vargas: Do Populismo ao Estado Novo (1930-1945)",
     "caption": "A Era Vargas: Do Populismo ao Estado Novo (1930-1945)"
   },
@@ -146,11 +141,11 @@
     "flashcards": [
       {
         "front": "A Carta de 1937, outorgada por Vargas, ficou conhecida como 'A Polaca' devido à sua semelhança com a constituição fascista da Polônia. Sua principal característica era:",
-        "back": "A) A descentralização total do poder para as mãos dos prefeitos.. A constituição de 1937 dava poderes quase absolutos a Vargas, fechando o Congresso Nacional e subordinando o poder judiciário."
+        "back": "A constituição de 1937 dava poderes quase absolutos a Vargas, fechando o Congresso Nacional e subordinando o poder judiciário."
       },
       {
         "front": "O 'Queremismo' foi um movimento de massa que surgiu ao final da Segunda Guerra pedindo:",
-        "back": "A) A volta de Dom Pedro II ao trono brasileiro.. O Queremismo mostra o sucesso do populismo varguista, onde as massas pediam a continuidade do líder mesmo após anos de ditadura."
+        "back": "O Queremismo mostra o sucesso do populismo varguista, onde as massas pediam a continuidade do líder mesmo após anos de ditadura."
       }
     ],
     "true_false": [

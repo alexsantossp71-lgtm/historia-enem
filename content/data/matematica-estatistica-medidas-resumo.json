@@ -26,7 +26,7 @@
       "title": "Medidas de Tendência Central",
       "content": "Média: sensível a valores extremos. Mediana: robusta a outliers. Moda: útil para dados categóricos ou discretos. Em dados agrupados, usa-se pontos médios das classes.",
       "image": {
-        "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/section_0.png",
+        "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/section_0.webp",
         "alt": "Medidas de Tendência Central",
         "caption": "Medidas de Tendência Central"
       },
@@ -37,7 +37,7 @@
       "content": "Variância e desvio padrão medem o quanto os dados se espalham em torno da média. O coeficiente de variação expressa o desvio padrão como porcentagem da média, permitindo comparação entre diferentes unidades ou escalas.",
       "highlight": "CV < 15% indica baixa dispersão; CV > 35% indica alta dispersão (regra empírica).",
       "image": {
-        "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/section_1.png",
+        "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/section_1.webp",
         "alt": "Medidas de Dispersão e Coeficiente de Variação",
         "caption": "Medidas de Dispersão e Coeficiente de Variação"
       }
@@ -117,7 +117,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/thumb.png",
+    "url": "assets/images/lessons/matematica-estatistica-medidas-resumo/thumb.webp",
     "alt": "Estatística: Medidas de Resumo",
     "caption": "Estatística: Medidas de Resumo"
   },
@@ -135,7 +135,7 @@
     "flashcards": [
       {
         "front": "Para o conjunto de dados {2, 4, 4, 4, 5, 5, 7, 9}, qual é a mediana?",
-        "back": "A) 4. Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
+        "back": "4. Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
       },
       {
         "front": "O que é a média aritmética?",
@@ -164,14 +164,19 @@
     ],
     "true_false": [
       {
-        "statement": "4",
+        "statement": "A mediana do conjunto {2, 4, 4, 4, 5, 5, 7, 9} é 4,5.",
         "is_true": true,
-        "explanation": "Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
+        "explanation": "Com 8 elementos (número par), a mediana é a média do 4º e do 5º termos ordenados: (4 + 5)/2 = 4,5."
       },
       {
-        "statement": "5",
-        "is_true": false,
-        "explanation": "Mito! Com 8 elementos (número par), a mediana é a média do 4º e 5º valores: (4 + 5)/2 = 4.5."
+        "statement": "Em uma distribuição simétrica, a média, a mediana e a moda coincidem.",
+        "is_true": true,
+        "explanation": "Na simetria perfeita, os três valores de tendência central ocupam o mesmo ponto central da distribuição."
+      },
+      {
+        "statement": "A amplitude de um conjunto é a diferença entre o maior e o menor valor, e a variância é o quadrado do desvio padrão.",
+        "is_true": true,
+        "explanation": "Ambas são medidas de dispersão; a variância é a média dos desvios quadráticos, e o desvio padrão é a sua raiz."
       }
     ],
     "memory": [

@@ -25,7 +25,7 @@
       "content": "Pobres que viviam em cabanas às margens dos rios cansaram-se da fome e do desprezo dos governantes do Rio de Janeiro. Eles tomaram o poder em Belém por anos, mas a falta de um plano político claro entre as lideranças facilitou a retomada violenta pelo Império. Foi a revolta mais sangrenta da nossa história: vilas inteiras foram apagadas do mapa pelas tropas imperiais como exemplo de terror.",
       "highlight": "Na Cabanagem, o povo não apenas gritou; ele governou por um breve e sangrento momento.",
       "image": {
-        "url": "assets/images/lessons/revoltas-regenciais/section_0.png",
+        "url": "assets/images/lessons/revoltas-regenciais/section_0.webp",
         "alt": "1. Cabanagem: O Grito dos Humilhados no Pará",
         "caption": "1. Cabanagem: O Grito dos Humilhados no Pará"
       }
@@ -35,7 +35,7 @@
       "content": "Em Salvador, escravizados de etnia Nagô e Haussá, que sabiam ler e escrever em árabe, organizaram um levante para tomar a cidade e acabar com a escravidão. Diferente de outros levantes, este tinha uma base intelectual e religiosa (o Islã). Descobertos dias antes, foram duramente reprimidos. O medo de uma revolução negra organizada assombrou as elites brasileiras por décadas.",
       "highlight": "Os Malês provaram que a cultura e a fé são armas poderosas contra o chicote.",
       "image": {
-        "url": "assets/images/lessons/revoltas-regenciais/section_1.png",
+        "url": "assets/images/lessons/revoltas-regenciais/section_1.webp",
         "alt": "2. Revolta dos Malês: O Islã nas Trincheiras",
         "caption": "2. Revolta dos Malês: O Islã nas Trincheiras"
       }
@@ -45,7 +45,7 @@
       "content": "Liderada pelo médico Francisco Sabino, a revolta em Salvador não queria separar-se do Brasil para sempre, mas apenas até o 'Pedrinho' (D. Pedro II) crescer. Eles eram contra a nomeação de governadores de fora da Bahia. Foi um movimento urbano de intelectuais e militares que acabou em fuzilamentos no Campo da Pólvora em Salvador.",
       "highlight": "A Sabinada foi a tentativa frustrada da elite baiana de governar seu próprio quintal.",
       "image": {
-        "url": "assets/images/lessons/revoltas-regenciais/section_2.png",
+        "url": "assets/images/lessons/revoltas-regenciais/section_2.webp",
         "alt": "3. Sabinada: A Classe Média Republicana",
         "caption": "3. Sabinada: A Classe Média Republicana"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revoltas-regenciais/thumb.png",
+    "url": "assets/images/lessons/revoltas-regenciais/thumb.webp",
     "alt": "Revoltas Regenciais: O Brasil em Chamas",
     "caption": "Revoltas Regenciais: O Brasil em Chamas"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A Revolta dos Malês, ocorrida em Salvador em 1835, diferenciou-se de outras revoltas negras do período por um elemento cultural específico. Qual era?",
-        "back": "A) A participação de tribos de canibais da Amazônia.. A alfabetização em árabe e a fé islâmica permitiram a organização secreta e sofisticada dos insurgentes."
+        "back": "A alfabetização em árabe e a fé islâmica permitiram a organização secreta e sofisticada dos insurgentes."
       },
       {
         "front": "As revoltas regenciais como a Cabanagem e a Balaiada foram caracterizadas por uma violenta repressão estatal. Qual era o grande temor das elites brasileiras em relação a esses movimentos populares?",
-        "back": "A) O temor de que a comida ficasse muito apimentada no Brasil.. A unidade territorial era o bem mais precioso para a manutenção do mercado e do poder das elites imperiais."
+        "back": "A unidade territorial era o bem mais precioso para a manutenção do mercado e do poder das elites imperiais."
       }
     ],
     "true_false": [

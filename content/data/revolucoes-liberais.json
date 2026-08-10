@@ -25,7 +25,7 @@
       "content": "Os reis da Áustria, Rússia e Prússia queriam apagar a Revolução Francesa. Eles criaram a Santa Aliança para sufocar revoltas em qualquer lugar da Europa. No entanto, a burguesia agora tinha o dinheiro (indústria) e não aceitava mais as amarras da nobreza. Essa tensão entre a 'velha ordem' e a 'nova economia' foi o combustível de todas as barricadas do século XIX.",
       "highlight": "Tentaram parar o relógio da história no Congresso de Viena, mas a mola liberal já havia saltado.",
       "image": {
-        "url": "assets/images/lessons/revolucoes-liberais/section_0.png",
+        "url": "assets/images/lessons/revolucoes-liberais/section_0.webp",
         "alt": "1. Congresso de Viena e a Tentativa de Retrocesso",
         "caption": "1. Congresso de Viena e a Tentativa de Retrocesso"
       }
@@ -35,7 +35,7 @@
       "content": "Em Paris, o 'rei burguês' Luís Filipe de Orléans assumiu o trono após três dias de luta nas ruas. A aristocracia de sangue perdeu para a aristocracia do dinheiro. A burguesia conquistou o direito de voto (censitário), mas deixou o povo operário de fora. Essa exclusão foi o fermento para o ódio social que explodiria 18 anos depois.",
       "highlight": "Em 1830, a burguesia venceu os reis, mas esqueceu o povo.",
       "image": {
-        "url": "assets/images/lessons/revolucoes-liberais/section_1.png",
+        "url": "assets/images/lessons/revolucoes-liberais/section_1.webp",
         "alt": "2. 1830: O Triunfo da Alta Burguesia",
         "caption": "2. 1830: O Triunfo da Alta Burguesia"
       }
@@ -45,7 +45,7 @@
       "content": "O ano de 1848 foi o mais incendiário da história europeia. Em meio a uma crise agrícola e fome, revoltas explodiram simultaneamente em dezenas de cidades, de Paris a Berlim, de Viena a Roma. Pela primeira vez, as bandeiras vermelhas do socialismo apareceram nas ruas. A burguesia, assustada com a radicalização dos pobres, preferiu fazer acordos com os militares conservadores para restaurar a ordem.",
       "highlight": "A Primavera dos Povos foi o primeiro ensaio geral da revolução operária.",
       "image": {
-        "url": "assets/images/lessons/revolucoes-liberais/section_2.png",
+        "url": "assets/images/lessons/revolucoes-liberais/section_2.webp",
         "alt": "3. 1848: A Primavera dos Povos e o Medo Vermelho",
         "caption": "3. 1848: A Primavera dos Povos e o Medo Vermelho"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/revolucoes-liberais/thumb.png",
+    "url": "assets/images/lessons/revolucoes-liberais/thumb.webp",
     "alt": "Primavera dos Povos: O Fim do Absolutismo",
     "caption": "Primavera dos Povos: O Fim do Absolutismo"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "O ano de 1848 ficou conhecido como 'Primavera dos Povos'. Qual foi o principal fator que diferenciou as revoluções desse ano em relação às de 1830?",
-        "back": "A) A participação exclusiva da Igreja Católica nas barricadas.. Em 1848, a 'Questão Social' (pobreza operária) tornou-se a pauta central das revoltas."
+        "back": "Em 1848, a 'Questão Social' (pobreza operária) tornou-se a pauta central das revoltas."
       },
       {
         "front": "A crise agrícola e a fome no continente europeu foram as causas imediatas da eclosão da Primavera dos Povos. Esse movimento foi guiado por dois grandes ideais políticos do século XIX. Quais eram eles?",
-        "back": "A) Absolutismo e Feudalismo.. Liberalismo (liberdades individuais) e Nacionalismo (autodeterminação dos povos) foram as forças motoras de 1848."
+        "back": "Liberalismo (liberdades individuais) e Nacionalismo (autodeterminação dos povos) foram as forças motoras de 1848."
       }
     ],
     "true_false": [

@@ -24,7 +24,7 @@
       "content": "A Itália possuía uma burguesia comercial forte que desejava se diferenciar da nobreza decadente através da cultura. Famílias como os Médici patrocinavam artistas não apenas por amor à arte, mas por propaganda política. O 'Mecenas' era o investidor cultural da época, garantindo que pintores e escultores pudessem se dedicar integralmente às suas obras monumentais que adornariam igrejas e palácios.",
       "highlight": "O Renascimento foi a primeira grande simbiose entre arte e capital burguês.",
       "image": {
-        "url": "assets/images/lessons/renascimento/section_0.png",
+        "url": "assets/images/lessons/renascimento/section_0.webp",
         "alt": "1. O Berço Italiano e o Mecenato",
         "caption": "1. O Berço Italiano e o Mecenato"
       }
@@ -34,7 +34,7 @@
       "content": "Para os renascentistas, o período medieval foi um 'intermédio' de trevas. Eles buscavam na filosofia de Platão e Aristóteles as bases para uma vida baseada na lógica e no prazer terrenal (Hedonismo moderado). O Humanista era o intelectual que lia os clássicos em grego e latim originais, traduzindo as ideias de liberdade e política que haviam sido esquecidas nos mosteiros.",
       "highlight": "O humanismo redescobriu que o homem é a medida de todas as coisas.",
       "image": {
-        "url": "assets/images/lessons/renascimento/section_1.png",
+        "url": "assets/images/lessons/renascimento/section_1.webp",
         "alt": "2. Humanismo: O Resgate da Grécia e Roma",
         "caption": "2. Humanismo: O Resgate da Grécia e Roma"
       }
@@ -44,7 +44,7 @@
       "content": "Galileu Galilei, usando o seu telescópio, viu que a lua não era perfeita e que Júpiter tinha suas próprias luas. Isso provava que a Igreja estava errada sobre a mecânica celeste. Galileu foi levado à Inquisição e forçado a negar suas descobertas para não ser queimado vivo. A ciência renascentista nasceu da coragem de observar a natureza para além dos dogmas religiosos.",
       "highlight": "A razão científica travou sua primeira grande batalha contra o dogma teológico no Renascimento.",
       "image": {
-        "url": "assets/images/lessons/renascimento/section_2.png",
+        "url": "assets/images/lessons/renascimento/section_2.webp",
         "alt": "3. A Revolução Científica e o Conflito com a Fé",
         "caption": "3. A Revolução Científica e o Conflito com a Fé"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/renascimento/thumb.png",
+    "url": "assets/images/lessons/renascimento/thumb.webp",
     "alt": "Renascimento: O Homem em Foco",
     "caption": "Renascimento: O Homem em Foco"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A transição do pensamento medieval para o pensamento renascentista é marcada por uma mudança na visão de mundo. Quais são esses dois conceitos de visão de mundo, respectivamente?",
-        "back": "A) Do Capitalismo para o Socialismo Marxista.. No Renascimento, as capacidades humanas se tornaram o centro das atenções Intelectuais."
+        "back": "No Renascimento, as capacidades humanas se tornaram o centro das atenções Intelectuais."
       },
       {
         "front": "O Mecenato foi um elemento fundamental para a produção artística no Renascimento. O termo refere-se a:",
-        "back": "A) Uma técnica de pintura que usava areia no lugar de tinta.. O incentivo financeiro dos mecenas garantiu a estabilidade necessária para a criação das grandes obras renascentistas."
+        "back": "O incentivo financeiro dos mecenas garantiu a estabilidade necessária para a criação das grandes obras renascentistas."
       },
       {
         "front": "Onde ocorreu o Renascimento Cultural e Científico?",

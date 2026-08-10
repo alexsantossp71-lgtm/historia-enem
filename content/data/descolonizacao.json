@@ -25,7 +25,7 @@
       "content": "A Europa que deu as cartas no século XIX saiu de 1945 em ruínas. A Inglaterra e a França não tinham mais exércitos nem dinheiro para conter as revoltas nas colônias. Além disso, muitos africanos e asiáticos haviam lutado nas frentes de batalha da 2ª Guerra e voltaram perguntando: 'Por que lutamos pela liberdade da Europa se não temos liberdade em nossa própria casa?'. O mito da superioridade europeia estava quebrado.",
       "highlight": "A 2ª Guerra Mundial foi o acelerador da libertação dos povos oprimidos pelo colonialismo.",
       "image": {
-        "url": "assets/images/lessons/descolonizacao/section_0.png",
+        "url": "assets/images/lessons/descolonizacao/section_0.webp",
         "alt": "1. O Declínio Europeu e a Janela da Liberdade",
         "caption": "1. O Declínio Europeu e a Janela da Liberdade"
       }
@@ -35,7 +35,7 @@
       "content": "Mohandas Gandhi inventou uma nova arma: a Desobediência Civil. Ele dizia que se 300 milhões de indianos parassem de obedecer, os ingleses não teriam como governar. Boicotando tecidos ingleses (ele mesmo fiava sua roupa) e marchando contra o imposto do sal, Gandhi provou que a paz pode derrubar impérios. A Índia dividiu-se depois em Índia (hindu) e Paquistão (muçulmano), uma ferida aberta pelos ingleses na saída do país.",
       "highlight": "Gandhi provou que a não-violência é a maior força moral contra o canhão.",
       "image": {
-        "url": "assets/images/lessons/descolonizacao/section_1.png",
+        "url": "assets/images/lessons/descolonizacao/section_1.webp",
         "alt": "2. Mahatma Gandhi e a Força da Verdade",
         "caption": "2. Mahatma Gandhi e a Força da Verdade"
       }
@@ -45,7 +45,7 @@
       "content": "Líderes como Nasser (Egito), Nehru (Índia) e Sukarno (Indonésia) reuniram-se em Bandung para dizer 'Não' tanto ao capitalismo americano quanto ao comunismo soviético. Eles queriam os problemas da África e da Ásia resolvidos por africanos e asiáticos. Ali nasceu a solidariedade entre os povos colonizados, denunciando o imperialismo como um crime contra a humanidade.",
       "highlight": "Bandung foi a assembleia geral dos povos que decidiram ser os donos do seu próprio destino.",
       "image": {
-        "url": "assets/images/lessons/descolonizacao/section_2.png",
+        "url": "assets/images/lessons/descolonizacao/section_2.webp",
         "alt": "3. Bandung e o Nascimento do Terceiro Mundo",
         "caption": "3. Bandung e o Nascimento do Terceiro Mundo"
       }
@@ -126,7 +126,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/descolonizacao/thumb.png",
+    "url": "assets/images/lessons/descolonizacao/thumb.webp",
     "alt": "Descolonização Afro-Asiática: O Grito de Bandung",
     "caption": "Descolonização Afro-Asiática: O Grito de Bandung"
   },
@@ -144,11 +144,11 @@
     "flashcards": [
       {
         "front": "A Conferência de Bandung, realizada em 1955 na Indonésia, foi um marco importante na geopolítica do século XX. Qual foi o principal resultado dessa reunião?",
-        "back": "A) A criação de uma aliança militar total para invadir os Estados Unidos.. Os países de Bandung queriam uma terceira via política e econômica, livre da disputa bipolar da Guerra Fria."
+        "back": "Os países de Bandung queriam uma terceira via política e econômica, livre da disputa bipolar da Guerra Fria."
       },
       {
         "front": "Mahatma Gandhi utilizou uma estratégia específica para combater o domínio britânico na Índia. Qual era essa estratégia?",
-        "back": "A) O uso massivo de tanques de guerra e infantaria pesada contra Londres.. Gandhi acreditava que a força moral da massa pacífica seria irresistível para o exército britânico."
+        "back": "Gandhi acreditava que a força moral da massa pacífica seria irresistível para o exército britânico."
       },
       {
         "front": "O que ocorreu na Europa após a Segunda Guerra Mundial?",

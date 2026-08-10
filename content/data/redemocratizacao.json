@@ -25,7 +25,7 @@
       "content": "Os generais Geisel e Figueiredo planejaram uma saída dos quartéis que garantisse a anistia aos militares. O movimento 'Diretas Já' (1984) reuniu milhões de brasileiros nas ruas, mas a eleição de 1985 ainda foi indireta via Colégio Eleitoral. A morte de Tancredo Neves foi o primeiro grande teste da estabilidade democrática, com Sarney (um ex-apoiador do regime militar) assumindo para garantir a transição institucional.",
       "highlight": "A Nova República nasceu de uma costura política tensa entre militares e civis.",
       "image": {
-        "url": "assets/images/lessons/redemocratizacao/section_0.png",
+        "url": "assets/images/lessons/redemocratizacao/section_0.webp",
         "alt": "1. A Transição 'Lenta, Gradual e Segura'",
         "caption": "1. A Transição 'Lenta, Gradual e Segura'"
       }
@@ -34,7 +34,7 @@
       "title": "2. A Constituição de 1988: O Novo Pacto Social",
       "content": "Liderada por Ulysses Guimarães, a constituinte de 88 foi um exercício de cidadania. Pela primeira vez, grupos minoritários tiveram voz ativa na redação de leis. O resultado foi um texto que prioriza a dignidade humana. A autonomia dos estados e municípios foi reforçada, e os direitos à saúde (SUS) e à assistência social tornaram-se pilares do Estado brasileiro, rompendo com a visão de que política social era 'caridade'.",
       "image": {
-        "url": "assets/images/lessons/redemocratizacao/section_1.png",
+        "url": "assets/images/lessons/redemocratizacao/section_1.webp",
         "alt": "2. A Constituição de 1988: O Novo Pacto Social",
         "caption": "2. A Constituição de 1988: O Novo Pacto Social"
       }
@@ -44,7 +44,7 @@
       "content": "Os anos 80/90 foram a 'década perdida' economicamente. Collor tentou 'matar o tigre com uma bala só' confiscando a poupança, o que gerou revolta social e sua queda. O Plano Real foi diferente: ele criou uma moeda de transição (URV) e preparou o mercado para a estabilidade. O sucesso do Real transformou o Brasil de um país que sofria com 80% de inflação ao mês em uma economia estável e atraente para o capital estrangeiro.",
       "highlight": "O Plano Real acabou com o 'câncer' da inflação que destruía o poder de compra do trabalhador.",
       "image": {
-        "url": "assets/images/lessons/redemocratizacao/section_2.png",
+        "url": "assets/images/lessons/redemocratizacao/section_2.webp",
         "alt": "3. Do Choque de Collor ao Milagre do Real",
         "caption": "3. Do Choque de Collor ao Milagre do Real"
       }
@@ -89,7 +89,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/redemocratizacao/thumb.png",
+    "url": "assets/images/lessons/redemocratizacao/thumb.webp",
     "alt": "A Nova República: Democracia e Estabilização (1985-Hoje)",
     "caption": "A Nova República: Democracia e Estabilização (1985-Hoje)"
   },
@@ -107,11 +107,11 @@
     "flashcards": [
       {
         "front": "A Constituição de 1988 é chamada de 'Constituição Cidadã' principalmente por que:",
-        "back": "A) Foi escrita apenas por cidadãos comuns, sem interferência de políticos.. A Constituição focou na cidadania plena e nos direitos humanos após o período da ditadura."
+        "back": "A Constituição focou na cidadania plena e nos direitos humanos após o período da ditadura."
       },
       {
         "front": "O Plano Real, lançado em 1994, diferenciou-se dos planos anteriores (Cruzado, Bresser, Verão) porque:",
-        "back": "A) Proibiu o uso de dinheiro em papel em todo o Brasil.. O Real foi um plano baseado na confiança e no ajuste fiscal, sem as canetadas autoritárias de congelamento."
+        "back": "O Real foi um plano baseado na confiança e no ajuste fiscal, sem as canetadas autoritárias de congelamento."
       },
       {
         "front": "Quem foi eleito indiretamente em 1985?",

@@ -25,7 +25,7 @@
       "content": "Antes de ser política, a unificação alemã foi econômica. A Prússia criou o Zollverein, uma zona de livre comércio entre os estados germânicos que excluía a Áustria. Isso permitiu que a indústria alemã crescesse rápido e que as ferrovias conectassem as cidades prussianas com as bávaras. Quando Bismarck assumiu, o terreno econômico para uma só nação já estava pronto.",
       "highlight": "A economia alemã uniu-se antes que as baionetas decidissem a política.",
       "image": {
-        "url": "assets/images/lessons/unificacoes/section_0.png",
+        "url": "assets/images/lessons/unificacoes/section_0.webp",
         "alt": "1. Zollverein: A Unificação pelo Bolso",
         "caption": "1. Zollverein: A Unificação pelo Bolso"
       }
@@ -35,7 +35,7 @@
       "content": "Bismarck declarou que os grandes problemas da época não seriam resolvidos com discursos, mas com 'Sangue e Ferro'. Ele modernizou o exército prussiano, transformando-o na máquina de guerra mais eficiente do mundo. Sua diplomacia era cínica e genial: ele isolava seus inimigos um a um antes de atacá-los, garantindo vitórias rápidas e territórios estratégicos.",
       "highlight": "Bismarck foi o cirurgião militar que pariu a Alemanha moderna.",
       "image": {
-        "url": "assets/images/lessons/unificacoes/section_1.png",
+        "url": "assets/images/lessons/unificacoes/section_1.webp",
         "alt": "2. Bismarck e a Política do Sangue e Ferro",
         "caption": "2. Bismarck e a Política do Sangue e Ferro"
       }
@@ -45,7 +45,7 @@
       "content": "A Itália era dividida entre o norte rico e industrial, o sul pobre e agrário, e os Estados Pontifícios (do Papa) no meio. Garibaldi, com o apoio do povo, conquistou o sul (Reino das Duas Sicílias) em uma campanha relâmpago. Ele abriu mão do poder em favor do Rei Vítor Emanuel II para garantir a união do país, um gesto raro de patriotismo que o tornou mito nacional.",
       "highlight": "Garibaldi deu à Itália o coração romântico, enquanto Piemonte deu o cérebro político.",
       "image": {
-        "url": "assets/images/lessons/unificacoes/section_2.png",
+        "url": "assets/images/lessons/unificacoes/section_2.webp",
         "alt": "3. Garibaldi e o Risorgimento Italiano",
         "caption": "3. Garibaldi e o Risorgimento Italiano"
       }
@@ -90,7 +90,7 @@
     }
   ],
   "thumbnail": {
-    "url": "assets/images/lessons/unificacoes/thumb.png",
+    "url": "assets/images/lessons/unificacoes/thumb.webp",
     "alt": "Unificações: O Nascimento de Novas Potências",
     "caption": "Unificações: O Nascimento de Novas Potências"
   },
@@ -108,11 +108,11 @@
     "flashcards": [
       {
         "front": "A unificação alemã, concluída em 1871 sob a liderança da Prússia, teve como um de seus principais resultados a anexação de territórios franceses. Quais eram esses territórios e qual sentimento geraram na França?",
-        "back": "A) Provença e Côte d'Azur; sentimento de festa e união.. A perda dessas províncias ricas em minérios feriu o orgulho francês e alimentou o desejo de vingança até 1914."
+        "back": "A perda dessas províncias ricas em minérios feriu o orgulho francês e alimentou o desejo de vingança até 1914."
       },
       {
         "front": "O 'Zollverein', crucial para a unificação alemã, consistia em:",
-        "back": "A) Uma aliança religiosa entre católicos e protestantes.. A integração econômica serviu de base material para a união política posterior."
+        "back": "A integração econômica serviu de base material para a união política posterior."
       }
     ],
     "true_false": [
