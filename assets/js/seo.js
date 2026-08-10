@@ -5,10 +5,10 @@
  */
 
 /**
- * URL base do site. Troque pelo domínio real em produção (ex.: https://historiaenem.com.br).
+ * URL base do site. Se houver domínio customizado (CNAME), troque por ele (ex.: https://historiaenem.com.br).
  * Não usar barra final.
  */
-const SITE_URL = 'https://historiaenem.example.com';
+const SITE_URL = 'https://alexsantossp71-lgtm.github.io/historia-enem';
 
 function lessonUrl(id) {
   return SITE_URL + '/aulas/' + id + '.html';

@@ -13,8 +13,8 @@ const seo = renderSeo(lesson);
 console.log(seo);
 console.log('');
 check('JSON-LD Course gerado', /"@type":"Course"/.test(seo));
-check('Não usa example.com' , !seo.includes('https://example.com'));
-check('Contém URL da aula', /"url":"https:\/\/historiaenem\.example\.com\/aulas\/brasil-colonia\.html"/.test(seo));
+check('Não usa example.com' , !seo.includes('example.com'));
+check('Contém URL da aula', /"url":"https:\/\/alexsantossp71-lgtm\.github\.io\/historia-enem\/aulas\/brasil-colonia\.html"/.test(seo));
 check('Contém inLanguage pt-BR', seo.includes('"inLanguage":"pt-BR"'));
 check('Contém courseMode online', seo.includes('"courseMode":"online"'));
 
@@ -24,7 +24,7 @@ console.log(bc);
 check('Breadcrumb gerado', /"@type":"BreadcrumbList"/.test(bc));
 check('Breadcrumb 3 itens', (/"position":\d+/g.exec(bc)) !== null && bc.match(/"position":/g).length === 3);
 
-check('SITE_URL exportado', SITE_URL === 'https://historiaenem.example.com');
+check('SITE_URL exportado', SITE_URL === 'https://alexsantossp71-lgtm.github.io/historia-enem');
 
 if (!ok) process.exit(1);
 console.log('\n✅ SEO Tests Passed');

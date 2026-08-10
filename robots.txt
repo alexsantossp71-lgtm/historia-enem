@@ -3,4 +3,4 @@ Allow: /
 Disallow: /aulas/lesson-template.html
 Disallow: /aulas/Indice-template.html
 
-Sitemap: https://historiaenem.example.com/sitemap.xml
+Sitemap: https://alexsantossp71-lgtm.github.io/historia-enem/sitemap.xml
