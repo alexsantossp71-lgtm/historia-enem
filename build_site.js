@@ -352,12 +352,19 @@ async function build() {
             } catch (e) { seo = ''; breadcrumb = ''; }
 
             // Navegação prev/next
+            function shortTitle(t, max) {
+                const base = t.split(':')[0].trim();
+                if (base.length <= max) return base;
+                const cut = base.slice(0, max - 1);
+                const idx = cut.lastIndexOf(' ');
+                return (idx > 6 ? cut.slice(0, idx) : cut) + '…';
+            }
             const prevBtn = prevLesson ? `<a href="${prevLesson.id}.html" class="btn btn-ghost"><i class="fas fa-arrow-left"></i> Anterior</a>` : ' <span></span>';
-            const nextBtn = nextLesson ? `<a href="${nextLesson.id}.html" class="btn btn-primary">${esc(nextLesson.title.split(':')[0].slice(0, 34))}<i class="fas fa-arrow-right"></i></a>` : `<a href="Indice_aulas.html" class="btn btn-primary">Concluir trilha <i class="fas fa-flag-checkered"></i></a>`;
+            const nextBtn = nextLesson ? `<a href="${nextLesson.id}.html" class="btn btn-primary">${esc(shortTitle(nextLesson.title, 34))}<i class="fas fa-arrow-right"></i></a>` : `<a href="Indice_aulas.html" class="btn btn-primary">Concluir trilha <i class="fas fa-flag-checkered"></i></a>`;
             const navLabel = nextLesson ? 'Continue a trilha cronológica' : 'Fim da trilha';
             const floatNext = nextLesson ? `
             <a href="${nextLesson.id}.html" class="btn btn-primary" style="position:fixed;bottom:1.2rem;right:1.2rem;z-index:70;box-shadow:var(--sh-lg)">
-                <i class="fas fa-arrow-right"></i> ${esc(nextLesson.title.split(':')[0].slice(0, 16))}
+                <i class="fas fa-arrow-right"></i> ${esc(shortTitle(nextLesson.title, 16))}
             </a>` : '';
 
             let html = template
