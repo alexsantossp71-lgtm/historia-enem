@@ -4,8 +4,8 @@
 
 ## ✨ Funcionalidades
 
-- 📖 **96 aulas de História** organizadas em trilha cronológica (Geral + Brasil)
-- ✅ **360 questões** no estilo ENEM com correção comentada
+- 📖 **82 aulas de História** organizadas em trilha cronológica (Geral + Brasil)
+- ✅ **305 questões de prática** no estilo ENEM com correção comentada
 - 🎮 **Jogos de fixação ativa** em cada aula — flashcards, mitos e verdades, linha do tempo, jogo da memória e termo oculto
 - 🔍 **Busca e filtros** por período/tema e por era
 - 🎨 **Design editorial** responsivo com dark mode e temas por era
@@ -73,3 +73,7 @@ O build gera:
 ## 📄 Licença
 
 Projeto de estudo para preparação ao ENEM.
+
+### Procedência das questões
+
+As questões são classificadas na geração do site em três grupos: oficiais identificadas pelo cadastro, simulados/modelos e autorais com referência ao estilo ENEM. Rótulos genéricos como “ENEM” não são apresentados como prova oficial.

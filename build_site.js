@@ -62,6 +62,20 @@ function quizCorrect(q) {
     return -1;
 }
 
+// Classifica a procedência declarada no JSON sem transformar rótulos genéricos
+// como "ENEM" em uma alegação de questão oficial.
+function questionSource(q) {
+    const raw = String(q && q.source || '').trim();
+    const lower = raw.toLowerCase();
+    if (/^enem\s+\d{4}\s+oficial$/i.test(raw) || /^enem\s+oficial$/i.test(raw)) {
+        return { type: 'official', label: raw };
+    }
+    if (/simulado|modelo|adaptad/.test(lower)) {
+        return { type: 'practice', label: raw || 'Simulado / modelo' };
+    }
+    return { type: 'authorial', label: raw ? `Autoral — referência ${raw}` : 'Autoral — estilo ENEM' };
+}
+
 // Options may carry a leading "A) " prefix that duplicates the letter badge.
 function stripOptionPrefix(opt) {
     const s = String(opt == null ? '' : opt);
@@ -132,6 +146,7 @@ function supportTextHtml(st) {
 
 function quizItemHtml(q, i, index) {
     const correct = quizCorrect(q);
+    const source = questionSource(q);
     const qid = `q${index}_${i}`;
     const n = q.options ? q.options.length : 0;
     const opts = (q.options || []).map((opt, oi) => `
@@ -143,7 +158,7 @@ function quizItemHtml(q, i, index) {
     return `
 <div class="quiz-item" data-qid="${qid}" data-total="${(globalQuizCount || 1)}">
     <div class="editorial-rule" style="margin-bottom:.9rem">
-        <span style="font-family:var(--font-label);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)">Questão ${String.fromCharCode(65 + i)} · ${esc(q.source || 'ENEM')}</span>
+        <span style="font-family:var(--font-label);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)">Questão ${String.fromCharCode(65 + i)} · ${esc(source.label)}</span>
     </div>
     <p class="quiz-q">${esc(q.question)}</p>
     <div class="quiz-opts">${opts}</div>
@@ -271,6 +286,15 @@ async function build() {
         const lessonsIndex = JSON.parse(fs.readFileSync(paths.index, 'utf8'));
         const template = fs.readFileSync(paths.template, 'utf8');
         const lessons = lessonsIndex.filter(l => l.category !== 'Outras Matérias');
+        const stats = lessons.reduce((acc, meta) => {
+            const file = path.join(paths.dataFolder, `${meta.id}.json`);
+            if (!fs.existsSync(file)) return acc;
+            const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+            (data.quiz || []).forEach(q => acc[questionSource(q).type]++);
+            acc.questions += (data.quiz || []).length;
+            acc.lessons++;
+            return acc;
+        }, { lessons: 0, questions: 0, official: 0, practice: 0, authorial: 0 });
 
         if (!fs.existsSync(paths.outputFolder)) fs.mkdirSync(paths.outputFolder, { recursive: true });
 
@@ -434,8 +458,15 @@ async function build() {
 
         fs.writeFileSync('aulas/Indice_aulas.html', a11yIcons(finalHtml));
 
-        // ---------- 3. Sitemap + robots ----------
-        const urls = ['/', '/aulas/Indice_aulas.html'];
+        // ---------- 3. Home, sitemap + robots ----------
+        const home = fs.readFileSync('index-template.html', 'utf8')
+            .replace(/\{\{LESSON_COUNT\}\}/g, String(stats.lessons))
+            .replace(/\{\{QUESTION_COUNT\}\}/g, String(stats.questions))
+            .replace(/\{\{OFFICIAL_COUNT\}\}/g, String(stats.official))
+            .replace(/\{\{PRACTICE_COUNT\}\}/g, String(stats.practice))
+            .replace(/\{\{AUTHORIAL_COUNT\}\}/g, String(stats.authorial));
+        fs.writeFileSync('index.html', a11yIcons(home));
+        const urls = ['/', '/como-estudar-enem.html', '/aulas/Indice_aulas.html'];
         lessons.forEach(l => urls.push('/aulas/' + l.id + '.html'));
         const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -451,7 +482,8 @@ Disallow: /aulas/Indice-template.html
 Sitemap: ${SITE_URL}/sitemap.xml
 `);
 
-        console.log('✅ Build Concluído! ' + lessons.length + ' aulas geradas.');
+        console.log('✅ Build Concluído! ' + stats.lessons + ' aulas e ' + stats.questions + ' questões geradas.');
+        console.log('   Procedência: ' + stats.official + ' oficiais identificadas, ' + stats.practice + ' simulados/modelos, ' + stats.authorial + ' autorais.');
         console.log('   Sitemap: ' + urls.length + ' URLs.');
     } catch (err) { console.error('❌ Erro:', err); }
 }
